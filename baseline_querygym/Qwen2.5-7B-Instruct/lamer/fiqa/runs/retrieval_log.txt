@@ -1,0 +1,14 @@
+Retrieval Log
+================================================================================
+
+Dataset: beir-v1.0.0-fiqa
+Index: beir-v1.0.0-fiqa.flat
+BM25 Parameters: k1=0.9, b=0.4
+Queries: 648
+Top-k: 1000
+Threads: 16
+
+Total retrieval time: 15.1s
+Average per query: 0.023s
+Total documents retrieved: 648000
+Average per query: 1000.0

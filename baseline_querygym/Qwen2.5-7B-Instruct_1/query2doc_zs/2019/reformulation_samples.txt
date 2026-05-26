@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea The life cycle of a flea is relatively short ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The life cycle of a flea is relatively short but goes through four distinct stages: egg, larva, pupa, and adult. This entire process typically lasts about two to three weeks under optimal conditions, such as warm temperatures and adequate humidity. However, environmental factors can greatly influence this timeline. Fleas can survive longer in warmer climates or during certain seasons when conditions are more favorable for their development.\n\nEggs are laid by the adult female flea after feeding on blood, usually within 30 to 48 hours after a meal. These eggs are tiny, white, and spherical, and they fall off the host into the environment', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring The cost of interior conc...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The cost of interior concrete flooring can vary significantly based on several factors including the size of the area to be covered, the type of concrete used, the complexity of the design, and local labor rates. Generally, the cost ranges from $2 to $10 per square foot for basic installations. High-end options, such as polished concrete or decorative finishes, can increase this cost to $15 or more per square foot. The choice of concrete mix is also crucial; standard concrete is suitable for most residential applications, whereas higher strength or specialized mixes might be required for commercial or high-traffic areas, which would incur additional costs.\n\nLabor expenses', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment A declaratory judgment is a type of lega...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'A declaratory judgment is a type of legal action in which a court provides a formal interpretation or determination of the rights, duties, and obligations of the parties involved in a dispute without ordering any specific relief or remedy. This form of judgment is often sought when parties wish to clarify their legal positions or resolve potential conflicts before they escalate into more serious issues. Declaratory judgments can be issued by courts at various levels, including state and federal courts, and they serve as a means for individuals, businesses, or organizations to seek clarification on the application of laws or contractual agreements. The purpose of such judgments is to provide certainty and predictability in legal', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medi...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Durable medical equipment (DME) consists of a wide range of medical supplies and devices designed to assist patients with long-term health conditions or disabilities. These items are intended for use in the home or clinical settings and are typically covered under Medicare and other insurance plans due to their necessity for ongoing treatment or care. Common types of DME include:\n\n1. **Wheelchairs and Scooters**: These assist individuals with mobility issues to move around safely and independently.\n\n2. **Hospital Beds**: Often equipped with features like adjustable heights and positions, these beds provide support and comfort for patients recovering at home.\n\n3. **Oxygen Concentrators', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth Certainly! Both Wi-Fi and Bluetooth are wireless communication technol...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Certainly! Both Wi-Fi and Bluetooth are wireless communication technologies used to connect devices over short distances. However, they serve different purposes and operate in distinct ways.\n\nWi-Fi, or Wireless Fidelity, is a high-speed wireless networking technology designed for connecting computers, smartphones, tablets, and other electronic devices to the internet and to each other over a local area network (LAN). It operates on the 2.4 GHz and 5 GHz frequency bands, offering significantly higher data transfer rates compared to Bluetooth, typically ranging from several megabits per second (Mbps) up to gigabits per second (Gbps). Wi-Fi supports multiple devices', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid bel...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Hydrogen, in its elemental form, does not exist as a liquid at room temperature or even at typical cryogenic temperatures. Under normal atmospheric pressure, hydrogen remains a gas until it is cooled to extremely low temperatures. Specifically, hydrogen transitions from a gaseous state to a liquid state at a very specific temperature. Hydrogen liquefies at a critical temperature of -252.87°C (24.26 K) under standard atmospheric pressure (101.3 kPa). This means that hydrogen can only be a liquid when it is below this temperature threshold. Below this temperature, hydrogen's kinetic energy", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determin...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The social determinants of health (SDOH) are the social conditions and factors that influence individual and group differences in health status. These determinants extend beyond medical care to encompass the broader environmental, economic, and social contexts in which people live and interact. SDOH can be categorized into several key areas:\n\n1. **Economic Stability**: This includes income and financial security, employment, and job quality. Economic instability can lead to food insecurity, housing instability, and limited access to essential goods and services, all of which can negatively impact health.\n\n2. **Education Access and Quality**: Education plays a crucial role in health behaviors and outcomes', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? The term "Three Percenters" refers to a loose...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The term "Three Percenters" refers to a loose affiliation of American militia groups and individual right-wing extremists who advocate for armed resistance to perceived government tyranny. This name is derived from the idea that only 3% of Americans would need to be willing to resist a tyrannical government in order to succeed in overthrowing it. The movement began to coalesce in the late 1990s and early 2000s, with a significant portion of its adherents being former members of the militia movement that emerged in response to the Waco Siege of 1993 and the Ruby Ridge incident in 1', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes Right pelvic pain can be caused by a variety of conditions and factors, ran...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Right pelvic pain can be caused by a variety of conditions and factors, ranging from musculoskeletal issues to more serious medical concerns. The exact cause can depend on several factors including age, overall health, and any underlying medical conditions. Here are some common reasons for experiencing right pelvic pain:\n\n1. **Musculoskeletal Issues**: This includes strains or injuries to muscles, ligaments, or tendons in the pelvis and lower back. Activities such as running, heavy lifting, or sudden movements can lead to these types of injuries.\n\n2. **Ovarian Cysts**: Women of reproductive age may experience right-sided pelvic pain due to ovarian', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet A SIGMET, which stands for Significant Meteorological Information, is an aviation wea...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'A SIGMET, which stands for Significant Meteorological Information, is an aviation weather bulletin issued by meteorologists at Weather Forecast Offices (WFOs) and Weather Surveillance Radar - Terminal Weather Support (WSR-TWS) offices within the National Weather Service (NWS). These bulletins are designed to provide timely information about certain weather phenomena that could pose a serious hazard to aircraft. SIGMETs cover various types of severe weather conditions that can significantly impact safe flight operations, such as severe icing, turbulence, volcanic ash, severe winds, thunderstorms with large hail, or extensive mountain obscuration.\n\nSIGMETs are typically issued for areas not', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

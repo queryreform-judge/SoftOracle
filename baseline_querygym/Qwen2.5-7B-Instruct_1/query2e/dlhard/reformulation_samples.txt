@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 915593):
+Original:     what types of food can you cook sous vide
+Reformulated: what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here\'s a list of keywords related to the query "what types of food can you cook sous vide"', 'Sous vide cooking', 'Vacuum sealing', 'Meats', 'Fish', 'Vegetables', 'Eggs', 'Poultry', 'Dairy products', 'Seafood', 'Beef', 'Chicken', 'Pork', 'Lamb', 'Turkey', 'Brisket', 'Steaks', 'Vegetarian dishes', 'Fruits', 'Desserts'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 794429):
+Original:     what is sculpture shape space
+Reformulated: what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space Here is a list of keywords related to the query "w...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "what is sculpture shape space"', 'Sculpture', 'Shape', 'Space', 'Three-dimensional', 'Form', 'Volume', 'Mass', 'Composition', 'Negative space', 'Positive space', 'Art', 'Medium', 'Physicality', 'Presence', 'Structure', 'Formulation', 'Spatial arrangement', 'Materiality', 'Contour'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 801118):
+Original:     what is supplemental security income used for
+Reformulated: what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is suppleme...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the query "what is supplemental security income used for"', 'Supplemental Security Income (SSI)', 'Government assistance', 'Elderly benefits', 'Disabled benefits', 'Low-income individuals', 'Financial aid', 'Social Security Administration (SSA)', 'Monthly payments', 'Health insurance', 'Food assistance', 'Housing subsidies', 'Medical expenses', 'Daily living costs', 'Emergency funds', 'Basic needs', 'Living expenses', 'Financial support'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 190044):
+Original:     foods to detox liver naturally
+Reformulated: foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally Certainly! Here is a list of keywords related...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to foods that can help in detoxifying the liver naturally', 'Artichokes', 'Garlic', 'Green tea', 'Grapefruit', 'Lemon', 'Turmeric', 'Milk thistle', 'Apples', 'Walnuts', 'Avocado', 'Beetroot', 'Cruciferous vegetables (like broccoli and cabbage)', 'Dandelion root', 'Ginger', 'Onion', 'Dark leafy greens (like spinach and kale)', 'Watermelon'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 451602):
+Original:     medicare's definition of mechanical ventilation
+Reformulated: medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ["Here is a list of keywords related to Medicare's definition of mechanical ventilation", 'Medicare', 'Mechanical Ventilation', 'Definition', 'Healthcare Coverage', 'Respiratory Support', 'Medicare Coverage Determinations', 'Medical Equipment', 'Home Healthcare Services', 'Pneumatics', 'Life Support Systems', 'Hospital Equipment', 'Long-Term Care', 'Respiratory Therapy', 'Medicare Guidelines', 'Ventilator Usage', 'Medicare Benefits', 'Chronic Respiratory Conditions', 'Assistive Devices'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 177604):
+Original:     eating foods that are considered warm
+Reformulated: eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm Sure here'...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Sure', "here's a list of keywords related to eating foods that are considered warm", 'Warming foods', 'Hot food', 'Spicy food', 'Ginger', 'Garlic', 'Chili peppers', 'Cloves', 'Cinnamon', 'Turmeric', 'Nutmeg', 'Black pepper', 'Warm soups', 'Root vegetables', 'Hot beverages', 'Warming spices', 'Steamy dishes', 'Winter foods', 'Heat-inducing ingredients'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 966413):
+Original:     where are the benefits of cinnamon as a supplement?
+Reformulated: where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supp...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the benefits of cinnamon as a supplement', 'Cinnamon health benefits', 'Antioxidant properties', 'Blood sugar regulation', 'Anti-inflammatory effects', 'Digestive health', 'Cardiovascular support', 'Weight management', 'Cognitive function improvement', 'Lower cholesterol levels', 'Antimicrobial properties', 'Anti-diabetic effects', 'Immune system boost', 'Metabolic enhancement', 'Pain relief', 'Skin health', 'Anti-cancer potential', 'Nutrient absorption'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 588587):
+Original:     what causes heavy metal toxins in your body
+Reformulated: what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the query "what causes heavy metal toxins in your body"', 'Heavy metals', 'Toxicity', 'Lead poisoning', 'Mercury poisoning', 'Cadmium exposure', 'Arsenic contamination', 'Environmental pollution', 'Industrial emissions', 'Contaminated water', 'Soil contamination', 'Smoking', 'Fish consumption', 'Occupational hazards', 'Dust inhalation', 'Cosmetics', 'Traditional medicines', 'Food chain accumulation', 'Household products'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1108939):
+Original:     what slows down the flow of blood
+Reformulated: what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood Certainly! Here is a list of k...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to what slows down the flow of blood', 'Viscosity', 'Blood clot', 'Atherosclerosis', 'Thrombosis', 'Arterial stiffness', 'Hypovolemia', 'Anemia', 'Heart disease', 'Blood viscosity', 'Blood thickness', 'Peripheral artery disease', 'Venous thromboembolism', 'Endothelial dysfunction', 'Blood coagulation', 'Hematocrit', 'Blood pressure'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 507445):
+Original:     symptoms of different types of brain bleeds
+Reformulated: symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different ty...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the symptoms of different types of brain bleeds', 'Brain bleed', 'Intracerebral hemorrhage', 'Subarachnoid hemorrhage', 'Epidural hematoma', 'Subdural hematoma', 'Headache', 'Nausea', 'Vomiting', 'Seizures', 'Drowsiness', 'Confusion', 'Weakness', 'Paralysis', 'Double vision', 'Speech difficulties', 'Loss of consciousness'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

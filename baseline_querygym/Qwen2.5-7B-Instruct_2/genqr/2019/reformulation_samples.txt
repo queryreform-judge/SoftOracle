@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea flea, life, cycle, duration, stages, development flea, lifecycle, duration, stages, development flea, life, cycle, duration, stages, development flea, life, cycle, durat...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['flea, life, cycle, duration, stages, development', 'flea, lifecycle, duration, stages, development', 'flea, life, cycle, duration, stages, development', 'flea, life, cycle, duration, stages', 'flea, life, cycle, duration, stages']}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring interior concrete flooring,cost estimation,concrete flooring prices,construction costs,commercial flooring,indoor concrete finishes interiorConcreteFlooring,cost,con...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['interior concrete flooring,cost estimation,concrete flooring prices,construction costs,commercial flooring,indoor concrete finishes', 'interiorConcreteFlooring,cost,construction,materials,price,installation,surface,flooringOptions,building,renovation', 'concrete flooring cost, interior concrete flooring, flooring cost estimation, concrete pricing, interior flooring cost', 'interiorConcreteFlooring,cost,installation,materials,prices,construction,budget,finishes,sealing,maintenance', 'interior flooring, concrete costs, flooring options, building materials, concrete pricing, indoor flooring, flooring installation, material expenses, concrete surfaces, floor types']}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition, declaratory, judgment, legal, interpretation, statute, rights, obligations declaratory,judgment,definition,law,court,ruling,interpretation,legal,right,duty ...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['definition, declaratory, judgment, legal, interpretation, statute, rights, obligations', 'declaratory,judgment,definition,law,court,ruling,interpretation,legal,right,duty', 'declaratory,judgment,definition,law,court,ruling,interpretation,statute', 'definition, declaratory, judgment, legal, interpretation, rights, obligations, court, statute', 'declaratory,judgment,legal,definition,rights,duties,courts,interpretation,statute,contract']}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of durable,medical,equipment,components,parts,healthcare,rehabilitation,devices durable, medical, equipment, components, supplies, devices, healthcare, items ...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['durable,medical,equipment,components,parts,healthcare,rehabilitation,devices', 'durable, medical, equipment, components, supplies, devices, healthcare, items', 'durable,medical,equipment,components,items,healthcare,replacement,personal,use,necessary', 'durable, medical, equipment, components, items, healthcare, supplies', 'durable, medical, equipment, components, supplies, devices, hospital, patient, therapy, treatment, mobility, aids']}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth wifi, bluetooth, wireless, technology, comparison, connectivity, range, speed, devices wifi, bluetooth, wireless, technology, comparison, connectivity, range, speed, devices,...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['wifi, bluetooth, wireless, technology, comparison, connectivity, range, speed, devices', 'wifi, bluetooth, wireless, technology, comparison, connectivity, range, speed, devices, signal, frequency, bandwidth', 'wifi,bluetooth,difference,technology,range,speed,usage,popularity,signalstrength', 'wifi, bluetooth, wireless, technology, comparison, connectivity, range, speed, devices, signal, transmission, bandwidth', 'wifi,bluetooth,comparison,technology,wireless,communication,ranges,applications,popularity,signal strength,frequency']}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen , liquid , temperature , phase transition hydrogen, liquefaction, temperature, phase转变, boiling点, cryogenics hydrogen, liquid, temperature, phase, ...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['hydrogen , liquid , temperature , phase transition', 'hydrogen, liquefaction, temperature, phase转变, boiling点, cryogenics', 'hydrogen, liquid, temperature, phase, transition, boiling, cryogenics', 'hydrogen, liquid, temperature, boiling point, phase transition', 'hydrogen, temperature, liquid, phase transition, boiling point']}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health social determinants, health, factors, influencing, environment, income, education, healthcare, housing, nutrition, inequality, community, policy social deter...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['social determinants, health, factors, influencing, environment, income, education, healthcare, housing, nutrition, inequality, community, policy', 'social determinants, health, factors, environment, income, education, employment, housing, healthcare, inequality, policy, nutrition, safety, community', 'social determinants, health, factors, inequality, environment, education, income, employment, housing, nutrition, healthcare, policy', 'social determinants, health, factors, influences, environment, poverty, education, employment, healthcare, inequality, housing, nutrition, community', 'social determinants, health, factors, influencing, healthcare, environment, education, income, employment, housing, inequality']}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? three percenters, conspiracy, military, right-wing, militia, america, theory three percenters, militia, right wing, extremism, america, gun rights, conspiracy, ideology ...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['three percenters, conspiracy, military, right-wing, militia, america, theory', 'three percenters, militia, right wing, extremism, america, gun rights, conspiracy, ideology', 'three percenters, conspiracy, theory, militia, movement, right-wing, america, gun rights', 'three percenters, conspiracy, theory, military, gun rights, america, militia', 'three percenters, militia, gun rights, conspiracy, america, second amendment, extremism']}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes pelvic, pain, right, causes, symptoms, injury, disorders, conditions, diagnosis, treatment, gynecological, muscular, neurological, urinary, reproductive, inflammation, hernia,...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['pelvic, pain, right, causes, symptoms, injury, disorders, conditions, diagnosis, treatment, gynecological, muscular, neurological, urinary, reproductive, inflammation, hernia, cancer', 'right,pelvic,pain,causes,muscle,tendinitis,infection,nerve,irritable,bowel,syndrome,CPS,appendicitis,gynecological,cancer', 'pelvic,pain,right,causes,inguinal,tenderness,gynecological,muscle,surgery,inflammation,urethra', 'right,pelvic,pain,causes,male,female,reproductive,bladder,kidney,inflammation,infection,neurological,trauma,overactive,intestinal,appendix', 'pelvic,pain,right,causes,miscarriage,infection,ovaries,tenderness,hernia,inflammation']}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet sigmet, meteorological, aviation, severe, weather, warning sigmet, meteorological, aviation, severe, weather, warning, forecast definition, sigmet, meteorology, aviation, weathe...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['sigmet, meteorological, aviation, severe, weather, warning', 'sigmet, meteorological, aviation, severe, weather, warning, forecast', 'definition, sigmet, meteorology, aviation, weather, warning', 'weather, aviation, meteorology, severe, weather, alert, forecast', 'sigmet, meteorological, aviation, severe, weather, warning, forecast']}
+
+--------------------------------------------------------------------------------
+

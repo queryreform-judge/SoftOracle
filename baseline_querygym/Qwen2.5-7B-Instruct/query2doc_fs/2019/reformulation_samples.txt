@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea The lifecycle of a flea is relatively short b...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The lifecycle of a flea is relatively short but goes through several stages, typically taking about 21 to 35 days under ideal conditions. This process begins with the female flea laying eggs shortly after a blood meal. These eggs are small and white, and they fall off the host animal into the environment. The next stage involves the hatching of eggs into larvae, which then feed on organic matter such as skin cells, feces, and other debris. After several molts, the larvae spin cocoons, entering the pupal stage where they develop into adults. Under favorable conditions, these adult fleas can emerge quickly to seek a', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring The cost of interior conc...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "The cost of interior concrete flooring can vary significantly depending on several factors such as the type of concrete used, the complexity of the design, labor costs, and the specific location. Typically, the price per square foot for interior concrete flooring ranges from $3 to $8 or more. For example, plain polished concrete might fall within the lower range, while epoxy-coated concrete or concrete with intricate designs could cost more. It's advisable to get multiple quotes from local contractors to understand the total cost for your specific project, including any additional materials or finishing touches you may desire.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment A declaratory judgment is a legal remedy...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'A declaratory judgment is a legal remedy provided by courts in which they formally determine the rights, duties, and obligations of the parties involved in a dispute. This type of judgment is used to resolve legal uncertainties or clarify legal relationships without ordering either party to take or refrain from taking any specific action. Essentially, it serves to provide clarity on legal issues, helping parties understand their legal positions and potentially avoiding future conflicts. Declaratory judgments are often sought when there is an ambiguity in the law or when there is a need to clarify the legal implications of a particular situation.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medi...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Durable medical equipment (DME) consists of various medical supplies and devices designed for long-term use by individuals with chronic conditions, disabilities, or for those recovering from an illness or injury. These items are typically used outside of a hospital setting and can range from simple to complex. Common types of DME include:\n\n1. **Mobility Aids**: Such as wheelchairs, walkers, canes, and crutches, which assist individuals with movement and mobility.\n\n2. **Respiratory Equipment**: Including nebulizers, humidifiers, and ventilators, which support breathing functions.\n\n3. **Orthopedic Devices**: Such', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth WiFi and Bluetooth are both wireless technologies used for transmittin...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'WiFi and Bluetooth are both wireless technologies used for transmitting data over short distances, but they operate differently and are suited for various applications. WiFi, which stands for Wireless Fidelity, operates in the 2.4 GHz and 5 GHz frequency bands, providing high-speed internet connectivity, typically offering data transfer rates much faster than Bluetooth. It is commonly used for connecting to the internet, streaming videos, and transferring files between devices such as computers, smartphones, and routers.\n\nOn the other hand, Bluetooth is a wireless technology standard for exchanging data over short distances from fixed and mobile devices, creating personal area networks (PANs). It operates in', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid bel...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Hydrogen transitions from a gaseous state to a liquid state at extremely low temperatures. Specifically, hydrogen becomes a liquid below its boiling point, which is -252.87°C (or -423.17°F). This temperature is very close to absolute zero, which is -273.15°C (-459.67°F) — the lowest temperature possible in the universe. Below this boiling point, hydrogen condenses into a transparent, dark-blue liquid.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determin...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "The social determinants of health (SDOH) are the conditions in which people are born, grow, live, work, and age. These factors influence a wide range of health-related outcomes and can significantly impact an individual's quality of life. Key components of the social determinants of health include:\n\n1. **Economic Stability**: This includes income levels, employment opportunities, and access to stable housing. Financial strain can lead to stress, poor nutrition, and inability to afford healthcare, all of which affect health outcomes.\n\n2. **Education Access and Quality**: Education plays a crucial role in shaping behaviors and providing knowledge about health and wellness.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? The term "Three Percenters" refers to a loose...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The term "Three Percenters" refers to a loose affiliation of individuals and groups in the United States who claim to constitute approximately three percent of the population but are committed to maintaining the Second Amendment rights of all Americans. This group often includes militia movements and individuals who are opposed to what they perceive as unconstitutional government overreach, particularly in regards to the expansion of federal power and the infringement on personal freedoms. While the term gained widespread attention in the early 2000s, it continues to represent a segment of the American population that values a particular interpretation of constitutional rights and feels disenfranchised by certain aspects of modern governance.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes Right pelvic pain can be caused by a variety of factors, ranging from benig...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Right pelvic pain can be caused by a variety of factors, ranging from benign conditions to more serious health issues. Some common causes include:\n\n1. **Muscle Strain**: Overuse or injury to the muscles in the lower abdomen or pelvis can cause localized pain.\n2. **Ovarian Cysts**: These fluid-filled sacs that develop on the ovaries can cause pain, especially if they rupture or twist.\n3. **Endometriosis**: This condition occurs when tissue similar to the lining inside the uterus grows outside it, leading to pain, particularly during menstruation.\n4. **Ectopic Pregnancy**: If a', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet Definition of a SIGMET: SIGMET stands for Significant Meteorological Information. It ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Definition of a SIGMET: SIGMET stands for Significant Meteorological Information. It is a type of aviation weather warning issued by weather services such as the National Weather Service in the United States or similar agencies in other countries. A SIGMET provides information about certain weather phenomena that pose a serious hazard to aircraft and flight safety, including but not limited to severe icing, wind shear, volcanic ash, dust storms, and tornadoes. These warnings are crucial for pilots and air traffic controllers to ensure safe operations, as they can significantly impact flight plans and decision-making processes.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 23849):
+Original:     are naturalization records public information
+Reformulated: are naturalization records public information are naturalization records public information are naturalization records public information are naturalization records public information are naturalizati...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords that can be used to search for information on whether naturalization records are public information', 'Naturalization records', 'Public records', 'Immigration records', 'Citizenship records', 'FOIA (Freedom of Information Act)', 'Public access', 'Genealogy research', 'Ancestry records', 'Government records', 'Transparency', 'Open records', 'USCIS (United States Citizenship and Immigration Services)', 'National Archives', 'Record access', 'Privacy laws', 'Additionally', 'you can also use long-tail keywords such as'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 156498):
+Original:     do google docs auto save
+Reformulated: do google docs auto save do google docs auto save do google docs auto save do google docs auto save do google docs auto save Here is a list of keywords that can be used to search for information about...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords that can be used to search for information about whether Google Docs autosave', 'Google Docs autosave', 'Does Google Docs autosave', 'Google Docs automatic save', 'Autosave Google Docs', 'Google Docs save automatically', 'Google Drive autosave', 'Auto save in Google Docs', 'Google Docs save feature', 'How often does Google Docs autosave', 'Google Docs autosave frequency', 'You can also use long-tail keywords such as', 'Google Docs autosave on Chrome', 'Google Docs autosave on desktop'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 258062):
+Original:     how long does it take to remove wisdom tooth
+Reformulated: how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it tak...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "how long does it take to remove wisdom tooth"', 'Wisdom tooth removal', 'Tooth extraction time', 'Recovery time for wisdom tooth removal', 'Wisdom tooth surgery duration', 'Dental surgery timeline', 'How long does wisdom tooth removal take', 'Wisdom tooth extraction procedure', 'Tooth removal recovery', 'Impacted wisdom tooth removal', 'Wisdom tooth removal complications', 'You can also consider long-tail keywords such as', 'Average time to remove wisdom tooth', 'How long does it take to recover from wisdom tooth removal'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1071750):
+Original:     why is pete rose banned from hall of fame
+Reformulated: why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hal...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "why is Pete Rose banned from Hall of Fame"', 'Pete Rose', 'Baseball Hall of Fame', 'Ban', 'Gambling', 'Sports betting', 'MLB', 'Rules violation', 'Lifetime ban', 'Eligibility', 'Cooperstown', 'Charlie Hustle', 'Cincinnati Reds', 'Baseball legend', 'Scandal', "Steroids (although not directly related to Rose's ban", "it's a common topic in baseball discussions)", 'Additionally', 'some long-tail keywords that could be relevant'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 67316):
+Original:     can fever cause miscarriage early pregnancy
+Reformulated: can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarri...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "can fever cause miscarriage early pregnancy"', 'Fever', 'Miscarriage', 'Early pregnancy', 'Pregnancy complications', 'High temperature', 'Pregnancy loss', 'Infection', 'First trimester', 'Maternal health', 'Pregnancy risks', 'You can also consider long-tail keywords such as', 'Fever and miscarriage risk', 'Can a high fever cause miscarriage', 'Early pregnancy fever symptoms', 'Pregnancy complications due to fever', 'Fever during'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 169208):
+Original:     does mississippi have an income tax
+Reformulated: does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax Here is a list of ke...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords that can be used for the query "does Mississippi have an income tax"', 'Mississippi', 'Income tax', 'State taxes', 'Tax rates', 'Mississippi tax laws', 'Income tax laws', 'State income tax', 'Mississippi tax code', 'Taxation', 'Mississippi state taxes', 'Long-tail keywords', 'Mississippi state income tax rates', 'Does Mississippi have state income tax', 'Mississippi income tax exemption', 'Mississippi tax laws and regulations', 'Mississippi state tax filing'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 938400):
+Original:     when did family feud come out?
+Reformulated: when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? some keywords related to the query "when did ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['some keywords related to the query "when did Family Feud come out?"', 'Family Feud', 'Release date', 'Premiere date', 'Game show', 'Television history', 'Survey says', 'Steve Harvey', 'TV premiere', 'Air date', 'Classic game shows', 'You can also consider long-tail keywords such as', 'Family Feud original air date', 'When was Family Feud first aired', 'Family Feud TV show release date', 'History of Family Feud game show', 'Family'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1108651):
+Original:     what the best way to get clothes white
+Reformulated: what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white Here ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords that can be used to find information on the best way to get clothes white', 'Laundry', 'Whitening', 'Bleaching', 'Fabric care', 'Stain removal', 'White clothes', 'Brightening', 'Cleaning tips', 'Laundry detergent', 'Washing techniques', 'Fabric whitening', 'Color restoration', 'Stain fighting', 'Optic brighteners', 'Laundry boosters', 'You can also use long-tail keywords such as', 'How to get white clothes whiter', 'Best laundry detergent'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1037496):
+Original:     who is rep scalise?
+Reformulated: who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? Here is a list of keywords related to the query "who is Rep Scalise?" Steve Scalise Republican U.S. ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "who is Rep Scalise?"', 'Steve Scalise', 'Republican', 'U.S. Representative', 'Louisiana', 'House of Representatives', 'Politics', 'Congressman', 'Republican Whip', 'Conservative', 'GOP', 'You can also consider long-tail keywords such as', 'Steve Scalise biography', 'Rep Scalise shooting', 'Scalise congressional district', 'Steve Scalise policies', 'Republican leadership Scalise', 'These keywords can help you find more information about Rep. Steve Scalise', 'his'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 1064670):
+Original:     why do hunters pattern their shotguns?
+Reformulated: why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? Here ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "why do hunters pattern their shotguns"', 'Shotgun patterning', 'Hunting', 'Firearms', 'Shotguns', 'Choke tubes', 'Shot spread', 'Pellet distribution', 'Shotgun effectiveness', 'Hunting techniques', 'Firearms maintenance', 'Ballistics', 'Shotgun performance', 'Pattern density', 'Range estimation', 'Hunting strategy', 'These keywords can be useful for searching for information on why hunters pattern their shotguns', 'including the importance of patterning', 'how to pattern a shotgun', 'and the benefits'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

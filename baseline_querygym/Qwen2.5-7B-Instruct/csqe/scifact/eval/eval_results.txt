@@ -1,0 +1,12 @@
+=== ndcg_cut.10 ===
+Downloading qrels from https://raw.githubusercontent.com/castorini/anserini-tools/master/topics-and-qrels/qrels.beir-v1.0.0-scifact.test.txt
+ndcg_cut_10           	all	0.7183
+
+
+=== recall.100 ===
+recall_100            	all	0.0000
+
+
+=== recall.1000 ===
+recall_1000           	all	0.0000
+

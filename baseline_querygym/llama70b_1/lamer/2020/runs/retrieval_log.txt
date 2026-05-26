@@ -1,0 +1,14 @@
+Retrieval Log
+================================================================================
+
+Dataset: msmarco-v1-passage.trecdl2020
+Index: msmarco-v1-passage
+BM25 Parameters: k1=0.9, b=0.4
+Queries: 54
+Top-k: 1000
+Threads: 16
+
+Total retrieval time: 8.2s
+Average per query: 0.151s
+Total documents retrieved: 54000
+Average per query: 1000.0

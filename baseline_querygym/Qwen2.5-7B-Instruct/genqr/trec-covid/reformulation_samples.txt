@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 44):
+Original:     How much impact do masks have on preventing the spread of the COVID-19?
+Reformulated: How much impact do masks have on preventing the spread of the COVID-19? masks, COVID-19, impact, prevention, spread, respiratory,防疫,口罩,新冠病毒 masks, COVID-19, prevention, spread, impact masks, COVID-19,...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['masks, COVID-19, impact, prevention, spread, respiratory,防疫,口罩,新冠病毒', 'masks, COVID-19, prevention, spread, impact', 'masks, COVID-19, prevention, impact, transmission, respiratory,防疫,口罩,新冠病毒', 'masks, COVID-19, prevention, impact, spread, respiratory, transmission, public health', 'masks, COVID-19, prevention, impact, spread, respiratory, public health, transmission,防疫口罩,新冠病毒传播']}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 45):
+Original:     How has the COVID-19 pandemic impacted mental health?
+Reformulated: How has the COVID-19 pandemic impacted mental health? COVID-19,pandemic,mental,health,impacted,counselling,therapy,anxiety,depression,stress,social,isolation,lockdowns,virtual,treatment,wellness,psych...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['COVID-19,pandemic,mental,health,impacted,counselling,therapy,anxiety,depression,stress,social,isolation,lockdowns,virtual,treatment,wellness,psychology', 'COVID-19,pandemic,mental health,impacts,social isolation,stress,anxiety,depression,treatment,prevention,populationulnerable,workplace,education,lockdowns', 'COVID-19, pandemic, mental health, impact, psychological, well-being, stress, anxiety, depression, isolation, quarantine, lockdown', 'COVID-19,pandemic,mental,health,impact,stress,anxiety,depression,social,isolation,lockdowns,therapy,treatment,psychology', 'COVID-19, pandemic, mental health, impact, psychological, well-being, stress, anxiety, depression, isolation, quarantine, treatment, lockdown, coping, therapy, stigma']}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 46):
+Original:     what evidence is there for dexamethasone as a treatment for COVID-19?
+Reformulated: what evidence is there for dexamethasone as a treatment for COVID-19? evidence,dexamethasone,COVID-19,treatment,clinical trial,study,medicine,research dexamethasone,evidence,COVID-19,treatment,clinica...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['evidence,dexamethasone,COVID-19,treatment,clinical trial,study,medicine,research', 'dexamethasone,evidence,COVID-19,treatment,clinical trial,recovery rate,inflammation,pneumonia,survival rate', 'dexamethasone,COVID-19,evidence,retrieval,treatment,clinical trial,study,medication,pandemic,infection', 'evidence,dexamethasone,COVID-19,treatment,clinical,trials,study,coronavirus,medicine,health', 'evidence,dexamethasone,COVID-19,treatment,clinical trials,randomized controlled trial,RCT,reduction,mortality,重症,疗效,康复']}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 47):
+Original:     what are the health outcomes for children who contract COVID-19?
+Reformulated: what are the health outcomes for children who contract COVID-19? healthoutcomes,children,COVID-19,infection,effects,pediatrics,immunity,comorbidities,recovery,symptoms,vaccination,severity children, C...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['healthoutcomes,children,COVID-19,infection,effects,pediatrics,immunity,comorbidities,recovery,symptoms,vaccination,severity', 'children, COVID-19, health, outcomes, pediatric, coronavirus, infection, symptoms, recovery, complications, immunity', 'healthoutcomes,children,COVID-19,pediatrics,immuneresponse,longtermeffects,vaccination,symptoms', 'health outcomes, children, COVID-19, symptoms, recovery, long-term effects, Pediatrics, infectious diseases', 'health outcomes, children, COVID-19, respiratory, infections, long-term, symptoms, pediatric, complications']}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 48):
+Original:     what are the benefits and risks of re-opening schools in the midst of the COVID-19 pandemic?
+Reformulated: what are the benefits and risks of re-opening schools in the midst of the COVID-19 pandemic? benefits,risks,reopening,schools,COVID-19,pandemic,education,health,safety,community,mortality,vaccination,...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['benefits,risks,reopening,schools,COVID-19,pandemic,education,health,safety,community,mortality,vaccination,transmission,learning,resources,policy,government,students,faculty,staff,hygiene,mental,wellness', 'benefits,risks,reopening,schools,COVID-19,pandemic,education,health,safety,vaccination,students,staff,community transmission,learning loss,mental health,contact tracing,mask usage,remote learning,hygiene protocols,virus spread,social distancing,public health policies,local epidemiology,education systems,government guidelines,international comparisons,student well-being,teacher safety,educational equity,facility management,student attendance,curriculum adjustments', 'benefits,risks,reopening,schools,COVID-19,pandemic,education,health,safety,community,transmission,vaccination,students,teachers,policies,prevention,learning,outbreak,government,resources,mental,wellness,social,isolation,attendance,hygiene,mask,protocol,virus,transmission,education System,public health,academic impact,childcare,workforce,remote learning,contact tracing,public opinion,local conditions,global perspective,education gap,economic considerations,infrastructure,technology,logistics,student support,teacher workload,staffing,flexibility', 'benefits,risks,reopening,schools,COVID-19,pandemic,education,safety,health,economic,learning,outbreak,vaccination,masks,hygiene,community,transmission,learning_loss,mental_health', 'reopening,schools,benefits,risks,COVID-19,pandemic,education,safety,health,economics,community,students,teachers,hygiene,vaccination,transmission,masks,testing,learning,distance,internet,resources,social,mental,development,preparedness,policy,government,local,global,public,private,infrastructure,attendance,wellness']}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 49):
+Original:     do individuals who recover from COVID-19 show sufficient immune response, including antibody levels and T-cell mediated immunity, to prevent re-infection?
+Reformulated: do individuals who recover from COVID-19 show sufficient immune response, including antibody levels and T-cell mediated immunity, to prevent re-infection? COVID-19, recovery, immune response, antibodi...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['COVID-19, recovery, immune response, antibodies, T-cell, reinfection', 'COVID-19, recovery, immune response, antibodies, T-cells, reinfection, prevention', 'recovery, COVID-19, immune, response, antibody, T-cell, prevention, reinfection', 'COVID-19, recovery, immune response, antibodies, T-cell, reinfection, prevention', 'recovery, COVID-19, immune, response, antibody, levels, T-cell, prevention, reinfection']}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 50):
+Original:     what is known about an mRNA vaccine for the SARS-CoV-2 virus?
+Reformulated: what is known about an mRNA vaccine for the SARS-CoV-2 virus? mRNA,vaccine,SARS-CoV-2,coronavirus,pandemic,research,efficacy,safety,immunity,clinical trials mRNA,vaccine,SARS-CoV-2,virus,research,immu...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['mRNA,vaccine,SARS-CoV-2,coronavirus,pandemic,research,efficacy,safety,immunity,clinical trials', 'mRNA,vaccine,SARS-CoV-2,virus,research,immune,response,pandemic,clinical,trials,efficacy,safety,mechanism,production,delivery,technology', 'mRNA,vaccine,SARS-CoV-2,coronavirus,pandemic,research,immunity,clinical trial,efficacy,safety,biology,genetic,technology', 'mRNA,vaccine,SARS-CoV-2,virus,research,knowledge,development,effectiveness,safety,immunity', 'mRNA,vaccine,SARS-CoV-2,coronavirus,pandemic,research,immunology,clinical trials,efficacy,safety,immune response']}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 10):
+Original:     has social distancing had an impact on slowing the spread of COVID-19?
+Reformulated: has social distancing had an impact on slowing the spread of COVID-19? social distancing, impact, slow, spread, COVID-19 social distancing, impact, slow, spread, COVID-19, pandemic social distancing, ...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['social distancing, impact, slow, spread, COVID-19', 'social distancing, impact, slow, spread, COVID-19, pandemic', 'social distancing, impact, COVID-19, spread, pandemic, public health, lockdown, transmission, epidemiology', 'social distancing, impact, slow, spread, COVID-19, pandemic, public health, infection rate, lockdown, quarantine, epidemiology, transmission, mitigation, measures', 'social distancing, impact, slow, spread, COVID-19, pandemic']}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 11):
+Original:     what are the guidelines for triaging patients infected with coronavirus?
+Reformulated: what are the guidelines for triaging patients infected with coronavirus? coronavirus, guidelines, triage, patients, infection coronavirus, triage, guidelines, patients, infection, healthcare, symptoms...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['coronavirus, guidelines, triage, patients, infection', 'coronavirus, triage, guidelines, patients, infection, healthcare, symptoms, severity, treatment, quarantine, isolation', 'coronavirus, triage, guidelines, patients, infection', 'coronavirus, guidelines, triage, patients, infected', 'coronavirus, guidelines, triage, patients, infection']}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 12):
+Original:     what are best practices in hospitals and at home in maintaining quarantine?
+Reformulated: what are best practices in hospitals and at home in maintaining quarantine? quarantine, hospitals, best practices, home care, hygiene, isolation, precautions, infection control, guidelines, medical ad...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['quarantine, hospitals, best practices, home care, hygiene, isolation, precautions, infection control, guidelines, medical advice', 'best practices, hospitals, home, quarantine, infection control, hygiene, isolation, medical guidelines, public health, safety measures', 'best practices, hospitals, home, maintaining, quarantine, infection control, hygiene, isolation, guidelines, public health, medical advice', 'best practices, hospitals, home, quarantine, infection control, hygiene, isolation, public health, guidelines, pandemic, medical advice, safety measures', 'quarantine, hospitals, home, best practices, hygiene, isolation,消毒, 护理, precautions, 医疗设施, 家庭护理']}
+
+--------------------------------------------------------------------------------
+

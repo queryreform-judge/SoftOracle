@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 23849):
+Original:     are naturalization records public information
+Reformulated: are naturalization records public information are naturalization records public information are naturalization records public information are naturalization records public information are naturalizati...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "Rationale: Naturalization records in the United States are generally considered public information, but there are some limitations and considerations. The Naturalization Act of 1906 requires that copies of naturalization records be open to public inspection under certain conditions. These records typically include information such as the applicant's name, date and place of birth, residence, occupation, and the date and location of the naturalization ceremony.\n\nHowever, it's important to note that some details might be redacted or removed for privacy reasons, especially if the person is still alive. Additionally, the accessibility of these records can vary depending on the country or specific jurisdiction,", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 156498):
+Original:     do google docs auto save
+Reformulated: do google docs auto save do google docs auto save do google docs auto save do google docs auto save do google docs auto save Rationale: Google Docs has built-in features to ensure that user data is no...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "Rationale: Google Docs has built-in features to ensure that user data is not lost in case of unexpected interruptions. One of these features is automatic saving, which is a common practice in cloud-based applications to provide a smooth and reliable user experience.\n\nAnswer: Yes, Google Docs automatically saves your work periodically. This means that you don't need to manually save your document as changes are saved automatically in the background. This feature helps ensure that your progress is not lost due to unexpected issues such as internet disconnections or system crashes.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 258062):
+Original:     how long does it take to remove wisdom tooth
+Reformulated: how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it tak...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "Rationale: The time it takes to remove a wisdom tooth can vary based on several factors including the position and depth of the tooth, whether it's impacted, the patient's overall health, and the technique used by the dental surgeon. Generally, the procedure involves local anesthesia or sedation, making the process itself relatively quick, but recovery time varies.\n\nAnswer: The actual surgical removal of a wisdom tooth typically takes between 30 minutes to an hour. However, the entire process from start to finish, including preparation, anesthesia, surgery, and post-operative care, can take much longer—often around 2 to 4 hours for each", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1071750):
+Original:     why is pete rose banned from hall of fame
+Reformulated: why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hal...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "Rationale: Pete Rose was a highly successful baseball player known for his batting prowess and longevity. However, he was banned from the Baseball Hall of Fame due to his gambling on baseball games, which is against the rules of the sport.\n\nAnswer: Pete Rose is not officially banned from the Hall of Fame but is ineligible for induction because of his gambling on baseball games. He retired as baseball's all-time hits leader, but his eligibility for the Hall of Fame was impacted by these off-field activities. The Hall of Fame has strict guidelines regarding conduct both on and off the field, and Rose's gambling habit disqualified him from consideration. Despite his stellar", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 67316):
+Original:     can fever cause miscarriage early pregnancy
+Reformulated: can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarri...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'Rationale: Fever during early pregnancy can be concerning for both the mother and the developing fetus. High fevers, particularly if they last for an extended period or are very high in temperature, have been associated with increased risks of certain complications, including potential adverse effects on fetal development. However, the relationship between fever and miscarriage is not straightforward and varies based on several factors.\n\nAnswer: Yes, a high fever during early pregnancy can potentially contribute to the risk of miscarriage, but it is not the sole factor. The risk depends on various factors such as the duration and intensity of the fever, underlying health conditions, and individual differences. It', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 169208):
+Original:     does mississippi have an income tax
+Reformulated: does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax To answer this quest...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer this question, we need to consider whether Mississippi has a state income tax that applies to its residents. Income tax is a type of tax imposed on individuals or entities based on their income.\n\nIn the United States, states have the authority to determine their own tax policies, including whether to impose an income tax. Some states choose to have an income tax, while others do not. For example, Texas and Florida do not have a state income tax.\n\nNow, let's address the specific case of Mississippi.\n\nRationale:\nMississippi does not have a state income tax. This means that residents of Mississippi do not pay taxes directly to the", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 938400):
+Original:     when did family feud come out?
+Reformulated: when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? Rationale: To provide an accurate answer abou...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'Rationale: To provide an accurate answer about when Family Feud came out, I need to research the origins of the show. Family Feud is a popular American game show that has gone through various iterations over the years.\n\nAnswer: Family Feud first aired on May 18, 1976, on ABC as a daytime game show hosted by Don Hewitt. The original concept was created by Mark Goodson and Bill Todman. The show was based on the idea of showing survey results from a random sample of Americans to a pair of opposing families who then asked questions to determine what responses would garner the highest points.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1108651):
+Original:     what the best way to get clothes white
+Reformulated: what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white To de...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To determine the best way to get clothes white, we need to consider several factors including the type of fabric, colorfastness of the fabric, and the effectiveness of different whitening methods. Let's break down the rationale:\n\n1. **Type of Fabric**: Different fabrics respond differently to bleaching agents. For example, some synthetics may be damaged by harsh bleach.\n2. **Colorfastness**: Check if the fabric is colorfast (bleach resistant) by doing a patch test in an inconspicuous area.\n3. **Methods**: Common methods include using bleach, hydrogen peroxide, baking soda, and vinegar.\n\nNow", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1037496):
+Original:     who is rep scalise?
+Reformulated: who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? To provide an accurate and informative response, I need to gather some context about Rep. Scalise. H...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To provide an accurate and informative response, I need to gather some context about Rep. Scalise. His full name is Steve Scalise, and he was a member of the U.S. House of Representatives for Louisiana\'s 4th congressional district from 2013 to 2023. He served as the majority whip, a position that involves organizing votes within the party and managing legislative priorities.\n\nRationale: The question is asking about "Rep. Scalise," which likely refers to Steve Scalise, a well-known figure in U.S. politics. To give a comprehensive answer, it\'s important to mention his political', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 1064670):
+Original:     why do hunters pattern their shotguns?
+Reformulated: why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? Ratio...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "Rationale: Hunters pattern their shotguns to understand how shot pellets spread and disperse when fired from a specific shotgun and gauge. This helps them predict the distribution of shot at various ranges, which is crucial for accurately hitting small targets like birds or game animals from different distances.\n\nAnswer: Hunters pattern their shotguns to determine the shot pattern's spread and density. By doing so, they can adjust factors such as choke type, ammunition choice, and shooting technique to ensure that the shot pattern covers an area large enough to hit the target consistently, especially at different ranges. This process helps improve hunting success rates by optimizing the shotgun's performance for the", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

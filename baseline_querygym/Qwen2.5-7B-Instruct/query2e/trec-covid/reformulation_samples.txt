@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 44):
+Original:     How much impact do masks have on preventing the spread of the COVID-19?
+Reformulated: How much impact do masks have on preventing the spread of the COVID-19? How much impact do masks have on preventing the spread of the COVID-19? How much impact do masks have on preventing the spread o...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the query "How much impact do masks have on preventing the spread of the COVID-19?"', 'Masks', 'COVID-19', 'Respiratory protection', 'Transmission prevention', 'Public health', 'Face coverings', 'Viral spread', 'Social distancing', 'Pandemic control', 'Epidemiology', 'Aerosols', 'Filtration efficiency', 'Respiratory droplets', 'Community transmission', 'Mask compliance', 'N95 masks'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 45):
+Original:     How has the COVID-19 pandemic impacted mental health?
+Reformulated: How has the COVID-19 pandemic impacted mental health? How has the COVID-19 pandemic impacted mental health? How has the COVID-19 pandemic impacted mental health? How has the COVID-19 pandemic impacted...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to how the COVID-19 pandemic has impacted mental health', 'Mental health', 'Pandemic', 'COVID-19', 'Anxiety', 'Depression', 'Isolation', 'Quarantine', 'Stress', 'Teletherapy', 'Mental health services', 'Social support', 'Mental health disorders', 'Work-life balance', 'School closures', 'Economic impact', 'Substance abuse', 'Suicide prevention', 'Mental health awareness', 'Remote'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 46):
+Original:     what evidence is there for dexamethasone as a treatment for COVID-19?
+Reformulated: what evidence is there for dexamethasone as a treatment for COVID-19? what evidence is there for dexamethasone as a treatment for COVID-19? what evidence is there for dexamethasone as a treatment for ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here\'s a list of keywords related to the query "what evidence is there for dexamethasone as a treatment for COVID-19?"', 'Dexamethasone', 'COVID-19', 'Treatment', 'Clinical trial', 'Randomized controlled trial (RCT)', 'Mortality reduction', 'ICU admission prevention', 'Respiratory support', 'Hospitalization improvement', 'Recovery time', 'Oxygen therapy', 'Ventilator use', 'Post-treatment follow-up', 'Severe cases'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 47):
+Original:     what are the health outcomes for children who contract COVID-19?
+Reformulated: what are the health outcomes for children who contract COVID-19? what are the health outcomes for children who contract COVID-19? what are the health outcomes for children who contract COVID-19? what ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the health outcomes for children who contract COVID-19', "Children's health", 'Pediatric COVID-19', 'Long-term effects', 'Short-term impacts', 'Respiratory issues', 'Multisystem Inflammatory Syndrome in Children (MIS-C)', 'Immunocompromised status', 'Chronic conditions', 'Recovery rates', 'Vaccination impact', 'Hospitalization', 'Mortality rates', 'Neurological symptoms', 'Cardiac involvement', 'Immune response'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 48):
+Original:     what are the benefits and risks of re-opening schools in the midst of the COVID-19 pandemic?
+Reformulated: what are the benefits and risks of re-opening schools in the midst of the COVID-19 pandemic? what are the benefits and risks of re-opening schools in the midst of the COVID-19 pandemic? what are the b...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the query "what are the benefits and risks of re-opening schools in the midst of the COVID-19 pandemic?"', 'Reopening', 'Schools', 'Pandemic', 'COVID-19', 'Public Health', 'Education System', 'Student Safety', 'Transmission Risk', 'Vaccination Rates', 'Learning Loss', 'Mental Health', 'Economic Impact', 'Contact Tracing', 'Hybrid Learning', 'Infection Control', 'Quarantine Measures'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 49):
+Original:     do individuals who recover from COVID-19 show sufficient immune response, including antibody levels and T-cell mediated immunity, to prevent re-infection?
+Reformulated: do individuals who recover from COVID-19 show sufficient immune response, including antibody levels and T-cell mediated immunity, to prevent re-infection? do individuals who recover from COVID-19 show...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the query', 'COVID-19 recovery', 'Immune response', 'Antibody levels', 'T-cell mediated immunity', 'Re-infection prevention', 'Immunity after infection', 'Serological markers', 'Immune memory', 'Long-term immunity', 'Immune system effectiveness', 'Post-COVID-19 immunity', 'Vaccination vs natural immunity', 'Immune response dynamics', 'Humoral immunity', 'Cellular immunity', 'Immunological memory'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 50):
+Original:     what is known about an mRNA vaccine for the SARS-CoV-2 virus?
+Reformulated: what is known about an mRNA vaccine for the SARS-CoV-2 virus? what is known about an mRNA vaccine for the SARS-CoV-2 virus? what is known about an mRNA vaccine for the SARS-CoV-2 virus? what is known ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "what is known about an mRNA vaccine for the SARS-CoV-2 virus?"', 'mRNA vaccines', 'SARS-CoV-2', 'Coronavirus', 'Pandemic', 'Vaccine efficacy', 'Immune response', 'Clinical trials', 'Vaccination', 'BioNTech', 'Moderna', 'Vaccine development', 'Antibodies', 'T-cell response', 'Safety profile', 'Immunogenicity', 'Public health', 'Epidemiology'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 10):
+Original:     has social distancing had an impact on slowing the spread of COVID-19?
+Reformulated: has social distancing had an impact on slowing the spread of COVID-19? has social distancing had an impact on slowing the spread of COVID-19? has social distancing had an impact on slowing the spread ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords relevant to the query "has social distancing had an impact on slowing the spread of COVID-19?"', 'Social Distancing', 'COVID-19', 'Pandemic', 'Public Health Measures', 'Epidemiology', 'Transmission Rates', 'Virus Spread', 'Containment Strategies', 'Public Compliance', 'Quarantine Protocols', 'Lockdowns', 'Health Policies', 'Vaccination Programs', 'Case Fatality Rate', 'Contact Tracing', 'Non-ph'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 11):
+Original:     what are the guidelines for triaging patients infected with coronavirus?
+Reformulated: what are the guidelines for triaging patients infected with coronavirus? what are the guidelines for triaging patients infected with coronavirus? what are the guidelines for triaging patients infected...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the guidelines for triaging patients infected with coronavirus', 'Coronavirus', 'COVID-19', 'Triage', 'Patient assessment', 'Symptom evaluation', 'Risk stratification', 'Public health', 'Clinical guidelines', 'Healthcare protocols', 'Infection control', 'Emergency medicine', 'Epidemiology', 'Medical screening', 'Quarantine measures', 'Isolation procedures', 'Respiratory symptoms', 'Fever monitoring', 'Contact tracing', 'Antib'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 12):
+Original:     what are best practices in hospitals and at home in maintaining quarantine?
+Reformulated: what are best practices in hospitals and at home in maintaining quarantine? what are best practices in hospitals and at home in maintaining quarantine? what are best practices in hospitals and at home...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to best practices for maintaining quarantine in both hospital settings and at home', 'Isolation procedures', 'Personal protective equipment (PPE)', 'Hand hygiene', 'Respiratory etiquette', 'Environmental cleaning', 'Quarantine duration', 'Symptom monitoring', 'Temperature checks', 'Contact tracing', 'Visitor restrictions', 'Remote monitoring technology', 'Quarantine signage', 'Patient education', 'Social distancing', 'Hygiene protocols', 'Face masks', 'Disinfection methods'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

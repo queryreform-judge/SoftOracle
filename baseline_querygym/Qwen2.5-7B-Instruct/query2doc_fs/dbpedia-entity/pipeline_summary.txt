@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  beir-v1.0.0-dbpedia-entity
+Method:   query2doc
+Model:    Qwen/Qwen2.5-7B-Instruct
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 17m 37.4s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 16m 57.3s
+  retrieval      : 20.2s
+  evaluation     : 19.8s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  ndcg_cut_10              : 0.3859
+  recall_100               : 0.4831
+  recall_1000              : 0.6412
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/query2doc_fs/dbpedia-entity

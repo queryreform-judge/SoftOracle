@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 23849):
+Original:     are naturalization records public information
+Reformulated: are naturalization records public information are naturalization records public information are naturalization records public information are naturalization records public information are naturalizati...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Yes, naturalization records are generally considered public information in the United States. These records document the process by which an individual becomes a U.S. citizen and are maintained by U.S. Citizenship and Immigration Services (USCIS), the National Archives, and sometimes local courts.  \n\nMost naturalization records from before 1956 are publicly accessible and can be obtained through the National Archives or genealogy websites like Ancestry.com. Post-1956 records may have restricted access due to privacy laws, but they can often be requested by the individual named in the record, their legal representative, or authorized researchers.  \n\nSome details—such as Social Security', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 156498):
+Original:     do google docs auto save
+Reformulated: do google docs auto save do google docs auto save do google docs auto save do google docs auto save do google docs auto save Yes, Google Docs automatically saves your work as you type. Every change yo...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Yes, Google Docs automatically saves your work as you type. Every change you make is saved in real time to Google Drive, ensuring that you don’t lose any progress. You can see the "All changes saved in Drive" status in the top-left corner of the document, confirming that your latest edits are securely stored.  \n\nAdditionally, Google Docs maintains a version history, allowing you to review or restore previous versions of your document if needed. This auto-save feature eliminates the need for manual saving, providing a seamless and worry-free editing experience.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 258062):
+Original:     how long does it take to remove wisdom tooth
+Reformulated: how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it tak...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "The time it takes to remove a wisdom tooth can vary depending on factors such as the tooth's position, complexity, and whether it's impacted. On average, a straightforward extraction may take **20 to 40 minutes** per tooth. However, if the tooth is impacted (trapped beneath the gum or bone) or requires surgical removal, the procedure could last **45 minutes to an hour or more**.  \n\nRecovery time also differs—most people heal within **3 to 7 days** for minor discomfort, while complete healing of the gum and bone may take **several weeks**. Your dentist or oral surgeon will provide personalized guidance based", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1071750):
+Original:     why is pete rose banned from hall of fame
+Reformulated: why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hal...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Pete Rose, one of baseball's greatest players, is banned from the Hall of Fame due to his involvement in gambling on games—including those involving his own team—while he was a player and manager. In 1989, an MLB investigation led by Commissioner Bart Giamatti concluded that Rose had bet on baseball, violating one of the sport's most sacred rules. As a result, Rose accepted a lifetime ban from baseball under an agreement that allowed him to avoid a formal admission of guilt at the time.  \n\nDespite his outstanding career—including holding the all-time hits record (4,256)—Rose remains ineligible for Hall of", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 67316):
+Original:     can fever cause miscarriage early pregnancy
+Reformulated: can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarri...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Fever during early pregnancy can potentially increase the risk of miscarriage, particularly if the fever is high (above 102°F or 38.9°C) or prolonged. Elevated body temperature, especially during the first trimester, may interfere with fetal development and disrupt critical processes in early pregnancy. Infections that cause fever—such as flu, urinary tract infections, or other illnesses—can also contribute to complications. However, not all fevers lead to miscarriage, and many pregnant individuals recover without harm to the pregnancy. To reduce risks, it’s important to manage fever promptly with safe methods (like acetaminophen) and seek medical advice', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 169208):
+Original:     does mississippi have an income tax
+Reformulated: does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax Yes, Mississippi has...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Yes, Mississippi has an income tax. The state imposes a graduated individual income tax with rates ranging from **4% to 5%**, depending on taxable income. As of 2024, Mississippi has simplified its tax brackets, consolidating them into fewer tiers. Additionally, Mississippi does **not** tax Social Security benefits or most retirement income, making it favorable for retirees. However, it does tax wages, interest, dividends, and other forms of earned income.  \n\nFor corporate income, Mississippi levies a flat tax rate of **5%**. The state also has sales and property taxes, but its overall tax burden is considered moderate compared', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 938400):
+Original:     when did family feud come out?
+Reformulated: when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? *Family Feud*, the popular television game sh...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': '*Family Feud*, the popular television game show, first premiered on **July 12, 1976**, on the ABC network. The original version was hosted by Richard Dawson and featured two families competing to guess the most popular answers to survey questions. Over the years, the show has had multiple revivals, including a well-known version hosted by Steve Harvey, which debuted on **September 12, 2010**, on CBS. The series remains a staple of American game show entertainment, known for its humorous moments and family-friendly competition.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1108651):
+Original:     what the best way to get clothes white
+Reformulated: what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white The b...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The best way to get clothes white depends on the fabric type and the cause of discoloration, but here are some effective methods:  \n\n1. **Bleach (for white cotton or linen):** Use chlorine bleach diluted in cold water for tough stains or yellowing. Avoid using it on delicate fabrics or colored items.  \n\n2. **Oxygen-based bleach (safe for most whites):** Products like hydrogen peroxide or OxiClean work well for brightening without damaging fabrics. Soak clothes in warm water with the bleach before washing.  \n\n3. **Vinegar and baking soda:** A natural alternative—add 1 cup', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1037496):
+Original:     who is rep scalise?
+Reformulated: who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? Representative Steve Scalise is a Republican congressman serving as the U.S. Representative for Loui...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Representative Steve Scalise is a Republican congressman serving as the U.S. Representative for Louisiana's 1st congressional district since 2008. He has held several leadership positions in the House, including House Majority Leader since 2023 and previously House Minority Whip (2019–2023). Scalise is a prominent conservative voice, known for his advocacy on issues such as tax cuts, energy independence, and gun rights. He survived a politically motivated shooting in 2017 while practicing for the Congressional Baseball Game. Scalise has also been involved in high-profile legislative efforts, including negotiations on government funding and debt ceiling agreements. Before", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 1064670):
+Original:     why do hunters pattern their shotguns?
+Reformulated: why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? Hunte...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Hunters pattern their shotguns to ensure accuracy, effectiveness, and ethical hunting practices. Patterning involves firing a shotgun at a target—typically a large sheet of paper or cardboard—to see how the shot pellets disperse at a given distance. This helps hunters determine if their shotgun, choke, and ammunition combination produces a consistent and optimal spread for their intended game.  \n\nBy patterning their shotguns, hunters can:  \n1. **Assess Shot Spread** – Confirm that pellets are distributed evenly, avoiding gaps that could wound rather than cleanly kill game.  \n2. **Adjust Choke Selection** – Determine whether a tighter or', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea To answer this question, we need to consider ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer this question, we need to consider the different stages of a flea's life cycle. Fleas typically have four stages: egg, larva, pupa, and adult.\n\n1. **Egg**: Flea eggs hatch in about 2 to 10 days, depending on environmental conditions such as temperature and humidity.\n2. **Larva**: The larvae stage lasts for approximately 5 to 14 days, during which they feed on organic matter like flea feces (which contains blood).\n3. **Pupa**: The pupal stage can last from 5 days to several months. This stage is important", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring To provide an accurate es...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To provide an accurate estimate for the cost of interior concrete flooring, we need to consider several factors that can affect the overall cost. These include the size of the area to be covered, the type of concrete flooring (e.g., polished concrete, stained concrete, epoxy-coated concrete), the condition of the existing floor, any additional work needed (like leveling or repairing), and the location where the work will take place.\n\nRationale:\n1. **Size of the Area**: Larger areas generally require more materials and labor, which increases the cost.\n2. **Type of Concrete Flooring**: Different finishes and coatings have varying costs. For example,', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment A declaratory judgment is a legal remedy...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'A declaratory judgment is a legal remedy where a court formally determines the rights, duties, or obligations of parties without ordering anything to be done or punishing anyone for wrongdoing. This type of judgment is often used to resolve uncertainties or clarify the meaning of laws, contracts, or other agreements.\n\nGiven this definition, I can now answer your query:\n\nA declaratory judgment is a legal declaration by a court regarding the rights, status, or legal relations of the parties involved, without ordering any specific action or imposing punishment. It is used to clarify legal rights and reduce future disputes.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medi...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'Rationale: Durable medical equipment (DME) consists of medical supplies and devices that can be used repeatedly over an extended period. These items are typically ordered by a healthcare provider for home use to help patients manage their conditions or recover from illnesses or injuries. To accurately answer what DME includes, I need to consider common examples of such equipment.\n\nAnswer: Durable medical equipment (DME) typically includes items that are designed for long-term use and can withstand repeated use. Common examples include oxygen tanks and concentrators, hospital beds, wheelchairs, walkers, crutches, canes, nebulizers, continuous positive airway', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth To provide a comprehensive comparison between Wi-Fi and Bluetooth, let...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To provide a comprehensive comparison between Wi-Fi and Bluetooth, let's first understand what each technology does and their primary use cases.\n\n**Wi-Fi:**\n- Wi-Fi is a wireless technology that allows electronic devices to communicate with each other over short distances using radio waves.\n- It is primarily used for internet connectivity, enabling devices like smartphones, laptops, and tablets to connect to a local network or the internet through access points (Wi-Fi routers).\n- Wi-Fi has a higher data transfer rate compared to Bluetooth and can support multiple devices simultaneously.\n\n**Bluetooth:**\n- Bluetooth is a wireless technology designed to provide short-range communication between electronic devices.\n-", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid bel...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To determine at what temperature hydrogen becomes a liquid, we need to consider its boiling point. The boiling point of a substance is the temperature at which it changes from a liquid to a gas at standard atmospheric pressure (1 atmosphere or 101.3 kPa).\n\nRationale:\n1. Hydrogen's phase transitions depend on temperature and pressure.\n2. At standard atmospheric pressure (1 atm), hydrogen has a boiling point where it changes from a gas to a liquid.\n3. Below this boiling point, hydrogen remains in the liquid state.\n\nAnswer: Hydrogen is a liquid below -252.87°C (or -", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determin...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "Certainly. The rationale for addressing the social determinants of health involves understanding the broader social and environmental factors that can influence an individual's or community's health outcomes. These factors extend beyond just access to healthcare and include aspects of daily life and the environment where people live, work, and play.\n\nNow, the social determinants of health refer to the conditions in which people are born, grow, live, work, and age. These factors are largely responsible for differences in health status among different populations. They can be categorized into several key areas:\n\n1. **Economic Stability**: This includes income and financial security, as economic instability can lead to", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? The term "three percenters" is derived from a...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'The term "three percenters" is derived from a concept associated with far-right extremism and white supremacy. It originated in the early 2000s within the white supremacist movement, particularly among members of the Christian Identity ideology. The name comes from the idea that only 3% of the population truly understands and believes in their cause, making them a select, dedicated group.\n\nGiven this context, I should note that discussing or promoting such extremist groups can be harmful and is against the principles of promoting positivity and inclusivity. With that said, here are the three percenters:\n\n1. **White Supremacists**: Members who believe', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes Rationale: Right pelvic pain can be caused by various conditions that affec...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'Rationale: Right pelvic pain can be caused by various conditions that affect the structures in and around the right pelvis. These structures include organs such as the kidneys, bladder, reproductive system (for females), muscles, ligaments, and nerves. Understanding the possible causes will help provide an accurate answer.\n\nAnswer: Right pelvic pain can be caused by several conditions including but not limited to:\n\n1. Urinary tract issues: Conditions such as kidney stones or a urinary tract infection (UTI) can cause pain in the right lower back or abdomen, which may radiate to the right pelvis.\n2. Gynecological issues: For women', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet Rationale: A SIGMET stands for Significant Meteorological Information. It is importan...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'Rationale: A SIGMET stands for Significant Meteorological Information. It is important to provide its definition in the context of aviation weather reports, as it relates specifically to information that may affect flight safety.\n\nAnswer: A SIGMET is a weather alert issued by meteorological authorities to aviation personnel. It provides information about specific hazardous weather phenomena that could be detrimental to aircraft and flights, such as severe thunderstorms, volcanic ash clouds, tornadoes, wind shear, severe icing, and extensive mountain obscuration. These reports are crucial for pilots, dispatchers, and air traffic controllers to make informed decisions regarding flight operations.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

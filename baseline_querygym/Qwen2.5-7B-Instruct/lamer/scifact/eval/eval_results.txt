@@ -1,0 +1,11 @@
+=== ndcg_cut.10 ===
+ndcg_cut_10           	all	0.7140
+
+
+=== recall.100 ===
+recall_100            	all	0.0000
+
+
+=== recall.1000 ===
+recall_1000           	all	0.0000
+

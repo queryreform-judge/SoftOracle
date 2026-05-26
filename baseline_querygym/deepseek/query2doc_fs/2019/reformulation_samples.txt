@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea The life cycle of a flea typically lasts betw...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The life cycle of a flea typically lasts between **2 weeks to several months**, depending on environmental conditions such as temperature and humidity. Fleas go through four stages:  \n\n1. **Egg** – Laid on the host or in the environment, eggs hatch in **1-12 days**.  \n2. **Larva** – Larvae feed on organic debris and flea dirt, lasting **5-20 days**.  \n3. **Pupa** – Pupae develop inside a cocoon and can remain dormant for **weeks to months** until triggered by warmth or vibrations.  \n4. **Adult** – Adult fleas', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring The cost of interior conc...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The cost of interior concrete flooring varies depending on factors such as the type of finish, square footage, labor, and location. On average, basic polished concrete flooring can range from **$2 to $6 per square foot**, while decorative options like stained or stamped concrete may cost **$7 to $15 per square foot**. Additional expenses may include surface preparation, sealing, or epoxy coatings. For a precise estimate, consult a local contractor who can assess your specific project requirements.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment **Definition:** A declaratory judgment i...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': '**Definition:** A declaratory judgment is a legal ruling issued by a court that clarifies the rights, obligations, or legal relationships between parties without ordering any specific action or awarding damages. It is often sought to resolve uncertainty or disputes over contractual terms, property rights, or constitutional matters before any violation occurs. Declaratory judgments provide a binding resolution without requiring enforcement, helping parties avoid potential litigation or conflicts in the future.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medi...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Durable medical equipment (DME) consists of medical devices designed for repeated use, primarily to serve a medical purpose and aid in the treatment of illness, injury, or disability. Common examples include wheelchairs, hospital beds, walkers, oxygen equipment, and prosthetic devices. These items are typically prescribed by a healthcare provider and are intended for long-term use in a patient's home. DME is often covered by health insurance plans, including Medicare, when deemed medically necessary. Unlike disposable medical supplies, DME is built to withstand extended use and improve a patient's quality of life.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth Wi-Fi and Bluetooth are both wireless communication technologies, but ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Wi-Fi and Bluetooth are both wireless communication technologies, but they serve different purposes and operate in distinct ways.  \n\n**Wi-Fi** is primarily used for high-speed internet access and local area networking. It enables devices to connect to the internet or communicate with each other over longer distances (typically up to several hundred feet, depending on the router). Wi-Fi operates on higher power and offers faster data transfer rates, making it ideal for streaming, browsing, and transferring large files.  \n\n**Bluetooth**, on the other hand, is designed for short-range, low-power communication between devices (usually within 30 feet). It is commonly used for connecting', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid bel...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': '**Hydrogen as a Liquid.** Hydrogen becomes a liquid at extremely low temperatures. It transitions into a liquid state below its boiling point of **-252.87°C (-423.17°F)** at standard atmospheric pressure. To maintain hydrogen in liquid form, it must be stored in specialized cryogenic tanks to prevent it from evaporating back into a gas. This property makes liquid hydrogen useful in applications like rocket fuel and scientific research.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determin...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The social determinants of health are the conditions in which people are born, grow, live, work, and age. These factors are shaped by economic, social, and political systems and significantly influence health outcomes. Key determinants include income and social status, education, employment and working conditions, access to healthcare, housing, social support networks, and the physical environment. Addressing these determinants is essential for reducing health disparities and improving overall public health.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? **The Three Percenters Explained**    The Thr...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': '**The Three Percenters Explained**  \n\nThe Three Percenters are a far-right, anti-government militia movement in the United States. The group takes its name from the claim that only 3% of American colonists fought against British rule during the Revolutionary War, symbolizing their belief in resisting perceived government overreach. Founded in 2008, the movement advocates for gun rights, limited government, and individual freedoms, often opposing federal regulations. While not a centralized organization, local chapters operate independently, sometimes engaging in paramilitary training. The Southern Poverty Law Center classifies the Three Percenters as an extremist group due to their ties to violent rhetoric and', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes **Right Pelvic Pain Causes**    Right-sided pelvic pain can stem from vario...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': '**Right Pelvic Pain Causes**  \n\nRight-sided pelvic pain can stem from various conditions affecting the reproductive, urinary, digestive, or musculoskeletal systems. Common causes include:  \n\n1. **Gynecological Issues** –  \n   - **Ovarian cysts** (e.g., ruptured cysts or torsion)  \n   - **Endometriosis** (abnormal uterine tissue growth)  \n   - **Pelvic inflammatory disease (PID)** – Infection of reproductive organs  \n   - **Ectopic pregnancy** (life-threatening if untreated)  \n\n2. **Gastrointestinal Causes** –  \n   - **Appendicitis** (', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet A **SIGMET** (Significant Meteorological Information) is an advisory issued by meteor...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "A **SIGMET** (Significant Meteorological Information) is an advisory issued by meteorological authorities to alert pilots of hazardous weather conditions that may affect flight safety. These conditions include severe turbulence, icing, volcanic ash, dust storms, or thunderstorms that could pose a risk to aircraft. SIGMETs are typically valid for up to four hours and cover a specific geographic area. They are distinct from AIRMETs (Airmen's Meteorological Information), which address less severe weather phenomena. SIGMETs are crucial for flight planning and in-flight decision-making to ensure aviation safety.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

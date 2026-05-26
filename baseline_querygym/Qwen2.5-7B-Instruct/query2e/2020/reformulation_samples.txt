@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 23849):
+Original:     are naturalization records public information
+Reformulated: are naturalization records public information are naturalization records public information are naturalization records public information are naturalization records public information are naturalizati...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the query "are naturalization records public information"', 'Naturalization', 'Public records', 'Immigration', 'Citizenship', 'Government documents', 'Legal records', 'Federal records', 'Accessibility', 'Privacy laws', '信息公开（Chinese term for public information）', 'Record availability', 'Searchable databases', 'Privacy concerns', 'Freedom of Information Act (FOIA)', 'Confidentiality', 'Legal proceedings', 'Ancestry research', 'Historical records'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 156498):
+Original:     do google docs auto save
+Reformulated: do google docs auto save do google docs auto save do google docs auto save do google docs auto save do google docs auto save Here is a list of keywords related to the query "do google docs auto save" ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "do google docs auto save"', 'Google Docs', 'Auto-save', 'Automatic saving', 'Real-time saving', 'Document autosave', 'Save feature', 'Cloud storage', 'Online document editor', 'Version history', 'Data synchronization', 'Real-time collaboration', 'Save interval', 'Automatic backup', 'Document management', 'Office software'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 258062):
+Original:     how long does it take to remove wisdom tooth
+Reformulated: how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it tak...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Sure! Here is a list of keywords related to the query "how long does it take to remove wisdom tooth"', 'Wisdom tooth extraction', 'Tooth removal time', 'Dental procedure duration', 'Oral surgery time', 'Post-operative recovery', 'Local anesthesia', 'General anesthesia', 'Surgical removal', 'Incision healing', 'Pain management', 'Swelling reduction', 'Antibiotic treatment', 'Home care instructions', 'Follow-up visit', 'Tooth extraction complications', 'Recovery timeline', 'Dental appointment scheduling'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1071750):
+Original:     why is pete rose banned from hall of fame
+Reformulated: why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hal...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Sure', 'here are some keywords related to the query "why is Pete Rose banned from Hall of Fame"', 'Pete Rose', 'Hall of Fame', 'Betting', 'Gambling', 'St. Louis Reds', 'Cincinnati Reds', 'MLB (Major League Baseball)', 'Statistical record', 'Moratorium', 'Eligibility', 'Rule 4.02', 'Biased judgment', 'Fan controversy', 'Performance-enhancing drugs', 'Ethical issues', 'Gambling scandal', 'Career statistics'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 67316):
+Original:     can fever cause miscarriage early pregnancy
+Reformulated: can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarri...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the query "can fever cause miscarriage in early pregnancy"', 'Fever', 'Miscarriage', 'Early pregnancy', 'Temperature rise', 'Pregnancy complications', 'Body temperature', 'Fetal development', 'Immunological response', 'Maternal health', 'Risk factors', 'Termination of pregnancy', 'Hyperthermia', 'Infection during pregnancy', 'Immune system', 'Hormonal changes', 'Embryonic health', 'Maternal fever'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 169208):
+Original:     does mississippi have an income tax
+Reformulated: does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax Certainly! Here's a ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here\'s a list of keywords related to the query "does mississippi have an income tax"', 'Mississippi', 'Income tax', 'Taxation', 'State tax', 'Tax law', 'Revenue', 'Filing taxes', 'Taxable income', 'Tax system', 'Tax rates', 'Tax exemptions', 'State revenue', 'Federal tax', 'Tax policy', 'Tax regulations'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 938400):
+Original:     when did family feud come out?
+Reformulated: when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? Sure here is a list of keywords related to th...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Sure', 'here is a list of keywords related to the query "when did Family Feud come out?"', 'Family Feud', 'TV game show', 'Premiere date', 'Origin', 'History', 'First episode', 'Year launched', 'Broadcasting network', 'Format debut', 'Entertainment history'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1108651):
+Original:     what the best way to get clothes white
+Reformulated: what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white Certa...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ["Certainly! Here's a list of keywords related to getting clothes white", 'Bleach', 'Hydrogen peroxide', 'Oxygen bleach', 'Laundry detergent', 'Stain remover', 'Pre-soak', 'Vinegar', 'Baking soda', 'Chlorine bleach', 'Enzyme cleaner', 'Washing machine', 'Hand wash', 'Fabric softener', 'White balance', 'Sunlight', 'Ironing', 'Color-safe bleach', 'Whitening agents', 'Pre'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1037496):
+Original:     who is rep scalise?
+Reformulated: who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? Here is a list of keywords related to the query "who is Rep Scalise" Scalise Republican Party U.S. R...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "who is Rep Scalise"', 'Scalise', 'Republican Party', 'U.S. Representative', 'Louisiana', 'Political figure', 'White House', 'Political scandal', 'Gunman', 'Shooter', '2017 Congressional shooting', 'Investigation', 'Congress', 'Politics', 'Public service', 'Government', 'Lawmaker', 'Political campaign', 'Staff member', 'Congressional leadership'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 1064670):
+Original:     why do hunters pattern their shotguns?
+Reformulated: why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? Certa...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here\'s a list of keywords related to the query "why do hunters pattern their shotguns?"', 'Shotgun patterning', 'Hunting patterns', 'Spread analysis', 'Shot dispersion', 'Bullet group size', 'Shooting accuracy', 'Barrel choke', 'Shotshell load', 'Muzzle velocity', 'Hunting efficiency', 'Bird hunting', 'Game range', 'Spread uniformity', 'Hunting effectiveness', 'Shot spread', 'Field testing', 'Target acquisition', 'Pattern density'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

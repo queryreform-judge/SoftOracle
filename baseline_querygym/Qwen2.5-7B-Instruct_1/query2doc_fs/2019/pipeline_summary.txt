@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  msmarco-v1-passage.trecdl2019
+Method:   query2doc
+Model:    Qwen/Qwen2.5-7B-Instruct
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 2m 52.3s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 2m 41.8s
+  retrieval      : 6.5s
+  evaluation     : 4.0s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  map                      : 0.4084
+  ndcg_cut_10              : 0.6184
+  recall_1000              : 0.8441
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/Qwen2.5-7B-Instruct_1/query2doc_fs/2019

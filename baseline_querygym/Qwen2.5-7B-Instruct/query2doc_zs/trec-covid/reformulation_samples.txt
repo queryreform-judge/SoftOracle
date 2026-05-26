@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 44):
+Original:     How much impact do masks have on preventing the spread of the COVID-19?
+Reformulated: How much impact do masks have on preventing the spread of the COVID-19? How much impact do masks have on preventing the spread of the COVID-19? How much impact do masks have on preventing the spread o...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Masks have been shown to play a significant role in preventing the spread of COVID-19. Research and real-world evidence consistently indicate that masks can reduce the risk of transmission from asymptomatic and symptomatic individuals alike. Wearing a mask helps to capture respiratory droplets that may contain viral particles, thereby decreasing the likelihood of these droplets reaching others. This is particularly important in reducing community transmission, as many infected individuals may not show symptoms but can still transmit the virus.\n\nThe effectiveness of masks is enhanced when they are used in combination with other public health measures such as hand hygiene, physical distancing, and proper ventilation. However, even in', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 45):
+Original:     How has the COVID-19 pandemic impacted mental health?
+Reformulated: How has the COVID-19 pandemic impacted mental health? How has the COVID-19 pandemic impacted mental health? How has the COVID-19 pandemic impacted mental health? How has the COVID-19 pandemic impacted...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The COVID-19 pandemic has had a profound impact on mental health worldwide. Lockdowns and social distancing measures have led to increased feelings of isolation and loneliness, which are significant risk factors for mental health issues. The stress of job loss, financial instability, and uncertainty about the future have also contributed to heightened levels of anxiety and depression. Healthcare systems have been overwhelmed, leading to delayed access to mental health services for many individuals. Additionally, the pandemic has exacerbated existing mental health conditions, with some individuals experiencing worsening symptoms or first-onset psychiatric disorders. Public health campaigns have emphasized the importance of mental well-being, yet stigma surrounding mental illness remains', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 46):
+Original:     what evidence is there for dexamethasone as a treatment for COVID-19?
+Reformulated: what evidence is there for dexamethasone as a treatment for COVID-19? what evidence is there for dexamethasone as a treatment for COVID-19? what evidence is there for dexamethasone as a treatment for ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Dexamethasone, a corticosteroid, has emerged as a promising treatment for severe cases of COVID-19 based on robust clinical trial data. In April 2020, the results of the RECOVERY (Randomised Evaluation of COVid-19 thERapY) trial were published, providing substantial evidence supporting the use of dexamethasone in the treatment of hospitalized patients with respiratory complications due to COVID-19. The study, which involved over 11,000 patients across multiple hospitals in the United Kingdom, demonstrated that dexamethasone reduced the risk of', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 47):
+Original:     what are the health outcomes for children who contract COVID-19?
+Reformulated: what are the health outcomes for children who contract COVID-19? what are the health outcomes for children who contract COVID-19? what are the health outcomes for children who contract COVID-19? what ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The health outcomes for children who contract COVID-19 are generally less severe compared to adults, particularly those with underlying conditions. The majority of children infected with SARS-CoV-2 experience mild or asymptomatic infections, although they can still transmit the virus to others. According to various studies and reports from public health organizations around the world, a small percentage of children may develop more serious symptoms, such as multisystem inflammatory syndrome in children (MIS-C), which is a rare but potentially life-threatening condition characterized by inflammation in multiple organ systems.\n\nChildren with underlying health conditions, including obesity, asthma, and chronic heart disease, may be at', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 48):
+Original:     what are the benefits and risks of re-opening schools in the midst of the COVID-19 pandemic?
+Reformulated: what are the benefits and risks of re-opening schools in the midst of the COVID-19 pandemic? what are the benefits and risks of re-opening schools in the midst of the COVID-19 pandemic? what are the b...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Reopening schools during the ongoing COVID-19 pandemic presents both significant benefits and risks that need to be carefully weighed and managed. The primary benefits include providing children with essential educational and social development opportunities that can be significantly hindered by remote learning. Schools offer structured environments where students can engage with peers, participate in extracurricular activities, and receive direct support from educators, which is crucial for their mental and emotional well-being.\n\nAnother benefit is the continuity of education, ensuring that students do not fall behind academically due to extended periods of remote learning. This continuity can help maintain or even improve academic performance and prepare students better for future', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 49):
+Original:     do individuals who recover from COVID-19 show sufficient immune response, including antibody levels and T-cell mediated immunity, to prevent re-infection?
+Reformulated: do individuals who recover from COVID-19 show sufficient immune response, including antibody levels and T-cell mediated immunity, to prevent re-infection? do individuals who recover from COVID-19 show...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Individuals who recover from COVID-19 generally develop a multifaceted immune response that includes both antibodies and T-cell mediated immunity. This immune response is crucial in providing protection against reinfection. Studies have shown that people who have recovered from SARS-CoV-2 infection typically develop robust antibody responses, which can be detected through serological tests. These antibodies target various parts of the virus, including the spike protein, and their presence indicates that the immune system has recognized and responded to the pathogen.\n\nFurthermore, T-cell immunity plays a significant role in preventing reinfection. T-cells are part of the adaptive immune system that can recognize', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 50):
+Original:     what is known about an mRNA vaccine for the SARS-CoV-2 virus?
+Reformulated: what is known about an mRNA vaccine for the SARS-CoV-2 virus? what is known about an mRNA vaccine for the SARS-CoV-2 virus? what is known about an mRNA vaccine for the SARS-CoV-2 virus? what is known ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "The mRNA vaccine for the SARS-CoV-2 virus, which causes COVID-19, has been at the forefront of the global response to the pandemic. These vaccines, developed by several pharmaceutical companies, including Pfizer-BioNTech and Moderna, have been shown to be highly effective in preventing severe illness, hospitalization, and death due to the virus. The mechanism of action for these vaccines involves delivering a small piece of genetic material (mRNA) into human cells, which then instructs the body's cells to produce a harmless fragment of the spike protein found on the surface of the SARS-CoV-2 virus.\n\n", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 10):
+Original:     has social distancing had an impact on slowing the spread of COVID-19?
+Reformulated: has social distancing had an impact on slowing the spread of COVID-19? has social distancing had an impact on slowing the spread of COVID-19? has social distancing had an impact on slowing the spread ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Social distancing measures have been widely recognized as one of the most effective strategies to slow the spread of COVID-19. These interventions, which include maintaining physical distance between individuals, reducing close contact in public spaces, and limiting gatherings, were implemented to reduce the transmission rates of the virus. Studies and epidemiological data from various countries demonstrate that social distancing has significantly impacted the control of the pandemic.\n\nBy reducing the number of close contacts between people, social distancing helped to lower the basic reproduction number (R0) of the virus, meaning that each infected person would, on average, infect fewer others. This reduction in R0 is crucial because it', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 11):
+Original:     what are the guidelines for triaging patients infected with coronavirus?
+Reformulated: what are the guidelines for triaging patients infected with coronavirus? what are the guidelines for triaging patients infected with coronavirus? what are the guidelines for triaging patients infected...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Guidelines for triaging patients infected with coronavirus, such as those caused by SARS-CoV-2, are essential to ensure effective and efficient management of healthcare resources. These guidelines typically include several key components designed to prioritize care based on the severity of symptoms and the likelihood of requiring hospitalization or advanced medical interventions.\n\n1. **Initial Assessment**: The initial step involves taking a thorough history and conducting a physical examination. This includes identifying symptoms like fever, cough, shortness of breath, and any other relevant signs such as anosmia (loss of smell) or ageusia (loss of taste). Patients should be asked about recent travel history', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 12):
+Original:     what are best practices in hospitals and at home in maintaining quarantine?
+Reformulated: what are best practices in hospitals and at home in maintaining quarantine? what are best practices in hospitals and at home in maintaining quarantine? what are best practices in hospitals and at home...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Maintaining effective quarantine is crucial for preventing the spread of infectious diseases, whether in hospitals or at home. Here are some best practices to ensure safety and containment:\n\n### In Hospitals\n\n1. **Isolation Protocols**: Hospitals should implement strict isolation protocols for patients who are suspected or confirmed to be infected with contagious diseases. This includes placing them in single rooms with proper ventilation if possible.\n\n2. **Personal Protective Equipment (PPE)**: Healthcare workers must wear appropriate PPE, including masks, gloves, gowns, and eye protection, when in close contact with quarantined patients.\n\n3. **Proper Hygiene**: Regular hand', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

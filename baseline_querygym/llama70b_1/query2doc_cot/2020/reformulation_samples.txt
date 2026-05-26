@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 23849):
+Original:     are naturalization records public information
+Reformulated: are naturalization records public information are naturalization records public information are naturalization records public information are naturalization records public information are naturalizati...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To determine whether naturalization records are public information, we need to consider the nature of these records and the laws governing their accessibility. Naturalization records, which document the process by which a non-citizen becomes a citizen of a country, contain significant personal and historical information. This includes the individual's background, immigration history, and the formal steps taken to acquire citizenship.\n\nSeveral factors influence the public availability of naturalization records:\n\n1. **Historical Significance vs. Privacy Concerns**: Older naturalization records, especially those from early periods of a nation's history, are often considered public records due to their historical significance. However, more recent", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 156498):
+Original:     do google docs auto save
+Reformulated: do google docs auto save do google docs auto save do google docs auto save do google docs auto save do google docs auto save To answer this question, we need to consider the features and functionaliti...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer this question, we need to consider the features and functionalities of Google Docs, which is a word processing and document editing software offered by Google as part of its Google Drive service.\n\n1. **Nature of Google Docs**: Google Docs is a cloud-based application. This means that files are stored online rather than on a user's local device. Given this cloud-based nature, it's reasonable to assume that Google Docs would have mechanisms in place to ensure that work is not lost due to internet connectivity issues, application crashes, or other unforeseen events.\n\n2. **User Experience and Expectation**: One of the primary concerns when working on a", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 258062):
+Original:     how long does it take to remove wisdom tooth
+Reformulated: how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it tak...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer the question "how long does it take to remove a wisdom tooth," we first need to consider several factors that can influence the duration of the procedure. These factors include:\n\n1. **Complexity of the Extraction**: The position and condition of the wisdom tooth play a significant role. Impacted teeth, which are teeth that haven\'t come in properly due to lack of space, can take longer to remove than erupted teeth that have fully grown into the mouth.\n\n2. **Surgical vs. Non-Surgical Extraction**: The method of extraction also affects the duration. A simple extraction, where the tooth is visible and can be easily removed', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1071750):
+Original:     why is pete rose banned from hall of fame
+Reformulated: why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hal...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer this question, I will consider the following rationale:\n\n1. **Contextual understanding**: I need to understand the context of Pete Rose's career and the rules of Major League Baseball (MLB) regarding player eligibility for the Hall of Fame.\n2. **Historical knowledge**: I should be aware of the specific events and incidents that led to Pete Rose's ban from the Hall of Fame.\n3. **Rule familiarity**: I need to know the rules and regulations of the National Baseball Hall of Fame and Museum, specifically those related to player eligibility and betting on baseball games.\n\nWith this rationale in mind, here's the answer:\n\nP", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 67316):
+Original:     can fever cause miscarriage early pregnancy
+Reformulated: can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarri...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer this question, we'll need to consider the relationship between fever and miscarriage, especially during early pregnancy. Here's the rationale:\n\n1. **Impact of Fever on the Body**: Fever is a common symptom of infection, which can be caused by bacterial, viral, or other pathogens. An elevated body temperature is the body's way of fighting off these invaders, but it can also have various effects on different bodily systems, including the reproductive system.\n\n2. **Early Pregnancy and Vulnerability**: Early pregnancy is a critical period of development for the embryo. The first trimester, in particular, is a time when the major organs and", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 169208):
+Original:     does mississippi have an income tax
+Reformulated: does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax To answer this quest...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer this question, let's break it down step by step:\n\n1. **Understanding the Question**: The query asks whether the state of Mississippi imposes an income tax on its residents.\n2. **Nature of Income Tax**: Income tax is a type of tax that governments impose on individuals or entities based on the income they generate. In the United States, both the federal government and some state governments have the authority to impose income tax.\n3. **State-by-State Variation**: The U.S. allows each state to determine its own taxation policies, including whether to impose a state income tax. Some states have a state income tax, while others", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 938400):
+Original:     when did family feud come out?
+Reformulated: when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? To answer the query "when did Family Feud com...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer the query "when did Family Feud come out?", we need to consider the history of the game show.\n\nThe rationale is to look up the premiere date of the original version of the show. Family Feud is a popular American game show that has been on the air for several decades, with various versions and revivals over the years. The original version of the show premiered on July 12, 1976, on ABC, hosted by Richard Dawson.\n\nTherefore, based on the history of the show, the answer to the query is:\n\nFamily Feud first aired on July 12, 1976.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1108651):
+Original:     what the best way to get clothes white
+Reformulated: what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white To de...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To determine the best way to get clothes white, we need to consider several factors, including the type of fabric, the level of whiteness desired, and any existing stains or discoloration. Here are the key points to consider:\n\n1. **Fabric type**: Different fabrics require different approaches. Delicates like silk, wool, or lace might require gentler methods, while tougher fabrics like cotton or linen can withstand more intense whitening methods.\n2. **Soil and stain type**: If the clothes are heavily soiled or have tough stains, pre-treatment and specialized cleaning products may be necessary before whitening.\n3. **', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1037496):
+Original:     who is rep scalise?
+Reformulated: who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? To answer the query "who is Rep Scalise?", we need to consider the following rationale:  1. **Unders...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer the query "who is Rep Scalise?", we need to consider the following rationale:\n\n1. **Understanding the Title "Rep"**: The title "Rep" is commonly used as an abbreviation for "Representative," which refers to a member of the U.S. House of Representatives. This tells us that Rep Scalise is a politician.\n\n2. **Identifying the Name "Scalise"**: With the name Scalise and the title "Rep," we can narrow down our search to individuals who are or have been representatives in the U.S. Congress.\n\n3. **Current Relevance and Position**: Considering current events and', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 1064670):
+Original:     why do hunters pattern their shotguns?
+Reformulated: why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? To an...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer this question, we need to consider the purpose of patterning a shotgun and how it relates to hunting. The rationale is to understand the concept of shotgun patterning and its significance in hunting.\n\nShotgun patterning refers to the process of testing the spread of shotgun pellets at different distances to determine the effective range and density of the shot pattern. This is done by firing the shotgun at a target, usually a large piece of paper or cardboard, and measuring the distribution of the pellets.\n\nWith this understanding, we can now answer the question:\n\nHunters pattern their shotguns to ensure that the shot pattern is evenly distributed and effective at', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

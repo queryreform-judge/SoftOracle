@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 907):
+Original:     PGE 2 promotes intestinal tumor growth by altering the expression of tumor suppressing and DNA repair genes.
+Reformulated: PGE 2 promotes intestinal tumor growth by altering the expression of tumor suppressing and DNA repair genes....
+Metadata:     {'mode': 'cot', 'error': 'Query2Doc failed: Connection error.', 'fallback': True}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 350):
+Original:     Discrimination between the initiator and elongation tRNAs depends on the translation initiation factor IF3.
+Reformulated: Discrimination between the initiator and elongation tRNAs depends on the translation initiation factor IF3....
+Metadata:     {'mode': 'cot', 'error': 'Query2Doc failed: Connection error.', 'fallback': True}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 230):
+Original:     Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink less that non-carries.
+Reformulated: Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink less that non-carries....
+Metadata:     {'mode': 'cot', 'error': 'Query2Doc failed: Connection error.', 'fallback': True}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 593):
+Original:     Incidence of heart failure decreased by 10% in women since 1979.
+Reformulated: Incidence of heart failure decreased by 10% in women since 1979....
+Metadata:     {'mode': 'cot', 'error': 'Query2Doc failed: Connection error.', 'fallback': True}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1216):
+Original:     The extracellular domain of TMEM27 is cleaved in human beta cells.
+Reformulated: The extracellular domain of TMEM27 is cleaved in human beta cells....
+Metadata:     {'mode': 'cot', 'error': 'Query2Doc failed: Connection error.', 'fallback': True}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1337):
+Original:     Ubiquitin ligase UBC13 generates a K63-linked polyubiquitin moiety at PCNA K164.
+Reformulated: Ubiquitin ligase UBC13 generates a K63-linked polyubiquitin moiety at PCNA K164....
+Metadata:     {'mode': 'cot', 'error': 'Query2Doc failed: Connection error.', 'fallback': True}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 232):
+Original:     Cataract and trachoma are the primary cause of blindness in Southern Sudan.
+Reformulated: Cataract and trachoma are the primary cause of blindness in Southern Sudan....
+Metadata:     {'mode': 'cot', 'error': 'Query2Doc failed: Connection error.', 'fallback': True}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1336):
+Original:     UCB T cells reduce TCR diversity after transplantation.
+Reformulated: UCB T cells reduce TCR diversity after transplantation....
+Metadata:     {'mode': 'cot', 'error': 'Query2Doc failed: Connection error.', 'fallback': True}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 233):
+Original:     Cell autonomous sex determination in somatic cells does not occur in Galliformes.
+Reformulated: Cell autonomous sex determination in somatic cells does not occur in Galliformes....
+Metadata:     {'mode': 'cot', 'error': 'Query2Doc failed: Connection error.', 'fallback': True}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 354):
+Original:     Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigenesis.
+Reformulated: Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigenesis....
+Metadata:     {'mode': 'cot', 'error': 'Query2Doc failed: Connection error.', 'fallback': True}
+
+--------------------------------------------------------------------------------
+

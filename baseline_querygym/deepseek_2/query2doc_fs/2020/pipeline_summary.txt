@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  msmarco-v1-passage.trecdl2020
+Method:   query2doc
+Model:    deepseek/deepseek-chat-v3-0324:floor
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 6m 42.0s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 6m 27.1s
+  retrieval      : 9.8s
+  evaluation     : 5.1s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  map                      : 0.4381
+  ndcg_cut_10              : 0.6427
+  recall_1000              : 0.8923
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/deepseek_2/query2doc_fs/2020

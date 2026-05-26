@@ -1,0 +1,14 @@
+Retrieval Log
+================================================================================
+
+Dataset: dlhard
+Index: msmarco-v1-passage
+BM25 Parameters: k1=0.9, b=0.4
+Queries: 50
+Top-k: 1000
+Threads: 16
+
+Total retrieval time: 7.6s
+Average per query: 0.153s
+Total documents retrieved: 50000
+Average per query: 1000.0

@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: QALD2_te-67):
+Original:     Who are the parents of the wife of Juan Carlos I?
+Reformulated: Who are the parents of the wife of Juan Carlos I? Who are the parents of the wife of Juan Carlos I? Who are the parents of the wife of Juan Carlos I? Who are the parents of the wife of Juan Carlos I? ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer this question, we need to identify the wife of King Juan Carlos I of Spain and then determine her parents. \n\nKing Juan Carlos I of Spain was married to Queen Sofia (also known as Queen Sofía or Queen Christina). Queen Sofia's full name is Sophia Margarita Alice of Greece and Denmark. She was born on December 13, 1938.\n\nQueen Sofia's parents were:\n- Prince Christopher of Greece (full name: Alexandros Georgios Constantinos Pavlos Christopoulos)\n- Princess Maria-Odette de Bourbon Parma (full name: Odette Marie Odile Gabrielle de Bourbon Par", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: QALD2_te-60):
+Original:     Give me a list of all lakes in Denmark.
+Reformulated: Give me a list of all lakes in Denmark. Give me a list of all lakes in Denmark. Give me a list of all lakes in Denmark. Give me a list of all lakes in Denmark. Give me a list of all lakes in Denmark. ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "Rationale:\nTo provide a comprehensive list of all lakes in Denmark would require extensive research and compilation from reliable sources such as government databases, geographical surveys, and official geographical maps. Given the dynamic nature of such data (new bodies of water can be formed or existing ones can change), it's challenging to provide an up-to-date and accurate list without direct access to the most recent datasets. However, I can provide some well-known lakes in Denmark based on widely recognized geographical sources.\n\nAnswer:\nDenmark has a relatively small number of lakes compared to other countries due to its geology and climate. Here are some notable lakes in Denmark:\n\n1.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: QALD2_te-63):
+Original:     Give me all Argentine films.
+Reformulated: Give me all Argentine films. Give me all Argentine films. Give me all Argentine films. Give me all Argentine films. Give me all Argentine films. To provide a comprehensive list of all Argentine films ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To provide a comprehensive list of all Argentine films would be quite extensive, as Argentine cinema has a rich history dating back to the early 20th century and continues to produce numerous films each year. However, I can give you a brief rationale on how such a list might be compiled and then mention some notable films to give you an idea of the diversity in Argentine cinema.\n\nRationale:\n1. **Historical Context**: Start with the earliest Argentine films, which began in the late 19th century with the first projected film screenings.\n2. **Golden Age (1930s-1950s)**:', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: QALD2_te-64):
+Original:     Give me all launch pads operated by NASA.
+Reformulated: Give me all launch pads operated by NASA. Give me all launch pads operated by NASA. Give me all launch pads operated by NASA. Give me all launch pads operated by NASA. Give me all launch pads operated...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "Rationale: To provide an accurate and up-to-date list of all launch pads operated by NASA, I need to consider the various facilities where NASA conducts rocket launches. These include Kennedy Space Center in Florida, which is one of NASA's primary launch sites, as well as other locations like Wallops Flight Facility in Virginia and Cape Canaveral Space Force Station.\n\nAnswer: Here is a list of some of the major launch pads operated by NASA:\n\n1. **Kennedy Space Center (KSC), Florida**:\n   - **Launch Complex 39A**: Used for the Apollo program and currently used for commercial crew missions and future lunar", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: QALD2_te-65):
+Original:     Which instruments did John Lennon play?
+Reformulated: Which instruments did John Lennon play? Which instruments did John Lennon play? Which instruments did John Lennon play? Which instruments did John Lennon play? Which instruments did John Lennon play? ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To provide a detailed and accurate answer, I will first outline the rationale for identifying the instruments played by John Lennon.\n\nJohn Lennon was one of the founding members of The Beatles and a solo artist. He was known for his versatile musicianship, which included playing several instruments during his career. Understanding his musical contributions often involves examining his roles in The Beatles and his solo work.\n\nNow, to answer the question:\n\nJohn Lennon played several instruments throughout his career, but he is most famously known for playing rhythm guitar and singing lead vocals with The Beatles. Additionally, he was also proficient in playing other instruments, including:\n\n1. **Electric Guitar**: Main', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: QALD2_te-66):
+Original:     Which ships were called after Benjamin Franklin?
+Reformulated: Which ships were called after Benjamin Franklin? Which ships were called after Benjamin Franklin? Which ships were called after Benjamin Franklin? Which ships were called after Benjamin Franklin? Whic...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer this question accurately, we need to research and identify any ships that were named after Benjamin Franklin. Benjamin Franklin was a renowned American polymath, statesman, and inventor, so it is possible that some ships might have been named in his honor.\n\nRationale:\n1. Historical context: Ships are often named after significant historical figures, famous explorers, or influential personalities.\n2. Benjamin Franklin's prominence: As a founding father of the United States and an internationally recognized figure due to his inventions and diplomatic efforts, it is plausible that he could be honored with a ship bearing his name.\n\nNow, let's answer the question based on", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: SemSearch_LS-1):
+Original:     Apollo astronauts who walked on the Moon
+Reformulated: Apollo astronauts who walked on the Moon Apollo astronauts who walked on the Moon Apollo astronauts who walked on the Moon Apollo astronauts who walked on the Moon Apollo astronauts who walked on the ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To provide a rationale first, it's important to note that the Apollo program, which aimed to land humans on the Moon and return them safely to Earth, was conducted by NASA (National Aeronautics and Space Administration) of the United States between 1961 and 1972. The astronauts who participated in these missions were selected from the U.S. military and civilian space programs.\n\nGiven this context, I can now answer the query.\n\nThe astronauts who walked on the Moon as part of the Apollo program were the crew members of the Apollo 11, 12, 14, 15", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: SemSearch_ES-97):
+Original:     PINK PANTHER 2
+Reformulated: PINK PANTHER 2 PINK PANTHER 2 PINK PANTHER 2 PINK PANTHER 2 PINK PANTHER 2 Rationale: To answer this query, I need to consider what information is typically requested about a film or movie title, such...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'Rationale: To answer this query, I need to consider what information is typically requested about a film or movie title, such as its release year, director, main cast, and a brief synopsis.\n\nAnswer: "PINK PANTHER 2" refers to the 2016 American comedy film that is the fourth installment in the Pink Panther film series. It was directed by Shawn Levy and stars Ryan Reynolds as the Pink Panther character. The film follows Inspector Clouseau (Reynolds) as he investigates a plot to steal priceless diamonds from the Louvre Museum in Paris. The film also features returning actors Steve Martin and', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: SemSearch_LS-2):
+Original:     Arab states of the Persian Gulf
+Reformulated: Arab states of the Persian Gulf Arab states of the Persian Gulf Arab states of the Persian Gulf Arab states of the Persian Gulf Arab states of the Persian Gulf Certainly. To provide a detailed and acc...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'Certainly. To provide a detailed and accurate answer, let\'s first clarify what the "Arab states of the Persian Gulf" refer to. This term typically includes the six countries that border the Persian Gulf and are part of the Arab world. These countries are recognized for their significant oil wealth and political influence in the region.\n\nRationale:\n1. Geographical Context: The Persian Gulf is a body of water located in Western Asia.\n2. Political and Cultural Identity: Six Arab countries have coastlines along the Persian Gulf and are considered key players in regional politics and economics.\n3. Historical and Modern Significance: These countries share historical, cultural', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: SemSearch_ES-96):
+Original:     New England Coffee
+Reformulated: New England Coffee New England Coffee New England Coffee New England Coffee New England Coffee Rationale: To provide an accurate answer about "New England Coffee," I need to determine if you're asking...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'Rationale: To provide an accurate answer about "New England Coffee," I need to determine if you\'re asking about a specific coffee brand, a type of coffee blend associated with New England (the northeastern region of the United States), or if you\'re seeking general information about coffee consumption patterns in New England.\n\nAnswer: New England Coffee generally refers to coffee that is associated with the region of New England in the United States. This can include both commercial brands and local coffee roasters that have gained popularity in the area. The term might also refer to a style or blend of coffee that reflects flavors commonly found in the region, such as those inspired', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea The life cycle of a flea, also known as its c...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "The life cycle of a flea, also known as its complete metamorphosis, typically lasts around 2-3 weeks, but can range from as little as 1 week to as long as 6 months, depending on factors such as temperature, humidity, and the availability of food. The flea life cycle consists of four stages: egg, larva, pupa, and adult. The female flea lays her eggs, usually on the host animal's fur or in its bedding, after feeding on blood. The eggs hatch into larvae within 2-4 days, which then feed on organic matter and grow for about 1-2", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring The cost of interior conc...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The cost of interior concrete flooring can vary widely depending on several factors, including the size of the space, the complexity of the design, and the location of the project. On average, the cost of interior concrete flooring can range from $2 to $15 per square foot, with most projects falling in the $3 to $10 per square foot range. For a basic, broom-finished concrete floor, the cost can be as low as $2 to $4 per square foot, while a high-end, polished concrete floor with decorative finishes can cost $10 to $15 per square foot or more. Additionally, costs such as sub', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment A declaratory judgment is a judicial rul...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "A declaratory judgment is a judicial ruling or declaration made by a court that defines the rights and obligations of parties involved in a dispute, without necessarily ordering any specific action or remedy. In other words, it is a court's formal statement or declaration of the legal rights and obligations of the parties, providing clarity and certainty on a particular issue or question of law. Declaratory judgments are often sought in cases where there is uncertainty or ambiguity regarding the interpretation of a statute, contract, or other legal instrument, and are commonly used to resolve disputes over issues such as insurance coverage, intellectual property rights, and contractual obligations. By issuing a declaratory", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medi...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Durable medical equipment (DME) refers to medical devices that are designed to withstand repeated use and are essential for the treatment and care of patients with various medical conditions. DME consists of a wide range of products, including mobility aids such as walkers, wheelchairs, scooters, and power chairs. It also includes bathroom safety equipment like shower chairs, bath benches, and grab bars. Additionally, DME encompasses beds and mattresses specifically designed for medical use, such as hospital beds, adjustable beds, and pressure-reducing mattresses. Other examples of DME include oxygen equipment like oxygen tanks and concentrators, respiratory equipment such as ne', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth WiFi and Bluetooth are two popular wireless technologies used for conn...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'WiFi and Bluetooth are two popular wireless technologies used for connecting devices, but they serve different purposes and have distinct differences. WiFi is a wireless networking technology that allows devices to connect to the internet or communicate with each other over a local network. It uses radio waves to transmit data at high speeds, typically in the range of 2.4 gigahertz (GHz) or 5 GHz, and has a range of around 150 feet indoors. WiFi is commonly used to connect devices such as laptops, smartphones, and smart home devices to the internet, allowing for online browsing, streaming, and file transfer.\n\nOn the other hand, Bluetooth is', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid bel...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Hydrogen is a gas at room temperature, but it can be liquefied at extremely low temperatures. Hydrogen is a liquid below a temperature of 20.28 Kelvin, which is equivalent to -252.87 degrees Celsius or -422.97 degrees Fahrenheit. At this temperature, hydrogen undergoes a phase transition from a gas to a liquid, and it remains in a liquid state until it reaches its freezing point of 14.01 Kelvin, at which point it becomes a solid. The process of liquefying hydrogen requires advanced cooling systems and specialized equipment, as it is a highly volatile and flammable substance that requires careful', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determin...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "The social determinants of health refer to the non-medical factors that influence an individual's or population's health outcomes and quality of life. These determinants are shaped by the social, economic, and environmental conditions in which people are born, grow, live, work, and age. According to the World Health Organization (WHO), the social determinants of health include factors such as socioeconomic status, education, employment, housing, food security, social support networks, and access to healthcare services. Additionally, factors like discrimination, racism, and transportation also play a significant role in shaping health outcomes. For instance, individuals with lower socioeconomic status may have", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? The Three Percenters, also known as the III% ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The Three Percenters, also known as the III% or Threepers, are a loose network of anti-government, pro-gun, and patriot groups in the United States. The name "Three Percenters" refers to the idea that only about 3% of American colonists actively fought against the British during the American Revolution, and that this small minority was able to achieve independence for the country. The group\'s ideology is based on the notion that a similar small percentage of modern-day Americans can effect significant change and resist government overreach.\n\nThe Three Percenters are often associated with the militia movement and are known for their strong support of', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes Right pelvic pain can be caused by a variety of factors, ranging from mild ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Right pelvic pain can be caused by a variety of factors, ranging from mild to severe. Some common causes include menstrual cramps, ovulation pain, and Mittelschmerz, which are associated with the female reproductive system. Other potential causes of right pelvic pain include appendicitis, which is inflammation of the appendix, and kidney stones, which can cause severe pain in the lower right abdomen. In some cases, right pelvic pain may be a symptom of a more serious underlying condition, such as ovarian cysts, ectopic pregnancy, or endometriosis. Additionally, irritable bowel syndrome (IBS), inflammatory bowel disease (', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet A SIGMET, which stands for Significant Meteorological Information, is a weather advis...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'A SIGMET, which stands for Significant Meteorological Information, is a weather advisory issued by meteorological watch offices to alert aircraft pilots and other stakeholders of potentially hazardous weather conditions that could impact flight safety. These advisories are typically issued when weather conditions meet certain criteria, such as severe thunderstorms, turbulence, icing, volcanic ash, or other phenomena that could pose a threat to aviation operations. SIGMETs are usually broadcast over radio and other communication channels, and they contain essential information such as the location, altitude, and movement of the weather system, as well as any recommended actions for aircraft to take to avoid or mitigate the hazard. The', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  msmarco-v1-passage.trecdl2020
+Method:   lamer
+Model:    deepseek/deepseek-chat-v3-0324:floor
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 3m 54.3s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 3m 34.7s
+  retrieval      : 13.8s
+  evaluation     : 5.7s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  map                      : 0.4543
+  ndcg_cut_10              : 0.6255
+  recall_1000              : 0.8950
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/deepseek/lamer/2020

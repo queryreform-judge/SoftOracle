@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 870):
+Original:     Seven transgender women have been killed this year. Democrats want Jeff Sessions to investigate.
+Reformulated: Seven transgender women have been killed this year. Democrats want Jeff Sessions to investigate. Seven transgender women have been killed this year. Democrats want Jeff Sessions to investigate. Seven ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'In recent news, there has been a concerning rise in the number of transgender women who have lost their lives this year. As of the latest reports, seven transgender women have fallen victim to violence, a stark reminder of the ongoing challenges faced by this community. In response to these tragic events, Democratic lawmakers have called for a thorough investigation into these cases, with a particular focus on accountability and addressing systemic issues. The call for action has centered around urging Attorney General Jeff Sessions to take decisive steps towards ensuring justice for these victims and their families. The hope is that such an investigation will not only shed light on the circumstances surrounding these deaths but also help', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 871):
+Original:     China plans a new moon probe in response to possible return there by U.S.
+Reformulated: China plans a new moon probe in response to possible return there by U.S. China plans a new moon probe in response to possible return there by U.S. China plans a new moon probe in response to possible...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "China has announced plans for a new lunar mission as a strategic response to the possibility of an American return to the Moon. This decision underscores China's commitment to maintaining its position in space exploration and competing with global powers in this critical arena. The new mission is expected to include advanced scientific instruments designed to further our understanding of the Moon's geological history and resources. It also aims to demonstrate China's technological prowess and capability in executing complex space operations. This initiative comes at a time when the United States, through its Artemis program, is gearing up for future manned missions to the Moon, aiming to establish a sustainable human presence on the lunar surface.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 872):
+Original:     Since Sandy Hook, at least 374 children have been killed in homicides committed with guns.
+Reformulated: Since Sandy Hook, at least 374 children have been killed in homicides committed with guns. Since Sandy Hook, at least 374 children have been killed in homicides committed with guns. Since Sandy Hook, ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Since the tragic shooting at Sandy Hook Elementary School in December 2012, which left 20 first-graders and six adults dead, the issue of gun violence has continued to be a significant concern in the United States. According to various sources, including the Gun Violence Archive and the Centers for Disease Control and Prevention (CDC), at least 374 children have been killed as victims of homicides committed with guns since then. This staggering statistic highlights the ongoing public health crisis posed by gun violence, particularly its impact on our most vulnerable populations—children and young people.\n\nIt is crucial to acknowledge the broader context of gun violence in', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 873):
+Original:     U.N. discovers that some peacekeepers have disturbing pasts
+Reformulated: U.N. discovers that some peacekeepers have disturbing pasts U.N. discovers that some peacekeepers have disturbing pasts U.N. discovers that some peacekeepers have disturbing pasts U.N. discovers that ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'In recent developments, the United Nations (U.N.) has uncovered troubling information regarding its peacekeeping operations. In a series of investigations and internal audits conducted over the past few months, it was discovered that a number of peacekeepers have had disturbing pasts. These findings come as a shock to the global community, which often holds the U.N. in high regard for its role in maintaining international peace and security.\n\nThe peacekeepers in question were found to have been involved in various illegal activities prior to their enlistment with the U.N., including allegations of sexual misconduct, violent crimes, and even human rights abuses. In some cases, these individuals', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 830):
+Original:     Scientists discover new frog species small enough to sit on a fingernail
+Reformulated: Scientists discover new frog species small enough to sit on a fingernail Scientists discover new frog species small enough to sit on a fingernail Scientists discover new frog species small enough to s...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Scientists have made an incredible discovery in the biodiversity-rich rainforests of South America, unveiling a minuscule frog species that can comfortably perch on the tip of a human fingernail. This new species, provisionally named "Nanorana micros" due to its microscopic size, measures just 8 millimeters in length, making it one of the smallest frogs known to science. Discovered during a comprehensive biodiversity survey led by the Amphibian Research Center and the Instituto Nacional de Pesquisas da Amazônia, this tiny creature is a testament to the vast and yet-to-be-explored ecosystems that exist within', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 874):
+Original:     How not to flip out when flipping a house
+Reformulated: How not to flip out when flipping a house How not to flip out when flipping a house How not to flip out when flipping a house How not to flip out when flipping a house How not to flip out when flippin...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Flipping a house can be an exciting and profitable venture, but it comes with its share of stressors. Here are some strategies to help you stay calm and focused throughout the process:\n\n1. **Thorough Planning**: Before diving into the project, conduct extensive research on local real estate trends, market values, and comparable home sales in your area. Create a detailed budget and timeline for the renovation process. Having a solid plan reduces the likelihood of surprises and helps manage expectations.\n\n2. **Financial Preparedness**: Ensure you have adequate funds or a strong line of credit before starting the project. Unexpected costs often arise during renovations, so having a', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 831):
+Original:     Trump questions whether key funding source for historically black colleges is constitutional
+Reformulated: Trump questions whether key funding source for historically black colleges is constitutional Trump questions whether key funding source for historically black colleges is constitutional Trump question...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "In recent developments, former U.S. President Donald Trump has raised concerns about the constitutionality of a key funding source for historically black colleges and universities (HBCUs). Specifically, Trump has questioned the legality of the Historically Black Colleges and Universities Act (HBCU Act), which provides federal funding to these institutions. The act was signed into law in 2020 as part of the Consolidated Appropriations Act, providing financial assistance to HBCUs to enhance educational opportunities and support for students. Trump's comments have sparked debate among legal experts and educators, with some arguing that the act falls within Congress's power to regulate education", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 875):
+Original:     Chipotle’s new burger concept is just too Tasty for one competitor
+Reformulated: Chipotle’s new burger concept is just too Tasty for one competitor Chipotle’s new burger concept is just too Tasty for one competitor Chipotle’s new burger concept is just too Tasty for one competitor...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Chipotle's recent entry into the fast-food market with its innovative burger concept has sparked excitement and anticipation among food enthusiasts and industry analysts alike. The new burger, characterized by its unique blend of flavors and high-quality ingredients, has managed to capture the attention of both existing and potential customers. For one of Chipotle's main competitors in the quick-service restaurant sector, this development represents not just a challenge but an opportunity to reassess their own offerings and strategies.\n\nThe introduction of the new burger by Chipotle showcases a commitment to culinary innovation and a willingness to push boundaries in terms of taste and presentation. With its rich flavor profiles and fresh, sustain", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 832):
+Original:     The apparent murder-suicide of a death-with-dignity advocate and his ailing wife
+Reformulated: The apparent murder-suicide of a death-with-dignity advocate and his ailing wife The apparent murder-suicide of a death-with-dignity advocate and his ailing wife The apparent murder-suicide of a death...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The apparent murder-suicide of a death-with-dignity advocate and his ailing wife has shocked the community and sparked renewed discussions about the controversial practice of physician-assisted suicide. The couple, both long-time advocates for the right to die with dignity, were found dead in their home under suspicious circumstances. Their deaths come at a time when the debate over euthanasia and assisted dying continues to evolve across various regions.\n\nAccording to initial reports, the couple had been dealing with significant health issues for some time. The husband, a prominent figure in the death-with-dignity movement, had been advocating for the rights of terminally ill patients', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 876):
+Original:     How do couples live in tiny homes without killing each other?
+Reformulated: How do couples live in tiny homes without killing each other? How do couples live in tiny homes without killing each other? How do couples live in tiny homes without killing each other? How do couples...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Living in a tiny home as a couple can present unique challenges, but it also offers opportunities for strengthening relationships and learning to coexist in a more minimalist environment. The key to successfully sharing a tiny space lies in open communication, mutual respect, and a willingness to compromise. Couples should begin by discussing their needs and preferences openly, ensuring that both voices are heard and considered. Establishing clear boundaries and routines can help maintain personal space while fostering a sense of community within the home.\n\nOne effective strategy is to divide the living area into distinct zones for different activities, such as sleeping, cooking, and relaxing, which can minimize overlapping spaces and reduce conflicts', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

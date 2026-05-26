@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 23849):
+Original:     are naturalization records public information
+Reformulated: are naturalization records public information are naturalization records public information are naturalization records public information are naturalization records public information are naturalizati...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the queries in the format of a passage:\n\n**Query: What causes spasms of my left eye?**\nLeft eye spasms, also known as eye twitching, can be caused by a variety of factors. Fatigue, stress, and tense muscles are common causes of left eye twitching. Additionally, consuming too much caffeine and alcohol can trigger these spasms. It\'s essential to identify and address the underlying cause to alleviate the symptoms.\n\n**Query: Who wrote the song "My Blue Heaven" Donaldson Whiting?**\nThe song "My Blue Heaven" was written by Walter Donaldson, with lyrics', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 156498):
+Original:     do google docs auto save
+Reformulated: do google docs auto save do google docs auto save do google docs auto save do google docs auto save do google docs auto save Here are the rewritten passages that directly answer the given queries:  **...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the rewritten passages that directly answer the given queries:\n\n**Query: when do kids get molars?**\nChildren typically get their molars around the age of two. At this stage, it's essential to monitor their oral health and identify any potential causes of pain, whether it's related to their molars or other factors.\n\n**Query: are heliconia plants perennials**\nYes, heliconia plants are perennials. They are easy to grow and can add a bold, tropical touch to your yard. While they can be used as annuals or container garden plants in the North, they are generally considered per", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 258062):
+Original:     how long does it take to remove wisdom tooth
+Reformulated: how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it tak...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "It appears you've provided a series of queries with corresponding passages that answer each question. To create a cohesive response, I will synthesize the information from each passage to directly address the queries posed.\n\n1. **Define Art Deco Style**: \nArt Deco is described as the last splendidly self-indulgent decorative style, associated with luxury, leisure, comfort, and conviviality. This style is characterized by its opulence and is often linked with the era of luxury and leisure.\n\n2. **How many MB in a GB**: \nThere are 1000 megabytes in a gigabyte. This conversion is standardized, where", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1071750):
+Original:     why is pete rose banned from hall of fame
+Reformulated: why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hal...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the queries in the form of passages:\n\n**Query: how much does panera pay hourly in ct**\nThe hourly pay for Panera employees in Connecticut varies depending on the position. According to recent data, the average hourly pay for a Dishwasher/Busser at Panera in Connecticut is around $8-10 per hour, while a Server or Host/Hostess can earn around $10-12 per hour. Management positions, such as an Hourly Manager or Shift Supervisor, can earn upwards of $20-30 per hour. However, these rates may vary depending on location, experience, and other factors', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 67316):
+Original:     can fever cause miscarriage early pregnancy
+Reformulated: can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarri...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'It appears that you have provided a series of queries with corresponding passages that answer each question. Here are the answers to each query based on the provided passages:\n\n1. What causes burning in your legs and feet?\nAnswer: Possible causes of burning legs include Vitamin B-12 deficiency and Diabetic neuropathy. It is recommended to consult a doctor to determine the underlying cause of the symptoms.\n\n2. When did Germany invade Norway?\nAnswer: Germany invaded Norway on April 9, 1940, as part of a larger invasion of Denmark and Norway.\n\n3. Should I start taking a prenatal vitamin before I see the doctor?\nAnswer: It', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 169208):
+Original:     does mississippi have an income tax
+Reformulated: does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax Here are the answers...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the given queries based on the provided passages:\n\n1. **Similarities between DNA and RNA**: Three of the nitrogenous bases are the same for both RNA and DNA: guanine, adenine, and cytosine. Although there are differences in the fourth base pair (thymine in DNA and uracil in RNA) and the type of sugar (deoxyribose in DNA and ribose in RNA), these shared bases highlight a key similarity between the two molecules.\n\n2. **How long can fever last with influenza**: Fever and other symptoms can usually last up to 7 to 10 days', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 938400):
+Original:     when did family feud come out?
+Reformulated: when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? It looks like the passage for the last query ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'It looks like the passage for the last query is missing. However, I can still provide answers to the previous queries based on the given passages.\n\n1. Query: which of the following colors has the longest wavelength?\nAnswer: According to the passage, the color RED has the longest wavelength.\n\n2. Query: bolt meaning\nAnswer: The noun "BOLT" has 7 senses, including:\n* a discharge of lightning accompanied by thunder\n* a sliding bar in a breech-loading firearm\n* the part of a lock that is engaged or withdrawn with a key\n* the act of moving with great haste\n\n3. Query:', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1108651):
+Original:     what the best way to get clothes white
+Reformulated: what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white To ge...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'To get clothes white, several methods can be employed depending on the type of fabric and the severity of the discoloration. For most whites, using a laundry detergent specifically designed for whitening, such as OxiClean or Clorox 2, can be quite effective. Soaking the clothes in a solution of warm water and baking soda before washing can also help remove tough stains and brighten the fabric. For tougher stains, applying a stain remover directly to the stain before washing can be beneficial. Adding a 1/2 cup of white vinegar to the rinse cycle can help remove any remaining detergent residue and soften the clothes, making', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1037496):
+Original:     who is rep scalise?
+Reformulated: who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? Here are the answers to the given queries in the form of passages:  **Query: hellan strainers for na...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the given queries in the form of passages:\n\n**Query: hellan strainers for navy ships**\nHellan Strainers are used on U.S. Navy ships for seawater cooling of sonar, radar, close in weapons systems and much more. Other marine and military applications include Lube Oil Systems, Firemain Systems, and Fuel Filtration Systems. Hellan Strainers have earned the trust of the entire United States Navy.\n\n**Query: is the first lady on vacation with trump**\nFirst lady Melania Trump and her son Barron Trump were noticeably missing from a Trump family gathering in Aspen, Colorado over the', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 1064670):
+Original:     why do hunters pattern their shotguns?
+Reformulated: why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? Hunte...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Hunters pattern their shotguns to determine the spread and density of the shotgun's shot at different distances. This is done to ensure that the shotgun is shooting accurately and effectively, and to determine the optimal range for taking shots at game. By patterning their shotgun, hunters can see how the shot disperses as it travels, and can adjust their aim and shooting technique accordingly. This helps to increase the chances of a successful and humane harvest, and also helps to ensure that the hunter is using the shotgun safely and responsibly. Patterning a shotgun typically involves shooting at a large piece of paper or other target at varying distances, and then", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

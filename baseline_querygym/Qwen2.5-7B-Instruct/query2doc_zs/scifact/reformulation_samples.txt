@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 907):
+Original:     PGE 2 promotes intestinal tumor growth by altering the expression of tumor suppressing and DNA repair genes.
+Reformulated: PGE 2 promotes intestinal tumor growth by altering the expression of tumor suppressing and DNA repair genes. PGE 2 promotes intestinal tumor growth by altering the expression of tumor suppressing and ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'PGE2 (Prostaglandin E2) has been implicated in promoting intestinal tumor growth through complex mechanisms that involve alterations in the expression of both tumor-suppressing and DNA repair genes. In the context of colorectal cancer, PGE2 plays a significant role in modulating the microenvironment of the intestine. It does so by interacting with specific receptors, such as EP1, EP2, and EP4, which are expressed on various cell types including intestinal epithelial cells, immune cells, and stromal cells.\n\nOne of the primary ways PGE2 influences tumor growth is by affecting the expression levels of key tumor-sup', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 350):
+Original:     Discrimination between the initiator and elongation tRNAs depends on the translation initiation factor IF3.
+Reformulated: Discrimination between the initiator and elongation tRNAs depends on the translation initiation factor IF3. Discrimination between the initiator and elongation tRNAs depends on the translation initiat...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The discrimination between the initiator and elongation tRNAs is indeed dependent on the translation initiation factor IF3 (Initiation Factor 3). During protein synthesis in prokaryotes and eukaryotes, the correct tRNA must be positioned at the start codon of the mRNA to initiate translation. The initiator tRNA, which carries methionine and is specific for the start codons (AUG) in the mRNA, plays a crucial role in this process. However, there are also tRNAs for other amino acids that can potentially bind to the ribosome during translation initiation.\n\nThe translation initiation factor IF3 is essential for', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 230):
+Original:     Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink less that non-carries.
+Reformulated: Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink less that non-carries. Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink less that non-carries. Carriers...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The statement "Carriers of the alcohol aldehyde dehydrogenase (ALDH2) deficiency mutation drink less than non-carriers" is not accurate based on current scientific understanding. In fact, individuals who carry the ALDH2 deficiency mutation often exhibit a reduced ability to metabolize acetaldehyde, a toxic byproduct of alcohol metabolism. This leads to several unpleasant symptoms such as flushing, palpitations, nausea, and dizziness when consuming alcohol, which typically results in a lower tolerance for alcohol and a reduced tendency to consume it in large quantities.\n\nResearch has shown that people with this genetic variant tend to have a higher sensitivity to the', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 593):
+Original:     Incidence of heart failure decreased by 10% in women since 1979.
+Reformulated: Incidence of heart failure decreased by 10% in women since 1979. Incidence of heart failure decreased by 10% in women since 1979. Incidence of heart failure decreased by 10% in women since 1979. Incid...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The incidence of heart failure has shown a positive trend in recent decades, particularly among women. According to data compiled over several decades, there has been a notable reduction in the number of cases of heart failure among women since 1979. Research indicates that this decrease can be attributed to various factors including advancements in medical treatments, improved management of risk factors such as hypertension and diabetes, and enhanced public health initiatives focused on lifestyle changes. These improvements have collectively contributed to a 10% reduction in the incidence of heart failure among women during this period, reflecting significant progress in cardiovascular healthcare and preventive measures.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1216):
+Original:     The extracellular domain of TMEM27 is cleaved in human beta cells.
+Reformulated: The extracellular domain of TMEM27 is cleaved in human beta cells. The extracellular domain of TMEM27 is cleaved in human beta cells. The extracellular domain of TMEM27 is cleaved in human beta cells....
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "The extracellular domain of TMEM27 is indeed subject to cleavage in human beta cells, which are specialized pancreatic cells responsible for producing and secreting insulin. This cleavage process is a critical step in the regulation of insulin secretion and glucose homeostasis. TMEM27 (transmembrane protein 27) is a membrane protein that has been implicated in various cellular processes, including endocytosis and exocytosis. In the context of human beta cells, TMEM27's extracellular domain undergoes proteolytic cleavage, likely mediated by cellular enzymes such as proteases. This cleavage event", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1337):
+Original:     Ubiquitin ligase UBC13 generates a K63-linked polyubiquitin moiety at PCNA K164.
+Reformulated: Ubiquitin ligase UBC13 generates a K63-linked polyubiquitin moiety at PCNA K164. Ubiquitin ligase UBC13 generates a K63-linked polyubiquitin moiety at PCNA K164. Ubiquitin ligase UBC13 generates a K63...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The enzyme ubiquitin ligase UBC13 plays a crucial role in the formation of K63-linked polyubiquitin chains on PCNA (Proliferating Cell Nuclear Antigen) at the lysine 164 (K164) position. This process is essential for various cellular functions, particularly those related to DNA damage response and replication. UBC13, when complexed with another protein called RAD6, facilitates the transfer of ubiquitin molecules to PCNA, leading to the creation of a specific type of polyubiquitin chain known as K63-linked. The K63-linkage', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 232):
+Original:     Cataract and trachoma are the primary cause of blindness in Southern Sudan.
+Reformulated: Cataract and trachoma are the primary cause of blindness in Southern Sudan. Cataract and trachoma are the primary cause of blindness in Southern Sudan. Cataract and trachoma are the primary cause of b...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Cataract and trachoma are significant causes of preventable blindness in Southern Sudan. Cataracts occur when the lens of the eye becomes cloudy, impairing vision and leading to blindness if left untreated. Trachoma, a bacterial infection caused by *Chlamydia trachomatis*, is also a major factor contributing to blindness in the region. This disease, which is spread through contact with infected eye discharge or by flies, can lead to scarring of the eyelids and a condition known as trichiasis, where eyelashes turn inward and rub against the cornea, causing severe pain and irreversible damage if not', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1336):
+Original:     UCB T cells reduce TCR diversity after transplantation.
+Reformulated: UCB T cells reduce TCR diversity after transplantation. UCB T cells reduce TCR diversity after transplantation. UCB T cells reduce TCR diversity after transplantation. UCB T cells reduce TCR diversity...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "The concept of T cell receptor (TCR) diversity and its impact on immune function is crucial in understanding the dynamics of immune responses following organ transplantation. Transplantation can lead to a reduction in TCR diversity within the recipient's immune system, which can affect immune surveillance and response against pathogens as well as graft rejection or acceptance. In the context of organ transplantation, particularly bone marrow transplantation, certain T cells called Universal Chimeric Antigen Receptor (UCB T cells) have been observed to contribute to changes in TCR diversity.\n\nUCB T cells are derived from umbilical cord blood and are characterized by their rapid expansion and", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 233):
+Original:     Cell autonomous sex determination in somatic cells does not occur in Galliformes.
+Reformulated: Cell autonomous sex determination in somatic cells does not occur in Galliformes. Cell autonomous sex determination in somatic cells does not occur in Galliformes. Cell autonomous sex determination in...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The concept of cell autonomous sex determination refers to a mechanism where the sex of an organism is determined independently at the cellular level, without the need for systemic signals from the gonads or other tissues. In many organisms, such as mammals and birds, sex determination can involve complex interactions between genetic factors, including the SRY gene in mammals, and environmental or hormonal cues. However, in Galliformes (a diverse order of ground-living birds that includes chickens, turkeys, pheasants, and quails), sex determination follows a different paradigm.\n\nGalliformes exhibit a form of sex determination known as ZW sex chromosomes,', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 354):
+Original:     Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigenesis.
+Reformulated: Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigenesis. Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigen...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The protein Scribble plays a crucial role in maintaining the integrity and function of epithelial cells, particularly in regulating cell adhesion, polarity, and proliferation. Downregulation or mislocalization of Scribble can significantly impact cellular behavior, often leading to alterations in cell morphology and increased susceptibility to oncogenic transformations. Research has shown that the proper localization and expression levels of Scribble are essential for preventing cell transformation and mammary tumorigenesis.\n\nWhen Scribble levels are reduced or its subcellular localization is altered, the normal constraints on cell growth and division are loosened. This allows for the accumulation of genetic and epigenetic alterations', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 870):
+Original:     Seven transgender women have been killed this year. Democrats want Jeff Sessions to investigate.
+Reformulated: Seven transgender women have been killed this year. Democrats want Jeff Sessions to investigate. Seven transgender women have been killed this year. Democrats want Jeff Sessions to investigate. Seven ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the query', 'Transgender women', 'Killed', 'Year', 'Democrats', 'Jeff Sessions', 'Investigation', 'Violence against transgender individuals', 'Civil rights', 'Criminal justice', 'Law enforcement', 'LGBT rights', 'Human rights', 'Hate crimes', 'Policy', 'Legislation', 'Advocacy', 'Discrimination', 'Justice', 'Equal rights'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 871):
+Original:     China plans a new moon probe in response to possible return there by U.S.
+Reformulated: China plans a new moon probe in response to possible return there by U.S. China plans a new moon probe in response to possible return there by U.S. China plans a new moon probe in response to possible...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the query "China plans a new moon probe in response to possible return there by U.S."', 'China', 'Moon probe', 'Lunar exploration', 'U.S', 'Space competition', 'National航天', 'Scientific research', 'Space technology', 'Exploration mission', 'Aerospace', 'International cooperation', 'Space race', 'Lunar landing', 'Space policy', 'Scientific advancement', 'Defense and security', 'Technological development', 'Strategic interest'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 872):
+Original:     Since Sandy Hook, at least 374 children have been killed in homicides committed with guns.
+Reformulated: Since Sandy Hook, at least 374 children have been killed in homicides committed with guns. Since Sandy Hook, at least 374 children have been killed in homicides committed with guns. Since Sandy Hook, ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the query', 'Sandy Hook', 'Homicide', 'Gun violence', 'Children', 'Mass shootings', 'Gun control', 'School safety', 'Public policy', 'Tragedy', 'Statistics', 'Incidents', 'Fatalities', 'Firearms', 'Childhood deaths', 'Safety measures', 'Policy changes', 'Community response', 'Advocacy', 'Prevention'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 873):
+Original:     U.N. discovers that some peacekeepers have disturbing pasts
+Reformulated: U.N. discovers that some peacekeepers have disturbing pasts U.N. discovers that some peacekeepers have disturbing pasts U.N. discovers that some peacekeepers have disturbing pasts U.N. discovers that ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the query "U.N. discovers that some peacekeepers have disturbing pasts"', 'U.N', 'Peacekeepers', 'Disturbing pasts', 'Investigations', 'Scandals', 'Allegations', 'Human rights violations', 'Criminal records', 'Background checks', 'Ethics', 'International organization', 'Military personnel', 'Misconduct', 'Oversight', 'Transparency', 'Global security', 'Controversy', 'Accountability'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 830):
+Original:     Scientists discover new frog species small enough to sit on a fingernail
+Reformulated: Scientists discover new frog species small enough to sit on a fingernail Scientists discover new frog species small enough to sit on a fingernail Scientists discover new frog species small enough to s...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Sure', 'here is a list of keywords related to the query "Scientists discover new frog species small enough to sit on a fingernail"', 'Frog species', 'New discovery', 'Small size', 'Fingernail comparison', 'Scientific research', 'Biologists', 'Amphibians', 'Miniature', 'Ecology', 'Biodiversity', 'Natural history', 'Endangered species', 'Habitat', 'Conservation', 'Zoology', 'Micro-fauna', 'Genetic analysis'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 874):
+Original:     How not to flip out when flipping a house
+Reformulated: How not to flip out when flipping a house How not to flip out when flipping a house How not to flip out when flipping a house How not to flip out when flipping a house How not to flip out when flippin...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the query "How not to flip out when flipping a house"', 'House flipping', 'Stress management', 'Budgeting', 'Market research', 'Property maintenance', 'Risk assessment', 'Communication skills', 'Time management', 'Negotiation tactics', 'Legal compliance', 'Financing options', 'Renovation strategies', 'Contractor management', 'Property inspection', 'Profit margins', 'Project planning', 'Tax implications', 'Insurance', 'Competitive analysis'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 831):
+Original:     Trump questions whether key funding source for historically black colleges is constitutional
+Reformulated: Trump questions whether key funding source for historically black colleges is constitutional Trump questions whether key funding source for historically black colleges is constitutional Trump question...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ["Certainly! Here's a list of keywords for the given query", 'Trump', 'Questioning', 'Funding', 'Historically Black Colleges', 'Constitutionality', 'Key Source', 'Higher Education', 'Racial Equity', 'Federal Funding', 'Legal Challenges', 'Educational Policy', 'Civil Rights', 'Government Aid', 'Equal Opportunity', 'Academic Institutions', 'Constitutional Law', 'Race Relations', 'Fiscal Policy', 'Educational Finance'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 875):
+Original:     Chipotle’s new burger concept is just too Tasty for one competitor
+Reformulated: Chipotle’s new burger concept is just too Tasty for one competitor Chipotle’s new burger concept is just too Tasty for one competitor Chipotle’s new burger concept is just too Tasty for one competitor...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Sure! Here\'s a list of keywords related to the query "Chipotle’s new burger concept is just too Tasty for one competitor"', 'Chipotle', 'New burger concept', 'Competitive advantage', 'Food industry trends', 'Restaurant innovation', 'Customer satisfaction', 'Flavor', 'Menu expansion', 'Market response', 'Food quality', 'Fast-casual dining', 'Culinary experience', 'Food safety', 'Ingredient sourcing', 'Price point', 'Customer loyalty', 'Restaurant chains'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 832):
+Original:     The apparent murder-suicide of a death-with-dignity advocate and his ailing wife
+Reformulated: The apparent murder-suicide of a death-with-dignity advocate and his ailing wife The apparent murder-suicide of a death-with-dignity advocate and his ailing wife The apparent murder-suicide of a death...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "The apparent murder-suicide of a death-with-dignity advocate and his ailing wife"', 'Death with dignity', 'Murder-suicide', 'End-of-life rights', 'Euthanasia', 'Physician-assisted suicide', 'Illness', 'Ailing', 'Advocate', 'Spouse', 'Ethics', 'Medical ethics', 'Legislation', 'Patient rights', 'Healthcare', 'Palliative care', 'Compassion', 'Morality'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 876):
+Original:     How do couples live in tiny homes without killing each other?
+Reformulated: How do couples live in tiny homes without killing each other? How do couples live in tiny homes without killing each other? How do couples live in tiny homes without killing each other? How do couples...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Sure', 'here is a list of keywords related to the query "How do couples live in tiny homes without killing each other?"', 'Tiny home living', 'Space optimization', 'Communication skills', 'Shared space', 'Personal boundaries', 'Compromise', 'Minimalism', 'Clutter management', 'Time management', 'Entertainment setup', 'Cooking and eating arrangements', 'Privacy solutions', 'Outdoor living areas', 'Flexibility', 'Routine establishment', 'Conflict resolution', 'Intimacy and privacy'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

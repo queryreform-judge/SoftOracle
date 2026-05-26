@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea The life cycle of a flea consists of four sta...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The life cycle of a flea consists of four stages: egg, larva, pupa, and adult. The duration of each stage can vary depending on environmental conditions such as temperature and humidity, as well as the availability of food sources. Generally, the life cycle can take anywhere from two weeks to several months to complete.\n\n1. **Egg Stage**: Flea eggs are laid by adult females, typically on their host. These eggs are white and oval-shaped, about the size of a grain of salt. Under optimal conditions, eggs can hatch within two days to two weeks.\n\n2. **Larva Stage**: After hatching', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring The cost of interior conc...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "The cost of interior concrete flooring can vary significantly depending on several factors including the specific type of concrete used, labor costs, the complexity of the design, and any additional finishes or materials required. Generally, the installation of interior concrete flooring starts from around $2 to $10 per square foot, but this can range widely based on the quality and scope of the project. High-end finishes or specialized designs can push the cost higher, potentially reaching upwards of $20 to $30 per square foot or more. For precise pricing, it's best to consult with local contractors who can provide an accurate estimate based on your specific needs and location", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment Definition of Declaratory Judgment:  A d...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Definition of Declaratory Judgment:\n\nA declaratory judgment is a legal remedy where a court determines the rights, duties, or obligations of the parties without ordering any specific action or providing relief beyond the court's declaration. This type of judgment is often used when parties want to clarify their legal rights or obligations without necessarily seeking damages or enforcement. It allows individuals or entities to obtain a ruling on the interpretation of laws, contracts, or other legal documents, providing clarity and preventing potential future disputes. Declaratory judgments are particularly useful in situations involving ambiguous laws or agreements, offering a means to resolve uncertainties before they lead to more serious conflicts.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medi...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Durable medical equipment (DME) consists of medical supplies and devices that are designed for long-term use and typically cover a patient's needs for more than one calendar year. This equipment is often used at home by patients who require ongoing medical treatment. Examples of DME include:\n\n1. Wheelchairs and mobility aids like walkers and crutches.\n2. Oxygen tanks and related equipment for supplemental oxygen therapy.\n3. Hospital beds and mattresses designed for patients with specific medical conditions.\n4. Blood glucose monitors and insulin pumps for diabetes management.\n5. Nebulizers and other respiratory equipment for breathing support.\n6. Orthopedic braces and", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth Passage: Wi-Fi and Bluetooth are both wireless technologies used for c...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Passage:\nWi-Fi and Bluetooth are both wireless technologies used for connecting devices, but they operate differently and serve distinct purposes. Wi-Fi is primarily designed for high-speed data transfer over short distances, typically up to several hundred feet, and is commonly used for internet connectivity. Wi-Fi networks allow multiple devices to connect to the internet simultaneously, making it ideal for home or office networks where fast, reliable internet access is needed.\n\nOn the other hand, Bluetooth operates on lower power and allows for shorter-range, low-latency communication between devices. It is often used for transferring smaller amounts of data, such as music or files, between devices like smartphones', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid bel...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Hydrogen is a unique element as it exists in different states depending on temperature and pressure. At standard atmospheric pressure (1 atmosphere or approximately 101.3 kPa), hydrogen becomes a liquid below its boiling point, which is -252.87°C (-423.17°F). To put this into perspective, this temperature is only 4.26 K above absolute zero, the lowest theoretically achievable temperature. Below -259.16°C (-434.49°F) or 14 K, hydrogen becomes a solid. Thus, hydrogen needs to be cooled to', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determin...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Social determinants of health (SDOH) are the conditions in which people are born, grow, live, work, and age. These factors significantly influence a wide range of health outcomes and can be broadly categorized into several domains:\n\n1. **Economic Stability**: This includes income levels, employment opportunities, and financial security. Economic stability affects access to healthcare, nutritious food, safe housing, and overall quality of life, all of which are critical to maintaining good health.\n\n2. **Education Access and Quality**: Education is crucial for developing the skills needed to navigate society and secure better jobs. Higher levels of education are associated with better health outcomes', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? The term "three percenters" is associated wit...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The term "three percenters" is associated with various groups and movements, but it most commonly refers to individuals who identify with a right-wing, militia-like ideology in the United States. These individuals typically believe they represent a significant but relatively small percentage of the population—about three percent—that values self-reliance, individual freedom, and skepticism of government authority. They often support armed resistance to perceived government overreach and may participate in paramilitary training, stockpiling of supplies, and maintaining firearms as part of their preparations for potential civil unrest. It\'s important to note that these groups are diverse and can encompass a range of beliefs and behaviors', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes Right Pelvic Pain Can Have Multiple Causes, Depending on the Underlying Con...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Right Pelvic Pain Can Have Multiple Causes, Depending on the Underlying Condition. Common Causes Include Ovarian Cysts, Endometriosis, Ectopic Pregnancy, Urinary Tract Infections (UTIs), and Kidney Stones. Other Potential Causes Might Involve Conditions Such as Pelvic Inflammatory Disease (PID), Ovarian Torsion, or Irritable Bowel Syndrome (IBS). Pain can also be related to musculoskeletal issues like muscle strains or sacroiliac joint dysfunction. In some cases, the pain might be associated with gastrointestinal disorders such as constipation or inflammatory bowel disease. Proper diagnosis', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet A SIGMET stands for Significant Meteorological Information. It is a type of aviation ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'A SIGMET stands for Significant Meteorological Information. It is a type of aviation weather warning issued by meteorologists at weather centers around the world. SIGMETs provide information about severe clear-air turbulence, volcanic ash, severe mountain obscuration, severe or extreme turbulence, tropical cyclones, and other significant meteorological phenomena that could pose a hazard to aircraft. These warnings are crucial for pilots and air traffic controllers to ensure safe flight operations.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

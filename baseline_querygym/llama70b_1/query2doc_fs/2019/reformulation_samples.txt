@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea Here are the answers to the given queries bas...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the given queries based on the passages:\n\n1. How many after-school care centres are there in Singapore?\nThere are currently 80 school-based student-care centres located among the 190 primary schools in Singapore.\n\n2. What causes Thermosphere lights?\nThe passage does not specifically mention "Thermosphere lights", but it does mention that thermospheric temperatures increase with altitude due to absorption of highly energetic solar radiation.\n\n3. What is the lifespan of an average human now?\nThe average life expectancy in the US is 78.7 years, with men averaging 76 years and women averaging 81 years.\n\n4.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring Here are the answers to e...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the answers to each query in the form of a passage:\n\n**Query: What silver dimes are valuable?**\nThe 90% Silver Roosevelt Dimes, which were minted from 1946 to 1964, are valuable due to their high silver content. These dimes, designed by Chief Engraver John R. Sinnock, were first released to the public on January 30, 1946, and have since become a popular collector's item. The silver content and historical significance of these dimes make them highly sought after by numismatists and investors alike.\n\n**Query: How long do you", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment Here are the answers to the given querie...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the given queries based on the provided passages:\n\n1. What does the longest word ever mean?\nThe longest word ever, "Rindfleischetikettierungsueberwachungsaufgabenuebertragungsgesetz", means "law delegating beef label monitoring".\n\n2. What does morbid mean?\nMorbid refers to someone who spends too much time thinking about death or disease.\n\n3. How long does it take to get to ISS?\nIt typically takes at least two days to reach the ISS, but using a new launch process, the trip can be made in just under ', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medi...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to each query based on the provided passages:\n\n1. **Why are psychrotrophic bacteria of concern?**\nPsychrotrophic bacteria are of concern because they can grow at low temperatures, such as 7°C, and their extracellular enzymes (proteases and lipases) can contribute to the spoilage of dairy products during cold storage.\n\n2. **What does Anzac Day commemorate?**\nAnzac Day commemorates all Australians and New Zealanders who served and died in all wars, conflicts, and peacekeeping operations, as well as the contribution and suffering of all those who have served.\n\n3. **Can', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth Here are the rewritten passages that answer each query:  **Query: weat...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the rewritten passages that answer each query:\n\n**Query: weather in los angeles in february**\nFebruary is the wettest month in Los Angeles, with half of the years receiving between 1.3 to 5 inches of rainfall. The city's rainfall is unpredictable, with one in four years being drier and another one in four being wetter. Overall, February is a great time to visit Los Angeles if you don't mind the possibility of rain.\n\n**Query: describe the functions of the alimentary canal nerve plexuses**\nThe alimentary canal, also known as the gastrointestinal tract, is a complex system that", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid bel...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the answers to the given queries based on the provided passages:\n\n1. **Who owns Crush soda?**: The passage doesn't explicitly state who currently owns Crush soda, but it mentions that Clayton J. Howell partnered with Neil C. Ward to create the Orange Crush Company in 1916.\n\n2. **Can newborn puppies drink water?**: No, according to the passage, newborn puppies do not drink water. They only suckle until they are 4-5 weeks old, at which point they start to show interest in water and puppy milk soaked kibble.\n\n3. **Sixflags.com Gurnee**: The passage seems", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determin...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "The social determinants of health refer to the non-medical factors that influence an individual's health outcomes and quality of life. These factors are shaped by the social, economic, and environmental conditions in which people are born, grow, live, work, and age. The World Health Organization (WHO) identifies several key social determinants of health, including socioeconomic status, education, employment, housing, food security, social support networks, and access to healthcare. Additionally, factors such as discrimination, violence, and environmental pollution can also impact health outcomes. These social determinants can have a significant impact on an individual's ability to maintain good health,", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? Here are the passages that answer the given q...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the passages that answer the given queries:\n\n1. Cooking time for pork loin roast in GE profile convection oven gas:\n\nTo determine the cooking time for a pork loin roast in a GE profile convection oven gas, it's essential to consider the size and thickness of the roast. As a general guideline, cook the pork loin roast at 325°F (165°C) in a convection oven, and use the following cooking times as a reference: 20-25 minutes per pound for a 1-2 pound roast, 25-30 minutes per pound for a 2-3 pound roast, and 30-", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes Here are the answers to each query based on the provided passages:  1. **Wh...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to each query based on the provided passages:\n\n1. **Who needs an installation floater?**\nThose who need an installation floater are artisan contractors, including electricians, plumbers, heating and air-conditioning contractors, and roofers, who perform small or routine work on existing buildings or structures.\n\n2. **How did the Amoco Cadiz happen?**\nThe Amoco Cadiz ran aground on Portsall Rocks, 5 km from the coast of Brittany, France, on March 16, 1978, and ultimately split in three and sank, resulting in the largest oil spill of its kind', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet Here are the answers to each query in the form of a passage:  **Query: How far ahead ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the answers to each query in the form of a passage:\n\n**Query: How far ahead of time can I sign up for Social Security?**\nYou can sign up for Social Security benefits as early as 61 years and 9 months of age, and your benefits can start in the next three months. However, it's recommended that you sign up for Medicare four months before your 65th birthday, even if you're not ready to retire. This allows you to ensure a smooth transition into Medicare coverage. You can find more information on the Social Security website, under the FAQs section.\n\n**Query: What is SB2 gravel", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

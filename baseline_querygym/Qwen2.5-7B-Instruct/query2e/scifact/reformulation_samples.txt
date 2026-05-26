@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 907):
+Original:     PGE 2 promotes intestinal tumor growth by altering the expression of tumor suppressing and DNA repair genes.
+Reformulated: PGE 2 promotes intestinal tumor growth by altering the expression of tumor suppressing and DNA repair genes. PGE 2 promotes intestinal tumor growth by altering the expression of tumor suppressing and ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Sure', 'here is a list of keywords related to the query "PGE 2 promotes intestinal tumor growth by altering the expression of tumor suppressing and DNA repair genes"', 'PGE2 (Prostaglandin E2)', 'Intestinal tumor', 'Tumor growth', 'Gene expression', 'Tumor suppressor genes', 'DNA repair genes', 'Oncogenic pathways', 'Cellular proliferation', 'Apoptosis inhibition', 'Inflammation', 'Signal transduction', 'Epithelial cells', 'Malignancy', 'Genetic'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 350):
+Original:     Discrimination between the initiator and elongation tRNAs depends on the translation initiation factor IF3.
+Reformulated: Discrimination between the initiator and elongation tRNAs depends on the translation initiation factor IF3. Discrimination between the initiator and elongation tRNAs depends on the translation initiat...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the query "Discrimination between the initiator and elongation tRNAs depends on the translation initiation factor IF3"', 'Translation initiation', 'Translation elongation', 'tRNA (transfer RNA)', 'Initiator tRNA', 'Elongation tRNA', 'IF3 (Initiation Factor 3)', 'Protein synthesis', 'Ribosome binding', 'Genetic code', 'Codon recognition', 'Aminoacyl-tRNA synthetase', 'Start codon', 'Methionine'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 230):
+Original:     Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink less that non-carries.
+Reformulated: Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink less that non-carries. Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink less that non-carries. Carriers...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the query "Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink less than non-carriers"', 'Alcohol', 'Aldehyde dehydrogenase', 'Mutation', 'Carrier', 'Non-carrier', 'Drinking behavior', 'Genetics', 'Metabolism', 'Alcohol dehydrogenase', 'ADH', 'Acetaldehyde', 'Health', 'Risk factors', 'Biochemistry', 'Ethanol', 'Enzyme'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 593):
+Original:     Incidence of heart failure decreased by 10% in women since 1979.
+Reformulated: Incidence of heart failure decreased by 10% in women since 1979. Incidence of heart failure decreased by 10% in women since 1979. Incidence of heart failure decreased by 10% in women since 1979. Incid...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords based on the provided query', 'Heart failure', 'Incidence', 'Decreased', 'Percentage', 'Women', 'Timeframe (since 1979)', 'Reduction', 'Trends', 'Epidemiology', 'Cardiovascular health'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1216):
+Original:     The extracellular domain of TMEM27 is cleaved in human beta cells.
+Reformulated: The extracellular domain of TMEM27 is cleaved in human beta cells. The extracellular domain of TMEM27 is cleaved in human beta cells. The extracellular domain of TMEM27 is cleaved in human beta cells....
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here\'s a list of keywords related to the query "The extracellular domain of TMEM27 is cleaved in human beta cells"', 'TMEM27', 'Extracellular domain', 'Cleavage', 'Human beta cells', 'Insulin secretion', 'Pancreatic beta cells', 'Endopeptidase', 'Glycoprotein', 'Protein processing', 'Signal peptide', 'Membrane protein', 'Glucose metabolism', 'Islets of Langerhans', 'Cell signaling', 'Diabetes'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1337):
+Original:     Ubiquitin ligase UBC13 generates a K63-linked polyubiquitin moiety at PCNA K164.
+Reformulated: Ubiquitin ligase UBC13 generates a K63-linked polyubiquitin moiety at PCNA K164. Ubiquitin ligase UBC13 generates a K63-linked polyubiquitin moiety at PCNA K164. Ubiquitin ligase UBC13 generates a K63...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords for the given query', 'Ubiquitin ligase', 'UBC13', 'Polyubiquitin', 'K63-linked', 'PCNA', 'K164', 'Ubiquitination', 'Protein complex', 'DNA replication', 'E3 ligase', 'Ubiquitin chain', 'Post-translational modification', 'DNA damage response', 'Cell cycle regulation', 'DNA repair', 'Histone modification', 'Ubiqu'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 232):
+Original:     Cataract and trachoma are the primary cause of blindness in Southern Sudan.
+Reformulated: Cataract and trachoma are the primary cause of blindness in Southern Sudan. Cataract and trachoma are the primary cause of blindness in Southern Sudan. Cataract and trachoma are the primary cause of b...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the query "Cataract and trachoma are the primary cause of blindness in Southern Sudan"', 'Cataract', 'Trachoma', 'Blindness', 'Southern Sudan', 'Causes of blindness', 'Ophthalmology', 'Eye diseases', 'Public health', 'Blindness prevention', 'Vision impairment', 'Medical conditions', 'Epidemiology', 'Health issues', 'Developing countries', 'Healthcare access', 'Eye care', 'Preventive medicine'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1336):
+Original:     UCB T cells reduce TCR diversity after transplantation.
+Reformulated: UCB T cells reduce TCR diversity after transplantation. UCB T cells reduce TCR diversity after transplantation. UCB T cells reduce TCR diversity after transplantation. UCB T cells reduce TCR diversity...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Sure', 'here is a list of keywords related to the query "UCB T cells reduce TCR diversity after transplantation"', 'UCB T cells', 'TCR (T-cell receptor)', 'Diversity', 'Transplantation', 'Immune system', 'Hematopoietic stem cells', 'Stem cell transplantation', 'Immune reconstitution', 'T-cell repertoire', 'Immune response', 'Bone marrow transplantation', 'Immunology', 'Transplant immunology', 'T-cell development', 'Immune tolerance'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 233):
+Original:     Cell autonomous sex determination in somatic cells does not occur in Galliformes.
+Reformulated: Cell autonomous sex determination in somatic cells does not occur in Galliformes. Cell autonomous sex determination in somatic cells does not occur in Galliformes. Cell autonomous sex determination in...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Sure', 'here are some keywords related to the query "Cell autonomous sex determination in somatic cells does not occur in Galliformes"', 'Cell autonomous sex determination', 'Somatic cells', 'Sex determination', 'Galliformes', 'Avian biology', 'Sex chromosomes', 'Genomic imprinting', 'Sexual development', 'ZW sex determination', 'XY sex determination', 'Hormonal regulation', 'Chromosomal inheritance', 'Genetic sex determination', 'Sexually dimorphic traits', 'Gene expression', 'Gon'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 354):
+Original:     Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigenesis.
+Reformulated: Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigenesis. Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigen...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the query "Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigenesis"', 'Scribble', 'Downregulation', 'Mislocalization', 'Cell transformation', 'Mammary tumorigenesis', 'Cancer', 'Oncogenesis', 'Tumor suppression', 'Cell signaling', 'Cell adhesion', 'Apoptosis', 'Epithelial cells', 'Cell polarity', 'Protein localization', 'Tissue homeostasis'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

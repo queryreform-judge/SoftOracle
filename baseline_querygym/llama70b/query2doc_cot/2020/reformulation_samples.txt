@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 23849):
+Original:     are naturalization records public information
+Reformulated: are naturalization records public information are naturalization records public information are naturalization records public information are naturalization records public information are naturalizati...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer whether naturalization records are public information, we need to consider a few key points:\n\n1. **Definition and Purpose**: Naturalization records document the process by which a person becomes a citizen of a country. These records contain significant personal information, including the individual's birth date, place of birth, residence history, and sometimes, immigration details. The primary purpose of these records is to verify an individual's legal right to citizenship.\n\n2. **Access Restrictions**: Governments often regulate access to naturalization records to protect individual privacy and maintain national security. Some information might be withheld or require a court order to access, especially if it involves sensitive", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 156498):
+Original:     do google docs auto save
+Reformulated: do google docs auto save do google docs auto save do google docs auto save do google docs auto save do google docs auto save To answer this question, we need to consider the features and functionaliti...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer this question, we need to consider the features and functionalities of Google Docs, which is a word processing and document management tool offered by Google within its Google Drive service. Google Docs is designed to provide real-time collaboration, cloud storage, and automatic saving to ensure that work is not lost due to lack of manual saving or unexpected shutdowns.\n\nGiven these considerations, the rationale for determining whether Google Docs auto-save is as follows:\n1. **Cloud-Based Nature**: Since Google Docs is a cloud-based application, it inherently supports features that ensure data integrity and availability, such as auto-save.\n2. **Collaboration Features**: The real', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 258062):
+Original:     how long does it take to remove wisdom tooth
+Reformulated: how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it tak...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer the question "how long does it take to remove a wisdom tooth," we must consider several factors that can influence the duration of the procedure. These factors include:\n\n1. **Complexity of the Procedure**: The complexity of the wisdom tooth removal can significantly affect the duration. Wisdom teeth that are fully erupted and easily accessible can be removed more quickly than those that are impacted, meaning they are partially or completely covered by gum and bone tissue.\n\n2. **Anesthesia and Sedation**: The type of anesthesia or sedation used can also impact the overall time. Local anesthesia, which numbs the area around the tooth, has a faster', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1071750):
+Original:     why is pete rose banned from hall of fame
+Reformulated: why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hal...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer this question, we need to consider the rules and regulations of the National Baseball Hall of Fame, as well as the specific circumstances surrounding Pete Rose's career and the reasons for his ban.\n\nThe rationale for answering this question involves understanding the following points:\n\n1. **Eligibility criteria for the Hall of Fame**: The National Baseball Hall of Fame has specific rules regarding who is eligible for induction, including requirements for playing career, contributions to the game, and character.\n2. **Pete Rose's career and achievements**: Pete Rose is one of the most accomplished players in baseball history, with numerous records and awards to his name.\n3", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 67316):
+Original:     can fever cause miscarriage early pregnancy
+Reformulated: can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarri...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To address whether fever can cause miscarriage in early pregnancy, it's essential to consider how the body responds to fever and its potential impact on a developing pregnancy.\n\n1. **Understanding Fever**: Fever is an elevation in body temperature, typically above 100.4°F (38°C), and is usually a response to infection or illness. It can be caused by various factors, including viral or bacterial infections.\n\n2. **Body's Response to Fever**: When the body experiences fever, it initiates an immune response to fight off the invading organism. This response can include the release of various chemical signals and changes in the body's environment that may", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 169208):
+Original:     does mississippi have an income tax
+Reformulated: does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax To answer whether Mi...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer whether Mississippi has an income tax, let's consider the following steps:\n\n1. **Understanding Income Tax**: Income tax is a type of tax that governments impose on individuals or entities (taxpayers) based on the income or profits they receive within a tax year. It can be levied at the federal, state, or local level.\n\n2. **State-Level Income Taxes**: In the United States, states have the authority to impose their own income taxes in addition to the federal income tax. The way each state taxes income varies significantly, with some states having no income tax at all.\n\n3. **Mississippi's Taxation", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 938400):
+Original:     when did family feud come out?
+Reformulated: when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? To answer the question of when Family Feud ca...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer the question of when Family Feud came out, we need to look at the history of the game show. Family Feud is a popular American television game show where two families compete to name the most popular responses to survey questions in order to win cash and prizes. The show has a long history, with several versions and revivals over the years.\n\nGiven this context, the answer to when Family Feud first came out would be based on the premiere date of the original version of the show.\n\nThe original version of Family Feud premiered on July 12, 1976.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1108651):
+Original:     what the best way to get clothes white
+Reformulated: what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white To de...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To determine the best way to get clothes white, we need to consider several factors, including the type of fabric, the level of whiteness desired, and any potential risks of damaging the fabric. Here are some key points to consider:\n\n1. **Fabric Type**: Different fabrics respond better to different whitening methods. For example, cotton and linen can typically withstand harsher treatments than silk or wool.\n2. **Stain Type**: The type of stain (e.g., grass, grease, ink) can affect the choice of whitening method. Some stains may require pre-treatment before washing.\n3. **Desired Level of', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1037496):
+Original:     who is rep scalise?
+Reformulated: who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? To answer the query "who is Rep Scalise?", I need to identify the context and possible references to...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer the query "who is Rep Scalise?", I need to identify the context and possible references to the name "Scalise" in the realm of politics, as "Rep" is an abbreviation for Representative, often used to address members of the U.S. House of Representatives.\n\nRationale:\n- The title "Rep" suggests the person in question is a politician, specifically a member of the House of Representatives in the United States Congress.\n- The name "Scalise" needs to be matched with a known figure in U.S. politics, particularly someone who has been or is currently a Representative.\n\nGiven these considerations, the', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 1064670):
+Original:     why do hunters pattern their shotguns?
+Reformulated: why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? To an...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer this question, we should consider the purpose of patterning a shotgun and the benefits it provides to hunters. The rationale behind patterning a shotgun is to understand how the shotgun shells will spread and distribute their pellets at different distances, allowing hunters to optimize their aim and increase their chances of a successful shot. This involves analyzing the shotgun's performance and making adjustments as necessary to ensure the best possible results in various hunting scenarios.\n\nWith this in mind, the answer to the question is:\n\nHunters pattern their shotguns to determine the spread of the shotgun pellets at different ranges, which helps them understand the shotgun's effective range, choose the", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

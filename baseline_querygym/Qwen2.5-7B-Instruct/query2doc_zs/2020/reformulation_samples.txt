@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 23849):
+Original:     are naturalization records public information
+Reformulated: are naturalization records public information are naturalization records public information are naturalization records public information are naturalization records public information are naturalizati...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Naturalization records in the United States are generally considered public information, although the extent of their accessibility can vary depending on the specific record and the agency holding the information. The U.S. Citizenship and Immigration Services (USCIS) maintains these records and makes them available to the public through various means, including the National Archives and Records Administration (NARA). Individuals or entities can request copies of naturalization records through USCIS's online system or by submitting a form directly.\n\nHowever, there are certain protections in place to preserve privacy. For instance, under the Privacy Act of 1974, personal information about an individual, such as", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 156498):
+Original:     do google docs auto save
+Reformulated: do google docs auto save do google docs auto save do google docs auto save do google docs auto save do google docs auto save Google Docs automatically saves your work as you type, ensuring that your d...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Google Docs automatically saves your work as you type, ensuring that your documents are saved frequently without any manual intervention on your part. This feature is designed to minimize data loss in case of unexpected interruptions such as power outages, network issues, or system crashes. Whenever you make changes to your document, Google Docs saves them in the cloud, and you can see a timestamp indicating the last time your document was saved. Additionally, you have the option to take advantage of Google's real-time collaboration features, which also rely on this auto-save functionality to ensure all users see the most up-to-date version of the document in real time. This automatic saving", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 258062):
+Original:     how long does it take to remove wisdom tooth
+Reformulated: how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it tak...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The time it takes to remove a wisdom tooth can vary depending on several factors, including the complexity of the extraction, the position of the tooth, and whether the tooth is impacted or not. Generally, the process of removing a wisdom tooth can be broken down into a few key stages, each of which can take different amounts of time.\n\n1. **Preparation and Consultation**: Before the actual extraction, your dentist will conduct a thorough examination, which may include X-rays to assess the position and condition of the tooth. This step can take anywhere from 15 minutes to an hour, depending on the complexity of the case and the need', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1071750):
+Original:     why is pete rose banned from hall of fame
+Reformulated: why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hal...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Pete Rose's ban from the Baseball Hall of Fame is rooted in his controversial career decision to bet on baseball games while he was still an active player. This issue came to light after his retirement, leading to a scandal and subsequent investigation. The primary reason for his ban is his involvement in gambling, which is considered unethical behavior by Major League Baseball (MLB). According to MLB rules, betting on games while a player is under contract is strictly prohibited and can lead to severe penalties, including lifetime bans from the game.\n\nThe scandal broke when Pete Rose was photographed near a casino and later admitted to gambling and betting on baseball games. His actions", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 67316):
+Original:     can fever cause miscarriage early pregnancy
+Reformulated: can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarri...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Fever during early pregnancy can indeed pose certain risks, including the potential for complications such as miscarriage or other health issues in the developing fetus. However, it's important to note that not all fevers will necessarily lead to miscarriage. The severity and duration of the fever, as well as the individual's overall health, play significant roles in determining the risk.\n\nIn early pregnancy, the developing embryo is particularly sensitive to environmental factors, including infections and high temperatures. A high fever (typically defined as a temperature of 102°F or 39°C or higher) can affect the body's metabolism and blood flow, which might", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 169208):
+Original:     does mississippi have an income tax
+Reformulated: does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax Mississippi does not...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Mississippi does not have an income tax imposed on individuals for state taxes. Unlike many other states in the United States, Mississippi relies primarily on sales taxes and property taxes as its main sources of revenue. The state has a flat sales tax rate of 7%, which is one of the highest among U.S. states. Additionally, local governments within Mississippi can impose their own sales taxes, which can vary from place to place, often adding to the total sales tax rate in a particular area. Property taxes also play a significant role in Mississippi's fiscal structure, with these taxes varying based on the assessed value of properties. For residents and businesses in", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 938400):
+Original:     when did family feud come out?
+Reformulated: when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? Family Feud, the popular trivia-based game sh...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Family Feud, the popular trivia-based game show, first made its debut in 1976 on CBS. The original version was created and hosted by Richard Dawson, who became a household name due to his role as the delivery man in the iconic TV commercial for Wilson tennis rackets. Family Feud has since gone through several iterations and is currently seen in various formats across different countries. In the United States, the show is produced by Fremantle and is known for its humorous approach to trivia questions, where the top two responses from a survey of 100 people are used as answer choices. The show has maintained its', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1108651):
+Original:     what the best way to get clothes white
+Reformulated: what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white To ac...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'To achieve the whitest whites in your laundry, consider following these steps and tips for optimal results:\n\n1. **Sort Laundry Properly**: Before starting, separate whites from colors and darks. White clothes should be sorted based on fabric type (cotton, linen, silk, etc.) and the level of whiteness required.\n\n2. **Pre-Treat Stains**: Before washing, pre-treat any stains with a stain remover or a solution of liquid laundry detergent and water. Let it sit for at least 5 minutes before proceeding with the wash cycle.\n\n3. **Use the Right Detergent**: Opt for a high', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1037496):
+Original:     who is rep scalise?
+Reformulated: who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? Rep Scalise, whose full name is Steve Scalise, is a prominent American politician and the current Ho...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Rep Scalise, whose full name is Steve Scalise, is a prominent American politician and the current House Majority Whip for the Republican Party in the United States House of Representatives. He represents Louisiana's 4th congressional district. Scalise entered Congress in 2013 and has since been a vocal advocate for conservative policies and a key figure in the Republican leadership. On July 6, 2017, Scalise was shot during a practice for the annual Congressional Baseball Game in Alexandria, Virginia. He was critically injured but later recovered and continued his political career. Throughout his tenure, he has been involved in various legislative efforts", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 1064670):
+Original:     why do hunters pattern their shotguns?
+Reformulated: why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? Hunte...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Hunters pattern their shotguns to optimize the spread and density of shot patterns at specific distances, ensuring they can effectively hit their target, such as birds or small game animals. This process involves firing multiple rounds through the shotgun with a consistent load of shot pellets and measuring the distribution of these pellets on a target placed at various distances from the gun. The goal is to achieve a pattern where the shot clumps tightly enough to maximize the chance of hitting the intended target while minimizing the risk of overpenetration or missing entirely.\n\nThe patterning of a shotgun helps hunters understand its ballistic characteristics, which vary depending on the type of shotgun, choke', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

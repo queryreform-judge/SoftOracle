@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  msmarco-v1-passage.trecdl2020
+Method:   mugi
+Model:    meta-llama/llama-3.3-70b-instruct:floor
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 1m 56.5s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 1m 40.2s
+  retrieval      : 12.1s
+  evaluation     : 4.2s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  map                      : 0.4571
+  ndcg_cut_10              : 0.6654
+  recall_1000              : 0.8907
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/llama70b_2/mugi/2020

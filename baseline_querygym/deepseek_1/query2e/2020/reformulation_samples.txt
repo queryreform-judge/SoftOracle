@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 23849):
+Original:     are naturalization records public information
+Reformulated: are naturalization records public information are naturalization records public information are naturalization records public information are naturalization records public information are naturalizati...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for your query about whether naturalization records are public information', '### **Primary Keywords:**', 'Naturalization records', 'Public records', 'U.S. citizenship records', 'Immigration documents', 'Genealogy records', '### **Secondary Keywords:**', 'Are naturalization records public', 'Accessing citizenship records', 'USCIS naturalization files', 'National Archives naturalization records', 'Freedom of Information Act (FOIA) and immigration records', 'Privacy restrictions on naturalization records', 'How to find naturalization documents', 'Historical immigration records', '### **Related Legal & Government Terms:**'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 156498):
+Original:     do google docs auto save
+Reformulated: do google docs auto save do google docs auto save do google docs auto save do google docs auto save do google docs auto save Here’s a list of relevant keywords for the query **"do Google Docs auto sav...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for the query **"do Google Docs auto save"**', '**Google Docs autosave**', '**Does Google Docs save automatically**', '**Google Docs auto-save feature**', '**How does Google Docs save work**', '**Google Docs real-time saving**', '**Google Drive auto-save documents**', '**Is Google Docs saved instantly**', '**Google Docs version history**', '**Recover unsaved Google Docs**', '**Google Docs offline saving**', '**Google Docs'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 258062):
+Original:     how long does it take to remove wisdom tooth
+Reformulated: how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it tak...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for your query **"how long does it take to remove wisdom tooth"**', '### **Primary Keywords:**', 'Wisdom tooth removal time', 'How long wisdom tooth extraction takes', 'Duration of wisdom tooth surgery', 'Time for wisdom teeth removal', '### **Secondary Keywords:**', 'Simple vs. surgical extraction time', 'Impacted wisdom tooth removal duration', 'Wisdom tooth extraction procedure length', 'Recovery time after wisdom tooth removal', '### **Long-Tail & Related Keywords:**', 'How many minutes does wisdom tooth extraction take', 'Does removing a wisdom tooth take long'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1071750):
+Original:     why is pete rose banned from hall of fame
+Reformulated: why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hal...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ["Here’s a list of relevant keywords for your query about Pete Rose's ban from the Baseball Hall of Fame", '### **Primary Keywords:**', 'Pete Rose', 'Hall of Fame ban', 'MLB ban', 'Baseball Hall of Fame exclusion', 'Pete Rose gambling', '### **Secondary Keywords (Related Topics):**', 'Pete Rose betting scandal', 'MLB gambling rules', 'Charlie Hustle banned', 'Bart Giamatti Pete Rose', 'Dowd Report', 'Lifetime ban baseball', 'Pete Rose reinstatement attempts', 'MLB commissioner ban', '### **Long-Tail Keywords (More Specific Searches):**'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 67316):
+Original:     can fever cause miscarriage early pregnancy
+Reformulated: can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarri...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for your query', '### **Medical & Health Keywords:**', 'Fever', 'Miscarriage', 'Early pregnancy', 'First trimester', 'Pregnancy complications', 'High temperature', 'Hyperthermia', 'Infection', 'Viral fever', 'Bacterial infection', '### **Risk & Causes Keywords:**', 'Fever-induced miscarriage', 'Can fever cause miscarriage', 'Fever and pregnancy risks', 'Core body temperature pregnancy', 'Heat exposure miscarriage', 'Febrile illness pregnancy', 'Fever during first trimester dangers'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 169208):
+Original:     does mississippi have an income tax
+Reformulated: does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax Here’s a list of rel...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for your query', '**Mississippi income tax**', '**Does Mississippi tax income**', '**Mississippi state tax**', '**Income tax in Mississippi**', '**MS tax rates**', '**Mississippi tax brackets**', '**Is Mississippi tax-free**', '**Mississippi no income tax**', '**Mississippi tax laws**', '**Taxes in Mississippi**', '**Mississippi payroll tax**', '**MS state income tax**', '**Mississippi tax exemptions'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 938400):
+Original:     when did family feud come out?
+Reformulated: when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? Here’s a list of relevant keywords for the qu...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for the query **"when did family feud come out?"**', '**Family Feud release date**', '**Family Feud premiere date**', '**When did Family Feud start?**', '**Original Family Feud air date**', '**Family Feud first episode**', '**Family Feud debut year**', '**Family Feud TV show origin**', '**Steve Harvey Family Feud start**', '**Richard Dawson Family Feud**', '**Classic Family Feud first aired**', 'These keywords can help refine searches for the show'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1108651):
+Original:     what the best way to get clothes white
+Reformulated: what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white Here’...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for your query **"what the best way to get clothes white"**', '### **Primary Keywords:**', 'Whitening clothes', 'Brighten white clothes', 'Remove stains from white clothes', 'Best laundry whitening methods', 'How to keep clothes white', '### **Secondary Keywords:**', 'Bleach alternatives for whites', 'Natural whitening solutions (e.g', 'baking soda', 'vinegar', 'hydrogen peroxide)', 'Laundry stripping for whites', 'Whitening detergent recommendations', 'Sun bleaching clothes', '### **Long-Tail Keywords:**', 'How to get yellow stains out of white'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1037496):
+Original:     who is rep scalise?
+Reformulated: who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? Here’s a list of relevant keywords for the query **"who is rep scalise?"** **Steve Scalise** **Repre...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for the query **"who is rep scalise?"**', '**Steve Scalise**', '**Representative Scalise**', '**House Majority Leader Scalise**', '**Louisiana Congressman**', '**Republican Leader Scalise**', '**Scalise biography**', '**Scalise political career**', '**Scalise House of Representatives**', '**Scalise GOP leader**', '**Scalise shooting incident**', '**Scalise policies**', '**Scalise district (LA-'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 1064670):
+Original:     why do hunters pattern their shotguns?
+Reformulated: why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? Here’...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for your query', '### **Primary Keywords:**', 'Shotgun patterning', 'Why pattern a shotgun', 'Shotgun choke patterns', 'Hunting shotgun accuracy', 'Shotgun pellet spread', '### **Secondary Keywords:**', 'Best distance for shotgun patterning', 'How to pattern a shotgun', 'Shotgun pattern testing', 'Hunting accuracy with shotguns', 'Shotgun shell performance', '### **Related Terms:**', 'Shotgun choke effect on pattern', 'Optimal shotgun range for hunting', 'Improving shotgun hunting success', 'Shotgun pellet distribution', 'Choosing the right shotgun load', 'These keywords'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

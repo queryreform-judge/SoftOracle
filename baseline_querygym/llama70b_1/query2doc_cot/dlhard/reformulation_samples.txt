@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 915593):
+Original:     what types of food can you cook sous vide
+Reformulated: what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer this query, we should consider the principles of sous vide cooking, which involves sealing food in airtight bags and cooking it in a water bath at a precisely controlled temperature. This method allows for even cooking and can help retain the food's natural flavors and textures.\n\nGiven these principles, the following considerations are key:\n\n1. **Moisture Content**: Sous vide is particularly well-suited for foods that have a high moisture content, as these tend to cook more evenly and retain their texture better when cooked in this manner.\n2. **Size and Shape**: The food should be able to fit into a sous vide bag or container", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 794429):
+Original:     what is sculpture shape space
+Reformulated: what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space To answer the question "what is sculpture shape sp...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer the question "what is sculpture shape space," let\'s consider the fundamental concepts involved:\n\n1. **Understanding Sculpture**: Sculpture is a branch of the visual arts that operates in three dimensions. It is one of the plastic arts. Durable sculptural processes originally used carving (the removal of material) and modelling (the addition of material, as clay), in stone, metal, ceramics, wood, and other materials but, since Modernism, there has been an almost complete freedom of materials and process. A wide variety of materials may be worked by removal such as carving, assembled by welding or modelling, or molded, or', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 801118):
+Original:     what is supplemental security income used for
+Reformulated: what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is suppleme...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer this question, let's consider the following rationale:\n\n1. **Understanding the Program's Purpose**: Supplemental Security Income (SSI) is a program administered by the Social Security Administration (SSA). The primary goal of SSI is to provide financial assistance to individuals who are disabled, blind, or elderly and have limited income and resources.\n\n2. **Eligibility Criteria**: Eligibility for SSI is based on the individual's income, resources, and disability or age status. Unlike Social Security Disability Insurance (SSDI), which requires work credits, SSI does not have a work history requirement. This means that individuals who have", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 190044):
+Original:     foods to detox liver naturally
+Reformulated: foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally **Rationale:** The liver plays a vital role i...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "**Rationale:**\nThe liver plays a vital role in our body's detoxification process, filtering toxins from the blood, processing nutrients, and aiding in the elimination of waste products. A well-functioning liver is essential for overall health and well-being. However, due to various factors such as environmental pollutants, poor diet, and lifestyle choices, the liver can become overburdened, leading to impaired function and increased toxicity in the body. Detoxifying the liver naturally through dietary changes can help support its function, promote overall health, and even aid in the prevention of liver diseases. The goal is to identify foods that have been shown", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 451602):
+Original:     medicare's definition of mechanical ventilation
+Reformulated: medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer this query, I need to understand the context and the specific guidelines provided by Medicare regarding mechanical ventilation. Mechanical ventilation is a life-support treatment used for patients with respiratory failure, and it's crucial to know how Medicare defines and covers this treatment.\n\nRationale:\nMedicare's definition of mechanical ventilation is crucial because it determines the coverage and reimbursement for patients who require this treatment. Understanding the specific criteria and guidelines set by Medicare is essential for healthcare providers, patients, and families to navigate the complex healthcare system and ensure that patients receive the necessary treatment while minimizing potential financial burdens.\n\nGiven the complexity of Medicare guidelines and the ever-evolving nature of", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 177604):
+Original:     eating foods that are considered warm
+Reformulated: eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm To address...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To address this query, let\'s first understand what is meant by "warm" foods in a dietary or nutritional context. Typically, when discussing foods in terms of being "warm" or "cold," it\'s not about their temperature but rather their perceived effect on the body according to traditional practices such as Traditional Chinese Medicine (TCM). In TCM, foods are classified as either "warm" (or hot) or "cool" (or cold) based on their energetic properties and how they influence the body\'s balance, or "qi."\n\n- **Warm** or **hot** foods are believed to increase the body\'s energy, stimulate', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 966413):
+Original:     where are the benefits of cinnamon as a supplement?
+Reformulated: where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supp...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer the query about the benefits of cinnamon as a supplement, we need to consider the properties and historical uses of cinnamon, as well as the scientific research available on its potential health benefits.\n\nCinnamon, derived from the bark oftrees in the genus Cinnamomum, has been used for centuries in traditional medicine for its warming, anti-inflammatory, and antimicrobial properties. It is rich in antioxidants and contains compounds such as cinnamaldehyde, which is believed to be responsible for many of its health benefits.\n\nKey areas where cinnamon has shown promise include:\n\n1. **Blood Sugar Control**: Cinnamon has been studied for its', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 588587):
+Original:     what causes heavy metal toxins in your body
+Reformulated: what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To address the question of what causes heavy metal toxins in the body, we must first understand what heavy metals are and how they can become toxic to humans.\n\n**Rationale:**\n\n1. **Definition of Heavy Metals**: Heavy metals are naturally occurring elements that have a high density and are toxic at low concentrations. Examples include lead, mercury, arsenic, cadmium, and chromium.\n\n2. **Sources of Exposure**: Heavy metals can enter the body through various means. These include contaminated food and water, polluted air, and certain products that contain heavy metals like cosmetics, batteries, and old paint.\n\n3. **Bioaccumulation**: Heavy', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1108939):
+Original:     what slows down the flow of blood
+Reformulated: what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood To answer this question, let's...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer this question, let's first consider the basic principles of blood flow within the circulatory system. Blood flow is essentially the movement of blood through the blood vessels (arteries, veins, and capillaries) and is crucial for delivering oxygen and nutrients to tissues and removing waste products. Several factors can influence blood flow, including blood pressure, vessel diameter, and the viscosity (thickness) of blood itself.\n\n1. **Blood Vessel Diameter**: Narrower vessels (vasoconstriction) increase resistance to blood flow, thereby slowing it down. Conversely, wider vessels (vasodilation) reduce resistance and can speed up blood flow", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 507445):
+Original:     symptoms of different types of brain bleeds
+Reformulated: symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different ty...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To address the query regarding the symptoms of different types of brain bleeds, it's essential to understand the underlying causes and how they affect brain function. Brain bleeds, also known as intracranial hemorrhages, occur when there is bleeding within the brain tissue or the spaces surrounding the brain. The symptoms can vary significantly depending on the location, size, and rate of the bleed, as well as the individual's overall health.\n\nThere are several types of brain bleeds, each with distinct symptoms:\n\n1. **Intracerebral Hemorrhage (ICH):** This occurs when there is bleeding directly into the brain tissue.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

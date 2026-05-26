@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 915593):
+Original:     what types of food can you cook sous vide
+Reformulated: what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Passage: Sous vide, which translates to "under vacuum" in French, is a cooking method where food is sealed in a vacuum-sealed bag and then cooked in a water bath at a precise temperature. This technique allows for consistent and even cooking, preserving the flavor, texture, and moisture of the ingredients. The type of food you can cook sous vide is quite diverse and includes:\n\n1. **Meats**: Beef, chicken, pork, lamb, and veal can be cooked to perfect doneness with this method. Sous vide is especially useful for achieving a perfectly seared crust on meats without overcooking the inside.\n\n2', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 794429):
+Original:     what is sculpture shape space
+Reformulated: what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space The term "sculpture shape space" refers to the con...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The term "sculpture shape space" refers to the concept in sculptural art where artists explore and manipulate the three-dimensional form of objects within their work. Sculptures are three-dimensional art forms that occupy physical space, and the way they are shaped can greatly influence how they interact with that space. Artists consider various elements such as volume, mass, texture, and spatial relationships when creating sculptures. By manipulating these elements, artists can create works that engage with the surrounding environment and elicit specific responses from viewers. This exploration of form and space allows for a rich and dynamic interaction between the sculpture and the viewer, enhancing the overall aesthetic experience and', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 801118):
+Original:     what is supplemental security income used for
+Reformulated: what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is suppleme...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Supplemental Security Income (SSI). Supplemental Security Income (SSI) is a government program designed to provide financial assistance to aged, blind, or disabled individuals who have limited income and resources. SSI is managed by the Social Security Administration (SSA) and is intended to help beneficiaries meet their basic needs such as food, clothing, and shelter. The funds received through SSI can be used to cover various expenses, including but not limited to rent, utilities, groceries, and medical costs. Recipients must meet specific eligibility criteria based on their income, resources, and age or disability status to qualify for SSI benefits.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 190044):
+Original:     foods to detox liver naturally
+Reformulated: foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally Foods to Detox the Liver Naturally  Detoxifyi...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Foods to Detox the Liver Naturally\n\nDetoxifying your liver through diet can be an effective way to support its function and overall health. Here are some foods that can help promote liver detoxification:\n\n1. **Leafy Greens**: Foods like spinach, kale, and collard greens are rich in vitamins, minerals, and antioxidants that can aid in liver detoxification.\n\n2. **Citrus Fruits**: Oranges, grapefruits, and lemons are high in vitamin C and other antioxidants that help the liver process toxins more efficiently.\n\n3. **Cruciferous Vegetables**: Broccoli, cauliflower, and Brussels spr', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 451602):
+Original:     medicare's definition of mechanical ventilation
+Reformulated: medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Medicare's Definition of Mechanical Ventilation: Mechanical ventilation is a form of respiratory support provided to patients who are unable to breathe adequately on their own. Under Medicare's coverage policies, mechanical ventilation refers to the use of a ventilator—a machine that helps the patient breathe by moving air into and out of the lungs. This service is typically covered when it is medically necessary and ordered by a physician for the treatment of conditions such as acute respiratory failure, neuromuscular disorders, or severe pneumonia. Medicare evaluates the necessity of mechanical ventilation based on the patient's medical condition, the duration of the need, and other relevant factors. Coverage may include", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 177604):
+Original:     eating foods that are considered warm
+Reformulated: eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm Andre Le B...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Andre Le Breton was a French publisher active in the mid-18th century. He is best known for his involvement in the publication of the French translation of Ephraim Chambers' Cyclopaedia. In 1745, Le Breton approached philosopher and encyclopedist Denis Diderot with a proposal to translate and publish the English encyclopedia in French. This project was part of a larger endeavor to create a comprehensive and accessible body of knowledge, reflecting Enlightenment ideals.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 966413):
+Original:     where are the benefits of cinnamon as a supplement?
+Reformulated: where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supp...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The benefits of cinnamon as a supplement can be found in various aspects of health and well-being. Cinnamon, derived from the inner bark of several tree species in the genus Cinnamomum, has been used for centuries in traditional medicine and culinary applications. Here are some potential advantages:\n\nCinnamon is rich in antioxidants, which help combat oxidative stress and reduce inflammation in the body. This can contribute to improved overall health and potentially lower the risk of chronic diseases. Some studies suggest that cinnamon may also aid in blood sugar control, making it beneficial for individuals with diabetes or those at risk of developing the condition. It is believed to improve insulin', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 588587):
+Original:     what causes heavy metal toxins in your body
+Reformulated: what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Heavy metal toxins can enter the body through various means and factors. One of the primary causes includes exposure to contaminated soil, water, and air, often due to industrial pollution and mining activities. Another significant source is the consumption of foods grown in contaminated soil or fish from polluted water bodies. Additionally, certain medical procedures, such as kidney dialysis using contaminated water, and traditional practices like the use of cosmetics containing toxic metals can contribute to the accumulation of heavy metals in the body. Occupational exposure in industries like smelting, battery manufacturing, and painting also poses a risk. Reducing exposure through environmental regulation, personal protective measures, and dietary choices', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1108939):
+Original:     what slows down the flow of blood
+Reformulated: what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood Several factors can slow down ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Several factors can slow down the flow of blood through the circulatory system. One such factor is vasoconstriction, which is the narrowing of blood vessels caused by smooth muscle contractions within the vessel walls. This reduces the diameter of the blood vessels, making it harder for blood to flow through them. Vasoconstriction can be triggered by various conditions, including cold temperatures, certain medications, and hormonal changes.\n\nAnother factor is increased viscosity of the blood itself. This can occur due to an increase in the concentration of red blood cells, platelets, or other components, often seen in conditions such as polycythemia (an abnormal', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 507445):
+Original:     symptoms of different types of brain bleeds
+Reformulated: symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different ty...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Symptoms of Different Types of Brain Bleeds:\nA brain bleed, also known as a cerebral hemorrhage, can be caused by various factors such as high blood pressure, head injuries, or other medical conditions. The symptoms can vary depending on the type and severity of the bleed, but some common signs include:\n\n- Sudden headache, often described as the "worst headache of your life"\n- Nausea and vomiting\n- Dizziness or loss of balance\n- Confusion or difficulty understanding others\n- Weakness or numbness in the face, arm, or leg, particularly on one side of the body\n- Difficulty speaking', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

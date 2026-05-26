@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 915593):
+Original:     what types of food can you cook sous vide
+Reformulated: what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the answers to the given queries in passage form:\n\n**Query: Can a CT scan reveal a concussion?**\nA CT scan is not typically effective in revealing a concussion. Concussions are usually injuries that do not show up on most imaging tests, including CT scans and MRI exams. This is because concussions are often functional injuries, rather than structural ones, meaning they affect the brain's function rather than its physical structure. As a result, CT scans and other imaging tests may appear normal even if a person has suffered a concussion.\n\n**Query: What type of doctor to see for polycythemia vera?**\nIf you have", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 794429):
+Original:     what is sculpture shape space
+Reformulated: what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space It appears you've provided a series of queries wit...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "It appears you've provided a series of queries with their respective passages to answer them. Let's address each query based on the given information:\n\n1. **Where are the receptors for lipid-soluble hormones found?**\n   - The receptors for lipid-soluble hormones are found on or in the cell membrane.\n\n2. **Who is Lisa and Lena?**\n   - Lisa and Lena are famous German Musical.ly stars and social media personalities known for their videos on Musical.ly.\n\n3. **Hertz Belgium**\n   - This query seems to be about Hertz in Brussels, which is the capital of Belgium. Brussels has a population of", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 801118):
+Original:     what is supplemental security income used for
+Reformulated: what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is suppleme...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the answers to the given queries based on the provided passages:\n\n1. When do CMA's come on?\nThe CMA Awards will air on Wednesday, November 2, 2016, on the ABC Television Network.\n\n2. Who was John Hay?\nJohn Hay was an American diplomat who was born in Salem, Indiana, and served as a private secretary of President Abraham Lincoln.\n\n3. Where is Tarusa in Russia?\nTarusa is a town located in Kaluga Oblast, Russia, on the left bank of the Oka River, 76 kilometers northeast of Kaluga.\n\n4. What stone represents love?\nThe", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 190044):
+Original:     foods to detox liver naturally
+Reformulated: foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally Here are the answers to each query:  1. What ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to each query:\n\n1. What does the figurative language help the reader understand?\nFigurative language helps the reader experience what the writer is describing by creating a poetic or beautiful representation of the subject. It allows the reader to imagine and connect with the writing on a deeper level, evoking emotions and sensations through literary devices such as imagery, simile, metaphor, and more.\n\n2. Climara is used for what?\nClimara is used for the treatment of menopausal symptoms due to estrogen deficiency, particularly during menopause or after a surgical procedure that decreases estrogen production. It is intended for short-term', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 451602):
+Original:     medicare's definition of mechanical ventilation
+Reformulated: medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "It seems like you want me to respond with a passage that provides information related to the query about Medicare's definition of mechanical ventilation.\n\nPassage: According to Medicare guidelines, mechanical ventilation is defined as the use of a device to support or take over the breathing process for a patient. This can include invasive ventilation, where a tube is inserted into the patient's airway, or non-invasive ventilation, where a mask or other device is used to deliver air pressure to the lungs. Medicare coverage for mechanical ventilation typically requires that the patient have a condition that necessitates the use of such a device, such as chronic respiratory failure or acute respiratory distress", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 177604):
+Original:     eating foods that are considered warm
+Reformulated: eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm Based on t...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Based on the given passages, here are the answers to the queries:\n\n1. The Allied plan to invade France was given the name **Operation Overlord**.\n2. The founder of The Ethical Culture Society was **Dr. Felix Adler**.\n3. The passage does not explicitly state the primary excitatory neurotransmitter used in the brain. However, based on general knowledge, the answer is **Glutamate**.\n4. The largest organism on earth is not the blue whale, but rather a giant **Armillaria ostoyae** fungus, discovered in 1998.\n5. There is no passage provided to answer the', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 966413):
+Original:     where are the benefits of cinnamon as a supplement?
+Reformulated: where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supp...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the passages rewritten to directly answer the given queries:\n\n**Query: how to check mail in warframe**\nTo check your mail in Warframe, follow these steps: after completing a specific task or achievement, Warframe will send you an in-game mail notification. You can access your in-game mail by navigating to the "Messages" or "Inbox" section, usually found in the game\'s main menu or social hub. Check this section regularly to stay updated on rewards, notifications, and important messages from the game developers.\n\n**Query: when do bluebonnets bloom in texas**\nBluebonnets in Texas typically bloom in the', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 588587):
+Original:     what causes heavy metal toxins in your body
+Reformulated: what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to each query in the form of a passage:\n\n**Query: who wrote can\'t stop the feeling**\nThe song "Can\'t Stop the Feeling" was written and performed by Justin Timberlake. Released in 2016, it was featured as the lead single from the soundtrack of the movie Trolls, in which Timberlake voiced the character Branch. The upbeat pop song became a huge commercial success, topping the charts in many countries and becoming one of Timberlake\'s signature hits.\n\n**Query: documents define**\nA document is a recorded or written account of something, typically created to preserve information or provide evidence of an event', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1108939):
+Original:     what slows down the flow of blood
+Reformulated: what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood It seems like you provided a s...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'It seems like you provided a set of queries with corresponding passages. Here are the answers to each query based on the provided passages:\n\n1. What was the Justinian Code?\nAnswer: The Justinian Code, also known as the Codex Justinianus or Corpus Juris Civilis, was a collection of laws and legal interpretations developed under the sponsorship of the Byzantine emperor Justinian I from 529 to 565 AD.\n\n2. Name of the chief executive of Emirates Airlines\nAnswer: The Chairman and Chief Executive of Emirates Airline and Group is Sheikh Ahmed.\n\n3. Ways to reduce energy consumption and cost\nAnswer: One way', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 507445):
+Original:     symptoms of different types of brain bleeds
+Reformulated: symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different ty...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the given queries based on the provided passages:\n\n1. Query: What domain do turtles belong to?\nAnswer: Turtles belong to the domain Eukarya.\n\n2. Query: Which cells does the HIV invade?\nAnswer: The HIV virus invades T-helper cells (also called CD4 cells), a type of white blood cell.\n\n3. Query: Is a gamma ray a particle?\nAnswer: Gamma rays are a type of cosmic ray, but they are not particles in the classical sense. Instead, they are photons, which are high-energy particles that have both wave-like and particle-like properties.\n\n4. Query', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

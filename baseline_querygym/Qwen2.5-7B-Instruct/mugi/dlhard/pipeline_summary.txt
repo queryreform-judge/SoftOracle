@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  dlhard
+Method:   mugi
+Model:    Qwen/Qwen2.5-7B-Instruct
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 7m 51.7s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 7m 38.3s
+  retrieval      : 9.4s
+  evaluation     : 4.0s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  map                      : 0.2162
+  ndcg_cut_10              : 0.3173
+  recall_1000              : 0.7707
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/mugi/dlhard

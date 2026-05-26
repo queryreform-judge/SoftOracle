@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  msmarco-v1-passage.trecdl2020
+Method:   genqr_ensemble
+Model:    meta-llama/llama-3.3-70b-instruct:floor
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 1m 54.5s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 1m 45.6s
+  retrieval      : 5.2s
+  evaluation     : 3.7s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  map                      : 0.2821
+  ndcg_cut_10              : 0.4419
+  recall_1000              : 0.8008
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/llama70b_1/genqr_ensemble/2020

@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 23849):
+Original:     are naturalization records public information
+Reformulated: are naturalization records public information are naturalization records public information are naturalization records public information are naturalization records public information are naturalizati...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'I can help with each of these queries by creating a passage that answers them.\n\n**Query 1: What phase are daughter cells formed?**\n\nDaughter cells are formed during the meiosis process, specifically at the end of meiosis I and meiosis II. In meiosis I, a diploid cell divides to produce two haploid daughter cells. These daughter cells then undergo meiosis II, where they divide again to produce a total of four haploid daughter cells. The formation of these daughter cells is crucial for genetic diversity and the continuation of a species.\n\n**Query 2: What is a CXA?**\n\nCXA stands', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 156498):
+Original:     do google docs auto save
+Reformulated: do google docs auto save do google docs auto save do google docs auto save do google docs auto save do google docs auto save Here are the rewritten passages with a clear and direct answer to each quer...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the rewritten passages with a clear and direct answer to each query:\n\n**Query: age to be president of u.s.a**\nTo be eligible to become the President of the United States, a person must be at least 35 years old when taking office, as stated in Article Two of the US Constitution.\n\n**Query: define shortwave radio**\nShortwave radio refers to a type of radio communication that uses the upper medium frequency (MF) and all of the high frequency (HF) portion of the radio spectrum, which ranges from 1,800 to 30,000 kHz.\n\n**Query: opium side effects toes**\n', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 258062):
+Original:     how long does it take to remove wisdom tooth
+Reformulated: how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it tak...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the given queries based on the provided passages:\n\n1. What is the dry harvesting method of coffee cherries?\nThe dry harvesting method of coffee cherries involves cleaning and sorting the cherries before exposing them to the sun, which is also known as the Dry Mill method.\n\n2. What is the latest Infiniti SUV?\nThe latest Infiniti SUV mentioned is the Infiniti QX30, which was introduced to the market for the 2017 model year and features a 2.0-liter turbocharged I-4 engine and a seven-speed automated dual-clutch transmission.\n\n3. What county is', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1071750):
+Original:     why is pete rose banned from hall of fame
+Reformulated: why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hal...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Pete Rose, also known as "Charlie Hustle," is one of the most iconic baseball players in history. However, despite his impressive career, he is banned from being inducted into the National Baseball Hall of Fame. The reason for this ban is due to his involvement in betting on baseball games, including those involving his own team, the Cincinnati Reds. In 1985, Rose was questioned by the commissioner of baseball, A. Bartlett Giamatti, about allegations of betting on baseball. After an investigation, Rose accepted a settlement that included a lifetime ban from the sport, which also made him ineligible for the Hall of Fame', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 67316):
+Original:     can fever cause miscarriage early pregnancy
+Reformulated: can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarri...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to each query based on the provided passages:\n\n1. **What golfer is afraid of crowds?**\nBubba Watson is a golfer who struggles with social anxiety, which can make him come across as aloof or standoffish to others.\n\n2. **What plants repel mosquitoes?**\nTwo plants that repel mosquitoes are:\n* Catnip (Nepeta cataria)\n* Citronella Grass (Cymbopogon nardus)\n\n3. **Can you paint the basin?**\nYes, you can paint a resin bathroom vanity sink basin using spray epoxy or appliance paint. Apply thin', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 169208):
+Original:     does mississippi have an income tax
+Reformulated: does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax Here are the answers...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the given queries in the form of passages:\n\n**Why do we wear ties?**\nWe wear ties as a part of traditional business attire, and they can also be worn as part of a uniform or as everyday clothing. The purpose of wearing a tie is to add a touch of professionalism and elegance to an outfit. Ties are typically worn with the top shirt button fastened, and the tie knot resting between the collar points. They come in various styles, patterns, and colors, allowing individuals to express their personality and personal taste.\n\n**NetBenefits customer service number**\nFor any queries or concerns related to NetBenefits', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 938400):
+Original:     when did family feud come out?
+Reformulated: when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? Here are the answers to the given queries in ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the answers to the given queries in passage format:\n\n**Query: Can you have a baby at 50?**\nPregnancy over age 50 has, over recent years, become more possible for women, due to recent advances in assisted reproductive technology, in particular egg donation. Typically, a woman's fecundity ends with menopause, which by definition is 12 consecutive months without having had any menstrual flow at all. However, with the help of assisted reproductive technology, women over 50 can still become pregnant using donor eggs.\n\n**Query: What are the functions of helicase, DNA polymerase, and RNA", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1108651):
+Original:     what the best way to get clothes white
+Reformulated: what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white Here ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the passage completions for each query:\n\n1. Query: what causes sores inside the nose\nPassage: Another likely cause of sores inside the nose is allergy to chemical fumes, nose piercing, and nasal sprays. This typically manifests itself in itching, redness, and irritation inside the nose. Common cold, nasal polyps, and lupus are other causes of sores inside your nose.\n\n2. Query: where is memmingen germany\nPassage: Memmingen is a town in Swabia, Bavaria, Germany. It is the economic, educational, and administrative centre of the Dan', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1037496):
+Original:     who is rep scalise?
+Reformulated: who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? It seems like you provided a series of queries with corresponding passages that answer each question...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "It seems like you provided a series of queries with corresponding passages that answer each question. I'll provide a brief summary for each query:\n\n1. **Difference between instance variables and class**: The main difference is that class variables have only one copy shared by all objects of a class, whereas instance variables have a personal copy for each object, allowing for different values across objects.\n\n2. **How many hours for minor**: The number of hours minors can work depends on their age, type of work, and school attendance. In New York State, there are strict laws limiting the hours minors under 18 can work when school is in session.\n\n3", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 1064670):
+Original:     why do hunters pattern their shotguns?
+Reformulated: why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? Here ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the answers to each query based on the provided passages:\n\n1. Query: How long does it take for beets to be ready to harvest?\nAnswer: Beets are ready to harvest after about 50 to 60 days.\n\n2. Query: Where are Mecc Alte alternators made?\nAnswer: Mecc Alte alternators (or more specifically, PTO generators) are made in Italy by skilled craftsmen.\n\n3. Query: Is shingles during pregnancy common?\nAnswer: The passage doesn't explicitly state how common shingles during pregnancy is, but it does provide information on what to expect and precautions to take", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

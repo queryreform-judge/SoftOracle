@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 907):
+Original:     PGE 2 promotes intestinal tumor growth by altering the expression of tumor suppressing and DNA repair genes.
+Reformulated: PGE 2 promotes intestinal tumor growth by altering the expression of tumor suppressing and DNA repair genes. PGE 2 promotes intestinal tumor growth by altering the expression of tumor suppressing and ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Nurse-Midwifery. Responsibilities of a Certified Nurse Midwife. The primary focus of any nurse midwife is on women's health issues. Depending on individual state practice laws, Certified Nurse Midwives (CNMs) may practice autonomously or in collaboration with other members of the multidisciplinary health care team. They provide a wide range of services including reproductive healthcare, gynecological care, antepartum, intrapartum, and postpartum care, as well as support for women during breastfeeding and the management of family planning options. Nurse midwives are trained to manage normal pregnancies and to recognize when medical intervention", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 350):
+Original:     Discrimination between the initiator and elongation tRNAs depends on the translation initiation factor IF3.
+Reformulated: Discrimination between the initiator and elongation tRNAs depends on the translation initiation factor IF3. Discrimination between the initiator and elongation tRNAs depends on the translation initiat...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The discrimination between the initiator and elongation tRNAs during protein synthesis is a crucial step in ensuring accurate translation. This process primarily depends on the translation initiation factor IF3. IF3 is a small GTPase protein that plays a key role in the assembly of the ribosome complex and the selection of the correct tRNA during the initiation phase of protein synthesis. Specifically, IF3 helps in positioning the small ribosomal subunit and interacts with the initiation factors eIF2-GTP, eIF3, and eIF5, facilitating the formation of the pre-initiation complex (PIC).\n\nIn the context of eukaryotes,', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 230):
+Original:     Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink less that non-carries.
+Reformulated: Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink less that non-carries. Carriers of the alcohol aldehyde dehydrogenase deficiency mutation drink less that non-carries. Carriers...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Carriers of the alcohol aldehyde dehydrogenase (ALDH) deficiency mutation may drink less than non-carriers. This is because individuals with ALDH deficiency experience a build-up of acetaldehyde, a toxic byproduct of alcohol metabolism, which can cause unpleasant side effects such as flushing, nausea, and palpitations. These symptoms typically occur more quickly and intensely in carriers compared to those without the mutation, leading many to reduce their alcohol consumption or avoid it altogether to prevent these adverse reactions.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 593):
+Original:     Incidence of heart failure decreased by 10% in women since 1979.
+Reformulated: Incidence of heart failure decreased by 10% in women since 1979. Incidence of heart failure decreased by 10% in women since 1979. Incidence of heart failure decreased by 10% in women since 1979. Incid...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The incidence of heart failure in women has shown a significant improvement over recent decades. According to available data, there has been a notable decrease of 10% in the incidence of heart failure among women since 1979. This trend likely reflects advancements in medical research, improvements in preventive care, and better management of risk factors such as high blood pressure, diabetes, and high cholesterol. Additionally, increased awareness and early detection of cardiovascular issues have contributed to this positive outcome. However, it is important to note that while the incidence has decreased, heart failure remains a significant health concern for women, and continued efforts are necessary to further reduce', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1216):
+Original:     The extracellular domain of TMEM27 is cleaved in human beta cells.
+Reformulated: The extracellular domain of TMEM27 is cleaved in human beta cells. The extracellular domain of TMEM27 is cleaved in human beta cells. The extracellular domain of TMEM27 is cleaved in human beta cells....
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The extracellular domain of TMEM27 is cleaved in human beta cells during the process of insulin secretion regulation. This cleavage is an important step in modulating the function of TMEM27, which plays a role in the exocytosis of insulin granules. By cleaving the extracellular domain, the cell can control the interaction of TMEM27 with other proteins and the extracellular environment, thereby influencing the overall activity and efficacy of insulin release. This mechanism is crucial for maintaining glucose homeostasis and ensuring proper insulin signaling in the body.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1337):
+Original:     Ubiquitin ligase UBC13 generates a K63-linked polyubiquitin moiety at PCNA K164.
+Reformulated: Ubiquitin ligase UBC13 generates a K63-linked polyubiquitin moiety at PCNA K164. Ubiquitin ligase UBC13 generates a K63-linked polyubiquitin moiety at PCNA K164. Ubiquitin ligase UBC13 generates a K63...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Ubiquitin ligase UBC13 plays a crucial role in generating a K63-linked polyubiquitin moiety at the PCNA (Procyclin-related replication factor C protein) K164 site. This process is significant in various cellular functions, particularly in DNA damage response and replication fork stabilization. When DNA damage occurs, UBC13 helps in tagging PCNA with ubiquitin chains through its E3 ubiquitin ligase activity. These K63-linked polyubiquitin chains on PCNA recruit other proteins that are essential for repairing the damaged DNA and maintaining genome integrity. This mechanism ensures that the cell', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 232):
+Original:     Cataract and trachoma are the primary cause of blindness in Southern Sudan.
+Reformulated: Cataract and trachoma are the primary cause of blindness in Southern Sudan. Cataract and trachoma are the primary cause of blindness in Southern Sudan. Cataract and trachoma are the primary cause of b...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Cataract and Trachoma as Leading Causes of Blindness in Southern Sudan\n\nCataract and trachoma are indeed significant contributors to the high rates of blindness in Southern Sudan. Cataract refers to the clouding of the lens in the eye, which obstructs the passage of light and can severely impair vision if left untreated. Trachoma, on the other hand, is a bacterial infection of the eye that, if left untreated, can lead to corneal scarring and subsequent blindness. In the context of Southern Sudan, where access to healthcare services is often limited and living conditions can be harsh, these conditions pose', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1336):
+Original:     UCB T cells reduce TCR diversity after transplantation.
+Reformulated: UCB T cells reduce TCR diversity after transplantation. UCB T cells reduce TCR diversity after transplantation. UCB T cells reduce TCR diversity after transplantation. UCB T cells reduce TCR diversity...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "The University of California, Berkeley (UCB) T cells, while playing a crucial role in the immune system, have been studied for their potential impact on T cell receptor (TCR) diversity following hematopoietic stem cell transplantation (HSCT). Research suggests that UCB T cells can contribute to a reduction in TCR diversity post-transplantation. This reduction in TCR diversity can affect the immune system's ability to respond to various pathogens and potentially increase the risk of graft-versus-host disease (GVHD) and other infections. Therefore, understanding the mechanisms behind this effect is essential for optimizing HSCT outcomes and developing strategies to", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 233):
+Original:     Cell autonomous sex determination in somatic cells does not occur in Galliformes.
+Reformulated: Cell autonomous sex determination in somatic cells does not occur in Galliformes. Cell autonomous sex determination in somatic cells does not occur in Galliformes. Cell autonomous sex determination in...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The statement "Cell autonomous sex determination in somatic cells does not occur in Galliformes" refers to the reproductive biology and genetics of birds within the order Galliformes, which includes familiar species such as chickens, turkeys, pheasants, and quails. In many bird species, including those in the Galliformes order, sex determination is typically governed by genetic factors inherited from both parents rather than being cell-autonomous, meaning that the sex of an individual is determined by the combination of sex chromosomes inherited from its parents, rather than by any inherent properties of the cells themselves.\n\nSex in Galliformes, like in other', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 354):
+Original:     Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigenesis.
+Reformulated: Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigenesis. Downregulation and mislocalization of Scribble prevents cell transformation and mammary tumorigen...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The Scribble tumor suppressor protein plays a crucial role in maintaining cellular integrity and preventing cancer development. Downregulation and mislocalization of Scribble can significantly impact this function. Specifically, research indicates that the downregulation and improper localization of Scribble prevent cell transformation and reduce the likelihood of mammary tumorigenesis. This is because Scribble is part of the Crumbs complex, which is essential for establishing cell polarity and regulating the epithelial barrier. When Scribble levels decrease or its positioning within the cell becomes altered, the ability of cells to maintain proper organization and prevent uncontrolled growth is compromised. Consequently, the transformed cells', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

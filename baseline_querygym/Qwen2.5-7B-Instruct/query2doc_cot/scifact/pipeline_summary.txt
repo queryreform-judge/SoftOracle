@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  beir-v1.0.0-scifact
+Method:   query2doc
+Model:    Qwen/Qwen2.5-7B-Instruct
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 11m 44.9s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 11m 24.7s
+  retrieval      : 5.8s
+  evaluation     : 14.3s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  ndcg_cut_10              : 0.7096
+  recall_100               : 0.0000
+  recall_1000              : 0.0000
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/query2doc_cot/scifact

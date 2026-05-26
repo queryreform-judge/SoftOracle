@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  beir-v1.0.0-trec-covid
+Method:   mugi
+Model:    Qwen/Qwen2.5-7B-Instruct
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 10m 30.9s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 10m 8.1s
+  retrieval      : 4.3s
+  evaluation     : 18.5s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  ndcg_cut_10              : 0.6771
+  recall_100               : 0.1628
+  recall_1000              : 0.5253
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/mugi/trec-covid

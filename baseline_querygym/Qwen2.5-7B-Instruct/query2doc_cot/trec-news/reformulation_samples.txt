@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 870):
+Original:     Seven transgender women have been killed this year. Democrats want Jeff Sessions to investigate.
+Reformulated: Seven transgender women have been killed this year. Democrats want Jeff Sessions to investigate. Seven transgender women have been killed this year. Democrats want Jeff Sessions to investigate. Seven ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To provide context and rationale for this statement, it's important to understand the following points:\n\n1. **Importance of Investigating Hate Crimes**: Transgender individuals, particularly transgender women of color, often face higher risks of violence and hate crimes. Investigating such incidents is crucial to ensure justice and prevent future occurrences.\n\n2. **Role of Law Enforcement**: The Department of Justice (DOJ), led by the Attorney General, has a responsibility to investigate hate crimes and other serious offenses. Jeff Sessions was serving as the Attorney General during the mentioned timeframe and would be responsible for overseeing such investigations.\n\n3. **Political Implications**: Democrats' push", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 871):
+Original:     China plans a new moon probe in response to possible return there by U.S.
+Reformulated: China plans a new moon probe in response to possible return there by U.S. China plans a new moon probe in response to possible return there by U.S. China plans a new moon probe in response to possible...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "Rationale: To provide an accurate and up-to-date answer regarding China's planned moon probe, I need to consider recent developments and official announcements from Chinese space agencies or related sources. This will ensure that the information is relevant and based on current information.\n\nAnswer: As of my last update, China has indeed been planning for future lunar missions as part of its lunar exploration program, known as Chang'e. While there hasn't been a specific announcement about a new moon probe directly in response to potential U.S. activities, China has shown consistent interest in expanding its lunar exploration efforts. For instance, the Chang'e 5 mission successfully brought lunar samples", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 872):
+Original:     Since Sandy Hook, at least 374 children have been killed in homicides committed with guns.
+Reformulated: Since Sandy Hook, at least 374 children have been killed in homicides committed with guns. Since Sandy Hook, at least 374 children have been killed in homicides committed with guns. Since Sandy Hook, ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To provide an accurate response to this statement, I would need to verify the specific timeframe and sources for the statistic mentioned. The claim states that "at least 374 children have been killed in homicides committed with guns" since the Sandy Hook shooting. \n\nThe Sandy Hook Elementary School shooting occurred on December 14, 2012, in Newtown, Connecticut. This was a highly publicized event where 26 people were killed, including 20 children. Since then, numerous shootings involving children have occurred across the United States. However, the exact number of child homicides due to gun violence since 201', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 873):
+Original:     U.N. discovers that some peacekeepers have disturbing pasts
+Reformulated: U.N. discovers that some peacekeepers have disturbing pasts U.N. discovers that some peacekeepers have disturbing pasts U.N. discovers that some peacekeepers have disturbing pasts U.N. discovers that ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "Rationale: This statement suggests an investigative discovery by the United Nations (U.N.) about its peacekeeping forces. It implies that there may be cases of misconduct or illegal activities in the past that have been uncovered. Understanding this context is crucial for providing an accurate and informative answer.\n\nAnswer: The U.N. discovering that some peacekeepers have disturbing pasts likely refers to the exposure of past misconduct or illegal activities by certain members of the peacekeeping forces. This could include allegations of sexual exploitation, human rights violations, or other forms of criminal behavior. Such discoveries can undermine public trust in the U.N.'s ability to maintain high ethical standards", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 830):
+Original:     Scientists discover new frog species small enough to sit on a fingernail
+Reformulated: Scientists discover new frog species small enough to sit on a fingernail Scientists discover new frog species small enough to sit on a fingernail Scientists discover new frog species small enough to s...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "Rationale: To answer this query, I need to consider the context provided, which is the discovery of a new frog species that is very small. The key detail here is that it's small enough to sit on a fingernail, which indicates it's extremely tiny.\n\nAnswer: Based on the given information, scientists have discovered a new species of frog that is exceptionally small, capable of fitting on the surface of a fingernail. This discovery highlights the biodiversity and potential for new species still being found in our natural world, even in places we might not expect due to their size. Such small frogs could have unique adaptations and behaviors that", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 874):
+Original:     How not to flip out when flipping a house
+Reformulated: How not to flip out when flipping a house How not to flip out when flipping a house How not to flip out when flipping a house How not to flip out when flipping a house How not to flip out when flippin...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'Rationale: When flipping a house, there are several challenges and stressors that can cause anxiety or frustration. Understanding how to manage these issues can help prevent a "flip out." Key aspects include managing finances, dealing with unexpected costs, and maintaining a positive attitude despite setbacks.\n\nAnswer: To avoid flipping out when flipping a house, consider the following strategies:\n\n1. **Thoroughly Research the Market:** Understand the local real estate market to ensure you buy the right property at the right time. This can help minimize surprises and reduce financial risks.\n\n2. **Create a Detailed Budget:** Include all potential expenses such as renovations, permits, insurance', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 831):
+Original:     Trump questions whether key funding source for historically black colleges is constitutional
+Reformulated: Trump questions whether key funding source for historically black colleges is constitutional Trump questions whether key funding source for historically black colleges is constitutional Trump question...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To provide a rationale first, it's important to understand the context of Trump questioning a funding source for historically black colleges (HBCUs). HBCUs in the United States receive federal funding through various programs aimed at supporting these institutions. Trump's statements or actions regarding the constitutionality of such funding could have significant implications for these colleges, which play a crucial role in education and support for African American students.\n\nNow, answering the query directly: Donald Trump, as the former President of the United States, has indeed made comments suggesting that certain federal programs providing funding to HBCUs may not be constitutional. Specifically, he has raised concerns about Title", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 875):
+Original:     Chipotle’s new burger concept is just too Tasty for one competitor
+Reformulated: Chipotle’s new burger concept is just too Tasty for one competitor Chipotle’s new burger concept is just too Tasty for one competitor Chipotle’s new burger concept is just too Tasty for one competitor...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To provide a reasoned response, let\'s first consider the context and key elements of the statement: "Chipotle’s new burger concept is just too Tasty for one competitor." This statement implies that Chipotle has introduced a new burger offering that is exceptionally appealing to consumers, potentially at the expense of a specific competitor.\n\n### Rationale:\n1. **Chipotle\'s Brand Positioning**: Chipotle is known for its fast-casual, gourmet burrito concept, but it has expanded its menu over time to include more casual items like bowls, salads, and now burgers. The introduction of a new burger concept suggests they are diversifying their', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 832):
+Original:     The apparent murder-suicide of a death-with-dignity advocate and his ailing wife
+Reformulated: The apparent murder-suicide of a death-with-dignity advocate and his ailing wife The apparent murder-suicide of a death-with-dignity advocate and his ailing wife The apparent murder-suicide of a death...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To provide an accurate response, I need to clarify which specific case you are referring to, as there have been multiple instances of death with dignity advocates and their families taking such actions. The term "apparent murder-suicide" generally refers to a situation where one person kills another and then themselves, often for reasons related to terminal illness, suffering, or ethical beliefs.\n\nGiven the sensitive nature of this topic, it\'s important to approach it with care and respect. If you could provide more details about the specific case, I can offer more precise information. Otherwise, I can give a general overview based on common scenarios.\n\nRationale: Without specific', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 876):
+Original:     How do couples live in tiny homes without killing each other?
+Reformulated: How do couples live in tiny homes without killing each other? How do couples live in tiny homes without killing each other? How do couples live in tiny homes without killing each other? How do couples...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "The question about how couples can live in tiny homes without killing each other touches on several key aspects of living in close quarters and maintaining healthy relationships. Here’s the rationale:\n\n1. **Space Management**: Tiny homes require efficient use of space. Couples who live in such environments must be mindful of their belongings and maintain a clutter-free environment to avoid constant stress over physical space.\n\n2. **Communication**: Effective communication is crucial in any relationship, but especially in confined spaces where conflicts might arise more frequently due to limited personal space.\n\n3. **Privacy**: Even in small spaces, it's important to establish designated areas for each person where they can have", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

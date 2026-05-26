@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 23849):
+Original:     are naturalization records public information
+Reformulated: are naturalization records public information naturalization records, public information, citizenship records, immigration documents, genealogy research, public access, U.S. citizenship, historical re...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['naturalization records, public information, citizenship records, immigration documents, genealogy research, public access, U.S. citizenship, historical records, NARA, USCIS, Freedom of Information Act, privacy laws, archival records, genealogy resources, immigration history', 'naturalization records, public information, U.S. citizenship, immigration records, genealogy research, public access, National Archives, USCIS, Freedom of Information Act, FOIA, historical documents, citizenship verification, privacy laws, archival records', 'naturalization records, public information, U.S. citizenship, immigration, genealogy, public access, government records, NARA, USCIS, Freedom of Information Act', 'naturalization records, public information, U.S. citizenship, immigration records, genealogy research, FOIA request, National Archives, USCIS, public access, historical documents', 'naturalization records, public records, U.S. citizenship, immigration documents, NARA, genealogy research, FOIA request, archival records, USCIS, historical documents']}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 156498):
+Original:     do google docs auto save
+Reformulated: do google docs auto save google docs, auto save, automatic saving, cloud storage, document backup, real-time save, edit history, collaboration features, offline mode, sync settings google docs, auto s...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['google docs, auto save, automatic saving, cloud storage, document backup, real-time save, edit history, collaboration features, offline mode, sync settings', 'google docs, auto save, automatic saving, cloud backup, document recovery, real-time save, edit history, version control, online collaboration, Google Drive sync', 'google docs, auto save, automatic saving, cloud backup, document recovery, real-time saving, edit history, version control, Google Drive, online collaboration', 'google docs, auto save, automatic saving, cloud backup, document recovery, real-time save, edit history, version control, Google Drive, online collaboration', 'google docs, auto save, automatic saving, cloud storage, document recovery, real-time save, edit history, backup, sync, collaboration']}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 258062):
+Original:     how long does it take to remove wisdom tooth
+Reformulated: how long does it take to remove wisdom tooth extraction, recovery time, wisdom teeth removal, duration, healing period, oral surgery, post-operative care, pain management, swelling, dental procedure w...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['extraction, recovery time, wisdom teeth removal, duration, healing period, oral surgery, post-operative care, pain management, swelling, dental procedure', 'wisdom tooth removal, extraction time, recovery duration, procedure length, post-surgery healing, dental surgery duration, wisdom teeth recovery, tooth extraction process, healing timeline, dental procedure time', 'wisdom teeth removal, extraction time, duration, recovery period, surgical procedure, dental surgery, gum healing, anesthesia options, post-operative care, tooth extraction recovery', 'wisdom tooth removal, extraction time, recovery duration, procedure length, post-op healing, dental surgery, tooth extraction, wisdom teeth recovery, anesthesia duration, swelling reduction', 'wisdom tooth, removal, extraction, time, duration, procedure, recovery, healing, surgery, post-op, pain, swelling, dentist, oral surgeon, anesthesia']}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1071750):
+Original:     why is pete rose banned from hall of fame
+Reformulated: why is pete rose banned from hall of fame pete rose, banned, hall of fame, baseball, gambling, MLB, ineligible, controversy Pete Rose, banned, Hall of Fame, MLB, gambling, betting, ineligible, lifetim...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['pete rose, banned, hall of fame, baseball, gambling, MLB, ineligible, controversy', 'Pete Rose, banned, Hall of Fame, MLB, gambling, betting, ineligible, lifetime ban, baseball, controversy, rules violation, Charlie Hustle, commissioner, reinstatement, investigation, records, controversy, eligibility, banishment, sports scandal', 'Pete Rose, banned, Hall of Fame, MLB, gambling, baseball, suspension, ineligible, betting scandal, lifetime ban, Cooperstown, Charlie Hustle, rule violations, baseball legends, controversy, reinstatement, commisioner, records, investigation.', 'Pete Rose, banned, Hall of Fame, MLB, gambling, betting, ineligible, lifetime ban, baseball, controversy, Charlie Hustle, rule violation, commissioner, reinstatement, eligibility', 'pete rose, banned, hall of fame, mlb, baseball, gambling, lifetime ban, ineligible, controversy, betting, charlie hustle, commissioner, rule 21, reinstatement, controversy, scandal, baseball legend, records, shoeless joe jackson, comparison']}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 67316):
+Original:     can fever cause miscarriage early pregnancy
+Reformulated: can fever cause miscarriage early pregnancy fever, miscarriage, early pregnancy, causes, pregnancy complications, high temperature, infection, first trimester, pregnancy risks, health concerns fever, ...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['fever, miscarriage, early pregnancy, causes, pregnancy complications, high temperature, infection, first trimester, pregnancy risks, health concerns', 'fever, miscarriage, early pregnancy, pregnancy complications, high temperature, infection, first trimester, pregnancy risks, fever effects, maternal health', 'fever, miscarriage, early pregnancy, pregnancy complications, high temperature, first trimester, infection, pregnancy risks, fever effects, fetal health', 'fever, miscarriage, early pregnancy, pregnancy complications, high temperature, infection, first trimester, pregnancy risks, febrile illness, maternal health', 'fever, miscarriage, early pregnancy, pregnancy complications, infection, high temperature, first trimester, pregnancy risks, maternal health, fetal development']}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 169208):
+Original:     does mississippi have an income tax
+Reformulated: does mississippi have an income tax Mississippi, income tax, state tax, tax laws, tax information, Mississippi tax policy, tax filing, state income, tax rates, tax exemptions Mississippi, income tax, ...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Mississippi, income tax, state tax, tax laws, tax information, Mississippi tax policy, tax filing, state income, tax rates, tax exemptions', 'Mississippi, income tax, state tax, taxation, tax laws, tax rates, personal income tax, tax exemptions, tax filing, tax policy', 'Mississippi, income tax, state tax, tax laws, tax rates, taxation, personal income, tax exemptions, tax filing, tax brackets', 'mississippi, income tax, state tax, taxation, tax laws, tax rates, tax exemptions, tax-free states, no income tax, tax policy', 'Mississippi, income tax, state tax, tax laws, taxation, does Mississippi tax income, state income tax, tax rates, tax information, Mississippi revenue']}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 938400):
+Original:     when did family feud come out?
+Reformulated: when did family feud come out? family feud, premiere date, debut year, first aired, tv show, game show history, steve harvey, original release, years running family feud, release date, premiere, first...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['family feud, premiere date, debut year, first aired, tv show, game show history, steve harvey, original release, years running', 'family feud, release date, premiere, first aired, game show, history, Steve Harvey, original air date', 'family feud, release date, premiere, first aired, tv show, game show, steve harvey, original air date, history, years aired', 'Family Feud", "release date", "first aired", "TV show", "game show", "premiere", "original air date", "1976", "Steve Harvey", "Richard Dawson", "history', 'family feud, release date, premiere, first aired, game show, history, Steve Harvey, original air date, television debut']}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1108651):
+Original:     what the best way to get clothes white
+Reformulated: what the best way to get clothes white whitening clothes, best methods, remove stains, laundry tips, brighten whites, bleach alternatives, washing techniques, stain removal, fabric care, laundry hacks...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['whitening clothes, best methods, remove stains, laundry tips, brighten whites, bleach alternatives, washing techniques, stain removal, fabric care, laundry hacks', 'whitening clothes, best laundry methods, remove stains, white clothing care, bleach alternatives, laundry tips, brighten whites, stain removal, fabric whitening, washing techniques', 'whitening clothes, best methods, remove stains, laundry tips, white garments, bleach alternatives, brightening clothes, stain removal, laundry hacks, fabric care', 'whitening clothes, remove stains, laundry tips, brighten whites, bleach alternatives, white clothing care, stain removal, laundry hacks, fabric whitening, best detergents', 'whitening clothes, best methods, remove stains, laundry tips, brighten whites, bleach alternatives, stain removal, washing whites, fabric care, laundry hacks']}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1037496):
+Original:     who is rep scalise?
+Reformulated: who is rep scalise? rep, scalise, representative, congress, house, Louisiana, politician, biography rep scalise, steve scalise, louisiana representative, house majority leader, republican leader, us c...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['rep, scalise, representative, congress, house, Louisiana, politician, biography', 'rep scalise, steve scalise, louisiana representative, house majority leader, republican leader, us congress, scalise biography, political career, scalise background, congressional leader', 'rep scalise, steve scalise, louisiana representative, house majority leader, republican leader, congressman scalise, political leader, us house representative, scalise background, government official', 'Rep. Steve Scalise, Louisiana, House Majority Leader, Congress, Republican Party, U.S. Representative, political career, leadership', 'rep, scalise, representative, steve scalise, louisiana, congress, house, majority leader, republican, politics, biography']}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 1064670):
+Original:     why do hunters pattern their shotguns?
+Reformulated: why do hunters pattern their shotguns? hunting, shotgun, patterning, shot spread, accuracy, choke, ammunition, distance, target, shooting technique, firearm, ballistic, pellet, range, consistency hunt...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['hunting, shotgun, patterning, shot spread, accuracy, choke, ammunition, distance, target, shooting technique, firearm, ballistic, pellet, range, consistency', 'hunting, shotgun, patterning, choke, ammunition, range, accuracy, shooting technique, pellet spread, firearm, load testing, ballistic, shooting distance, shotgun performance', 'hunting, shotguns, patterning, accuracy, choke, ammunition, distance, spread, technique, firearm, performance, target, shooting, pellets, range', 'hunting, shotgun, patterning, accuracy, shot spread, choke, ammunition, range, testing, firearm, shooting technique, ballistic, target practice, gun safety, hunting preparation', 'hunting, shotguns, patterning, accuracy, choke, ammunition, distance, spread, technique, performance']}
+
+--------------------------------------------------------------------------------
+

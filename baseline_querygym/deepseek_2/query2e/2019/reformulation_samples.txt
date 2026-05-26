@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea Here’s a list of relevant keywords for your q...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for your query **"how long is life cycle of flea"**', '### **Primary Keywords:**', 'Flea life cycle', 'Flea lifespan', 'Life cycle of fleas', 'How long do fleas live', 'Flea stages', '### **Secondary Keywords:**', 'Flea eggs', 'Flea larvae', 'Flea pupae', 'Adult flea lifespan', 'Flea development stages', '### **Related Terms:**', 'Flea life cycle duration', 'How fast do fleas reproduce', 'Flea life cycle timeline', 'Flea life cycle in days'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring Here’s a list of relevant...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for the query **"cost of interior concrete flooring"**', '### **General Keywords:**', 'Interior concrete flooring cost', 'Polished concrete flooring price', 'Cost of concrete floors indoors', 'Stained concrete flooring expenses', 'Decorative concrete floor pricing', '### **Cost-Related Keywords:**', 'How much does interior concrete flooring cost', 'Average cost per square foot for concrete floors', 'Budget for polished concrete flooring', 'Affordable interior concrete flooring options', 'High-end decorative concrete floor costs', '### **Installation & Labor Keywords:**', 'Concrete flooring installation costs', 'Labor cost'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment Here’s a list of relevant keywords for t...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for the query **"definition declaratory judgment"**', '### **Primary Keywords:**', 'Declaratory judgment definition', 'What is a declaratory judgment', 'Meaning of declaratory judgment', 'Legal definition declaratory judgment', 'Declaratory relief meaning', '### **Secondary Keywords:**', 'Purpose of declaratory judgment', 'Declaratory judgment in law', 'Court declaratory judgment', 'Declaratory judgment vs injunctive relief', 'Example of declaratory judgment', '### **Related Legal Terms:**', 'Declaratory relief', 'Judicial declaration', 'Preemptive lawsuit'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medi...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for your query', '### **Primary Keywords:**', 'Durable Medical Equipment (DME)', 'What is DME', 'DME definition', 'DME components', 'Types of DME', '### **Secondary Keywords:**', 'Medical equipment examples', 'Reusable medical devices', 'Long-term medical supplies', 'Medicare-covered DME', 'Prescription medical equipment', '### **Specific Equipment Examples:**', 'Wheelchairs', 'Hospital beds', 'Walkers', 'Oxygen equipment', 'CPAP machines', 'Blood sugar monitors'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth Here’s a list of relevant keywords for the query **"what is wifi vs bl...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for the query **"what is wifi vs bluetooth"**', '**WiFi**', '**Bluetooth**', '**WiFi vs Bluetooth**', '**Comparison**', '**Differences**', '**Similarities**', '**Wireless technology**', '**Range**', '**Speed**', '**Data transfer**', '**Frequency** (2.4 GHz', '5 GHz)', '**Power consumption**', '**Bandwidth**', '**Connectivity**'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid bel...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for your query', '**Hydrogen**', '**Liquid hydrogen**', '**Boiling point of hydrogen**', '**Hydrogen phase transition**', '**Temperature for liquid hydrogen**', '**Cryogenic hydrogen**', '**Hydrogen liquefaction temperature**', '**Hydrogen state below 20 K**', '**Hydrogen properties at low temperature**', '**Critical temperature of hydrogen**', 'These keywords should help refine searches related to the temperature at which hydrogen becomes a liquid. The boiling point of'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determin...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for your query on **"social determinants of health"**', '### **Primary Keywords:**', 'Social determinants of health (SDOH)', 'Determinants of health', 'Health disparities', 'Health equity', 'Social factors affecting health', '### **Key Categories of SDOH:**', '**Economic Stability**', 'Income inequality', 'Poverty and health', 'Employment conditions', 'Food insecurity', '**Education Access & Quality**', 'Education level and health outcomes', 'Early childhood education', 'Health literacy', '**Healthcare Access &'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? Here’s a list of relevant keywords for your q...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for your query **"What are the Three Percenters?"**', '**Three Percenters**', '**3 Percenters**', '**III% movement**', '**Militia group**', '**Anti-government movement**', '**Patriot movement**', '**Far-right extremism**', '**Second Amendment supporters**', '**American revolutionary ideology**', '**Liberty movement**', '**Gun rights activism**', '**Domestic extremism**', '**Three Percenters'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes Here’s a list of relevant keywords for the query **"right pelvic pain cause...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for the query **"right pelvic pain causes"**', '### **Medical/Anatomical Terms:**', 'Pelvic pain (right-sided)', 'Right lower quadrant (RLQ) pain', 'Pelvic girdle pain', 'Chronic pelvic pain', 'Acute pelvic pain', '### **Possible Causes/Conditions:**', 'Appendicitis', 'Ovarian cyst (ruptured/torsion)', 'Endometriosis', 'Pelvic inflammatory disease (PID)', 'Ectopic pregnancy', 'Kidney stones (right ureter)', 'Urinary tract infection (UT'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet Here’s a list of relevant keywords for the query **"definition of a SIGMET"** **SIGME...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for the query **"definition of a SIGMET"**', '**SIGMET definition**', '**What is a SIGMET?**', '**SIGMET aviation**', '**SIGMET meaning**', '**SIGMET weather**', '**Aviation weather SIGMET**', '**SIGMET vs AIRMET**', '**SIGMET explanation**', '**SIGMET full form**', '**SIGMET hazards**', '**Types of SIGMETs**'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

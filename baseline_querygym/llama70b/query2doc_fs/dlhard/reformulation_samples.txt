@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 915593):
+Original:     what types of food can you cook sous vide
+Reformulated: what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the given queries based on the provided passages:\n\n1. What are somatic effectors?\nSomatic effectors are skeletal muscles that are stimulated by the somatic nervous system.\n\n2. What is the maximum amount that can be withdrawn from an ATM?\nThe maximum amount that can be withdrawn from an ATM varies from bank to bank, but it usually ranges from $500 to $1,000 per day.\n\n3. Which state or states were needed to ratify the Constitution of the US?\nThe final state needed to ratify the Constitution of the US was Rhode Island, which ratified it on May 29, ', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 794429):
+Original:     what is sculpture shape space
+Reformulated: what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space Here are the answers to the given queries in passa...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the answers to the given queries in passage format:\n\n**Hutt Insurance**\nHutt Insurance is a multi-line insurance agency that provides personalized insurance coverage to families and businesses in Panama City and throughout the State of Florida. With a wide range of insurance options available, Hutt Insurance is dedicated to helping clients find the perfect policy to suit their needs. Whether it's auto, home, life, or business insurance, Hutt Insurance is committed to delivering exceptional service and support to its clients.\n\n**Alternation of Generations in Algae**\nIn the world of algae, a distinct alternation of generations is observed in the higher red algae", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 801118):
+Original:     what is supplemental security income used for
+Reformulated: what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is suppleme...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the queries based on the provided passages:\n\n1. **Population of Burnsville, MN**: The population of Burnsville, MN was 61,630 as of 2014, which accounted for 0.019% of the total US population and 1.12% of the total Minnesota state population.\n\n2. **Relationship between CAS and Shibboleth**: CAS (Central Authentication Service) and Shibboleth are both used for single sign-on authentication. They can be integrated into web applications to provide this service, as seen at Indiana University.\n\n3. **Where is Geduld**: Geduld is located in', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 190044):
+Original:     foods to detox liver naturally
+Reformulated: foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally Here are the rewritten passages to match the ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the rewritten passages to match the queries:\n\n**What is involved in an endoscopy procedure?**\nAn endoscopy procedure typically involves a doctor inserting a flexible tube with a camera and light on the end into the body to visualize the inside of the digestive tract. During the procedure, the doctor may take small samples of tissue, cells, or fluid for testing, stop any bleeding, or perform other procedures such as opening up strictures. The doctor will also examine the lining of the digestive tract for any abnormalities, such as ulcers, inflammation, or tumors.\n\n**How to bake meatloaf in the oven?**\nTo', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 451602):
+Original:     medicare's definition of mechanical ventilation
+Reformulated: medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Based on the query "medicare\'s definition of mechanical ventilation", here is a passage that answers the query:\n\nMedicare defines mechanical ventilation as a life-support therapy used to assist or replace spontaneous breathing in patients who are unable to breathe on their own. According to Medicare guidelines, mechanical ventilation is considered medically necessary when a patient requires support for their respiratory system due to a variety of conditions, such as respiratory failure, neuromuscular disease, or traumatic injury. The Centers for Medicare and Medicaid Services (CMS) provides specific criteria for coverage of mechanical ventilation, including the requirement that the patient\'s condition must be severe enough to require ongoing ventilatory', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 177604):
+Original:     eating foods that are considered warm
+Reformulated: eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm Here are t...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the revised passages that answer each query:\n\n**Query: effects of BV**\nBacterial vaginosis (BV) is a common vaginal infection that can have several effects on a woman's health. Some of the effects of BV include an abnormal vaginal discharge with a strong, fishy odor, itching or burning in the vagina, and irritation of the genital area. If left untreated, BV can lead to more serious health problems, such as pelvic inflammatory disease (PID), infertility, and increased risk of HIV and other sexually transmitted infections. Additionally, BV can also increase the risk of preterm labor and low birth weight in pregnant women.\n\n", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 966413):
+Original:     where are the benefits of cinnamon as a supplement?
+Reformulated: where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supp...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the answers to the given queries:\n\n1. **Horizon Pharma Stock Price**: \nAccording to 11 equities research analysts, Horizon Pharma's stock price is expected to reach $19.18 in the next twelve months, with a range of $13.00 to $30.00.\n\n2. **How many days between period**: \nA woman's monthly cycle is typically between 28-32 days, with ovulation usually occurring between Day 11 and Day 21 of the cycle, counting from the first day of the last menstrual period (LMP).\n\n3. **How long do amended returns really take**: \n", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 588587):
+Original:     what causes heavy metal toxins in your body
+Reformulated: what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here is a passage that answers the query "what causes heavy metal toxins in your body":\n\nHeavy metal toxins can accumulate in the body due to various environmental and lifestyle factors. Exposure to pollution, contaminated water, and certain types of food can lead to an accumulation of heavy metals such as lead, mercury, and arsenic in the body. Additionally, certain personal care products, such as cosmetics and skincare products, can contain heavy metals, which can be absorbed through the skin. Other sources of heavy metal exposure include old paint, contaminated soil, and certain types of industrial or occupational exposure. Furthermore, consuming foods that are high in heavy metals, such', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1108939):
+Original:     what slows down the flow of blood
+Reformulated: what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood Here are the answers to the gi...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the given queries in passage format:\n\n**Query: how to turn off hibernation windows 7**\nTo disable hibernation in Windows 7, navigate to Power Options and select "Change plan settings". Then, click on the "Change advanced power settings" link located at the bottom. Next, expand the "Sleep" option and then the "Hibernate after" option. Finally, change the values of "On battery" and "Plugged in" to 0 minutes to turn off hibernation.\n\n**Query: what is the mandatory water temperature for hand washing**\nAccording to section 416.5', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 507445):
+Original:     symptoms of different types of brain bleeds
+Reformulated: symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different ty...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the rewritten passages that directly answer each query:\n\n**Query: what shots do dogs need**\nDogs need various shots to stay healthy, including the Bordatella shot, which is recommended annually for dogs that have frequent contact with other dogs, such as those going to dog shows or day care. This shot is also required by most boarding kennels prior to admission. Additionally, some veterinarians recommend giving the Bordatella shot every six months to at-risk dogs.\n\n**Query: what is the area of oklahoma in square miles**\nThe area of Oklahoma is 69,898 square miles, with 68,667 square miles', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

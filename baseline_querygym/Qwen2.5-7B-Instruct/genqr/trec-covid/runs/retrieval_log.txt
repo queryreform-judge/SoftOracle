@@ -1,0 +1,14 @@
+Retrieval Log
+================================================================================
+
+Dataset: beir-v1.0.0-trec-covid
+Index: beir-v1.0.0-trec-covid.flat
+BM25 Parameters: k1=0.9, b=0.4
+Queries: 50
+Top-k: 1000
+Threads: 16
+
+Total retrieval time: 3.1s
+Average per query: 0.061s
+Total documents retrieved: 50000
+Average per query: 1000.0

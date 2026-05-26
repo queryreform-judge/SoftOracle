@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  msmarco-v1-passage.trecdl2020
+Method:   mugi
+Model:    deepseek/deepseek-chat-v3-0324:floor
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 1m 46.7s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 1m 30.5s
+  retrieval      : 11.9s
+  evaluation     : 4.3s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  map                      : 0.4546
+  ndcg_cut_10              : 0.6434
+  recall_1000              : 0.8967
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/deepseek_2/mugi/2020

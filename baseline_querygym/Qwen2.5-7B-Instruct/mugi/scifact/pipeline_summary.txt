@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  beir-v1.0.0-scifact
+Method:   mugi
+Model:    Qwen/Qwen2.5-7B-Instruct
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 44m 11.2s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 43m 38.5s
+  retrieval      : 8.9s
+  evaluation     : 23.7s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  ndcg_cut_10              : 0.7063
+  recall_100               : 0.0000
+  recall_1000              : 0.0000
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/mugi/scifact

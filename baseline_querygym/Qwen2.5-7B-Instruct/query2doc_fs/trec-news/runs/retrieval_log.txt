@@ -1,0 +1,14 @@
+Retrieval Log
+================================================================================
+
+Dataset: beir-v1.0.0-trec-news
+Index: beir-v1.0.0-trec-news.flat
+BM25 Parameters: k1=0.9, b=0.4
+Queries: 57
+Top-k: 1000
+Threads: 16
+
+Total retrieval time: 7.1s
+Average per query: 0.125s
+Total documents retrieved: 57000
+Average per query: 1000.0

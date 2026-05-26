@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  dlhard
+Method:   query2doc
+Model:    Qwen/Qwen2.5-7B-Instruct
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 2m 14.8s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 2m 1.3s
+  retrieval      : 9.3s
+  evaluation     : 4.3s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  map                      : 0.2069
+  ndcg_cut_10              : 0.3352
+  recall_1000              : 0.7763
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/query2doc_zs/dlhard

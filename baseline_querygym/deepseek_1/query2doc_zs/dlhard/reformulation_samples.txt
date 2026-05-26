@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 915593):
+Original:     what types of food can you cook sous vide
+Reformulated: what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Sous vide is a versatile cooking technique that allows you to prepare a wide variety of foods with precision and consistency. Here are some of the best types of food you can cook sous vide:  \n\n1. **Proteins** – Sous vide excels at cooking meats to perfect doneness without overcooking.  \n   - **Beef**: Steaks (like ribeye or filet mignon), short ribs, or brisket.  \n   - **Poultry**: Chicken breasts (juicy and tender), turkey, or duck confit.  \n   - **Pork**: Pork chops, tenderloin, or pulled pork.  \n', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 794429):
+Original:     what is sculpture shape space
+Reformulated: what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space Sculpture, shape, and space are interconnected ele...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Sculpture, shape, and space are interconnected elements in the art of three-dimensional creation. **Sculpture** is the artistic practice of shaping materials—such as clay, stone, metal, or wood—into forms that occupy physical space. **Shape** refers to the defined contours and structure of a sculpture, whether geometric (like cubes or spheres) or organic (free-flowing and irregular). Meanwhile, **space** plays a dual role: it surrounds the sculpture, influencing how it is perceived, and can also be actively incorporated (as in negative space) to create voids or openings within the work.  \n\nTogether, these elements', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 801118):
+Original:     what is supplemental security income used for
+Reformulated: what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is suppleme...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': '**What Is Supplemental Security Income (SSI) Used For?**  \n\nSupplemental Security Income (SSI) is a federal assistance program in the United States designed to provide financial support to low-income individuals who are aged (65 or older), blind, or disabled. Administered by the Social Security Administration (SSA), SSI helps cover basic living expenses for those with limited income and resources.  \n\n### **Primary Uses of SSI Benefits**  \n1. **Basic Needs:** SSI funds are primarily used for essential expenses such as food, clothing, and shelter.  \n2. **Housing Costs:** Recipients may use benefits', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 190044):
+Original:     foods to detox liver naturally
+Reformulated: foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally ### **Foods to Naturally Detox Your Liver**  ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': '### **Foods to Naturally Detox Your Liver**  \n\nThe liver plays a vital role in detoxifying the body, metabolizing nutrients, and filtering toxins. Supporting its function naturally can be achieved through a diet rich in liver-friendly foods. Here are some of the best foods to help cleanse and detoxify your liver:  \n\n1. **Leafy Greens** – Spinach, kale, and arugula are packed with chlorophyll, which helps neutralize toxins and support liver detoxification.  \n2. **Cruciferous Vegetables** – Broccoli, Brussels sprouts, and cauliflower contain glucosinolates, which aid in enzyme production for detox', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 451602):
+Original:     medicare's definition of mechanical ventilation
+Reformulated: medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Medicare defines **mechanical ventilation** as the use of a ventilator (a machine that supports or takes over the breathing process) to assist or replace spontaneous breathing in a patient. According to Medicare guidelines, mechanical ventilation is covered when it is medically necessary, such as in cases of acute respiratory failure, chronic respiratory insufficiency, or during surgery under general anesthesia.  \n\nThere are two primary types of mechanical ventilation recognized by Medicare:  \n1. **Invasive Mechanical Ventilation** – Delivered through an endotracheal tube or tracheostomy, typically used in intensive care settings for patients who cannot breathe on their own.  \n2. **Non-In', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 177604):
+Original:     eating foods that are considered warm
+Reformulated: eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm Eating foo...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Eating foods that are considered "warm" in traditional medicine systems, such as Ayurveda and Traditional Chinese Medicine (TCM), is believed to promote balance and vitality in the body. Warm foods are thought to enhance digestion, improve circulation, and provide comfort, especially during colder months. Examples include ginger, garlic, cinnamon, turmeric, and cooked root vegetables like sweet potatoes and carrots. These foods are often recommended for individuals with a "cold" constitution or those recovering from illness, as they are said to stimulate internal warmth and energy. Incorporating warm teas, soups, and spices into meals can also support metabolism and overall well-being. However,', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 966413):
+Original:     where are the benefits of cinnamon as a supplement?
+Reformulated: where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supp...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Cinnamon is a popular spice with numerous health benefits when used as a dietary supplement. Rich in antioxidants, it helps combat oxidative stress and reduce inflammation in the body. Studies suggest that cinnamon may improve blood sugar control by enhancing insulin sensitivity, making it beneficial for individuals with type 2 diabetes or insulin resistance. Additionally, it has been linked to improved heart health by lowering LDL ("bad") cholesterol and triglycerides while maintaining HDL ("good") cholesterol levels. Some research also indicates that cinnamon may support brain function and protect against neurodegenerative diseases. Its antimicrobial properties can help fight infections, and its anti-inflammatory effects may aid in reducing chronic inflammation-related conditions. However', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 588587):
+Original:     what causes heavy metal toxins in your body
+Reformulated: what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Heavy metal toxins can accumulate in the body through various sources, leading to potential health risks. Common causes include:  \n\n1. **Environmental Pollution** – Industrial emissions, contaminated air, and water sources can introduce metals like lead, mercury, cadmium, and arsenic into the body.  \n\n2. **Food and Water Contamination** – Certain fish (e.g., tuna, swordfish) contain high mercury levels, while crops grown in polluted soil may absorb toxic metals. Old plumbing systems can also leach lead into drinking water.  \n\n3. **Occupational Exposure** – Workers in industries like mining, battery manufacturing, or welding may inh', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1108939):
+Original:     what slows down the flow of blood
+Reformulated: what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood Several factors can slow down ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Several factors can slow down the flow of blood in the circulatory system. One major cause is **narrowed or blocked blood vessels**, often due to plaque buildup (atherosclerosis), which restricts blood flow and increases resistance. **High blood viscosity**—thicker blood caused by dehydration or high red blood cell counts—also reduces flow speed. Additionally, **low blood pressure (hypotension)** can decrease the force pushing blood through vessels, while **venous insufficiency** (weak vein valves) slows return flow from the limbs. Other contributors include **blood clots**, **inflammation of vessel walls (vasculitis)**, and **external', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 507445):
+Original:     symptoms of different types of brain bleeds
+Reformulated: symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different ty...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Brain bleeds, also known as intracranial hemorrhages, occur when blood vessels rupture within or around the brain. Symptoms vary depending on the type and location of the bleed. Below are common symptoms associated with different types of brain bleeds:  \n\n### **1. Epidural Hematoma (EDH)**  \n- Caused by trauma, often involving arterial bleeding between the skull and the dura mater.  \n- Symptoms:  \n  - Brief loss of consciousness followed by a "lucid interval" (apparent recovery)  \n  - Severe headache  \n  - Confusion or drowsiness  \n  - Nausea and vomiting  \n  - Weakness', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

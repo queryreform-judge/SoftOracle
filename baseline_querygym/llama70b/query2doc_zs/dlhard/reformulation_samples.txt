@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 915593):
+Original:     what types of food can you cook sous vide
+Reformulated: what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Sous vide, which is French for "under vacuum," is a versatile cooking method that allows for a wide range of foods to be cooked to perfection. This technique involves sealing food in airtight bags and cooking it in a water bath at a precise, consistent temperature. The types of food that can be cooked sous vide are diverse and extensive. \n\nFor meats, popular options include steak, chicken, pork chops, lamb, and fish. Sous vide ensures that these proteins are cooked evenly throughout, resulting in a tender and juicy texture. It\'s also ideal for cooking more delicate items like eggs and sausages, where the risk of', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 794429):
+Original:     what is sculpture shape space
+Reformulated: what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space Sculpture shape space refers to the three-dimensio...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Sculpture shape space refers to the three-dimensional realm in which sculptures exist and interact with their surroundings. It encompasses the physical space that a sculpture occupies, as well as the negative space around and within it. This concept considers the relationships between the sculpture's form, volume, and texture, and how these elements engage with the viewer and the environment. Sculpture shape space can be thought of as the dynamic interplay between the positive and negative forms, creating a holistic experience that invites the viewer to explore and interpret the artwork. By manipulating shape, scale, and material, sculptors can create complex and thought-provoking interactions between the", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 801118):
+Original:     what is supplemental security income used for
+Reformulated: what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is suppleme...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Supplemental Security Income (SSI) is a federal program designed to provide financial assistance to individuals who are disabled, blind, or elderly and have limited income and resources. The primary purpose of SSI is to help these individuals meet their basic needs, such as food, clothing, and shelter. The funds can be used to pay for a variety of expenses, including rent or mortgage payments, utilities, groceries, and medical expenses. Additionally, SSI can be used to cover other essential costs, such as transportation, clothing, and personal care items. The goal of the SSI program is to provide a safety net for vulnerable populations, enabling', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 190044):
+Original:     foods to detox liver naturally
+Reformulated: foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally To detox your liver naturally, incorporate fo...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "To detox your liver naturally, incorporate foods that promote liver health and support its natural cleansing processes. Leafy green vegetables like spinach, kale, and collard greens are rich in chlorophyll, which helps remove toxins and heavy metals from the liver. Cruciferous vegetables such as broccoli, cauliflower, and Brussels sprouts contain sulforaphane, a compound that supports the liver's detoxification pathways. Other liver-friendly foods include citrus fruits like lemons and oranges, which stimulate the liver's natural cleansing processes, and green tea, which contains antioxidants that help protect the liver from damage.\n\nAdditionally, foods high in omega-3 fatty acids", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 451602):
+Original:     medicare's definition of mechanical ventilation
+Reformulated: medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "According to Medicare, mechanical ventilation is defined as the use of a mechanical ventilator to support or take over the breathing process for a patient who is unable to breathe adequately on their own. This can include patients who require invasive ventilation, such as through an endotracheal tube, or non-invasive ventilation, such as through a mask or nasal interface. Medicare considers mechanical ventilation to be a form of life-sustaining therapy, and coverage for this service is typically provided under Part A (hospital insurance) or Part B (medical insurance), depending on the setting and the patient's specific needs. In order to qualify for Medicare coverage, the", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 177604):
+Original:     eating foods that are considered warm
+Reformulated: eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm Eating foo...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Eating foods that are considered warm, also known as "warming" or "yang" foods in traditional Chinese medicine, can have a profound impact on our overall health and wellbeing. These foods are believed to increase the body\'s internal energy, or "qi," and are often associated with the summer season. Examples of warming foods include spicy dishes like chili peppers and wasabi, as well as hearty meats like beef and lamb. Other warming foods include root vegetables like ginger and garlic, which are said to stimulate digestion and boost circulation. Consuming warming foods can help to improve circulation, reduce inflammation, and even alleviate symptoms of colds and', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 966413):
+Original:     where are the benefits of cinnamon as a supplement?
+Reformulated: where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supp...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The benefits of cinnamon as a supplement are numerous and well-documented. Research has shown that cinnamon supplements can have a positive impact on blood sugar levels, making it a potential natural remedy for individuals with type 2 diabetes. The active compound in cinnamon, cinnamaldehyde, has been found to increase insulin sensitivity and glucose uptake in the body, leading to improved blood sugar control. Additionally, cinnamon supplements have been shown to have anti-inflammatory properties, which can help to reduce chronic inflammation and alleviate symptoms associated with conditions such as arthritis. Cinnamon has also been found to have antioxidant properties, which can help to protect against cell damage and reduce', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 588587):
+Original:     what causes heavy metal toxins in your body
+Reformulated: what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Heavy metal toxins can accumulate in the body through various means, posing significant health risks. One of the primary causes of heavy metal toxicity is environmental exposure. This can occur through the air we breathe, the water we drink, and the food we eat. For instance, mercury, a potent neurotoxin, can be found in fish and shellfish contaminated with methylmercury, while lead can be present in older homes with lead-based paints or in contaminated soil. Industrial pollutants, vehicle emissions, and agricultural runoff can also release heavy metals like arsenic, cadmium, and chromium into the environment, which can then be absorbed by the body.\n\n', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1108939):
+Original:     what slows down the flow of blood
+Reformulated: what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood There are several factors that...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'There are several factors that can slow down the flow of blood in the body. One major factor is the narrowing or constriction of blood vessels, also known as vasoconstriction. This can occur in response to cold temperatures, stress, or certain medications, causing the blood vessels to become smaller and restrict blood flow. Another factor that can slow down blood flow is the buildup of plaque in the arteries, known as atherosclerosis. This can lead to the hardening and narrowing of the arteries, making it more difficult for blood to flow through them. Additionally, conditions such as high blood pressure, diabetes, and obesity can also cause damage', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 507445):
+Original:     symptoms of different types of brain bleeds
+Reformulated: symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different ty...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Brain bleeds, also known as hemorrhagic strokes, occur when a blood vessel in the brain ruptures, causing bleeding in or around the brain. There are several types of brain bleeds, each with distinct symptoms. \n\nThe most common type is an intracerebral hemorrhage, which occurs when a blood vessel bursts within the brain tissue itself. Symptoms may include sudden and severe headache, nausea and vomiting, confusion, weakness or numbness in the face, arm, or leg, difficulty speaking or understanding speech, vision changes, and loss of balance or coordination. \n\nAnother type is a subarachnoid hemorrhage, which', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  beir-v1.0.0-fiqa
+Method:   qa_expand
+Model:    Qwen/Qwen2.5-7B-Instruct
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 1h 0m
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 1h 0m
+  retrieval      : 15.8s
+  evaluation     : 26.4s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  ndcg_cut_10              : 0.2234
+  recall_100               : 0.0000
+  recall_1000              : 0.0000
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/qa_expand/fiqa

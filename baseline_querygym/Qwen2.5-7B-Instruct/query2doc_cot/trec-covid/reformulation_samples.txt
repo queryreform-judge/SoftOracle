@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 44):
+Original:     How much impact do masks have on preventing the spread of the COVID-19?
+Reformulated: How much impact do masks have on preventing the spread of the COVID-19? How much impact do masks have on preventing the spread of the COVID-19? How much impact do masks have on preventing the spread o...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'Rationale:\nTo provide an accurate answer about the impact of masks on preventing the spread of COVID-19, we need to consider several factors including the type of mask, how well it fits, the context in which it is used (e.g., indoors vs. outdoors), and the current scientific consensus from health organizations.\n\nAnswer:\nMasks play a significant role in preventing the spread of COVID-19, primarily through their ability to reduce the release of respiratory droplets when worn by infected individuals, as well as by blocking the entry of viral particles for uninfected individuals. The effectiveness of masks varies based on their type, fit', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 45):
+Original:     How has the COVID-19 pandemic impacted mental health?
+Reformulated: How has the COVID-19 pandemic impacted mental health? How has the COVID-19 pandemic impacted mental health? How has the COVID-19 pandemic impacted mental health? How has the COVID-19 pandemic impacted...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "Rationale: To provide an accurate and detailed answer on how the COVID-19 pandemic has impacted mental health, I will first consider the various ways in which the pandemic has affected people's lives, such as social isolation, economic stress, and changes in daily routines. Then, I will discuss the specific mental health consequences of these factors, including increased rates of anxiety, depression, and other psychological issues.\n\nAnswer: The COVID-19 pandemic has had significant impacts on mental health worldwide. Various aspects of the pandemic, such as physical distancing measures, job losses, and disruptions to daily life, have contributed to increased stress and anxiety for many", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 46):
+Original:     what evidence is there for dexamethasone as a treatment for COVID-19?
+Reformulated: what evidence is there for dexamethasone as a treatment for COVID-19? what evidence is there for dexamethasone as a treatment for COVID-19? what evidence is there for dexamethasone as a treatment for ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'Rationale: Dexamethasone is a corticosteroid used to reduce inflammation and suppress the immune system. Its effectiveness in treating COVID-19 has been investigated due to its potential to reduce severe respiratory symptoms and complications. The primary evidence for its use comes from clinical trials.\n\nAnswer: Evidence for dexamethasone as a treatment for COVID-19 primarily comes from a large, randomized, placebo-controlled trial conducted by the RECOVERY (Randomized Evaluation of COVid-19 Therapy) trial group, sponsored by the University of Oxford. This trial was designed to evaluate multiple potential treatments for COVID-19', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 47):
+Original:     what are the health outcomes for children who contract COVID-19?
+Reformulated: what are the health outcomes for children who contract COVID-19? what are the health outcomes for children who contract COVID-19? what are the health outcomes for children who contract COVID-19? what ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'Rationale: To provide an accurate and up-to-date answer on the health outcomes for children who contract COVID-19, I need to consider the latest medical research and data. Generally, COVID-19 in children tends to be less severe compared to adults, but there can still be various health impacts. I will focus on common outcomes, complications, and long-term effects.\n\nAnswer: The health outcomes for children who contract COVID-19 are generally less severe compared to adults, with most children experiencing mild symptoms or no symptoms at all. Common outcomes include:\n\n1. **Mild to Moderate Symptoms**: Most children who get infected with', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 48):
+Original:     what are the benefits and risks of re-opening schools in the midst of the COVID-19 pandemic?
+Reformulated: what are the benefits and risks of re-opening schools in the midst of the COVID-19 pandemic? what are the benefits and risks of re-opening schools in the midst of the COVID-19 pandemic? what are the b...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "Rationale: To answer this question, it's important to consider both the potential advantages and disadvantages that come with reopening schools during a pandemic. This involves evaluating factors such as public health measures, educational needs, economic impacts, and social dynamics.\n\nAnswer: Reopening schools during the midst of the COVID-19 pandemic presents a complex set of benefits and risks. Here’s a breakdown:\n\n**Benefits:**\n1. **Educational Development:** Schools provide structured learning environments essential for cognitive development, social skills, and emotional well-being.\n2. **Social Interaction:** Regular face-to-face interaction among students and teachers is crucial for building relationships, which", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 49):
+Original:     do individuals who recover from COVID-19 show sufficient immune response, including antibody levels and T-cell mediated immunity, to prevent re-infection?
+Reformulated: do individuals who recover from COVID-19 show sufficient immune response, including antibody levels and T-cell mediated immunity, to prevent re-infection? do individuals who recover from COVID-19 show...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer this question, we need to consider the current scientific understanding of the immune response to SARS-CoV-2 (the virus that causes COVID-19) in individuals who have recovered from the infection.\n\n### Rationale:\n1. **Initial Immune Response**: When an individual is infected with SARS-CoV-2, their body mounts both humoral (antibody) and cellular (T-cell) immune responses.\n2. **Antibodies**: Antibodies play a crucial role in neutralizing the virus and preventing reinfection. After recovery, people often develop detectable levels of antibodies against the virus, particularly against', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 50):
+Original:     what is known about an mRNA vaccine for the SARS-CoV-2 virus?
+Reformulated: what is known about an mRNA vaccine for the SARS-CoV-2 virus? what is known about an mRNA vaccine for the SARS-CoV-2 virus? what is known about an mRNA vaccine for the SARS-CoV-2 virus? what is known ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'Rationale: To provide an accurate answer about mRNA vaccines for the SARS-CoV-2 virus, I need to consider the current state of research and development in this area. mRNA (messenger RNA) vaccines have been a significant focus in the development of COVID-19 vaccines due to their potential for rapid development, efficacy, and safety profile.\n\nAnswer: mRNA vaccines for the SARS-CoV-2 virus are a type of vaccine that uses synthetic genetic material called messenger RNA to teach cells how to make a harmless piece of the spike protein found on the surface of the virus. When cells make this protein, the immune system recognizes', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 10):
+Original:     has social distancing had an impact on slowing the spread of COVID-19?
+Reformulated: has social distancing had an impact on slowing the spread of COVID-19? has social distancing had an impact on slowing the spread of COVID-19? has social distancing had an impact on slowing the spread ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'Rationale:\nSocial distancing measures are designed to reduce the rate at which a virus spreads in a population. By minimizing close contact between individuals, these measures aim to "flatten the curve" and prevent healthcare systems from being overwhelmed. The effectiveness of social distancing in slowing the spread of COVID-19 can be assessed by comparing the rates of infection and hospitalizations before and after the implementation of such measures, as well as by examining data from different regions and countries that implemented social distancing at various times.\n\nAnswer:\nYes, social distancing has had a significant impact on slowing the spread of COVID-19. Numerous studies and epidemiological data have shown', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 11):
+Original:     what are the guidelines for triaging patients infected with coronavirus?
+Reformulated: what are the guidelines for triaging patients infected with coronavirus? what are the guidelines for triaging patients infected with coronavirus? what are the guidelines for triaging patients infected...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'The rationale for triaging patients infected with coronavirus involves understanding the current medical guidelines and best practices to ensure that patients receive appropriate care efficiently. These guidelines are regularly updated based on new research, clinical data, and public health needs.\n\nNow, here are the key guidelines for triaging patients infected with coronavirus:\n\n1. **Initial Assessment**: Patients should be assessed for symptoms such as fever, cough, shortness of breath, and other respiratory symptoms. A detailed travel history and contact tracing should also be conducted to determine their risk of exposure to the virus.\n\n2. **Symptom Severity**: Triage personnel should categorize patients based on the severity of', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 12):
+Original:     what are best practices in hospitals and at home in maintaining quarantine?
+Reformulated: what are best practices in hospitals and at home in maintaining quarantine? what are best practices in hospitals and at home in maintaining quarantine? what are best practices in hospitals and at home...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To effectively maintain quarantine in both hospitals and at home, several best practices should be followed. These practices help in preventing the spread of infectious diseases and ensuring the health and safety of individuals in isolation. Here is the rationale for these practices:\n\n1. **Isolation Procedures**: \n   - **Rationale**: Proper isolation procedures prevent the spread of pathogens from infected individuals to others.\n   - **Practices**: Use separate rooms and bathrooms if possible, especially in households where multiple generations live. Ensure that shared spaces have good ventilation.\n\n2. **Personal Protective Equipment (PPE)**:\n   - **Rationale**: PPE reduces the risk of', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

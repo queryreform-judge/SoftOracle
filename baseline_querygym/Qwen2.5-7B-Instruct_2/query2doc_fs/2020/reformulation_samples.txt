@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 23849):
+Original:     are naturalization records public information
+Reformulated: are naturalization records public information are naturalization records public information are naturalization records public information are naturalization records public information are naturalizati...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Naturalization records, which document the process by which individuals become citizens of a country, are generally considered public information. In the United States, for example, once an individual is naturalized, their application and supporting documents become part of the public record. These records can often be accessed through federal archives or local courthouses, depending on the country's laws and practices. However, specific details about the applicants may be redacted to protect sensitive personal information such as Social Security numbers, addresses, and biographical data that could compromise privacy.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 156498):
+Original:     do google docs auto save
+Reformulated: do google docs auto save do google docs auto save do google docs auto save do google docs auto save do google docs auto save Google Docs Auto-Save Feature: Google Docs automatically saves your work ev...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Google Docs Auto-Save Feature: Google Docs automatically saves your work every few minutes without requiring any action from you. This ensures that your documents are always up-to-date and reduces the risk of losing any unsaved changes. If you need to revert to a previous version, Google Docs also offers a "Version History" feature that allows you to recover previous edits and states of your document.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 258062):
+Original:     how long does it take to remove wisdom tooth
+Reformulated: how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it tak...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Passage: Time Frame for Wisdom Tooth Removal. The duration it takes to remove a wisdom tooth varies depending on several factors such as the complexity of the extraction, whether the tooth is impacted, and the patient’s overall oral health. Generally, the process begins with a local anesthetic to numb the area around the tooth. Once the area is numb, the dentist or oral surgeon will carefully extract the tooth, which can take anywhere from a few minutes to over an hour. After the procedure, patients are usually advised to rest for about 24 hours and follow specific aftercare instructions to ensure proper healing. Recovery time can vary, but most', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1071750):
+Original:     why is pete rose banned from hall of fame
+Reformulated: why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hal...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Pete Rose's ban from the Hall of Fame is primarily due to his involvement with gambling on baseball games. Pete Rose, known for his exceptional skills as a professional baseball player, accumulated an impressive career record, including three batting titles and being inducted into the Baseball Hall of Fame in 2018, though he was never elected during his eligibility period. However, his ban from the Hall of Fame stems from off-field activities. In the early 1980s, Rose bet on baseball games, which violated the Major League Baseball (MLB) rule against gamblers and individuals with gambling connections. This rule was established", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 67316):
+Original:     can fever cause miscarriage early pregnancy
+Reformulated: can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarri...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Query: Can fever cause miscarriage in early pregnancy?\n\nPassage: While fever in early pregnancy is generally not considered a direct cause of miscarriage, it can be associated with an increased risk under certain circumstances. During early pregnancy, the developing fetus is highly sensitive to various environmental factors and infections. A high fever, typically defined as a temperature of 102°F (38.9°C) or higher, can potentially lead to stress on the mother's body and increase the risk of complications if accompanied by an infection.\n\nCertain infections, especially those caused by bacteria like Listeria monocytogenes or viruses like cytomegal", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 169208):
+Original:     does mississippi have an income tax
+Reformulated: does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax Mississippi does not...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Mississippi does not have an individual income tax. Unlike many other states in the United States, Mississippi relies primarily on sales taxes, property taxes, and various other sources to fund its state budget. As a result, residents do not pay state income tax on their earnings. However, it's important to note that local municipalities, such as cities and counties, may impose their own income taxes, which could affect certain individuals depending on where they live within the state. Always refer to the most current tax guidelines or consult with a tax professional for detailed information.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 938400):
+Original:     when did family feud come out?
+Reformulated: when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? Family Feud: A Classic Game Show's Journey Th...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Family Feud: A Classic Game Show's Journey Through Time. Family Feud, the popular game show that invites family teams to guess the most common answers to survey questions, has a rich history that spans several decades. The original version of Family Feud first aired on September 26, 1976, on ABC. Created by Mark Goodson and Bill Todman, the show was initially hosted by Bill Cullen and later by John Harlan and Carol Burnett. Over the years, Family Feud has undergone numerous revivals and adaptations, both in the United States and internationally, reflecting its enduring popularity and appeal to audiences", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1108651):
+Original:     what the best way to get clothes white
+Reformulated: what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white To ac...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "To achieve the whitest clothes, the best approach involves a combination of effective cleaning methods and suitable detergents. Here's a detailed passage on how to get clothes white:\n\nWhite clothes often require special care to maintain their brightness and whiteness. The best way to achieve this involves several steps, starting with proper washing techniques. First, it's important to sort your whites from other colors to prevent any color transfer. Use a high-quality, color-safe bleach if necessary, but always check the fabric care label first. Chlorine bleach is effective for removing stains and whitening, but for those who prefer eco-friendly options, hydrogen peroxide", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1037496):
+Original:     who is rep scalise?
+Reformulated: who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? Passage: Steve Scalise is an American politician serving as the U.S. Representative for Louisiana's ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Passage: Steve Scalise is an American politician serving as the U.S. Representative for Louisiana's 4th congressional district. He has been a member of the Republican Party and represents the state of Louisiana since 2013. Scalise has held several leadership positions within the House Republican Conference, including serving as the Majority Whip from 2015 to 2017 and as the House Republican Caucus Chairman from 2011 to 2013. Tragically, he was severely injured in a shooting during a congressional baseball practice in 2017 but continued his political career with determination", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 1064670):
+Original:     why do hunters pattern their shotguns?
+Reformulated: why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? Hunte...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Hunters pattern their shotguns to ensure that the shot spread is effective and consistent for various distances and shooting conditions. The process of patterning involves firing a series of shots into a target, typically a circular piece of paper or a similar target, to measure the distribution of shot pellets. This helps hunters understand how their shotgun performs with a specific load of ammunition and adjust their shooting technique accordingly. By patterning, hunters can achieve a tight and even spread of shot, which is crucial for hitting small targets at different ranges, ensuring a humane and efficient hunt. This practice is particularly important for hunters targeting birds and small game but can also benefit', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 915593):
+Original:     what types of food can you cook sous vide
+Reformulated: what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer this question, let\'s first understand what sous vide cooking is. Sous vide, which is French for "under vacuum," is a method of cooking where food is sealed in airtight bags and then cooked in a water bath at a precisely controlled temperature. This technique allows for even cooking and retains the food\'s natural flavors and textures.\n\nGiven the nature of sous vide cooking, it\'s essential to consider the types of food that can benefit from this precise temperature control and the moisture-rich environment. The goal is to identify foods that can be cooked evenly, without drying out or becoming overcooked, and that will retain their flavor and nutrients', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 794429):
+Original:     what is sculpture shape space
+Reformulated: what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space To answer this query, we need to consider the conc...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer this query, we need to consider the concepts of sculpture and space, and how they intersect.\n\nRationale:\n- Sculpture is a form of art that involves creating three-dimensional objects through various techniques such as modeling, carving, or assembly. It can take many forms and shapes, ranging from figurative to abstract.\n- Space, in the context of art, refers to the sense of depth, distance, and atmosphere within or around a work of art. It can be physical (the actual physical space an artwork inhabits or manipulates) or illusionary (created through various artistic devices).\n- Considering "sculpture shape space', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 801118):
+Original:     what is supplemental security income used for
+Reformulated: what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is suppleme...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer this question, we need to understand the purpose and function of Supplemental Security Income (SSI). SSI is a federal program in the United States that provides cash assistance to individuals who are disabled, blind, or elderly and have limited income and resources. The program is administered by the Social Security Administration (SSA).\n\nGiven the context of the program, we can infer that SSI is used to provide financial support to individuals who are unable to work due to disability, blindness, or advanced age, and who lack the necessary resources to meet their basic needs. This support is intended to help these individuals cover essential expenses such as food,', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 190044):
+Original:     foods to detox liver naturally
+Reformulated: foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally **Rationale:**  The liver is a vital organ re...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "**Rationale:**\n\nThe liver is a vital organ responsible for detoxifying the body by filtering out toxins, pollutants, and waste products. A healthy liver is essential for overall well-being, and a natural detox can help support liver function and promote overall health. The concept of detoxing the liver has gained popularity in recent years, with many people seeking natural ways to support liver health. The goal of a liver detox is to stimulate the liver's natural detoxification processes, enhance the elimination of toxins, and promote the growth of new liver cells.\n\nWhen considering foods to detox the liver naturally, it's essential to focus on whole, nutrient-d", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 451602):
+Original:     medicare's definition of mechanical ventilation
+Reformulated: medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer the question about Medicare's definition of mechanical ventilation, it's essential to understand the context and the criteria Medicare uses to define and cover mechanical ventilation services. Mechanical ventilation is a life-support treatment used for patients with respiratory failure, where a machine helps or takes over breathing for the patient. Medicare, as a significant payer for healthcare services in the United States, especially for the elderly and certain younger individuals with disabilities, has specific guidelines to determine when mechanical ventilation is deemed medically necessary and thus covered under their insurance plans.\n\nMedicare's coverage policies are detailed in various manuals, guidelines, and coverage determinations issued by the Centers for Medicare & Medicaid", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 177604):
+Original:     eating foods that are considered warm
+Reformulated: eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm To answer ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer this query, we need to consider the concept of "warm" foods, which is often associated with traditional Chinese medicine and culinary practices. In this context, "warm" foods refer to those that are believed to have a warming effect on the body, as opposed to "cooling" foods, which are thought to have a cooling effect.\n\nThe rationale behind this concept is based on the idea that certain foods can influence the body\'s energy balance, or "qi," and that consuming foods with a warming or cooling properties can help to restore balance and promote overall health. Warm foods are often associated with spicy, sweet, or rich flavors', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 966413):
+Original:     where are the benefits of cinnamon as a supplement?
+Reformulated: where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supp...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer the question regarding the benefits of cinnamon as a supplement, we need to consider what is known about cinnamon's effects on health. Cinnamon, derived from the bark of the Cinnamomum tree, has been used for centuries in traditional medicine and as a spice in cooking. Its potential health benefits are attributed to its bioactive compounds, particularly cinnamaldehyde, which is responsible for its distinct flavor and aroma, and other polyphenols that have antioxidant properties.\n\nResearch into cinnamon's health benefits as a supplement has explored several areas:\n\n1. **Antioxidant Properties**: Cinnamon's antioxidant properties can help protect the", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 588587):
+Original:     what causes heavy metal toxins in your body
+Reformulated: what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To determine what causes heavy metal toxins in the body, let's consider the sources and pathways through which these substances can enter and accumulate within an individual. Heavy metals are naturally occurring elements that have a high atomic weight and are known for their potential to be toxic, even at low concentrations. They can be found in various forms and can contaminate air, water, soil, and food, leading to human exposure.\n\nGiven this context, the rationale for understanding the causes of heavy metal toxicity in the body involves examining:\n\n1. **Environmental Exposure**: Understanding how heavy metals are released into the environment and how they can be inhaled, ingested", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1108939):
+Original:     what slows down the flow of blood
+Reformulated: what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood To answer this question, we ne...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer this question, we need to consider the factors that can impede or reduce the flow of blood within the circulatory system. The flow of blood is primarily governed by the principles of fluid dynamics, as applied to biological systems, and is influenced by several key factors including:\n\n1. **Viscosity of Blood**: The thickness or viscosity of blood affects its flow. Thicker blood flows more slowly because it has a higher resistance to flow. Viscosity can be influenced by various factors such as hematocrit level (the proportion of blood volume made up by red blood cells), the composition of plasma, and the presence of any substances', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 507445):
+Original:     symptoms of different types of brain bleeds
+Reformulated: symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different ty...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To address the query regarding the symptoms of different types of brain bleeds, it's essential to first understand what a brain bleed (cerebral hemorrhage) is. A brain bleed occurs when a blood vessel in the brain bursts, leaking blood into the surrounding tissue. This can lead to brain cell damage and can be life-threatening. The symptoms can vary significantly depending on the location and size of the bleed, as well as the individual's overall health.\n\nThere are several types of brain bleeds, classified based on their location within the brain. The primary types include:\n\n1. **Intracerebral Hemorrhage (ICH):", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

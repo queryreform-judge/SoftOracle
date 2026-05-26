@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 870):
+Original:     Seven transgender women have been killed this year. Democrats want Jeff Sessions to investigate.
+Reformulated: Seven transgender women have been killed this year. Democrats want Jeff Sessions to investigate. transgender,women,killed,year,Democrats,Jeff,Sessions,investigate transgender,women,killed,year,Democra...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['transgender,women,killed,year,Democrats,Jeff,Sessions,investigate', 'transgender,women,killed,year,Democrats,Jeff,Sessions,investigate', 'transgender,women,killed,year,Democrats,Jeff,Sessions,investigate', 'transgender,women,killed,year,Democrats,Jeff,Sessions,investigate', 'transgender,women,killed,Democrats,Jeff,Sessions,investigate,year']}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 871):
+Original:     China plans a new moon probe in response to possible return there by U.S.
+Reformulated: China plans a new moon probe in response to possible return there by U.S. China,moon,probe,U.S.,return,space mission China,moon,probe,U.S.,space,retrieval,plans China,moon,probe,U.S.,return,space,expl...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['China,moon,probe,U.S.,return,space mission', 'China,moon,probe,U.S.,space,retrieval,plans', 'China,moon,probe,U.S.,return,space,exploration', 'China,moon,probe,U.S.,space,retrieval,policy,exploration,return,nationalism', 'China,moon,probe,U.S.,space exploration/response']}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 872):
+Original:     Since Sandy Hook, at least 374 children have been killed in homicides committed with guns.
+Reformulated: Since Sandy Hook, at least 374 children have been killed in homicides committed with guns. Sandy Hook, gun homicides, children, killings, statistics Sandy Hook, children, homicides, gun violence, kill...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Sandy Hook, gun homicides, children, killings, statistics', 'Sandy Hook, children, homicides, gun violence, killings, gun deaths', 'Sandy Hook, children, homicides, gun violence, gun killings', 'Sandy Hook, children, gun homicides, fatalities, United States', 'Sandy Hook, children, homicides, gun violence, fatalities']}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 873):
+Original:     U.N. discovers that some peacekeepers have disturbing pasts
+Reformulated: U.N. discovers that some peacekeepers have disturbing pasts U.N., peacekeepers, disturbing, pasts, discoveries U.N., peacekeepers, disturbing, pasts, discoveries U.N., peacekeepers, disturbing, pasts,...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['U.N., peacekeepers, disturbing, pasts, discoveries', 'U.N., peacekeepers, disturbing, pasts, discoveries', 'U.N., peacekeepers, disturbing, pasts, discovery', 'U.N., peacekeepers, disturbing, pasts, discovery', 'U.N., peacekeepers, disturbing, pasts, discoveries']}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 830):
+Original:     Scientists discover new frog species small enough to sit on a fingernail
+Reformulated: Scientists discover new frog species small enough to sit on a fingernail scientists,discover,new,frog,species,small,fingernail,bioiversity,amphibian,endangered,conservation Scientists,frog,species,dis...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['scientists,discover,new,frog,species,small,fingernail,bioiversity,amphibian,endangered,conservation', 'Scientists,frog,species,discovery,minuscule,sit,fingernail,biodiversity,research,nature', 'Scientists,frog,species,small,fingernail,biodiversity,endangered,natural,habitat', 'Scientists,frog,species,discovery,small,fingernail,biology,amphibian', 'scientists, discover, new, frog, species, small, fingernail']}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 874):
+Original:     How not to flip out when flipping a house
+Reformulated: How not to flip out when flipping a house house flipping, stress management, home renovation, budgeting, communication, market trends, negotiation, DIY, remodeling, time management stress, management,...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['house flipping, stress management, home renovation, budgeting, communication, market trends, negotiation, DIY, remodeling, time management', 'stress, management, budgeting, communication, renovations, market, negotiation, timeline, psychology, real estate', 'stress, management, renovation, budget, communication, timeline, contractors, psychology, home, improvement, negotiation, market, analysis, planning, stress management, time, organization, real estate', 'stress, management, budgeting, communication, renovation, psychology, real estate, home improvement, panic, organization', 'house flipping, stress management, renovation, budgeting, communication, market trends, deadlines, home improvements, negotiations, psychology, time management']}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 831):
+Original:     Trump questions whether key funding source for historically black colleges is constitutional
+Reformulated: Trump questions whether key funding source for historically black colleges is constitutional Trump, questions, key, funding, historically, black, colleges, constitutional, source Trump, questions, con...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Trump, questions, key, funding, historically, black, colleges, constitutional, source', 'Trump, questions, constitutional, funding, historically, black, colleges, source', 'Trump, questions, constitutional, funding, historically, black, colleges, source', 'Trump, questions, constitutional, funding, historically, black, colleges, source', 'Trump, questions, constitutional, funding, historically, black, colleges']}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 875):
+Original:     Chipotle’s new burger concept is just too Tasty for one competitor
+Reformulated: Chipotle’s new burger concept is just too Tasty for one competitor Chipotle,burger,competitor,tasty,newconcept Chipotle,burger,competitor,tasty,newconcept Chipotle,burger,competitor,tasty,new concept ...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Chipotle,burger,competitor,tasty,newconcept', 'Chipotle,burger,competitor,tasty,newconcept', 'Chipotle,burger,competitor,tasty,new concept', 'Chipotle,burger,competitor,tasty,new概念,美食概念', 'Chipotle,burger,competitor,tasty,new concept']}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 832):
+Original:     The apparent murder-suicide of a death-with-dignity advocate and his ailing wife
+Reformulated: The apparent murder-suicide of a death-with-dignity advocate and his ailing wife murder, suicide, death, dignity, advocate, illness, couple murder, suicide, death, dignity, advocate, illness, couple m...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['murder, suicide, death, dignity, advocate, illness, couple', 'murder, suicide, death, dignity, advocate, illness, couple', 'murder, suicide, death, dignity, advocate, ailing, wife, apparent', 'murder, suicide, death, dignity, advocate, illness, couple', 'murder, suicide, death, dignity, advocate, wife, illness, euthanasia, controversy']}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 876):
+Original:     How do couples live in tiny homes without killing each other?
+Reformulated: How do couples live in tiny homes without killing each other? couples, tiny homes, relationship, living space, cohabitation, small living, conflict, intimacy, shared space, minimalism couples, tiny ho...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['couples, tiny homes, relationship, living space, cohabitation, small living, conflict, intimacy, shared space, minimalism', 'couples, tiny homes, cohabitation, space, relationships, compromise, communication, intimacy, living arrangements', 'couples, tiny homes, living arrangements, conflict, space, relationship, cohabitation, minimalism, compromises', 'couples, tiny homes, relationship, living space, cohabitation, minimalism, communication, intimacy, personal space, compromise', 'couples, tiny homes, living arrangements, relationship dynamics, space constraints, communication, compromise, intimacy, privacy, shared living, minimalist lifestyle']}
+
+--------------------------------------------------------------------------------
+

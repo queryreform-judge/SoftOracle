@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea some keywords that can be used to search for ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['some keywords that can be used to search for information on the life cycle of fleas', 'Flea life cycle', 'Flea development stages', 'Flea lifespan', 'How long do fleas live', 'Flea eggs to adult', 'Flea metamorphosis', 'Flea stages of development', 'Flea growth cycle', 'Length of flea life cycle', 'Flea biology', 'You can also use long-tail keywords such as', 'Flea life cycle stages and duration', 'How long does a flea live from egg to'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring Here is a list of keyword...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "cost of interior concrete flooring"', '*Primary keywords:**', 'Concrete flooring cost', 'Interior concrete floor cost', 'Concrete floor pricing', 'Cost of polished concrete floors', 'Concrete flooring estimates', '*Secondary keywords:**', 'Concrete floor installation cost', 'Interior concrete floor installation prices', 'Cost of concrete floor finishing', 'Concrete floor sealing cost', 'Polished concrete floor cost per square foot', '*Long-tail keywords:**', 'Cost of stained concrete flooring interior', 'Price of decorative concrete floors for interior spaces'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment some keywords related to the query "defi...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['some keywords related to the query "definition declaratory judgment"', 'Declaratory judgment', 'Definition', 'Legal definition', 'Court judgment', 'Judicial declaration', 'Declaratory relief', 'Civil procedure', 'Litigation', 'Dispute resolution', 'Judicial interpretation', 'Some long-tail keywords that may also be relevant', 'What is declaratory judgment', 'Declaratory judgment law', 'Declaratory judgment example', 'Declaratory judgment vs adjudication', 'Purpose of declaratory judgment', 'Grounds for declaratory'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medi...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['some keywords that can be used to find information on what durable medical equipment consists of', 'Medical supplies', 'Home healthcare equipment', 'Hospital equipment', 'Medical devices', 'Mobility aids', 'Rehabilitation equipment', 'Prosthetics', 'Orthotics', 'Wheelchairs', 'Commodes', 'Hospital beds', 'Oxygen equipment', 'Respiratory therapy equipment', 'Wound care equipment', 'Diagnostic equipment', 'Additionally', 'you can also use long-tail keywords such as', 'Types of durable medical equipment', 'Durable medical equipment'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth Here is a list of keywords related to the query "what is wifi vs bluet...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "what is wifi vs bluetooth"', '*Primary keywords:**', 'WiFi', 'Bluetooth', 'Comparison', 'Differences', 'Wireless technology', '*Secondary keywords:**', 'Internet connectivity', 'Wireless networking', 'Device connectivity', 'Range and coverage', 'Data transfer', 'Security', 'Power consumption', 'Compatibility', 'Devices (e.g. smartphones', 'laptops', 'speakers)', 'Wireless communication'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid bel...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['some keywords that can be used to find the answer to the query', 'Hydrogen', 'Liquid', 'Temperature', 'Boiling point', 'Freezing point', 'Phase transition', 'Critical point', 'Cryogenic', 'Low temperature', 'You can also use specific temperature ranges', 'such as', 'Kelvin (K)', 'Celsius (°C)', 'Fahrenheit (°F)', 'Additionally', 'you can use phrases like', 'hydrogen liquid temperature', 'hydrogen boiling point', 'hydrogen phase transition'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determin...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the social determinants of health', '*Main keywords:**', 'Social determinants of health', 'Health equity', 'Health disparities', 'Socioeconomic factors', 'Environmental health', '*Sub-keywords:**', 'Education', 'Income', 'Employment', 'Housing', 'Food security', 'Transportation', 'Access to healthcare', 'Cultural competence', 'Social support', 'Community resources', 'Environmental pollution', 'Climate change'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? Here is a list of keywords that can be used t...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords that can be used to research the query "what are the Three Percenters?"', 'Three Percenters', '%ers', 'III%ers', 'Militia movement', 'Right-wing extremism', 'Patriot movement', 'Anti-government groups', 'Paramilitary organizations', 'American patriotism', 'Constitutional militia', 'Second Amendment activism', 'Radical right-wing groups', 'Domestic terrorism', 'Note: The Three Percenters are a loosely organized movement', "and some of these keywords may have overlapping or related meanings. It's essential to approach research on this topic with a critical and nuanced perspective", 'recognizing the'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes Here is a list of potential keywords related to the query "right pelvic pai...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of potential keywords related to the query "right pelvic pain causes"', 'Pelvic pain', 'Right-sided pelvic pain', 'Abdominal pain', 'Lower abdominal pain', 'Chronic pelvic pain', 'Acute pelvic pain', 'Pelvic inflammatory disease (PID)', 'Ovarian cysts', 'Endometriosis', 'Uterine fibroids', 'Adenomyosis', 'Pelvic floor dysfunction', 'Irritable bowel syndrome (IBS)', 'Constipation', 'Appendicitis', 'Kidney stones'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet Here is a list of keywords related to the query "definition of a sigmet" Sigmet Defin...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "definition of a sigmet"', 'Sigmet', 'Definition', 'Aviation weather', 'Meteorology', 'Aeronautical weather', 'Weather alert', 'ICAO (International Civil Aviation Organization)', 'Aviation safety', 'Weather forecasting', 'Meteorological information', 'SIGMET (Significant Meteorological Information)', 'You can also use long-tail keywords such as', 'What is a sigmet in aviation', 'Sigmet definition and explanation', 'Understanding sigmet in meteorology', 'Sigmet alert types and categories', 'How sigmet affects'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

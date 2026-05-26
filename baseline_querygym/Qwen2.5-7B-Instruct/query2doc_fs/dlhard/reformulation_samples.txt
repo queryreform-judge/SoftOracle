@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 915593):
+Original:     what types of food can you cook sous vide
+Reformulated: what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The sous vide cooking method is versatile and can be used to prepare a wide variety of foods, from delicate items like eggs and fish to heartier dishes such as meats and vegetables. Here are some examples of what you can cook using the sous vide technique:\n\n- **Eggs**: Whether you prefer them hard-boiled, soft-boiled, or poached, sous vide cooking ensures perfect results every time. The method allows for precise temperature control, resulting in eggs with perfectly cooked whites and runny yolks.\n\n- **Fish and Seafood**: Sous vide is ideal for preparing fish and seafood because it helps to maintain the moisture and flavor', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 794429):
+Original:     what is sculpture shape space
+Reformulated: what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space The term "sculpture shape space" refers to the con...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The term "sculpture shape space" refers to the concept that encompasses the diverse array of forms, shapes, and spatial arrangements that sculptors can explore in their work. This idea delves into the artistic potential and possibilities within the medium of sculpture, considering factors such as the use of volume, negative space, and the interaction between the physical object and its surrounding environment. Sculptures can take on various geometric and organic forms, and by manipulating these shapes in three-dimensional space, artists can create pieces that evoke emotions, tell stories, or challenge perceptions. This concept highlights the infinite creative freedom available to sculptors as they bring their visions to', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 801118):
+Original:     what is supplemental security income used for
+Reformulated: what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is suppleme...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Supplemental Security Income (SSI) is a government program designed to assist elderly, blind, and disabled individuals who have limited income and resources. It provides monthly cash payments to help cover basic living expenses such as food, clothing, and shelter. SSI is used to supplement the income of recipients who may struggle to afford these necessities due to their financial situation. The funds from SSI are intended to ensure that recipients have enough resources to meet their essential needs without relying solely on assistance from family or friends. This includes covering costs related to housing, utilities, groceries, and other daily expenses necessary for maintaining a basic standard of living.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 190044):
+Original:     foods to detox liver naturally
+Reformulated: foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally Foods to Detox Your Liver Naturally  Detoxify...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Foods to Detox Your Liver Naturally\n\nDetoxifying your liver through diet can support its natural function and promote overall health. While there's no one-size-fits-all approach to liver detoxification, incorporating certain foods can help nourish your liver and aid in its cleansing process. Here are some foods that are beneficial for liver health:\n\n1. **Green Leafy Vegetables**: Leafy greens like spinach, kale, and collard greens are rich in antioxidants and fiber, which can help reduce inflammation and support liver function. They are also high in chlorophyll, which can help remove toxins from the body.\n\n2. **Cr", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 451602):
+Original:     medicare's definition of mechanical ventilation
+Reformulated: medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Medicare's Definition of Mechanical Ventilation. Mechanical ventilation is a form of breathing support used when a person's lungs cannot provide adequate oxygen to the body or cannot remove carbon dioxide effectively. Under Medicare's coverage guidelines, mechanical ventilation refers to the use of a machine, called a ventilator, to assist or control a patient's breathing. This service is typically provided in hospital settings or skilled nursing facilities and is covered under Part A (hospital insurance) of Medicare, provided certain criteria are met. The ventilator helps deliver air and oxygen to the lungs, which is essential for patients who are unable to breathe on their own due to various medical conditions", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 177604):
+Original:     eating foods that are considered warm
+Reformulated: eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm Eating foo...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Eating foods that are considered "warm" in traditional Chinese medicine is believed to help balance the body\'s energy and promote health. These foods are often associated with properties that can help nourish the body, especially during colder seasons or in climates with lower temperatures. Some examples of warm foods include:\n\n- Root vegetables such as carrots, sweet potatoes, and winter squash, which are rich in nutrients and have warming properties.\n- Spices like ginger, cinnamon, and cloves, which not only add flavor but also have warming effects on the body.\n- Grains such as rice and millet, which are generally considered neutral to slightly warming.\n-', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 966413):
+Original:     where are the benefits of cinnamon as a supplement?
+Reformulated: where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supp...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The benefits of cinnamon as a supplement are well-documented in various studies and can be attributed to its rich array of bioactive compounds. Cinnamon has been shown to offer several health advantages:\n\n1. **Antioxidant Properties**: Cinnamon contains antioxidants that help combat oxidative stress, which can contribute to various diseases, including cancer, cardiovascular disease, and neurodegenerative disorders.\n\n2. **Blood Sugar Regulation**: One of the most significant benefits of cinnamon is its ability to improve insulin sensitivity and regulate blood sugar levels. Studies have shown that consuming cinnamon can help lower fasting blood glucose levels in people with type 2 diabetes and prediabetes', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 588587):
+Original:     what causes heavy metal toxins in your body
+Reformulated: what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'What Causes Heavy Metal Toxins in Your Body. Heavy metals like lead, mercury, arsenic, and cadmium can enter your body through various means. Exposure can occur from contaminated water, air, soil, and food, as well as through occupational exposure, use of certain medications or traditional medicines, and environmental pollution. Over time, these metals can accumulate in organs and tissues, leading to potential health issues. Managing exposure to these toxins often involves reducing contact with sources of contamination and, in some cases, undergoing medical treatments to help remove accumulated heavy metals from the body.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1108939):
+Original:     what slows down the flow of blood
+Reformulated: what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood The flow of blood can be slowe...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The flow of blood can be slowed down by several factors, including the thickness or viscosity of the blood, the diameter and elasticity of blood vessels, and the presence of conditions like atherosclerosis or blood clots. Viscosity increases with higher levels of certain proteins, red blood cells, or fat particles in the blood, which can make it more difficult for blood to flow through the circulatory system efficiently. Atherosclerosis, a condition where fatty deposits accumulate inside the arteries, narrows the blood vessel lumen, thereby increasing resistance to blood flow. Additionally, the formation of blood clots can block blood vessels entirely, drastically slowing or', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 507445):
+Original:     symptoms of different types of brain bleeds
+Reformulated: symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different ty...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Symptoms of different types of brain bleeds can vary depending on the location, size, and severity of the bleed. Here are some common signs and symptoms for each type:\n\n1. **Intracerebral Hemorrhage**: This occurs when a blood vessel within the brain bursts. Symptoms may include sudden severe headache, nausea or vomiting, dizziness, confusion, difficulty speaking, weakness or numbness on one side of the body, and loss of balance or coordination.\n\n2. **Subarachnoid Hemorrhage**: This happens when bleeding occurs in the subarachnoid space, which is the area between the brain', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

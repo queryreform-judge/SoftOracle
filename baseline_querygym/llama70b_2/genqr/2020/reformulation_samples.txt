@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 23849):
+Original:     are naturalization records public information
+Reformulated: are naturalization records public information naturalization records, public records, citizenship records, immigration records, public information, FOIA, genealogy research, ancestry records, vital re...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['naturalization records, public records, citizenship records, immigration records, public information, FOIA, genealogy research, ancestry records, vital records, government documents', 'naturalization records, public records, citizenship records, immigration records, FOIA, genealogy research, vital records, public access, government documents', 'naturalization, public records, citizenship, immigration, genealogy, ancestry, FOIA, USCIS', 'naturalization records, public records, citizenship records, immigration records, vital records, government documents, public access, freedom of information', 'naturalization records, public records, immigration records, citizenship documents, genealogy research, public access, freedom of information, court records, vital records, ancestry research']}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 156498):
+Original:     do google docs auto save
+Reformulated: do google docs auto save Google Docs, auto save, autosave, automatic saving, cloud storage, backup, real time saving Google Docs, auto save, automatic saving, cloud storage, document recovery, synchro...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Google Docs, auto save, autosave, automatic saving, cloud storage, backup, real time saving', 'Google Docs, auto save, automatic saving, cloud storage, document recovery, synchronization, backup', 'Google Docs, autosave, automatic saving, cloud storage, document recovery, file backup', 'google docs, auto save, autosave, google drive, cloud storage, document recovery, automatic saving', 'Google Docs, autosave, automatic saving, cloud saving, document recovery, backup']}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 258062):
+Original:     how long does it take to remove wisdom tooth
+Reformulated: how long does it take to remove wisdom tooth wisdom tooth removal, recovery time, tooth extraction, dental surgery, healing process, tooth removal duration, oral surgery, anesthesia, wisdom tooth extr...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['wisdom tooth removal, recovery time, tooth extraction, dental surgery, healing process, tooth removal duration, oral surgery, anesthesia, wisdom tooth extraction time', 'wisdom tooth removal time, recovery period, extraction duration, healing process, surgery timeline', 'wisdom tooth removal, tooth extraction, recovery time, healing period, surgical procedure, dentist, oral surgery, implication, complications, aftercare', 'wisdom teeth removal, tooth extraction, recovery time, surgery duration, healing process, dental procedure', 'wisdom tooth removal, recovery time, extraction duration, surgery length, healing process, tooth extraction timeline']}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1071750):
+Original:     why is pete rose banned from hall of fame
+Reformulated: why is pete rose banned from hall of fame Pete Rose, baseball, Hall of Fame, ban, betting, scandal, MLB, Cincinnati Reds, Cooperstown Pete Rose, baseball, Hall of Fame, ban, gambling, scandal, MLB, li...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Pete Rose, baseball, Hall of Fame, ban, betting, scandal, MLB, Cincinnati Reds, Cooperstown', 'Pete Rose, baseball, Hall of Fame, ban, gambling, scandal, MLB, lifetime ban, Charlie Hustle', 'Pete Rose, baseball, Hall of Fame, ban, betting, scandal, MLB, Charlie Hustle, lifetime ban', 'Pete Rose, baseball, Hall of Fame, banned, MLB, betting, scandal, lifetime ban, gambling, eligibility, Cooperstown', 'Pete Rose, MLB, baseball, Hall of Fame, banning, gambling, ineligible, lifetime ban, Charlie Hustle, controversy']}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 67316):
+Original:     can fever cause miscarriage early pregnancy
+Reformulated: can fever cause miscarriage early pregnancy fever, miscarriage, early pregnancy, pregnancy loss, spontaneous abortion, maternal health, prenatal care fever, miscarriage, early pregnancy, pregnancy los...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['fever, miscarriage, early pregnancy, pregnancy loss, spontaneous abortion, maternal health, prenatal care', 'fever, miscarriage, early pregnancy, pregnancy loss, first trimester, maternal health, pregnancy complications', 'fever, miscarriage, early pregnancy, pregnancy loss, first trimester, infection, prenatal care, pregnancy complications, spontaneous abortion, maternal health.', 'fever, miscarriage, early pregnancy, pregnancy loss, high temperature, first trimester, spontaneous abortion, maternal health, fetal development, pregnancy complications', 'miscarriage, fever, early pregnancy, pregnancy loss, first trimester, infection, pregnancy complications, spontaneous abortion, maternal temperature, prenatal care']}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 169208):
+Original:     does mississippi have an income tax
+Reformulated: does mississippi have an income tax mississippi, income tax, state tax, tax rates, southern states, tax exemption, tax laws Mississippi, income tax, state tax, tax rates, taxation, Mississippi state i...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['mississippi, income tax, state tax, tax rates, southern states, tax exemption, tax laws', 'Mississippi, income tax, state tax, tax rates, taxation, Mississippi state income tax', 'Mississippi, income tax, state tax, Mississippi tax rates, state income tax rates', 'Mississippi, income tax, state tax, taxation, revenue, deduction, exemption, tax rate', 'Mississippi, income tax, state tax, tax rates, tax laws, taxation, MS tax']}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 938400):
+Original:     when did family feud come out?
+Reformulated: when did family feud come out? Family Feud, game show, premiere, release date, TV history Family Feud, game show, release date, premiere, history, television Family Feud, game show, release date, debu...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Family Feud, game show, premiere, release date, TV history', 'Family Feud, game show, release date, premiere, history, television', 'Family Feud, game show, release date, debut, premiere, history, television, survey says', 'Family Feud, game show, premiere date, release year, television history', 'Family Feud, game show, release date, television, survey says, Steve Harvey']}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1108651):
+Original:     what the best way to get clothes white
+Reformulated: what the best way to get clothes white laundry, whitening, bleach, washing, detergent, stain removal, fabric care, brightening laundry, whitening, bleach, stain removal, fabric care, washing tips, clo...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['laundry, whitening, bleach, washing, detergent, stain removal, fabric care, brightening', 'laundry, whitening, bleach, stain removal, fabric care, washing tips, clothes whitening, detergent', 'laundry, whitening, clothes, bleach, detergent, washing, stain removal, fabric care', 'laundry, whitening, bleach, washing, detergent, stain removal, fabric care, brightening, optical brighteners', 'laundry, whitening, bleach, detergent, washing, stains, fabric, brightening']}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1037496):
+Original:     who is rep scalise?
+Reformulated: who is rep scalise? Steve Scalise, Republican, Congressman, Representative, Louisiana, House of Representatives, Politics, Government Steve Scalise, politician, republican, representative, congress, L...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Steve Scalise, Republican, Congressman, Representative, Louisiana, House of Representatives, Politics, Government', 'Steve Scalise, politician, republican, representative, congress, Louisiana', 'Steve Scalise, politician, congressman, House of Representatives, Republican, Louisiana', 'Steve Scalise, Representative, Republican, Louisiana, politician, Congress, House of Representatives', 'Steve Scalise, House of Representatives, Republican, Louisiana, politician, congressman']}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 1064670):
+Original:     why do hunters pattern their shotguns?
+Reformulated: why do hunters pattern their shotguns? shotgun patterning, choke tubes, shotguns, hunting, ballistics, firearms, shotgun patterns, shooting technique shotgun patterning, hunting techniques, firearm ac...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['shotgun patterning, choke tubes, shotguns, hunting, ballistics, firearms, shotgun patterns, shooting technique', 'shotgun patterning, hunting techniques, firearm accuracy, barrel choke, shot spread, shotgun effectiveness', 'shotgun patterning, choke tubes, hunting strategy, shotgun effectiveness, range estimation, pellet spread', 'shotgun patterning, choke tubes, shotgun shells, spread, range, hunting tactics, firearms, shotgun effectiveness, shooting patterns', 'shotgun patterning, choke tubes, shot placement, hunting technique, firearms configuration, shotgun effectiveness, shooting accuracy']}
+
+--------------------------------------------------------------------------------
+

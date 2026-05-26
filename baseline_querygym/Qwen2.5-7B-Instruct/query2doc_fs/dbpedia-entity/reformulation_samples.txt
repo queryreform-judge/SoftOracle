@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: QALD2_te-67):
+Original:     Who are the parents of the wife of Juan Carlos I?
+Reformulated: Who are the parents of the wife of Juan Carlos I? Who are the parents of the wife of Juan Carlos I? Who are the parents of the wife of Juan Carlos I? Who are the parents of the wife of Juan Carlos I? ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "The passage provided does not contain information about the parents of the wife of Juan Carlos I. To answer the query accurately, here is the relevant information:\n\nJuan Carlos I was the King of Spain from 1975 until his abdication in 2014. His wife was Queen Sofía of Spain. Queen Sofía's parents were Infante Juan, Count of Barcelona, and Princess Maria Mercedes of Bourbon-Two Sicilies. Infante Juan, Count of Barcelona, was the eldest son of Alfonso, Count of Barcelona, and Infanta Mercedes of Bourbon-Two Sicilies. Therefore, the parents of the", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: QALD2_te-60):
+Original:     Give me a list of all lakes in Denmark.
+Reformulated: Give me a list of all lakes in Denmark. Give me a list of all lakes in Denmark. Give me a list of all lakes in Denmark. Give me a list of all lakes in Denmark. Give me a list of all lakes in Denmark. ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Denmark has a relatively small number of lakes compared to some other countries due to its geology and climate. Here is a list of notable lakes in Denmark:\n\n1. **Vejle Sø** - Located in Vejle Municipality, it is the largest lake in Denmark, covering approximately 4,176 hectares (10,310 acres).\n\n2. **Gilleleje Sø** - Situated in Himmerland, north of Copenhagen, this lake covers about 1,257 hectares (3,102 acres).\n\n3. **Sorø Østvæn', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: QALD2_te-63):
+Original:     Give me all Argentine films.
+Reformulated: Give me all Argentine films. Give me all Argentine films. Give me all Argentine films. Give me all Argentine films. Give me all Argentine films. I apologize, but providing a comprehensive list of all ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'I apologize, but providing a comprehensive list of all Argentine films would be quite extensive and beyond the scope of this response format. However, I can give you an overview of the film industry in Argentina and highlight a few notable films.\n\nArgentina has a rich history in cinema, with the industry tracing back to the early 20th century. The country is known for producing high-quality films that often explore themes related to its cultural heritage, social issues, and historical events. Argentine cinema gained international recognition in the late 20th century, particularly through the work of directors such as Luis Buñuel, whose surrealist films include "Sim', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: QALD2_te-64):
+Original:     Give me all launch pads operated by NASA.
+Reformulated: Give me all launch pads operated by NASA. Give me all launch pads operated by NASA. Give me all launch pads operated by NASA. Give me all launch pads operated by NASA. Give me all launch pads operated...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Launch Pads Operated by NASA. NASA operates several launch facilities across the United States, each serving different purposes and supporting various space exploration missions. Some of the notable launch pads operated by NASA include:\n\n1. **Kennedy Space Center (KSC)** - Located in Cape Canaveral, Florida, KSC is one of the most recognized launch sites. It is home to Launch Complex 39, which has seen numerous Apollo, Space Shuttle, and current commercial crew and cargo missions.\n\n2. **Space Launch Complex 41 (SLC-41)** - Also at Kennedy Space Center, this launch pad was originally used', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: QALD2_te-65):
+Original:     Which instruments did John Lennon play?
+Reformulated: Which instruments did John Lennon play? Which instruments did John Lennon play? Which instruments did John Lennon play? Which instruments did John Lennon play? Which instruments did John Lennon play? ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "John Lennon was a versatile musician and played several instruments throughout his career. He is most well-known for playing the electric guitar, but he also mastered the banjo, harmonica, and double bass. Additionally, Lennon played keyboards and sang lead vocals for The Beatles and his solo career. His skills extended beyond just the guitar; he contributed significantly to the band's sound through his instrumentals and vocal performances.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: QALD2_te-66):
+Original:     Which ships were called after Benjamin Franklin?
+Reformulated: Which ships were called after Benjamin Franklin? Which ships were called after Benjamin Franklin? Which ships were called after Benjamin Franklin? Which ships were called after Benjamin Franklin? Whic...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Benjamin Franklin, the renowned American polymath, had a significant influence beyond his lifetime, inspiring various namesakes across different fields, including ships. Several vessels have been named after him, commemorating his contributions to science, diplomacy, and public service. These ships serve in different navies and maritime services around the world, honoring his legacy.\n\nSome notable ships named after Benjamin Franklin include:\n\n1. **USS Constitution** - While not directly named after Benjamin Franklin, it is worth mentioning that he played a crucial role in convincing Congress to fund the construction of six frigates, including the USS Constitution, one of which is affectionately known', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: SemSearch_LS-1):
+Original:     Apollo astronauts who walked on the Moon
+Reformulated: Apollo astronauts who walked on the Moon Apollo astronauts who walked on the Moon Apollo astronauts who walked on the Moon Apollo astronauts who walked on the Moon Apollo astronauts who walked on the ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The Apollo program sent astronauts to the Moon during a series of missions from 1969 to 1972. Here are some key Apollo astronauts who walked on the lunar surface:\n\n- **Apollo 11 (July 20, 1969):** Neil Armstrong and Buzz Aldrin were the first humans to walk on the Moon. Michael Collins orbited above in the Command Module.\n- **Apollo 12 (November 19, 1969):** Charles "Pete" Conrad and Alan Bean walked on the Moon. Richard Gordon orbited above.\n- **Apollo 1', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: SemSearch_ES-97):
+Original:     PINK PANTHER 2
+Reformulated: PINK PANTHER 2 PINK PANTHER 2 PINK PANTHER 2 PINK PANTHER 2 PINK PANTHER 2 The Pink Panther 2 is a 2009 comedy film in the Pink Panther franchise, starring Steve Martin as the titular character. Direc...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The Pink Panther 2 is a 2009 comedy film in the Pink Panther franchise, starring Steve Martin as the titular character. Directed by Rob Reiner, the movie continues the series of comedic capers centered around the bumbling French detective Inspector Clouseau. In this installment, Clouseau becomes embroiled in a case involving a valuable diamond known as the Pink Panther Stone, which is sought by various criminals. The film also features the talents of other notable actors such as Téa Leoni, Peter Stormare, and Stephen Fry. Pink Panther 2 picked up where the original Pink Panther left off, providing', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: SemSearch_LS-2):
+Original:     Arab states of the Persian Gulf
+Reformulated: Arab states of the Persian Gulf Arab states of the Persian Gulf Arab states of the Persian Gulf Arab states of the Persian Gulf Arab states of the Persian Gulf The Arab states of the Persian Gulf are ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The Arab states of the Persian Gulf are a group of countries located along the coast of the Persian Gulf. This region is known for its rich oil reserves and significant economic influence. The member states of this group are Bahrain, Iraq, Kuwait, Oman, Qatar, Saudi Arabia, the United Arab Emirates (UAE), and Yemen. Each of these countries has its own unique cultural heritage and political structure, but they share a common historical and linguistic bond. The term "Persian Gulf" is used internationally, while some countries in the region prefer the term "Arabian Gulf," although this is considered by many to be a political and cultural', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: SemSearch_ES-96):
+Original:     New England Coffee
+Reformulated: New England Coffee New England Coffee New England Coffee New England Coffee New England Coffee New England Coffee is a brand known for its rich, robust coffee blends that have become popular among cof...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "New England Coffee is a brand known for its rich, robust coffee blends that have become popular among coffee enthusiasts in the northeastern United States and beyond. Originating from the region of New England, which includes states like Massachusetts, Vermont, Connecticut, Rhode Island, and New Hampshire, the brand has carved out a niche by focusing on traditional and innovative coffee offerings. From classic drip coffee to specialty beverages, New England Coffee aims to bring the essence of the region's culture and climate into every cup. The brand often emphasizes quality beans sourced from around the world, ensuring that consumers can savor a diverse array of flavors while supporting sustainable practices. Whether enjoyed", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

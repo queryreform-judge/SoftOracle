@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea flea, life cycle, duration, stages, egg, larva, pupa, adult, development, lifespan, environment, temperature, humidity, pet, infestation, control, prevention flea life c...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['flea, life cycle, duration, stages, egg, larva, pupa, adult, development, lifespan, environment, temperature, humidity, pet, infestation, control, prevention', 'flea life cycle, flea lifespan, flea stages, flea development, flea eggs, flea larvae, flea pupae, flea adult, flea duration, flea growth', 'flea, life cycle, duration, stages, eggs, larvae, pupae, adult, development, lifespan, reproduction, infestation, pets, environment', 'flea, life cycle, duration, stages, eggs, larvae, pupae, adult, development, lifespan, timeline, pet, infestation, control', 'flea life cycle, flea lifespan, flea stages, flea development, flea eggs, flea larvae, flea pupae, flea duration, flea growth, flea reproduction']}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring interior, concrete, flooring, cost, price, installation, per square foot, materials, labor, finishes, polishing, staining, sealing, maintenance, durability, comparis...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['interior, concrete, flooring, cost, price, installation, per square foot, materials, labor, finishes, polishing, staining, sealing, maintenance, durability, comparison, budget, estimates, contractors, DIY, options, styles, designs', 'interior, concrete, flooring, cost, price, installation, per square foot, materials, labor, finishing, staining, polishing, sealing, maintenance, durability, comparison, alternatives, epoxy, polished concrete, decorative concrete, residential, commercial, DIY, professional, quotes, estimates, budget, affordable, high-end, options, styles, designs, thickness, coatings, overlays, benefits, drawbacks, longevity, return on investment', 'interior, concrete, flooring, cost, price, installation, per square foot, materials, labor, finishing, sealing, polishing, staining, decorative, options, budget, comparison, affordable, high-end, DIY, professional, quotes, estimates, maintenance, durability, styles, designs', 'interior, concrete, flooring, cost, price, installation, per square foot, materials, labor, finishing, polishing, staining, sealing, maintenance, durability, comparison, alternatives, budget, quotes, contractors', 'interior, concrete, flooring, cost, price, installation, per square foot, materials, labor, finishing, sealing, polishing, staining, decorative, options, budget, comparison, DIY, professional, estimates']}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment declaratory judgment, definition, legal, court, ruling, interpretation, rights, obligations, dispute, declaratory relief, civil procedure, judgment definition, legal te...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['declaratory judgment, definition, legal, court, ruling, interpretation, rights, obligations, dispute, declaratory relief, civil procedure, judgment definition, legal terms, lawsuit, judicial decision', 'declaratory, judgment, definition, legal, court, ruling, relief, rights, dispute, resolution', 'declaratory judgment, definition, legal, court, ruling, binding, rights, obligations, dispute, resolution, declaratory relief, lawsuit, jurisdiction, precedent, interpretation', 'declaratory judgment, definition, legal, court, ruling, declaratory relief, lawsuit, interpretation, rights, obligations, jurisdiction', 'declaratory judgment, definition, legal, court, ruling, interpretation, rights, obligations, lawsuit, declaratory relief, jurisdiction, binding, precedent, civil procedure, legal remedy']}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of durable, medical, equipment, components, parts, materials, types, examples durable medical equipment, DME, definition, components, examples, types, medical...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['durable, medical, equipment, components, parts, materials, types, examples', 'durable medical equipment, DME, definition, components, examples, types, medical supplies, healthcare devices, equipment list, Medicare coverage', 'durable, medical, equipment, components, parts, materials, types', 'durable medical equipment, DME, definition, components, types, examples, Medicare, insurance, healthcare supplies, medical devices, categories', 'durable medical equipment, DME, definition, components, types, examples, medical devices, healthcare supplies, insurance coverage, Medicare, uses']}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth wifi, bluetooth, comparison, difference, wireless, technology, speed, range, connectivity, uses, advantages, disadvantages wifi, bluetooth, comparison, difference, technology...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['wifi, bluetooth, comparison, difference, wireless, technology, speed, range, connectivity, uses, advantages, disadvantages', 'wifi, bluetooth, comparison, difference, technology, wireless, connection, speed, range, usage, devices, networking, signal, frequency, data transfer', 'wifi, bluetooth, comparison, difference, wireless, technology, speed, range, connectivity, uses, pros, cons', 'wifi, bluetooth, comparison, differences, technology, wireless, connection, speed, range, usage', 'wifi, bluetooth, comparison, difference, wireless, technology, speed, range, connectivity, usage, devices, network, data transfer, frequency, advantages, disadvantages']}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen, liquid, temperature, boiling point, cryogenic, Kelvin, Celsius, Fahrenheit, phase change, critical temperature hydrogen, liquid, temperature, boil...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['hydrogen, liquid, temperature, boiling point, cryogenic, Kelvin, Celsius, Fahrenheit, phase change, critical temperature', 'hydrogen, liquid, temperature, boiling point, cryogenic, Kelvin, Celsius, Fahrenheit, phase transition, critical temperature', 'hydrogen, liquid, temperature, boiling point, cryogenic, Kelvin, Celsius, Fahrenheit, phase change, critical temperature', 'hydrogen, liquid, temperature, boiling point, cryogenic, Kelvin, Celsius, Fahrenheit, phase change, critical temperature', 'hydrogen, liquid, temperature, boiling point, Kelvin, Celsius, critical temperature']}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health social determinants of health, health equity, socioeconomic factors, healthcare access, education, income inequality, housing, employment, social support, en...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['social determinants of health, health equity, socioeconomic factors, healthcare access, education, income inequality, housing, employment, social support, environmental factors, public health, policy, disparities, community resources, cultural influences', 'social determinants of health, health disparities, socioeconomic factors, education, income inequality, housing, employment, healthcare access, environmental factors, social support, public health, policy, race, ethnicity, gender, culture, community resources, food security, transportation, discrimination', 'social determinants of health, health equity, socioeconomic factors, healthcare access, education, employment, income, housing, environment, social support, public health, policy, disparities, racism, discrimination, community resources, cultural factors, healthcare inequality, poverty, food security', 'social determinants of health, health equity, socioeconomic factors, healthcare access, education, income inequality, housing, employment, environmental factors, public health, social support, policy, cultural influences, health disparities, community resources', 'social determinants of health, health equity, socioeconomic factors, healthcare access, education, income inequality, housing, employment, environmental factors, public health, social support, policy, disparities, cultural influences, community resources']}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? three percenters, militia, patriot movement, far-right, extremism, anti-government, conspiracy theories, U.S. history, armed groups, political ideology three percenters,...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['three percenters, militia, patriot movement, far-right, extremism, anti-government, conspiracy theories, U.S. history, armed groups, political ideology', 'three percenters, militia, patriot movement, far-right, extremism, anti-government, conspiracy theories, U.S. history, Second Amendment, activism', 'three percenters, militia, patriot movement, far-right, extremism, conspiracy theories, anti-government, U.S. history, gun rights, sovereign citizens', 'three percenters, militia, patriot movement, far-right, anti-government, extremism, conspiracy theories, U.S. Constitution, Second Amendment, armed groups', 'three percenters, militia, patriot movement, far-right, extremism, conspiracy theories, anti-government, U.S. history, armed groups, political ideology']}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes pelvic pain, right side, causes, symptoms, diagnosis, treatment, women, men, lower abdomen, gynecological, urological, musculoskeletal, infections, kidney stones, ovarian cyst...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['pelvic pain, right side, causes, symptoms, diagnosis, treatment, women, men, lower abdomen, gynecological, urological, musculoskeletal, infections, kidney stones, ovarian cysts, endometriosis, appendicitis, hernia, pelvic inflammatory disease, UTIs, digestive issues, nerve pain, pregnancy-related, chronic pain, medical conditions', 'pelvic pain, right side, causes, symptoms, diagnosis, treatment, lower abdomen, gynecological, urinary, musculoskeletal, infections, ovarian cyst, appendicitis, endometriosis, hernia, kidney stones, pelvic inflammatory disease, digestive issues, nerve compression, reproductive health', 'pelvic pain, right side, causes, symptoms, diagnosis, treatment, women, men, pelvic disorders, gynecological, urological, musculoskeletal, infections, inflammation, kidney stones, ovarian cysts, endometriosis, hernia, appendicitis, pelvic inflammatory disease, urinary tract infection, sciatica, digestive issues, reproductive health, chronic pain', 'pelvic pain, right side, causes, symptoms, diagnosis, treatment, women, men, lower abdomen, gynecological, urinary, musculoskeletal, digestive, reproductive health, inflammation, infection, hernia, kidney stones, ovarian cysts, endometriosis, appendicitis, pelvic inflammatory disease, bladder issues, nerve pain, trauma, chronic pain, medical conditions, discomfort, sharp pain, dull ache', 'pelvic pain, right side, causes, symptoms, diagnosis, treatment, women, men, lower abdomen, gynecological, urological, musculoskeletal, infections, kidney stones, ovarian cysts, endometriosis, appendicitis, hernia, pelvic inflammatory disease, urinary tract infection, digestive issues, nerve pain, pregnancy-related, trauma, inflammation']}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet sigmet, definition, aviation, weather, hazardous, meteorological, information, flight, safety, advisory, airmen, forecast, turbulence, icing, volcanic, ash, thunderstorms sigmet...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['sigmet, definition, aviation, weather, hazardous, meteorological, information, flight, safety, advisory, airmen, forecast, turbulence, icing, volcanic, ash, thunderstorms', 'sigmet, definition, aviation, weather, hazardous, meteorological, information, flight, safety, advisory, airmen, forecast, turbulence, icing, volcanic, ash, thunderstorms', 'sigmet, definition, aviation, weather, hazards, advisory, flight, safety, meteorological, ICAO, FAA, aviation terms, weather phenomena, turbulence, volcanic ash, thunderstorms, icing', 'sigmet, definition, aviation, weather, advisory, meteorological, flight, hazards', 'sigmet, definition, aviation, weather, hazardous, meteorological, information, flight, advisory, airspace']}
+
+--------------------------------------------------------------------------------
+

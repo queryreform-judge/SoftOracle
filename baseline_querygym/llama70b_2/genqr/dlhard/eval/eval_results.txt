@@ -1,0 +1,11 @@
+=== map ===
+map                   	all	0.1512
+
+
+=== ndcg_cut.10 ===
+ndcg_cut_10           	all	0.2199
+
+
+=== recall.1000 ===
+recall_1000           	all	0.6851
+

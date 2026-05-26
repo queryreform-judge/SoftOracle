@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea To answer this question, we need to consider ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer this question, we need to consider the biological characteristics of fleas, which are ectoparasites that feed on the blood of mammals and birds. The life cycle of a flea is complex and involves several stages: egg, larva, pupa, and adult. Each stage has a different duration, and environmental factors such as temperature, humidity, and the availability of a host can influence the length of each stage.\n\nThe life cycle starts when an adult female flea lays her eggs, typically on the host animal. These eggs hatch into larvae, which do not feed on blood but instead feed on organic debris, adult flea feces', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring To provide an accurate es...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To provide an accurate estimate for the cost of interior concrete flooring, several factors need to be considered:\n\n1. **Size of the Area**: The total cost is largely dependent on the square footage of the area to be covered. Larger areas require more materials and potentially more labor, increasing the overall cost.\n\n2. **Type of Concrete Finish**: Different finishes, such as polished, stained, or stamped concrete, have varying costs due to the differences in materials and labor required. For example, a polished finish might be more expensive due to the need for specialized equipment and potentially multiple coats of sealant.\n\n3. **Location**: Labor costs and the', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment To answer this query, we need to underst...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer this query, we need to understand what a declaratory judgment is and its role within the legal system.\n\nA declaratory judgment is a judicial decision that declares the rights and obligations of parties involved in a dispute, without ordering any specific action. It is a binding judgment that provides clarity on the interpretation of the law as it applies to the particular circumstances of the case, essentially answering the question of what the law is in a given situation.\n\nHere is the rationale step by step:\n\n1. **Understanding the Purpose**: The primary purpose of a declaratory judgment is to provide a clear and legally binding determination of the rights and obligations of the', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medi...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer this question, we need to understand what "durable medical equipment" (DME) refers to and the criteria that define it. The term is used in healthcare and insurance contexts to denote medical equipment that is designed for repeated use by patients, either in hospitals, clinics, or at home. The key characteristics of DME typically include:\n\n1. **Durability:** The equipment must be able to withstand repeated use over a prolonged period, which is often defined as at least three years.\n2. **Primary Use:** The primary purpose of the equipment is for medical treatment or therapy, rather than for general comfort or convenience.\n3', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth To answer this question, we need to understand the underlying technolo...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer this question, we need to understand the underlying technology and purpose of both WiFi and Bluetooth. \n\nWiFi and Bluetooth are two types of wireless communication technologies used for different purposes. The main difference lies in their range, speed, purpose, and security.\n\n**Rationale:**\n\n1. **Purpose**: WiFi is primarily used to connect devices to the internet or a local network, allowing for internet browsing, file transfers, and other network-related activities. On the other hand, Bluetooth is used for device-to-device communication, such as connecting headphones to a phone, transferring files between devices, or connecting a keyboard to a computer.\n\n2. **', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid bel...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer this question, we need to consider the properties of hydrogen. Hydrogen is a gas at standard temperature and pressure conditions but can be liquefied under certain conditions. The key factor that determines whether hydrogen is a liquid or a gas is its temperature. \n\nLiquefaction of gases is achieved by lowering their temperature. For hydrogen, the critical temperature (the temperature above which it cannot be liquefied, no matter how much pressure is applied) is about 33 K (-240 °C or -400 °F). However, the question asks about the temperature below which hydrogen is a liquid, which relates to its boiling point at', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determin...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "The query about the social determinants of health is rooted in understanding the broader factors that influence an individual's or population's health outcomes. These factors are recognized as crucial because they go beyond the individual's personal choices or behaviors to encompass the conditions in which people are born, grow, live, work, and age. The rationale for identifying and addressing the social determinants of health is based on several key points:\n\n1. **Inequity and Health Outcomes:** There is significant evidence that health inequities exist and are closely linked to social, economic, and environmental factors. These inequities result in varying health outcomes among different populations", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? To answer this query, I'll first provide the ...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To answer this query, I'll first provide the rationale behind the question and then provide an explanation of who the Three Percenters are.\n\nRationale: The question about the Three Percenters suggests an interest in understanding a specific group or movement. The inquiry may stem from various contexts, such as current events, political discussions, or concerns about social movements. The Three Percenters have been mentioned in various news outlets and discussions related to militia movements, gun rights, and political extremism in the United States. Understanding who they are and what they represent can provide insight into contemporary political and social issues.\n\nAnswer: The Three Percenters, also known as the", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes To approach the query about right pelvic pain causes, it's essential to con...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To approach the query about right pelvic pain causes, it's essential to consider the anatomy and functions of the pelvic region, as well as the various organs and structures located within and around it. The pelvic area contains parts of the digestive, urinary, reproductive, and musculoskeletal systems, among others. Therefore, pain in this region can stem from a variety of causes, ranging from mild and temporary to severe and chronic conditions.\n\nGiven the complexity and the potential seriousness of some conditions, it's crucial to undergo a thorough medical evaluation to determine the exact cause of right pelvic pain. However, some common causes can be broadly categorized:\n\n1. **", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet To answer the query, we first need to understand what the term "sigmet" refers to. Th...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'To answer the query, we first need to understand what the term "sigmet" refers to. The rationale behind this understanding involves recognizing that "sigmet" is aviation shorthand for "significant meteorological information." This is a term used in the aviation industry to alert pilots and aviation professionals about weather conditions that could affect flight safety.\n\nGiven this understanding, the definition of a sigmet would involve any significant weather phenomenon that is potentially hazardous to aircraft, such as thunderstorms, turbulence, icing conditions, volcanic ash, and other meteorological conditions that could impact flight operations.\n\nWith this rationale in mind, the answer to the query is:\n\nA sig', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

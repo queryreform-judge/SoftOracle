@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea It appears that you have provided multiple qu...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "It appears that you have provided multiple queries and passages. I'll provide answers to each query based on the provided passages:\n\n1. What is the average cost for brick masonry?\nThe average cost for residential brick masonry labor is about $425 to $500 per thousand bricks for flat walls, including buff or grey mortar, sand, and brick ties.\n\n2. Which of these is an important difference between cardiac muscle and skeletal muscle?\nThe passage does not explicitly mention the differences between cardiac muscle and skeletal muscle. However, it highlights the similarities between the two types of muscles, including being striated, containing the same basic contractile proteins,", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring It seems like you provide...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "It seems like you provided a series of queries with corresponding passages that answer each question. Here are the answers to each query:\n\n1. Average monthly temperature for Sydney, Australia:\nThe passage doesn't provide a specific average monthly temperature for Sydney, but it mentions that in summer (December-February), average maximum temperatures are around 26°C, and in winter (June-August), average maximum temperatures are around 16°C.\n\n2. What body part did JFK get shot:\nAccording to the passage, John F. Kennedy was hit in the head and throat when three shots were fired at his open-topped car.\n\n3. Labor cost for", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment Based on the format provided, I will cre...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Based on the format provided, I will create passages that answer each query:\n\n**Best way to export from iTunes**\nThe best way to export music from iTunes is by transferring the files to an external device, such as a flash drive. To do this, simply connect the flash drive to your computer, open iTunes, and select the songs you want to export. Then, drag and drop the songs onto the flash drive. This will allow you to transfer your music to another computer or device. Alternatively, you can also use iTunes\' built-in export feature to transfer your music to another computer or device. This feature can be found in the "', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medi...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'It appears that the passage for the query "what is durable medical equipment consist of" is missing. However, I can provide a general answer to the query.\n\nDurable Medical Equipment (DME) consists of medical devices that are designed to withstand repeated use and can be used in various healthcare settings, including homes, hospitals, and clinics. Examples of DME include:\n\n* Wheelchairs and mobility aids\n* Hospital beds and mattresses\n* Oxygen tanks and concentrators\n* Ventilators and respirators\n* Fall prevention equipment, such as grab bars and non-slip mats\n* Orthotics and prosthetics\n* Walking aids', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth Here are the answers to the given queries in passage form:  **Query: W...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the given queries in passage form:\n\n**Query: What is CCV?**\nCCV, or Card Verification Value, is a security feature implemented by credit card companies to prevent online transaction fraud. It is a three- or four-digit code printed on the back of a credit card, which must be entered by the cardholder during online transactions to verify that they are in possession of the card.\n\n**Query: Propagating Spider Plants**\nSpider plants are easily propagated through their offsets, also known as "babies" or "plantlets". These small plants grow on the ends of long stems that sprout from', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid bel...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the given queries based on the provided passages:\n\n1. Query: Is that results from untreated Staphylococcus infection is?\nAnswer: Serious health risks to the skin and organs of the body.\n\n2. Query: When did the Velveteen Rabbit come out?\nAnswer: The Velveteen Rabbit was originally published in 1922.\n\n3. Query: Tri cities opticians Abingdon VA\nAnswer: Tri-City Opticians is an optometrist facility located at 329 Cummings St in Abingdon, VA.\n\n4. Query: What is a heat block\nAnswer: Heat', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determin...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the passages rewritten in a more polished and cohesive form, with the answers to the queries:\n\n**Electrician Helper Salary**\nThe average salary for an electrician helper in the United States is around $12.21 per hour. However, compensation can range from $9.55 per hour on the lower end to $17.28 on the higher end, depending on factors such as residence and experience level. Notably, the majority of electrician helpers in the US are men, and their pay is significantly influenced by their location and level of expertise.\n\n**Grace Hopper\'s Passing**\nGrace Hopper, affectionately known as "', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? It appears you've provided a series of querie...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'It appears you\'ve provided a series of queries with corresponding passages that answer them. To follow your instruction and provide a passage for the last query, here\'s an attempt to create a passage based on the query about the "three percenters":\n\nThe Three Percenters, also known as the III% or Threepers, are a paramilitary group and a political movement in the United States. The name "Three Percenters" refers to the claim that only three percent of American colonists actively fought against the British during the American Revolution. The group\'s ideology is based on the notion that a small, dedicated minority of citizens can effect significant', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes Here are the answers to each query in the form of a passage:  **Query: what...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the answers to each query in the form of a passage:\n\n**Query: what is the distance of the circumference of the earth**\nThe Earth's circumference is approximately 40,008 kilometers when measured around the poles. This measurement has been calculated with remarkable accuracy, considering that ancient Greek mathematician Eratosthenes was able to estimate it with reasonable precision using the shadows of vertical sticks and the distance between two cities. Today, we have more precise methods of measurement, but the basic principle remains the same.\n\n**Query: can you take medication before a blood test**\nIf you have an upcoming blood test, you may be wondering", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet Here are the answers to each query in a passage format:  **Query: the difference betw...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the answers to each query in a passage format:\n\n**Query: the difference between talent and spiritual gift**\n\nWhen it comes to understanding the differences between spiritual gifts and talents, it's essential to recognize that they are not the same thing. A talent is a natural ability or skill that can be developed through practice, training, or genetics, whereas a spiritual gift is a special ability given by the Holy Spirit to serve others and build up the body of Christ. While anyone, regardless of their faith, can possess a talent, spiritual gifts are reserved for Christians who have received the gift of the Holy Spirit. Furthermore, talents can be used", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea The life cycle of a flea is quite fascinating...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "The life cycle of a flea is quite fascinating and complex, consisting of four distinct stages: egg, larva, pupa, and adult. The entire process can vary in length depending on factors such as temperature, humidity, and availability of food sources, but generally lasts from several weeks to about six months under optimal conditions.\n\n1. **Egg Stage**: Flea females lay their eggs within a day or two after feeding on blood, typically producing around 20-50 eggs at a time. These eggs are small and white, often laid in the pet's fur or in areas where the pet spends time. The egg stage", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring The cost of interior conc...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The cost of interior concrete flooring can vary significantly depending on several factors including the location, the size of the area to be covered, the quality of materials used, and the complexity of the design. Generally, the basic cost of concrete flooring installation starts at around $2 to $4 per square foot for a plain, smooth finish. This price range assumes standard concrete with a minimal amount of finishing work.\n\nFor more decorative or specialized finishes, such as stamped concrete, textured concrete, or colored concrete, the costs can increase to between $4 and $8 per square foot. Additionally, if there is a need for special waterproofing or moisture-resistant', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment A declaratory judgment is a legal remedy...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'A declaratory judgment is a legal remedy where a court formally determines the rights, duties, or obligations of parties without ordering any specific action or providing a remedy. This type of judgment is typically used to clarify the meaning and application of laws or contracts, resolve uncertainties, and provide clarity to the parties involved. Declaratory judgments can be sought in various contexts, including but not limited to, disputes involving real property, intellectual property, employment law, and insurance. The primary purpose of a declaratory judgment is to allow individuals or entities to obtain a clear and definitive ruling on their legal position, which can prevent potential conflicts and provide guidance for future', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medi...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Durable medical equipment (DME) consists of various medical devices and supplies designed for long-term use by patients to manage or treat their health conditions at home or in other settings outside of a healthcare facility. This equipment is typically covered by insurance when it meets certain criteria, such as being necessary for the patient's treatment and not being suitable for frequent replacement. DME includes a wide range of items, such as hospital beds, wheelchairs, oxygen tanks, nebulizers, continuous positive airway pressure (CPAP) machines, infusion pumps, and walkers. Additionally, items like braces, casts, and orthotic devices fall under the", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth WiFi and Bluetooth are both wireless technologies designed to allow de...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'WiFi and Bluetooth are both wireless technologies designed to allow devices to communicate with each other over short distances without the need for physical connections. However, they serve different purposes and operate at different ranges and speeds.\n\nWiFi, or Wireless Fidelity, is primarily used for high-speed internet connectivity and file transfers over relatively longer distances. It typically operates in the 2.4 GHz and 5 GHz frequency bands and can provide data transfer rates ranging from several megabits per second (Mbps) to gigabits per second (Gbps). WiFi is ideal for connecting computers, smartphones, tablets, and smart home devices to the internet, enabling activities such', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid bel...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Hydrogen is not typically found as a liquid under normal atmospheric pressure because it exists in a gaseous state at room temperature and standard atmospheric pressure. However, when cooled to extremely low temperatures, hydrogen can indeed become a liquid. Hydrogen transitions from a gas to a liquid at its boiling point, which occurs at approximately -252.87°C (or 20.28 K) under standard atmospheric pressure of 1 atmosphere (101.3 kPa). This means that hydrogen will remain in a gaseous state above this temperature but will condense into a liquid form below this temperature. It', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determin...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "The social determinants of health (SDOH) are the conditions in which people are born, grow, live, work, and age. These factors can broadly be categorized into economic stability, education access and quality, social and community context, health care access and quality, and neighborhood and built environment. SDOH play a critical role in influencing an individual's health outcomes and well-being. For example, individuals who experience financial hardship may have limited access to nutritious food and healthcare services, which can negatively impact their health. Similarly, living in areas with high levels of pollution or lacking safe places for physical activity can contribute to poor health. Education", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? The term "Three Percenters" refers to a loose...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The term "Three Percenters" refers to a loosely organized American far-right paramilitary group that emerged in the early 21st century. This group claims its name from the slogan "We are the three percent," which alludes to their belief that they represent only three percent of the general population but hold core principles that are under threat. The organization\'s ideology is rooted in a variety of extreme right-wing beliefs, including but not limited to anti-government sentiments, white supremacy, and support for gun rights. Members of the Three Percenters often engage in militia activities, such as training for self-defense and preparedness for potential societal collapse or', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes Right pelvic pain can result from a variety of causes, ranging from relativ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Right pelvic pain can result from a variety of causes, ranging from relatively minor issues to more serious conditions. One common cause is muscle strain or injury, often due to physical activities that involve repetitive motions or sudden movements. Additionally, conditions such as ovarian cysts, endometriosis, or ovarian torsion in women can lead to significant pain on the right side of the pelvis. In men, issues like epididymitis (inflammation of the epididymis) or testicular torsion can cause similar symptoms.\n\nIliotibial band syndrome, which affects the thick band of fibrous tissue that runs along the', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet A SIGMET, which stands for Significant Meteorological Information, is a type of aviat...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'A SIGMET, which stands for Significant Meteorological Information, is a type of aviation weather warning issued by meteorological watch offices and designated agencies around the world to inform pilots and air traffic controllers about specific weather phenomena that could pose a hazard to aircraft operations. These phenomena include severe turbulence, wind shear, volcanic ash, dust storms, and other significant weather conditions that may affect flight safety. SIGMETs are crucial for ensuring the safety of flights by providing real-time information on hazardous weather patterns that can be encountered during various stages of flight. Pilots rely on these warnings to make informed decisions regarding their flight routes and schedules, thus avoiding areas where', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

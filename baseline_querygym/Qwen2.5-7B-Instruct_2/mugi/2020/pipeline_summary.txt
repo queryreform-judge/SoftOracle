@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  msmarco-v1-passage.trecdl2020
+Method:   mugi
+Model:    Qwen/Qwen2.5-7B-Instruct
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 8m 26.3s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 8m 10.4s
+  retrieval      : 11.8s
+  evaluation     : 4.1s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  map                      : 0.4178
+  ndcg_cut_10              : 0.6200
+  recall_1000              : 0.8938
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/Qwen2.5-7B-Instruct_2/mugi/2020

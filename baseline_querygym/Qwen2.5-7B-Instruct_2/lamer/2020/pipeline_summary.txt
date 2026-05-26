@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  msmarco-v1-passage.trecdl2020
+Method:   lamer
+Model:    Qwen/Qwen2.5-7B-Instruct
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 11m 34.6s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 11m 16.0s
+  retrieval      : 10.0s
+  evaluation     : 8.5s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  map                      : 0.4433
+  ndcg_cut_10              : 0.6307
+  recall_1000              : 0.8867
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/Qwen2.5-7B-Instruct_2/lamer/2020

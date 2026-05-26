@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea The life cycle of a flea is relatively short ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "The life cycle of a flea is relatively short but complex, consisting of four main stages: egg, larva, pupa, and adult. Here's a breakdown of each stage and the duration involved:\n\n1. **Egg Stage**: Fleas typically lay their eggs within a day or two after feeding on a host animal. Eggs are laid in batches of 20 to 50 and can be deposited in various environments, such as pet bedding, carpets, or soil. The egg stage lasts from about one to ten days, depending on environmental conditions like temperature and humidity.\n\n2. **Larva Stage**: After hatching", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring The cost of interior conc...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The cost of interior concrete flooring can vary significantly depending on several factors including the type of concrete used, the complexity of the design, labor costs, and additional finishes or coatings applied. Generally, the cost per square foot for interior concrete flooring can range from $2 to $10 or more, though some high-end finishes or specialty concrete treatments can push this price much higher. For instance:\n\n- **Basic Concrete Slab**: This involves simply pouring and finishing a plain concrete slab. The cost is typically on the lower end, around $2 to $4 per square foot.\n  \n- **Stamped Concrete**: Adding patterns and textures to the concrete', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment A declaratory judgment is a legal remedy...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'A declaratory judgment is a legal remedy where a court formally declares the rights, duties, or status of the parties involved in a dispute without ordering any specific action or providing monetary compensation. This type of judgment is typically used to settle legal questions or clarify ambiguous agreements before a full-blown lawsuit occurs. It allows individuals or entities to seek clarification on their legal rights and obligations, ensuring that both parties understand their legal standing before proceeding with potential litigation. Declaratory judgments are particularly useful in resolving conflicts before they escalate into more serious legal battles, offering a way to resolve uncertainties in a non-adversarial manner.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medi...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Durable medical equipment consists of medical supplies and devices that are designed for long-term use and are intended to assist individuals with their medical needs. These items are typically used outside of a hospital setting and can include a variety of items such as wheelchairs, oxygen concentrators, hospital beds, diabetic testing supplies, and various types of braces or orthotic devices. Durable medical equipment is often covered by health insurance plans and is provided by healthcare providers to help patients manage their conditions at home or in other settings. The specific types of equipment needed can vary greatly depending on the individual's medical condition and treatment plan.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth Passage: WiFi and Bluetooth are both wireless technologies used for da...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Passage: WiFi and Bluetooth are both wireless technologies used for data transmission, but they operate differently and have distinct characteristics and applications. WiFi operates in the 2.4 GHz and 5 GHz frequency bands, providing higher speeds and longer ranges suitable for connecting multiple devices to a network simultaneously. It is commonly used for internet connectivity and is ideal for devices like computers, smartphones, and routers.\n\nBluetooth, on the other hand, operates in the 2.4 GHz frequency band and is designed for short-range, low-power wireless communication. It supports data transfer rates up to 24 Mbps but with shorter ranges compared to WiFi, typically up', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid bel...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Hydrogen as a Liquid. Hydrogen transitions from a gas to a liquid state at extremely low temperatures. Specifically, hydrogen liquefies below its boiling point, which occurs at -252.87 degrees Celsius (or -423.17 degrees Fahrenheit). This temperature is just above absolute zero, the lowest possible temperature where all molecular motion theoretically stops. Below this threshold, hydrogen exists as a liquid, though achieving such low temperatures requires significant energy input and specialized equipment.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determin...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Social determinants of health are the conditions in which people are born, grow, live, work, and age. These circumstances are shaped by the distribution of money, power, and resources at global, national, and local levels. They influence whether people tend to be healthy or sick, and their likelihood of living long, productive lives. Here are some key social determinants of health:\n\n1. **Economic Stability**: This includes income, employment opportunities, and financial security. Financial hardship can lead to stress, poor nutrition, and lack of access to healthcare, all of which can negatively impact health.\n\n2. **Education**: Higher levels of', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? The term "three percenters" is often associat...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The term "three percenters" is often associated with various far-right extremist groups in the United States. It generally refers to individuals who believe that only 3% of the population actively supports and will defend certain extreme political ideologies or movements. These ideologies typically include white nationalism, anti-government sentiments, and conspiracy theories. Three percenters often participate in armed militias, paramilitary training, and sometimes engage in illegal activities, such as stockpiling weapons and ammunition. They see themselves as a hidden, but significant, force within society that is prepared to take action to support their causes. However, it\'s important to note that the term can also', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes Right Pelvic Pain Causes. Right-sided pelvic pain can be caused by various ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Right Pelvic Pain Causes. Right-sided pelvic pain can be caused by various factors, ranging from minor issues like muscle strain to more serious conditions. Common causes include:\n\n1. **Muscle Strain**: Overuse or injury to the muscles in the lower abdomen and pelvis can lead to pain.\n2. **Ovarian Cysts**: Women may experience pain due to cysts on the ovaries, which can sometimes cause discomfort on one side.\n3. **Ectopic Pregnancy**: This occurs when a fertilized egg implants outside the uterus, often in the fallopian tube, causing sharp pain on one side.\n4.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet A SIGMET stands for Significant Meteorological Information. It is a weather bulletin ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'A SIGMET stands for Significant Meteorological Information. It is a weather bulletin issued by aviation weather services to alert pilots and air traffic controllers about specific weather phenomena that could be hazardous to aircraft. SIGMETs cover severe icing, turbulence, wind shear, volcanic ash, and severe storms such as thunderstorms producing hail larger than one inch in diameter or gust fronts from thunderstorm outflows. These bulletins are crucial for ensuring the safety of aircraft and helping pilots plan their routes accordingly.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 915593):
+Original:     what types of food can you cook sous vide
+Reformulated: what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for your query about sous vide cooking', '### **General Sous Vide Keywords:**', 'Sous vide cooking', 'Sous vide recipes', 'Sous vide food', 'Sous vide dishes', 'Sous vide meals', '### **Types of Food for Sous Vide:**', 'Sous vide meats', 'Sous vide steak', 'Sous vide chicken', 'Sous vide pork', 'Sous vide fish', 'Sous vide seafood', 'Sous vide salmon', 'Sous vide shrimp', 'Sous vide eggs', 'Sous vide vegetables', 'Sous vide carrots', 'Sous vide asparagus'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 794429):
+Original:     what is sculpture shape space
+Reformulated: what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space Here’s a list of relevant keywords for the query *...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for the query **"what is sculpture shape space"**', '### **Core Keywords:**', 'Sculpture', 'Shape in sculpture', 'Space in sculpture', 'Sculptural form', 'Three-dimensional art', '### **Related Concepts:**', 'Positive and negative space', 'Volume in sculpture', 'Mass and void', 'Spatial composition', 'Form and structure', 'Sculpture techniques', '### **Artistic Elements:**', 'Geometric shapes in sculpture', 'Organic forms', 'Abstract sculpture', 'Figurative sculpture', 'Kinetic sculpture'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 801118):
+Original:     what is supplemental security income used for
+Reformulated: what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is suppleme...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for your query **"What is Supplemental Security Income used for?"**', '### **Primary Keywords:**', 'Supplemental Security Income (SSI)', 'SSI benefits', 'SSI uses', 'Purpose of SSI', 'SSI program', '### **Secondary Keywords:**', 'SSI eligibility', 'SSI financial assistance', 'SSI for disabled', 'SSI for elderly', 'SSI for low income', 'SSI payment uses', 'SSI benefits explained', '### **Related Terms:**', 'Social Security disability (SSDI) vs. SSI', 'Federal'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 190044):
+Original:     foods to detox liver naturally
+Reformulated: foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally Here’s a list of relevant keywords for the qu...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for the query **"foods to detox liver naturally"**', '### **Primary Keywords:**', 'Liver detox foods', 'Natural liver cleanse foods', 'Best foods for liver detox', 'Liver-cleansing foods', 'Detoxifying foods for liver', '### **Secondary & Long-Tail Keywords:**', 'Foods that support liver health', 'Natural ways to detoxify liver', 'Superfoods for liver detox', 'Herbs and foods for liver cleansing', 'Healthy liver diet', 'Antioxidant-rich foods for liver', 'Liver-friendly foods', 'Detox diet for liver function'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 451602):
+Original:     medicare's definition of mechanical ventilation
+Reformulated: medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for the query **"Medicare\'s definition of mechanical ventilation"**', '### **Primary Keywords:**', 'Medicare definition mechanical ventilation', 'Medicare guidelines mechanical ventilation', 'CMS mechanical ventilation criteria', 'Medicare coverage mechanical ventilation', 'Medicare policy mechanical ventilation', '### **Related Keywords:**', 'Medicare ventilator requirements', 'Medicare respiratory assistance definition', 'CMS ventilator coverage rules', 'Medicare Part B mechanical ventilation', 'Invasive vs. non-invasive ventilation Medicare', 'Medicare ventilator reimbursement criteria', 'Medicare durable medical equipment (DME) ventilator', '### **Additional Useful Terms:**', 'Medicare ventilator documentation requirements'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 177604):
+Original:     eating foods that are considered warm
+Reformulated: eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm Here’s a l...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for the query **"eating foods that are considered warm"**', '### **Primary Keywords:**', 'Warm foods', 'Heating foods', 'Thermally warm foods', 'Foods for warming the body', 'Warming diet', '### **Related Concepts:**', 'Traditional Chinese Medicine (TCM) warming foods', 'Ayurvedic warming foods', 'Yang foods (TCM)', 'Hot and cold food theory', 'Winter warming foods', '### **Specific Food Examples:**', 'Ginger', 'Garlic', 'Cinnamon', 'Turmeric', 'Chili peppers', 'Black pepper'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 966413):
+Original:     where are the benefits of cinnamon as a supplement?
+Reformulated: where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supp...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for your query on the benefits of cinnamon as a supplement', '### **Primary Keywords:**', 'Cinnamon benefits', 'Cinnamon supplement benefits', 'Health benefits of cinnamon', 'Cinnamon as a supplement', 'Cinnamon health effects', '### **Secondary Keywords (Specific Benefits):**', 'Anti-inflammatory properties of cinnamon', 'Cinnamon for blood sugar control', 'Cinnamon and diabetes management', 'Antioxidant effects of cinnamon', 'Cinnamon for heart health', 'Cinnamon and digestion', 'Immune-boosting cinnamon', 'Cinnamon for weight loss', 'Antimicrobial properties of cinnamon'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 588587):
+Original:     what causes heavy metal toxins in your body
+Reformulated: what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for your query about the causes of heavy metal toxins in the body', '### **Primary Keywords:**', 'Heavy metal toxicity', 'Heavy metal poisoning', 'Heavy metal exposure', 'Toxic heavy metals', 'Heavy metal accumulation', '### **Sources of Exposure:**', 'Industrial pollution', 'Contaminated water', 'Mercury in fish (e.g', 'tuna', 'swordfish)', 'Lead paint', 'Arsenic in rice', 'Cadmium in cigarettes', 'Aluminum in cookware', 'Pesticides and herbicides', 'Dental amalgams (mercury fillings)', 'Occupational exposure ('], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1108939):
+Original:     what slows down the flow of blood
+Reformulated: what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood Here’s a list of relevant keyw...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for your query **"what slows down the flow of blood"**', '### **General Terms:**', 'Blood flow reduction', 'Impaired blood circulation', 'Poor blood circulation', 'Blood flow obstruction', 'Decreased blood velocity', '### **Physiological Factors:**', 'High blood viscosity (thick blood)', 'Vasoconstriction (narrowed blood vessels)', 'Atherosclerosis (plaque buildup)', 'Blood clots (thrombosis)', 'Peripheral artery disease (PAD)', '### **Lifestyle & Health Conditions:**', 'Sedentary lifestyle'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 507445):
+Original:     symptoms of different types of brain bleeds
+Reformulated: symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different ty...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here’s a list of relevant keywords for the query **"symptoms of different types of brain bleeds"**', '### **General Keywords:**', 'Brain bleed symptoms', 'Symptoms of brain hemorrhage', 'Signs of intracranial bleeding', 'Cerebral hemorrhage symptoms', 'Neurological symptoms of brain bleeds', '### **By Type of Brain Bleed:**', '**Intracerebral Hemorrhage (ICH)**', 'Intracerebral hemorrhage symptoms', 'Deep brain bleed signs', 'Stroke-like symptoms from ICH', '**Subarachnoid Hemorrhage (SAH)**'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

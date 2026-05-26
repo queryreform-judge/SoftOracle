@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: QALD2_te-67):
+Original:     Who are the parents of the wife of Juan Carlos I?
+Reformulated: Who are the parents of the wife of Juan Carlos I? Who are the parents of the wife of Juan Carlos I? Who are the parents of the wife of Juan Carlos I? Who are the parents of the wife of Juan Carlos I? ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "Who are the parents of the wife of Juan Carlos I?"', 'Juan Carlos I', 'Spanish monarchy', 'Queen Sofía', 'Sofia of Greece and Denmark', 'parents', 'King Constantine II of Greece', 'Queen Anne-Marie of Greece', 'Greek royal family', 'Spanish royal family', 'Spanish royalty', 'Spanish history', 'European royal families', 'Royal lineage', 'House of Bourbon', 'Greek-German royal connections'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: QALD2_te-60):
+Original:     Give me a list of all lakes in Denmark.
+Reformulated: Give me a list of all lakes in Denmark. Give me a list of all lakes in Denmark. Give me a list of all lakes in Denmark. Give me a list of all lakes in Denmark. Give me a list of all lakes in Denmark. ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "Give me a list of all lakes in Denmark"', 'Lakes in Denmark', 'Danish lakes', 'List of lakes', 'Geographical features', 'Danish geography', 'Water bodies', 'Danish water bodies', 'Danish hydrology', 'Danish lakes map', 'Danish lake locations', 'Lake areas', 'Danish lake areas', 'Danish lake size', 'Danish freshwater lakes', 'Danish lake database', 'Danish lakes database', 'Danish lake management'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: QALD2_te-63):
+Original:     Give me all Argentine films.
+Reformulated: Give me all Argentine films. Give me all Argentine films. Give me all Argentine films. Give me all Argentine films. Give me all Argentine films. Certainly! Here is a list of keywords related to Argent...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to Argentine films', 'Argentine cinema', 'Buenos Aires film industry', 'Argentine movies', 'Argentine directors', 'Argentine actors', 'Cinema history (Argentina)', 'Argentinian films', 'Latin American cinema', 'Spanish language films', 'Film festivals (Argentina)', 'Cineargentino', 'Tango films', 'Political dramas (Argentina)', 'Rural themes in Argentine films', 'Urban settings in Argentine cinema', 'Indigenous representation in Argentine films', 'Argentine animation'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: QALD2_te-64):
+Original:     Give me all launch pads operated by NASA.
+Reformulated: Give me all launch pads operated by NASA. Give me all launch pads operated by NASA. Give me all launch pads operated by NASA. Give me all launch pads operated by NASA. Give me all launch pads operated...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Sure', 'here are some keywords related to "launch pads operated by NASA"', 'Kennedy Space Center', 'Cape Canaveral', 'Launch Complex 39', 'Space Launch System (SLS)', 'Atlas V', 'Falcon 9', 'Titan IV', 'Shuttle Era', 'Launch Pad 39A', 'Launch Pad 39B', 'Vehicle Assembly Building', 'Ares I', 'Delta IV Heavy', 'Launch Complex 40', 'Launch Complex 41', 'Exploration'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: QALD2_te-65):
+Original:     Which instruments did John Lennon play?
+Reformulated: Which instruments did John Lennon play? Which instruments did John Lennon play? Which instruments did John Lennon play? Which instruments did John Lennon play? Which instruments did John Lennon play? ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "Which instruments did John Lennon play?"', 'John Lennon', 'Musical instruments', 'Guitar', 'Bass guitar', 'Piano', 'Saxophone', 'Vocals', 'Beatle', 'Music career', 'Beatles', 'Instruments list', 'Rock musician'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: QALD2_te-66):
+Original:     Which ships were called after Benjamin Franklin?
+Reformulated: Which ships were called after Benjamin Franklin? Which ships were called after Benjamin Franklin? Which ships were called after Benjamin Franklin? Which ships were called after Benjamin Franklin? Whic...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "Which ships were called after Benjamin Franklin?"', 'Benjamin Franklin', 'Ships named after', 'American history', 'U.S. Navy', 'Historical ships', 'Naval vessels', 'Famous Americans', 'Ship naming conventions', 'Maritime history', 'United States Navy ships', 'Franklin-class (ship)', 'USS Benjamin Franklin', 'Naval tradition', 'Historical naming', 'US Navy ships'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: SemSearch_LS-1):
+Original:     Apollo astronauts who walked on the Moon
+Reformulated: Apollo astronauts who walked on the Moon Apollo astronauts who walked on the Moon Apollo astronauts who walked on the Moon Apollo astronauts who walked on the Moon Apollo astronauts who walked on the ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "Apollo astronauts who walked on the Moon"', 'Apollo Program', 'Moon Landing', 'Astronauts', 'Neil Armstrong', 'Buzz Aldrin', 'Edwin "Buzz" E. Aldrin Jr', 'Michael Collins', 'Lunar Module', 'Space Suits', 'Moonwalk', 'Mission Control', 'NASA', 'Space Race', 'Apollo 11', 'Apollo 12', 'Apollo 14', 'Apollo 15'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: SemSearch_ES-97):
+Original:     PINK PANTHER 2
+Reformulated: PINK PANTHER 2 PINK PANTHER 2 PINK PANTHER 2 PINK PANTHER 2 PINK PANTHER 2 Sure! Here is a list of keywords related to "PINK PANTHER 2" Pink Panther 2 Movie Detective Clouseau Inspector Clouseau Steve...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Sure! Here is a list of keywords related to "PINK PANTHER 2"', 'Pink Panther 2', 'Movie', 'Detective Clouseau', 'Inspector Clouseau', 'Steve Martin', 'Comedy', 'Adventure', 'Crime', 'Film', 'Animation', 'Sequel', 'Hollywood', 'Cinema', 'Comedy film', 'Pink Panther franchise', 'Roger Moore', 'Physical comedy', 'Plot', 'Plot summary'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: SemSearch_LS-2):
+Original:     Arab states of the Persian Gulf
+Reformulated: Arab states of the Persian Gulf Arab states of the Persian Gulf Arab states of the Persian Gulf Arab states of the Persian Gulf Arab states of the Persian Gulf Certainly! Here is a list of keywords re...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the "Arab states of the Persian Gulf"', 'Bahrain', 'Iran (Persian Gulf coast)', 'Iraq', 'Kuwait', 'Oman', 'Qatar', 'Saudi Arabia', 'United Arab Emirates', 'Persian Gulf', 'Arabian Peninsula', 'Gulf Cooperation Council (GCC)', 'Strait of Hormuz', 'Oil and gas industry', 'Maritime borders', 'Cultural heritage', 'Renewable energy', 'Diplomatic relations', 'Tourism'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: SemSearch_ES-96):
+Original:     New England Coffee
+Reformulated: New England Coffee New England Coffee New England Coffee New England Coffee New England Coffee Certainly! Here is a list of keywords related to "New England Coffee" New England Coffee shop Coffee roas...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to "New England Coffee"', 'New England', 'Coffee shop', 'Coffee roaster', 'Brewed coffee', 'Bean-to-cup', 'Local coffee', 'Specialty coffee', 'Coffee blends', 'Espressos', 'Decaf coffee', 'Cold brew', 'French press', 'Coffee tasting', 'Coffee culture', 'Boston coffee', 'Maine coffee', 'Vermont coffee', 'Connecticut coffee', 'Rhode Island coffee'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

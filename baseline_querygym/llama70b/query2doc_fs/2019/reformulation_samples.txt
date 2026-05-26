@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea Here are the answers to each query in the for...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to each query in the form of passages:\n\n**How to write the code for background processing in ABAP**\n\nTo write the code for background processing in ABAP, you need to use the ABAP language to create a program that can run in the background. First, start by creating a new program in your ABAP editor and include the `REPORT` statement to indicate that it is an executable program. For example, `REPORT ZTEST_BACKGROUND_PROGRAM`. Then, use the `START-OF-SELECTION` event to initiate the background processing. You can use the `SUBMIT` statement to submit a program to', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring It seems like you want me...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'It seems like you want me to write a passage for the query "cost of interior concrete flooring". Here it is:\n\nThe cost of interior concrete flooring can vary depending on several factors, including the size of the area, the type of finish, and the location. On average, the cost of interior concrete flooring can range from $2 to $15 per square foot, with polished concrete floors being the most expensive option. For a basic concrete floor with a matte finish, the cost can be as low as $2 to $4 per square foot. However, for a high-gloss finish or a floor with intricate designs, the cost can', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment Here are the answers to the given querie...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the given queries based on the provided passages:\n\n1. **Which empire traded cocoa beans?**\nThe Aztec empire traded cocoa beans. In fact, the Cacao Bean was used as a form of currency by the Aztecs.\n\n2. **How long is COBRA coverage for?**\nCOBRA (Consolidated Omnibus Budget Reconciliation Act) coverage can last for different durations depending on the specific law that applies. Under Federal COBRA, coverage can be kept for at least 18 months, while under Cal-COBRA (a California law), it can be kept for up to', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medi...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the answers to the given queries:\n\n1. What part of the body does Parkinson's affect?\nParkinson's disease affects the Central Nervous System, specifically the brain's ability to control movement, due to a lack of dopamine.\n\n2. Who was the last player not to wear a facemask?\nGaro Yepremian was the last NFL player to not wear a face mask, until he adopted one partway through the 1966 season.\n\n3. What is included with Creative Cloud?\nAdobe's Creative Cloud subscription includes software, services, and tools for social networking and collaboration, as well as access to newer titles", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth Here's a passage that answers the query "what is wifi vs bluetooth":  ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here\'s a passage that answers the query "what is wifi vs bluetooth":\n\nWiFi and Bluetooth are two different wireless communication technologies that serve distinct purposes. WiFi is a wireless networking technology that allows devices to connect to the internet or communicate with each other through a wireless network. It operates on a specific frequency band, typically 2.4 GHz or 5 GHz, and uses radio waves to transmit data between devices. WiFi is commonly used for internet access, file transfer, and online communication.\n\nBluetooth, on the other hand, is a wireless personal area network (PAN) technology that enables devices to communicate with each other over short distances, typically', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid bel...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "It looks like you have multiple queries and corresponding passages. I'll do my best to provide a clear and concise answer to each query.\n\n**Query 1: Foods to restore gut flora**\nTo restore gut flora, it's essential to consume foods that promote a healthy balance in the gut. Some beneficial foods include those high in soluble fiber, such as psyllium husk powder, which acts as a natural broom to clean out the GI tract. Additionally, taking probiotics in powdered or capsule form can be very beneficial.\n\n**Query 2: Where are unmyelinated nerve fibers surrounded by Schwann cells**\nUnmyel", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determin...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to each query based on the provided passages:\n\n1. Query: How long is a Virginia marriage certificate good for?\nAnswer: A Virginia marriage license is good for 60 days from the issue date before it expires.\n\n2. Query: Who is the quarterback coach at Michigan State College?\nAnswer: The passage does not mention the current quarterback coach at Michigan State College. It only mentions Dan Enos, who is now the head coach at Central Michigan University and has a history with MSU as a starting quarterback.\n\n3. Query: Cost or market (LCM) rule debit\nAnswer: The journal entry to write-down', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? Here are the answers to each query in the for...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to each query in the form of a passage:\n\n**Freon Charge Avg Cost**\nThe average cost of a Freon recharge can vary depending on the type of device and location. For a car, the cost can range from $50 to $150, while for a central air conditioning unit in a home, the cost can range from $90 to $180. According to some sources, a Freon recharge can cost around $55 to $60 as long as the air is still working.\n\n**When Do Teeth Start Growing In**\nTeeth typically start growing in when a child is around 6 months old, with', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes Here are the answers to the given queries in the form of passages:  **What ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the given queries in the form of passages:\n\n**What do trees represent?**\n Trees have been a symbol of life, hope, and spirituality in many cultures. They represent the connection between the earth and the sky, and their roots, trunk, branches, and leaves are often seen as symbolic of the different aspects of human life. The Christmas tree, in particular, symbolizes the spirit of the Christmas season and, to Christians, the everlasting life and sacrifice of Jesus Christ. In various cultures, trees are also seen as a representation of wisdom, strength, and resilience.\n\n**Headache coughing**\nCough headaches', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet Here are the answers to each query:  1. Which condition might cause dyspnea? Diseases...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the answers to each query:\n\n1. Which condition might cause dyspnea?\nDiseases in other organs, such as the kidneys and the liver, may cause dyspnea by a combination of interactions. Specifically, end-stage renal disease can cause dyspnea due to metabolic acidosis, volume overload causing pulmonary edema, and/or pleural effusions impairing lung expansion.\n\n2. Where can I get my flu shot?\nYou can get a flu shot at your doctor's office, from your local health department, or sometimes at grocery or drug stores.\n\n3. Linksys router tech support phone number\nThe Linksys", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

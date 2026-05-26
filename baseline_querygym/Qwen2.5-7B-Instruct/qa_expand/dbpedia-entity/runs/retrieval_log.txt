@@ -1,0 +1,14 @@
+Retrieval Log
+================================================================================
+
+Dataset: beir-v1.0.0-dbpedia-entity
+Index: beir-v1.0.0-dbpedia-entity.flat
+BM25 Parameters: k1=0.9, b=0.4
+Queries: 400
+Top-k: 1000
+Threads: 16
+
+Total retrieval time: 15.0s
+Average per query: 0.037s
+Total documents retrieved: 400000
+Average per query: 1000.0

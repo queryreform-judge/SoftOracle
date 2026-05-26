@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea flea, life cycle, flea lifespan, insect development, flea stages, adult flea, flea egg flea, life cycle, duration, development, stages, time, flea lifespan flea, life cy...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['flea, life cycle, flea lifespan, insect development, flea stages, adult flea, flea egg', 'flea, life cycle, duration, development, stages, time, flea lifespan', 'flea, life cycle, duration, flea development, insect lifespan', 'flea, life cycle, duration, flea life span, biology, entomology, insect lifecycle', 'flea, life, cycle, duration, stages, development, growth, flea lifespan']}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring concrete floors, flooring prices, interior flooring costs, polished concrete, stained concrete, concrete slab, flooring estimates, concrete installation, decorative ...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['concrete floors, flooring prices, interior flooring costs, polished concrete, stained concrete, concrete slab, flooring estimates, concrete installation, decorative concrete, cost per square foot', 'concrete floors, flooring costs, interior flooring, concrete slab, polished concrete, epoxy flooring, flooring prices, concrete finish, decorative concrete', 'concrete floor cost, interior concrete flooring prices, polished concrete cost, stained concrete floor cost, concrete slab cost, interior flooring options, concrete flooring estimates, decorative concrete cost', 'concrete floors, interior flooring costs, polished concrete, stained concrete, epoxy coatings, flooring prices, concrete slab, indoor flooring, cost per square foot', 'concrete floor cost, interior flooring prices, polished concrete cost, concrete slab price, flooring estimates, concrete flooring installation cost, interior concrete floor prices']}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment declaratory judgment, legal definition, court ruling, judicial declaration, lawsuit, civil procedure declaratory judgment, legal definition, judicial declaration, court...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['declaratory judgment, legal definition, court ruling, judicial declaration, lawsuit, civil procedure', 'declaratory judgment, legal definition, judicial declaration, court ruling, lawsuit, civil procedure, judicial review, legal remedy, court decree', 'declaratory judgment, judicial declaration, court ruling, legal definition, judicial precedent, court decision, declaratory relief, equitable remedy, legal ruling, court judgment', 'declaratory judgment, definition, legal definition, judicial declaration, court judgment, declaratory relief, civil procedure', 'declaratory judgment, judicial declaration, court judgment, legal declaration, declaratory relief, judicial ruling, court order, legal judgment, civil procedure']}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of durable medical equipment, medical supplies, walkers, wheelchairs, hospital beds, oxygen tanks, mobility aids, prosthetics, orthotics, medical devices medi...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['durable medical equipment, medical supplies, walkers, wheelchairs, hospital beds, oxygen tanks, mobility aids, prosthetics, orthotics, medical devices', 'medical equipment, durable products, hospital supplies, patient care, home care, mobility aids, rehabilitation devices, diagnostic equipment, medical furniture, assistive technology', 'durable medical equipment, DME, medical supplies, wheelchairs, walkers, hospital beds, oxygen tanks, mobility aids, prosthetics, orthotics, medical devices', 'medical equipment, durable goods, hospital supplies, rehabilitation devices, assistive technology, wheelchairs, walkers, oxygen tanks, mobility aids, medical devices', 'Medical supplies, wheelchairs, walkers, hospital beds, oxygen tanks, prosthetic devices, mobility aids, hospital equipment, rehabilitation equipment, assistive technology']}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth wifi, bluetooth, wireless, technology, comparison, difference, networking, connectivity wifi, bluetooth, wireless, networking, connectivity, technology, comparison, differenc...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['wifi, bluetooth, wireless, technology, comparison, difference, networking, connectivity', 'wifi, bluetooth, wireless, networking, connectivity, technology, comparison, difference', 'Wi-Fi, Bluetooth, wireless, networking, technology, connectivity, comparison, difference, internet, protocols', 'wifi, bluetooth, wireless, networking, technology, comparison, difference, range, speed, connectivity, devices', 'wireless technology, wifi, bluetooth, networking, connectivity, comparison, difference, advantages, disadvantages, range, speed, security, devices, protocols']}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen, liquid, temperature, freezing point, cryogenic, boiling point hydrogen, boiling point, liquid, temperature, critical point, liquefaction hydrogen,...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['hydrogen, liquid, temperature, freezing point, cryogenic, boiling point', 'hydrogen, boiling point, liquid, temperature, critical point, liquefaction', 'hydrogen, liquid, temperature, boiling point, phase, transition, cryogenic', 'hydrogen, liquid, temperature, boiling point, 20.28 K', 'hydrogen, liquid, temperature, boiling point, melting point, cryogenic, freezing point']}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health socioeconomic status, education, employment, housing, nutrition, access to healthcare, poverty, inequality, environment, culture, demographics, health dispar...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['socioeconomic status, education, employment, housing, nutrition, access to healthcare, poverty, inequality, environment, culture, demographics, health disparities', 'socioeconomic status, education, employment, housing, healthcare access, nutrition, environment, poverty, inequality, demographics', 'socioeconomic status, education, occupation, housing, income, healthcare access, nutrition, environment, social support, ethnicity, poverty, inequality, health disparities, access to care', 'healthcare disparities, socioeconomic factors, environmental health, education, housing, poverty, nutrition, access to care, social inequality, health inequities, demographics, economic stability, social support, community resources', 'socioeconomic status, education, housing, employment, nutrition, environment, healthcare access, income inequality, social support, community resources']}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? Three Percenters, III Percent, militia, patriot movement, anti-government, right-wing, extremism, sovereign citizen Three Percenters, militia, patriot movement, anti-gov...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Three Percenters, III Percent, militia, patriot movement, anti-government, right-wing, extremism, sovereign citizen', 'Three Percenters, militia, patriot movement, anti-government, extremist groups, III%ers', 'Three Percenters, III% militia, anti-government, patriot movement, extremist groups, right-wing ideology, paramilitary organization', 'three percenters, militia, patriot movement, anti-government, III%, sovereign citizen, right-wing extremism', 'three percenters, militia, patriot movement, sovereign citizen, anti-government, far-right, extremist group']}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes appendicitis, kidney stones, hernia, endometriosis, ovarian cysts, ectopic pregnancy, inflammatory bowel disease, diverticulitis pelvis, pain, right side, abdomen, lower back,...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['appendicitis, kidney stones, hernia, endometriosis, ovarian cysts, ectopic pregnancy, inflammatory bowel disease, diverticulitis', 'pelvis, pain, right side, abdomen, lower back, ovaries, appendix, kidneys, uterus, intestines, inflammation, infection, injury', 'pelvic pain, lower right abdominal pain, appendicitis, ovarian cysts, kidney stones, ectopic pregnancy, endometriosis, uterine fibroids, constipation, diverticulitis', 'pelvic pain, right lower quadrant, abdominal pain, lower back pain, appendicitis, kidney stones, ovary pain, ectopic pregnancy, endometriosis, uterine pain', 'pelvic pain, right lower quadrant pain, abdominal pain, ovary pain, appendix pain, kidney stones, urinary tract infection, endometriosis, constipation, bowel obstruction, hernia, osteitis pubis']}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet Sigmet, weather, aviation, meteorology, alert, warning, definition, terminology sigmet, meteorology, weather, aviation, airmet, meteorological, information, warning, advisory, f...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Sigmet, weather, aviation, meteorology, alert, warning, definition, terminology', 'sigmet, meteorology, weather, aviation, airmet, meteorological, information, warning, advisory, forecast', 'Sigmet, weather, aviation, airmet, meteorology, NOTAM, aviation weather, flight planning', 'SIGMET, weather, warning, aviation, meteorology, airmet, forecast, alert, notification, aviation weather', 'Sigmet, weather warning, aviation weather, meteorology, airmet, NOTAM, flight planning, weather advisory, significant meteorological information']}
+
+--------------------------------------------------------------------------------
+

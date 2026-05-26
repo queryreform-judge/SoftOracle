@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  beir-v1.0.0-trec-news
+Method:   qa_expand
+Model:    Qwen/Qwen2.5-7B-Instruct
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 6m 46.3s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 6m 16.9s
+  retrieval      : 5.9s
+  evaluation     : 23.4s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  ndcg_cut_10              : 0.4340
+  recall_100               : 0.5419
+  recall_1000              : 0.7674
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/qa_expand/trec-news

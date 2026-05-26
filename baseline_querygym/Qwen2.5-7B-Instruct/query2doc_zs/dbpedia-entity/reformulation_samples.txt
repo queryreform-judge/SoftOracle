@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: QALD2_te-67):
+Original:     Who are the parents of the wife of Juan Carlos I?
+Reformulated: Who are the parents of the wife of Juan Carlos I? Who are the parents of the wife of Juan Carlos I? Who are the parents of the wife of Juan Carlos I? Who are the parents of the wife of Juan Carlos I? ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "The wife of Juan Carlos I was Queen Sofia of Spain, whose full name was Sofia Anna María Eulalia de las Mercedes. She was born on May 14, 1938, in Athens, Greece. Queen Sofia's parents were Prince Nicolas of Greece and Denmark and Princess Alice of Battenberg. Prince Nicolas was a son of George I of Greece and Princess Frederica of Hanover, while Princess Alice was the youngest daughter of Prince Louis of Battenberg and Grand Duchess Olga Alexandrovna of Russia.\n\nPrince Nicolas of Greece and Denmark (1887-1944) was a member", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: QALD2_te-60):
+Original:     Give me a list of all lakes in Denmark.
+Reformulated: Give me a list of all lakes in Denmark. Give me a list of all lakes in Denmark. Give me a list of all lakes in Denmark. Give me a list of all lakes in Denmark. Give me a list of all lakes in Denmark. ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'While I don\'t have an exhaustive and up-to-date list of every single lake in Denmark at my fingertips, Denmark is known for its numerous small lakes, many of which are remnants of glacial activity during the last ice age. These lakes, called "øer" in Danish, are typically scattered across the countryside rather than concentrated in specific areas. Here’s a brief overview of some notable lakes in Denmark:\n\n1. **Hedeå** - Located in the region of Funen, this lake is part of the larger Hedeå wetland complex and is surrounded by protected natural areas.\n\n2. **Hyldecroftø', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: QALD2_te-63):
+Original:     Give me all Argentine films.
+Reformulated: Give me all Argentine films. Give me all Argentine films. Give me all Argentine films. Give me all Argentine films. Give me all Argentine films. It's important to note that listing all Argentine films...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'It\'s important to note that listing all Argentine films is not feasible in this format due to the vast number of films produced over the years. However, I can provide an overview of some notable Argentine films and filmmakers that have made significant contributions to cinema. Argentine cinema has a rich history, with many directors and films that have gained international recognition.\n\nOne of the most celebrated directors is Luis Buñuel, known for his surrealist works such as "Simón del Desierto" (1932) and "Los Olvidados" (1950). Other renowned directors include Santiago Alvarez, whose documentaries often address social and', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: QALD2_te-64):
+Original:     Give me all launch pads operated by NASA.
+Reformulated: Give me all launch pads operated by NASA. Give me all launch pads operated by NASA. Give me all launch pads operated by NASA. Give me all launch pads operated by NASA. Give me all launch pads operated...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'NASA operates several launch pads across various space centers for different missions and spacecraft. The primary launch sites are Kennedy Space Center in Cape Canaveral, Florida, and Wallops Flight Facility in Virginia. Kennedy Space Center is home to two main launch pads:\n\n1. **Launch Complex 39 (LC-39)**: This complex includes two launch pads, LC-39A and LC-39B. LC-39A was used for the Apollo program to send astronauts to the Moon and is currently used for Space Launch System (SLS) and Orion spacecraft launches as part of the Artemis program. LC-3', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: QALD2_te-65):
+Original:     Which instruments did John Lennon play?
+Reformulated: Which instruments did John Lennon play? Which instruments did John Lennon play? Which instruments did John Lennon play? Which instruments did John Lennon play? Which instruments did John Lennon play? ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "John Lennon was a versatile musician who played several instruments throughout his career. He was primarily known for his skills as a guitarist and vocalist. Lennon started playing the banjo at an early age, which he continued to use in some of his performances, notably with the Quarrymen, the band that would eventually become The Beatles. He was also proficient on the piano, using it for both songwriting and live performances, particularly with his solo work and during The Beatles' later years when he took on more of a songwriting and vocal role. Lennon's primary instrument, however, was the guitar. He was skilled in various styles, from rock and", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: QALD2_te-66):
+Original:     Which ships were called after Benjamin Franklin?
+Reformulated: Which ships were called after Benjamin Franklin? Which ships were called after Benjamin Franklin? Which ships were called after Benjamin Franklin? Which ships were called after Benjamin Franklin? Whic...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Benjamin Franklin, renowned for his contributions to science, politics, and diplomacy, also inspired maritime history with ships named in his honor. The first notable ship to bear his name was USS Benjamin Franklin, a sloop-of-war commissioned by the United States Navy during the War of 1812. This ship played a crucial role in naval engagements and patrols along the Atlantic coast.\n\nLater, in the late 19th century, another vessel was named after him. The USS Benjamin Franklin, a screw steamer, served as an armed merchant cruiser and took part in various naval operations before being decommissioned. More recently, in', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: SemSearch_LS-1):
+Original:     Apollo astronauts who walked on the Moon
+Reformulated: Apollo astronauts who walked on the Moon Apollo astronauts who walked on the Moon Apollo astronauts who walked on the Moon Apollo astronauts who walked on the Moon Apollo astronauts who walked on the ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "The Apollo astronauts who walked on the Moon were part of NASA's ambitious Apollo program, which aimed to land humans on the lunar surface and return them safely to Earth. The first crew to walk on the Moon was Apollo 11, with astronauts Neil Armstrong and Buzz Aldrin, while Michael Collins orbited above in the command module. Neil Armstrong, as the mission commander, was the first human to step onto the lunar surface on July 20, 1969, followed by Buzz Aldrin. This historic event was broadcast live to a global audience.\n\nFollowing Apollo 11, there were five more successful moon landings", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: SemSearch_ES-97):
+Original:     PINK PANTHER 2
+Reformulated: PINK PANTHER 2 PINK PANTHER 2 PINK PANTHER 2 PINK PANTHER 2 PINK PANTHER 2 PINK PANTHER 2 is a 2023 animated comedy film in the long-running Pink Panther franchise. Directed by Don Hewlett and produce...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'PINK PANTHER 2 is a 2023 animated comedy film in the long-running Pink Panther franchise. Directed by Don Hewlett and produced by Illumination Entertainment, the movie continues the adventures of the titular detective, known for his pipe, bowler hat, and perpetually bewildered expression. Starring the voices of Eddie Redmayne as the Pink Panther himself and Taron Egerton as the character of Boris Kustodiev, the film promises a series of slapstick and cleverly constructed gags typical of the genre. Set to release on November 18, 2023, the film', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: SemSearch_LS-2):
+Original:     Arab states of the Persian Gulf
+Reformulated: Arab states of the Persian Gulf Arab states of the Persian Gulf Arab states of the Persian Gulf Arab states of the Persian Gulf Arab states of the Persian Gulf The Arab states of the Persian Gulf, als...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The Arab states of the Persian Gulf, also known as the Gulf States or the Arabian Gulf states, comprise a region in Western Asia that borders the Persian Gulf and the Gulf of Oman. This area is characterized by its strategic location and rich natural resources, particularly oil and gas. The seven major countries that constitute this region are Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, the United Arab Emirates (UAE), and the Islamic Republic of Iran, although Iran is not considered part of the Arab world due to its non-Arabic population.\n\nThese countries have a shared history and culture influenced by their geographical proximity and economic interdependence. Their', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: SemSearch_ES-96):
+Original:     New England Coffee
+Reformulated: New England Coffee New England Coffee New England Coffee New England Coffee New England Coffee New England Coffee has become a beloved tradition in the northeastern United States, especially in the st...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "New England Coffee has become a beloved tradition in the northeastern United States, especially in the states of Maine, Vermont, Massachusetts, Connecticut, Rhode Island, and New Hampshire. This unique coffee culture is deeply intertwined with the region's history, geography, and local tastes. The climate and soil of New England contribute to the growth of specific types of coffee beans that thrive in the area, which in turn influences the distinctive flavor profiles found in many local coffee shops and roasters.\n\nCoffeehouses in New England often boast cozy atmospheres, perfect for curling up with a cup on chilly autumn days or enjoying a leisurely conversation during spring and summer after", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

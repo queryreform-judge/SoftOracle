@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 23849):
+Original:     are naturalization records public information
+Reformulated: are naturalization records public information are naturalization records public information are naturalization records public information are naturalization records public information are naturalizati...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Naturalization records in the United States are generally considered public information, with some limitations and considerations. Once an individual is naturalized and granted citizenship through the naturalization process, their record becomes part of the public record maintained by the U.S. Citizenship and Immigration Services (USCIS). This means that anyone can access these records through official channels or by visiting the USCIS website, though there may be fees associated with obtaining copies.\n\nHowever, the information contained within these records is subject to certain protections. For instance, social security numbers, credit card information, and other sensitive personal data are not included in public records. Additionally, the privacy of', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 156498):
+Original:     do google docs auto save
+Reformulated: do google docs auto save do google docs auto save do google docs auto save do google docs auto save do google docs auto save Google Docs automatically saves your work as you type, ensuring that you do...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Google Docs automatically saves your work as you type, ensuring that you don't lose any progress due to unexpected issues such as power outages or internet disconnections. This feature is designed to provide a seamless and uninterrupted editing experience. Every change you make is saved in real-time, meaning you can focus on writing without worrying about saving files manually. Additionally, Google Docs offers a revision history feature that allows you to track changes made over time, revert to previous versions if needed, and even compare different versions of your document. This automatic saving mechanism enhances productivity and reliability for users working on collaborative projects or long documents.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 258062):
+Original:     how long does it take to remove wisdom tooth
+Reformulated: how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it tak...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The time it takes to remove a wisdom tooth can vary depending on several factors, including the position of the tooth, its orientation in the jaw, and whether it is impacted or partially erupted. Generally, the procedure to extract a wisdom tooth can take anywhere from 30 minutes to an hour, though in more complex cases, such as when the tooth is deeply impacted, it might take longer. The surgical process usually begins with administering local anesthesia to numb the area around the tooth. In some cases, sedation or general anesthesia may be used for patients who are anxious or if the extraction is particularly complex.\n\nOnce the patient is comfortable, the', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1071750):
+Original:     why is pete rose banned from hall of fame
+Reformulated: why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hal...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Pete Rose's ban from the Hall of Fame is rooted in his career as a professional baseball player and the gambling scandal that followed his playing days. Pete Rose, known for his exceptional skills as a hitter and base runner, was one of the most successful players in baseball history during his active career with the Cincinnati Reds, among other teams. His lifetime batting average of .303 and his numerous hitting records, including the all-time hits leader, made him a legendary figure in baseball.\n\nHowever, in 1989, Rose faced allegations of betting on baseball games. While he vehemently denied ever placing bets on games involving himself", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 67316):
+Original:     can fever cause miscarriage early pregnancy
+Reformulated: can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarri...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Fever during early pregnancy can indeed pose risks, but it is not a direct and inevitable cause of miscarriage. In the context of early pregnancy, a fever is often a symptom of an infection or other health issues. While it's crucial to address any fever promptly, understanding its potential impact on pregnancy is important for managing health effectively.\n\nHigh fevers, especially those that persist or exceed 102°F (39°C), can potentially affect fetal development due to the increased body temperature. This rise in maternal temperature can be harmful to the developing fetus, particularly during critical periods of organ formation. However, the relationship between fever and miscar", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 169208):
+Original:     does mississippi have an income tax
+Reformulated: does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax Mississippi does not...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Mississippi does not have an income tax on its residents. Unlike many other states in the United States, Mississippi relies primarily on sales taxes and property taxes as its main sources of revenue for state government operations and services. The lack of an income tax allows Mississippi to maintain relatively lower state taxes compared to states that impose an income tax. This fiscal structure has implications for how the state finances its public programs and services, and it can influence economic decisions made by both individuals and businesses within the state.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 938400):
+Original:     when did family feud come out?
+Reformulated: when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? Family Feud, the popular game show where cont...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Family Feud, the popular game show where contestants try to guess the most common answers to survey questions, first aired in 1976 on CBS. The original version was created and hosted by Richard Dawson for more than 20 years. In 2008, the show made a comeback with a new format and host, Steve Harvey, taking over as host. Since then, Family Feud has been renewed multiple times and has become a staple of American daytime television, with versions airing in several countries around the world. The show's enduring popularity is a testament to its clever concept and engaging gameplay.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1108651):
+Original:     what the best way to get clothes white
+Reformulated: what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white To ac...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "To achieve the best results in getting clothes white, it's essential to follow a combination of effective cleaning methods and using the right products. First, always check the care label on your clothing to ensure you're using the appropriate cleaning method for each fabric. For most whites, a regular detergent will suffice, but consider opting for a high-efficiency (HE) detergent if you're washing in cold water.\n\nBefore washing, pre-treat any stains with a stain remover or a bit of liquid laundry detergent directly applied to the spot. Let the stain sit for at least 10 minutes before washing. This helps break down the stain so it can", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1037496):
+Original:     who is rep scalise?
+Reformulated: who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? Rep Scalise, whose full name is Steve Scalise, is a Republican member of the United States House of ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Rep Scalise, whose full name is Steve Scalise, is a Republican member of the United States House of Representatives from Louisiana's 4th congressional district. Born on May 18, 1970, in Metairie, Louisiana, he has been serving since January 3, 2013. Scalise has held various positions within the House Republican Conference and served as the House Majority Whip from 2015 to 2019. He is known for his advocacy of conservative policies and his role in organizing House Republicans. On July 6, 2017, Scalise was", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 1064670):
+Original:     why do hunters pattern their shotguns?
+Reformulated: why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? Hunte...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Hunters pattern their shotguns to optimize the spread and distribution of shot pellets for more effective hunting. This process involves firing shotshells through the shotgun at a target placed at various distances and angles to understand how the shot spreads. By patterning, hunters can determine the most efficient pattern density and configuration, which is crucial for accurately hitting targets, particularly in scenarios where the shot needs to cover a wide area or reach beyond expected ranges. Factors such as choke type, ammunition choice, and shooting distance all play a role in how the shot will spread. Understanding these variables helps hunters make informed decisions about their equipment and techniques, ensuring they can', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

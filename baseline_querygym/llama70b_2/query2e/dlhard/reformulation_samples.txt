@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 915593):
+Original:     what types of food can you cook sous vide
+Reformulated: what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to cooking sous vide', '*Protein-based keywords:**', 'Steak', 'Chicken', 'Fish', 'Shrimp', 'Scallops', 'Lamb', 'Pork', 'Beef', 'Eggs', 'Sausages', '*Vegetable-based keywords:**', 'Asparagus', 'Carrots', 'Broccoli', 'Cauliflower', 'Brussels sprouts', 'Sweet potatoes', 'Green beans'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 794429):
+Original:     what is sculpture shape space
+Reformulated: what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space Here is a list of keywords related to the query "w...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "what is sculpture shape space"', 'Sculpture', 'Shape', 'Space', 'Three-dimensional', 'Form', 'Art', 'Geometry', 'Dimensionality', 'Visual arts', 'Spatial relationships', 'Additionally', 'some potential long-tail keywords that could be relevant to this query include', 'Understanding sculpture shape and space', 'Sculpture shape and space definition', 'Visual elements of sculpture shape and space', 'Sculpture art and spatial relationships', 'The role'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 801118):
+Original:     what is supplemental security income used for
+Reformulated: what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is suppleme...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords that can be used to search for information on what Supplemental Security Income (SSI) is used for', 'Supplemental Security Income (SSI)', 'SSI benefits', 'Disability benefits', 'Low-income assistance', 'Financial assistance for disabled individuals', 'Government assistance programs', 'Social Security Administration (SSA)', 'SSI eligibility', 'SSI application', 'Disability income', 'Financial support for seniors', 'Financial support for disabled children', 'Cash assistance programs', 'Welfare programs', 'Public assistance', 'You can also use long-tail keywords such as', 'What is SSI used for'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 190044):
+Original:     foods to detox liver naturally
+Reformulated: foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally Here is a list of keywords related to the que...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "foods to detox liver naturally"', '*Primary keywords:**', 'Liver detox', 'Natural liver detox', 'Foods for liver health', 'Liver cleansing foods', 'Detox liver naturally', '*Secondary keywords:**', 'Healthy liver foods', 'Liver support foods', 'Natural detoxification', 'Liver purification', 'Best foods for liver health', 'Liver detox diet', 'Natural liver cleanse', 'Foods that support liver function', 'Liver health tips', 'Natural ways to detox liver', '*Long-tail keywords'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 451602):
+Original:     medicare's definition of mechanical ventilation
+Reformulated: medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ["Here is a list of keywords that can be used to find information on Medicare's definition of mechanical ventilation", 'Medicare', 'Mechanical ventilation', 'Definition', 'Ventilator', 'Respiratory therapy', 'End-stage respiratory disease', 'Chronic respiratory failure', 'Respiratory assistance', 'Ventilator support', 'Medicare coverage', 'Medical necessity', 'Clinical guidelines', 'CMS (Centers for Medicare and Medicaid Services)', 'Medicare policy', 'Ventilation management', 'You can also use long-tail keywords such as', 'Medicare definition of mechanical'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 177604):
+Original:     eating foods that are considered warm
+Reformulated: eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm some keywo...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['some keywords related to eating foods that are considered warm', 'Warm foods', 'Therapeutic diet', 'Ayurvedic diet', 'Traditional Chinese medicine (TCM) diet', 'Heating foods', 'Warming spices', 'Digestive health', 'Nutritional energetics', 'Food temperature', 'Yang foods (in TCM)', 'Spicy foods', 'Energetic eating', 'Holistic nutrition', 'Balancing constitution', 'Seasonal eating', 'Some long-tail keywords that might be relevant include', 'Foods to'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 966413):
+Original:     where are the benefits of cinnamon as a supplement?
+Reformulated: where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supp...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "where are the benefits of cinnamon as a supplement"', 'Cinnamon benefits', 'Cinnamon supplement', 'Health benefits of cinnamon', 'Cinnamon powder benefits', 'Cinnamon extract benefits', 'Natural supplements', 'Herbal remedies', 'Blood sugar control', 'Anti-inflammatory benefits', 'Antioxidant properties', 'Digestive health', 'Immune system support', 'Weight loss', 'Cognitive function', 'Cinnamon oil benefits', 'You can also consider long-tail keywords such as', 'Benefits'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 588587):
+Original:     what causes heavy metal toxins in your body
+Reformulated: what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "what causes heavy metal toxins in your body"', '*Primary keywords:**', 'Heavy metal toxins', 'Body toxicity', 'Heavy metal poisoning', 'Toxin exposure', 'Environmental toxins', '*Causes and sources:**', 'Mercury', 'Lead', 'Arsenic', 'Cadmium', 'Industrial pollution', 'Water contamination', 'Food pollution', 'Air pollution', 'Soil contamination', 'Consumer products (e.g. cosmetics', 'pesticides)', '*Exposure routes:**'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1108939):
+Original:     what slows down the flow of blood
+Reformulated: what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood Here is a list of keywords tha...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords that can be used to search for factors that slow down the flow of blood', '**Blood flow inhibitors**', '**Vasoconstrictors**', '**Blood clotting**', '**Atherosclerosis**', '**Plaque buildup**', '**Narrowed arteries**', '**High blood pressure**', '**Hypertension**', '**Cardiovascular disease**', '**Blood viscosity**', '**Platelet aggregation**', '**Fibrinogen**', '**Inflammation**', '**Endothelial dysfunction**'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 507445):
+Original:     symptoms of different types of brain bleeds
+Reformulated: symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different ty...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "symptoms of different types of brain bleeds"', '*General keywords:**', 'Brain bleed', 'Cerebral hemorrhage', 'Brain hemorrhage', 'Intracranial hemorrhage', 'Symptoms of brain bleed', '*Types of brain bleeds:**', 'Epidural hematoma', 'Subdural hematoma', 'Subarachnoid hemorrhage', 'Intracerebral hemorrhage', 'Intraventricular hemorrhage', '*Symptom-related keywords:**', 'Headache', 'Dizziness', 'Nausea', 'Vomiting'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

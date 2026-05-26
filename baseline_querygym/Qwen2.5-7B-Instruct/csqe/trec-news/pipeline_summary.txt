@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  beir-v1.0.0-trec-news
+Method:   csqe
+Model:    Qwen/Qwen2.5-7B-Instruct
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 8m 6.1s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 7m 36.0s
+  retrieval      : 6.5s
+  evaluation     : 23.6s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  ndcg_cut_10              : 0.4504
+  recall_100               : 0.5795
+  recall_1000              : 0.7739
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/csqe/trec-news

@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 23849):
+Original:     are naturalization records public information
+Reformulated: are naturalization records public information naturalization, records, public, information, immigration,档案, 美国, 归化, 家谱, 档案馆 naturalization, records, public, information, immigration,档案, 家谱, 历史文献 natur...
+Metadata:     {'mode': 'variants', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['naturalization, records, public, information, immigration,档案, 美国, 归化, 家谱, 档案馆', 'naturalization, records, public, information, immigration,档案, 家谱, 历史文献', 'naturalization, records, public, information, immigration, archives, documents', 'naturalization, records, public, information,移民归化记录,公开信息', 'naturalization, records, public, information, immigration,档案, 历史, 搜索, 查询']}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 156498):
+Original:     do google docs auto save
+Reformulated: do google docs auto save google,docs,auto,save,features,policy,internet,application google.docs.auto.save, automatic.saving, google.drive, document.autosave, cloud.synchronization google, docs, auto, ...
+Metadata:     {'mode': 'variants', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['google,docs,auto,save,features,policy,internet,application', 'google.docs.auto.save, automatic.saving, google.drive, document.autosave, cloud.synchronization', 'google, docs, auto, save, documents, feature, functionality', 'google docs auto save, automatic saving, document autosave, google doc autosave, save feature', 'google.docs.autosave, document.autosave, real.time.save, cloud.storage.autosave, automatic.save.function']}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 258062):
+Original:     how long does it take to remove wisdom tooth
+Reformulated: how long does it take to remove wisdom tooth wisdom tooth extraction, recovery time, dental surgery, tooth removal, post-operative care, oral surgery, anesthesia, numbing cream, infection risk, stitch...
+Metadata:     {'mode': 'variants', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['wisdom tooth extraction, recovery time, dental surgery, tooth removal, post-operative care, oral surgery, anesthesia, numbing cream, infection risk, stitches, swelling, pain management', 'wisdom tooth extraction, recovery time, tooth removal, dental surgery, post-operative care', 'wisdom tooth extraction, tooth removal time, dental surgery duration, impacted tooth removal, oral surgery recovery', 'wisdom tooth extraction, removal time, tooth surgery, dental procedure duration, oral surgery recovery', 'wisdom tooth removal, extraction time, dental procedure duration, oral surgery, recovery period']}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1071750):
+Original:     why is pete rose banned from hall of fame
+Reformulated: why is pete rose banned from hall of fame Pete Rose,ban,Hall of Fame,baseball,retirement,gambling,eligibility,players协会 Pete Rose, Hall of Fame, gambling, ban, baseball Pete Rose, baseball, Hall of Fa...
+Metadata:     {'mode': 'variants', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Pete Rose,ban,Hall of Fame,baseball,retirement,gambling,eligibility,players协会', 'Pete Rose, Hall of Fame, gambling, ban, baseball', 'Pete Rose, baseball, Hall of Fame, gambling, ban, player, statistics', 'Pete Rose, baseball, Hall of Fame, gambling, ban, sports', 'Pete Rose, Hall of Fame, gambling ban, baseball, steroids, retirement, controversy']}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 67316):
+Original:     can fever cause miscarriage early pregnancy
+Reformulated: can fever cause miscarriage early pregnancy fever, miscarriage, early, pregnancy, temperature, risk, fetal, development, trimester, symptoms fever, miscarriage, early pregnancy, temperature, gestation...
+Metadata:     {'mode': 'variants', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['fever, miscarriage, early, pregnancy, temperature, risk, fetal, development, trimester, symptoms', 'fever, miscarriage, early pregnancy, temperature, gestational loss, infection, trimester', 'fever, miscarriage, early, pregnancy, temperature, abortion, risk, symptoms', 'fever, miscarriage, early, pregnancy, temperature, gestational, risk, abortion, symptoms', 'fever, miscarriage, early, pregnancy, temperature, fetal, risk, infection']}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 169208):
+Original:     does mississippi have an income tax
+Reformulated: does mississippi have an income tax Mississippi,income,tax,retirement,spending,levy Mississippi,income,tax,retention,query,taxation,states Mississippi,tax,income tax,retirement tax,sales tax,property ...
+Metadata:     {'mode': 'variants', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Mississippi,income,tax,retirement,spending,levy', 'Mississippi,income,tax,retention,query,taxation,states', 'Mississippi,tax,income tax,retirement tax,sales tax,property tax', 'Mississippi,income,tax,taxation,fiscal,politics,economics', 'Mississippi,income,tax,retirement,wealth,economy,legislation,policy']}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 938400):
+Original:     when did family feud come out?
+Reformulated: when did family feud come out? Family Feud, television show, debut, year, first episode Family Feud, television show, debut, year, first episode Family Feud, debut, television, year, firstaired Family...
+Metadata:     {'mode': 'variants', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Family Feud, television show, debut, year, first episode', 'Family Feud, television show, debut, year, first episode', 'Family Feud, debut, television, year, firstaired', 'Family Feud, debut, year, television, game show', 'Family Feud, television show, debut, year']}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1108651):
+Original:     what the best way to get clothes white
+Reformulated: what the best way to get clothes white best, way, get, clothes, white, stain, removal, cleaning, bleach, washing, tips best, way, get, clothes, white, stain, removal, cleaning, laundry, tips, bleach, ...
+Metadata:     {'mode': 'variants', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['best, way, get, clothes, white, stain, removal, cleaning, bleach, washing, tips', 'best, way, get, clothes, white, stain, removal, cleaning, laundry, tips, bleach, washing, detergent', 'best, way, get, clothes, white, stain, removal, bleach, washing, technique, cleaning, laundry, tips', 'best, way, get, clothes, white, stain, removal, laundry, bleach, washing, tips', 'best, way, get, clothes, white, stain, removal, cleaning, laundry, bleach, tips']}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1037496):
+Original:     who is rep scalise?
+Reformulated: who is rep scalise? Rep Scalise, political figures, Republican Party, Florida, congressman, lobbyist, 2017 shooting Rep Scalise, political figure, Louisiana, Republican, Congressman, shooter incident,...
+Metadata:     {'mode': 'variants', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Rep Scalise, political figures, Republican Party, Florida, congressman, lobbyist, 2017 shooting', 'Rep Scalise, political figure, Louisiana, Republican, Congressman, shooter incident, 2017', 'Rep Scalise, politics, Florida, congressman, Republican, Trump, news, gunman, injury', 'Rep Scalise, politician, Florida, Republican, congressional aide, Louisiana,射击事故', 'Rep Scalise, Republican, politician, Louisiana, shooting, 2017']}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 1064670):
+Original:     why do hunters pattern their shotguns?
+Reformulated: why do hunters pattern their shotguns? hunting, shotgun, patterning, spread,子弹分布,射击模式,猎枪口径,射击精度 hunting, shotgun, patterning, spread, pellets, ammunition, accuracy, shooting, tactics, gamebirds huntin...
+Metadata:     {'mode': 'variants', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['hunting, shotgun, patterning, spread,子弹分布,射击模式,猎枪口径,射击精度', 'hunting, shotgun, patterning, spread, pellets, ammunition, accuracy, shooting, tactics, gamebirds', 'hunting, shotgun, patterning, spread, ammo, choke, barrel, performance', 'hunting, shotgun, patterning, ammunition, choke, spread,射击模式,猎枪散射模式', 'hunting, shotgun, patterning, spread, pellets, shooting, accuracy, hunting technique']}
+
+--------------------------------------------------------------------------------
+

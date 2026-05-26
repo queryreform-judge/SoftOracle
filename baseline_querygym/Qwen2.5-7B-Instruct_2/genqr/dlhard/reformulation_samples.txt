@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 915593):
+Original:     what types of food can you cook sous vide
+Reformulated: what types of food can you cook sous vide sous vide cooking, sous vide recipes, vacuum sealing, low temperature cooking, precision cooking, sous vide meats, sous vide vegetables, sous vide eggs, sous ...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['sous vide cooking, sous vide recipes, vacuum sealing, low temperature cooking, precision cooking, sous vide meats, sous vide vegetables, sous vide eggs, sous vide fish, sous vide techniques', 'sous vide cooking, sous vide recipes, vacuum sealing, low temperature cooking, food preservation, culinary techniques, meal preparation, culinary equipment, kitchen gadgets, vacuum sealing bags', 'sous vide cooking, sous vide recipes, sous vide food, vacuum sealing, low temperature cooking, precision cooking', 'sous vide cooking, sous vide recipes, vacuum sealing, low temperature cooking, food preservation, culinary techniques, meal preparation, gourmet cooking, sous vide equipment, kitchen tools', 'sous vide cooking, sous vide recipes, vacuum sealing, low temperature cooking, precise cooking, sous vide equipment, food preservation, sous vide times, sous vide techniques, culinary techniques']}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 794429):
+Original:     what is sculpture shape space
+Reformulated: what is sculpture shape space sculpture, shape, space, art, form, dimension, sculpture shapes, spatial sculpture, sculpture space sculpture, shape, space, art, form, dimension, volume, sculpture shape...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['sculpture, shape, space, art, form, dimension, sculpture shapes, spatial sculpture, sculpture space', 'sculpture, shape, space, art, form, dimension, volume, sculpture shapes, spatial forms', 'sculpture, shape, space, art, form, dimension, volume, architecture', 'sculpture, shape, space, art, form, volume, three-dimensional, geometry', 'sculpture, shape, space, art, form, three-dimensional, geometry, volume, architecture']}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 801118):
+Original:     what is supplemental security income used for
+Reformulated: what is supplemental security income used for Supplemental,Security,Income,用途,援助金,福利金,社会保障,经济支持 Supplemental Security Income, SSI, benefits, assistance, elderly, disabled, income,用途, 支出 Supplemental S...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Supplemental,Security,Income,用途,援助金,福利金,社会保障,经济支持', 'Supplemental Security Income, SSI, benefits, assistance, elderly, disabled, income,用途, 支出', 'Supplemental Security Income, benefits,用途, recipients, eligibility, assistance, elderly, disabled, government program', 'Supplemental,Security,Income,purposes,benefits,eligibility,criteria,disability,elderly,retirement', 'Supplemental Security Income, SSI, used for, benefits, assistance, elderly, disabled, income, government program']}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 190044):
+Original:     foods to detox liver naturally
+Reformulated: foods to detox liver naturally liver, detox, foods, naturally, health, cleanse, organs, diet, nutrition, herbs, fruits, vegetables, supplements, water, fasting liver, detox, foods, natural, health, cl...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['liver, detox, foods, naturally, health, cleanse, organs, diet, nutrition, herbs, fruits, vegetables, supplements, water, fasting', 'liver, detox, foods, natural, health, cleanse, diet, herbs, fruits, vegetables, juice, water, supplements', 'liver, detox, foods, natural, cleansing, herbs, diet, health, organs, nutrition', 'liver, detox, foods, natural, cleansing, health, diet, herbs, fruits, vegetables, water, detoxification', 'liver, detox, foods, natural, cleansing, health, nutrition, diet, organs, herbs, remedies, antioxidants, vegetables, fruits, water, supplements']}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 451602):
+Original:     medicare's definition of mechanical ventilation
+Reformulated: medicare's definition of mechanical ventilation medicare, definition, mechanical, ventilation, respiratory, therapy, treatment, codes, equipment medicare, definition, mechanical, ventilation, respirat...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['medicare, definition, mechanical, ventilation, respiratory, therapy, treatment, codes, equipment', 'medicare, definition, mechanical, ventilation, respiratory, therapy, equipment, hôpital, treatment', 'medicare, definition, mechanical, ventilation, respiratory, therapy, equipment, hôpital, palliative, care', 'medicare, definition, mechanical, ventilation, respiratory, therapy, equipment, code, treatment', 'medicare, definition, mechanical, ventilation, respiratory, therapy, hôpital, equipment']}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 177604):
+Original:     eating foods that are considered warm
+Reformulated: eating foods that are considered warm warm foods,eating habits,traditional cuisine,yin yang,balance,diet,therapeutic foods yin yang, foods, Chinese medicine, digestion, nutrition, heat properties, cul...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['warm foods,eating habits,traditional cuisine,yin yang,balance,diet,therapeutic foods', 'yin yang, foods, Chinese medicine, digestion, nutrition, heat properties, culinary, warming foods, health, traditional medicine', 'warm foods,eating habits,Traditional medicine,spices,calming foods,thermal properties', 'warm foods,eating habits,acupuncture,diet,TCM,yin yang,balanced diet,thermal properties', 'warm foods, yang foods, hot foods, traditional medicine, Chinese medicine, culinary practices, nutrition, health benefits']}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 966413):
+Original:     where are the benefits of cinnamon as a supplement?
+Reformulated: where are the benefits of cinnamon as a supplement? cinnamon benefits , supplement advantages , health benefits , cinnamon supplement , anti-inflammatory properties , blood sugar , antioxidants , card...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['cinnamon benefits , supplement advantages , health benefits , cinnamon supplement , anti-inflammatory properties , blood sugar , antioxidants , cardiovascular health , digestive benefits , cinnamon dosage', 'cinnamon benefits, supplement advantages, health benefits, cinnamon health, antioxidant properties, anti-inflammatory, blood sugar, digestion, cardiovascular, weight management', 'cinnamon , health benefits , supplement , anti-inflammatory , antioxidants , diabetes , digestion , heart health , weight management', 'cinnamon , health benefits , supplements , antioxidants , digestion , blood sugar , inflammation , cardiovascular , nutrients', 'cinnamon benefits, supplement advantages, health benefits, cinnamon health, anti-inflammatory, antioxidant, digestion, blood sugar, cardiovascular, memory improvement']}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 588587):
+Original:     what causes heavy metal toxins in your body
+Reformulated: what causes heavy metal toxins in your body heavy metals, toxins, body, sources, exposure, pollution, diet, industrial, environmental, accumulation heavy metals,toxicity,environmental,toxin,sources,bo...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['heavy metals, toxins, body, sources, exposure, pollution, diet, industrial, environmental, accumulation', 'heavy metals,toxicity,environmental,toxin,sources,body,exposure,intake,diet,industrial,pollution,accumulation,healthffects', 'heavy metals,toxicity,environment,industrial,pollution,diet,occupational,exposure,health,risk factors,symptoms,prevention', 'heavy metals,toxins,body,causes,diet,environment,exposure,industrial,pollution,accumulation', 'heavy metals, toxins, body, exposure, pollution, diet, occupational, environmental, absorption, health effects']}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1108939):
+Original:     what slows down the flow of blood
+Reformulated: what slows down the flow of blood blood flow, circulatory system, viscosity, cardiac output, capillaries, arteries, veins, hematocrit, temperature, altitude, dehydration, cholesterol, blood pressure b...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['blood flow, circulatory system, viscosity, cardiac output, capillaries, arteries, veins, hematocrit, temperature, altitude, dehydration, cholesterol, blood pressure', 'blood flow, circulation, viscosity, arteries, veins, heart rate, blood vessels, hemodynamics', 'blood flow, circulation, viscosity, arteries, veins, cardiac output, capillaries, resistance, temperature, altitude, dehydration, hormones, physical activity', 'blood viscosity, cardiac output, blood pressure, blood flow resistance, arteriosclerosis, anemia, dehydration, heart rate', 'blood flow, circulation, viscosity, arteries, veins, cardiac output, hemodynamics, resistance, capillaries, anemia, dehydration, blood pressure, cholesterol, obesity, exercise, temperature']}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 507445):
+Original:     symptoms of different types of brain bleeds
+Reformulated: symptoms of different types of brain bleeds brain, bleeds, symptoms, aneurysm, hematoma, stroke, headache, nausea, vomiting, dizziness, seizure, vision, impairment, weakness, confusion, diagnosis, tre...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['brain, bleeds, symptoms, aneurysm, hematoma, stroke, headache, nausea, vomiting, dizziness, seizure, vision, impairment, weakness, confusion, diagnosis, treatment', 'brain bleed symptoms, intracranial hemorrhage, subarachnoid hemorrhage, intracerebral hemorrhage, symptoms identification, neurological emergency, stroke symptoms', 'brain, bleeds, symptoms, stroke, intracranial, hemorrhage, aneurysm, subarachnoid, subdural, epidural, neurological, signs', 'brain, bleeds, symptoms, aneurysm, hematoma, stroke, headache, nausea, vomiting, dizziness, seizures, weakness, paralysis', 'brain, bleeds, symptoms, stroke, hemorrhage, aneurysm, intracranial, subarachnoid, subdural, epidural, neurological, signs, medical, diagnosis']}
+
+--------------------------------------------------------------------------------
+

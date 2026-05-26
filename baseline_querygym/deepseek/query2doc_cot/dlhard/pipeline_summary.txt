@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  dlhard
+Method:   query2doc
+Model:    deepseek/deepseek-chat-v3-0324:floor
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 53.5s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 37.1s
+  retrieval      : 11.2s
+  evaluation     : 5.2s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  map                      : 0.2062
+  ndcg_cut_10              : 0.3087
+  recall_1000              : 0.7796
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/deepseek/query2doc_cot/dlhard

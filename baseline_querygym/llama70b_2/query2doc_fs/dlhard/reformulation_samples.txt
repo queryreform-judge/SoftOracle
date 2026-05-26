@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 915593):
+Original:     what types of food can you cook sous vide
+Reformulated: what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook sous vide what types of food can you cook ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'You can cook a wide variety of foods sous vide, including eggs, meats (such as steak, chicken, and pork), fish and seafood, vegetables, fruits, and even desserts. Sous vide cooking allows for precise temperature control, making it ideal for cooking delicate foods like fish and eggs, as well as tougher cuts of meat that become tender with low and slow cooking. Some popular sous vide dishes include sous vide steak, chicken breast, salmon, and lobster, as well as sous vide eggs, asparagus, and carrots. The possibilities are endless, and many chefs and home cooks have experimented with cooking a wide range of foods sous vide,', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 794429):
+Original:     what is sculpture shape space
+Reformulated: what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space what is sculpture shape space Here are the answers to the given queries based on...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the given queries based on the provided passages:\n\n1. **US states without lottery**: The states that do not have lotteries are Alabama, Alaska, Hawaii, Mississippi, Utah, and Nevada. Note that Hawaii and Utah do not have any form of legal gambling.\n\n2. **Number of people using Instagram**: As of December 2016, Instagram had approximately 600 million monthly active users.\n\n3. **Foods high in healthy fats**: Foods high in healthy fats include vegetable oil, olive oil, avocados, sunflower seeds (higher in monounsaturated fats), peanut oil, sunflower oil', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 801118):
+Original:     what is supplemental security income used for
+Reformulated: what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is supplemental security income used for what is suppleme...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the passages rewritten to answer each query:\n\n**Query: starting salary of construction manager with associates degree**\n\nThe starting salary for a construction manager with an associate's degree can vary depending on factors such as location, industry, and level of experience. According to the National Association of Colleges and Employers, the median starting salary for a construction manager with an associate's degree is around $54,700 per year. However, wages can range from less than $46,800 for the lowest-earning quarter to over $65,700 for the highest-earning quarter. This is significantly higher than the median starting annual compensation for math and sciences", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 190044):
+Original:     foods to detox liver naturally
+Reformulated: foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally foods to detox liver naturally Here are the answers to the given queries in ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the given queries in the form of passages:\n\n**What is Hakomi?**\nHakomi is a system of body-centered psychotherapy that is based on the principles of mindfulness, nonviolence, and the unity of mind and body. It was developed by Ron Kurtz and others at the Hakomi Institute in Boulder, Colorado. This approach focuses on gently and non-invasively accessing and transforming deeply held emotional and psychological patterns, promoting greater self-awareness, and facilitating personal growth and healing.\n\n**What does half moon mean on iPhone text?**\nWhen you see a half-moon icon on your iPhone,', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 451602):
+Original:     medicare's definition of mechanical ventilation
+Reformulated: medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare's definition of mechanical ventilation medicare...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to each query in a passage format:\n\n**Query 1: What ethnicity is the name Nayak?**\nThe name Nayak is typically associated with Indian ethnicity, specifically Hindu and Sanskrit origins. It is commonly found in Indian Names and is categorized under Hindu Names and Sanskrit Names.\n\n**Query 2: Types of permanent punctal plugs**\nThere are several types of permanent punctal plugs available, including Form Fit Hydrogel and SOFT PLUG silicone permanent plugs. These plugs are designed to provide long-term relief from dry eye symptoms and are available in various sizes and materials.\n\n**Query 3: What kind', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 177604):
+Original:     eating foods that are considered warm
+Reformulated: eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm eating foods that are considered warm In traditi...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'In traditional Chinese culture, foods are categorized into different properties, including warm and cool foods. Eating foods that are considered "warm" can have various effects on the body. Warm foods, such as chili peppers, ginger, and lamb, are believed to increase blood circulation, boost energy, and provide comfort. They are often recommended for individuals who have a cold constitution or are experiencing cold-related health issues. Examples of warm foods include spicy dishes, meats like beef and mutton, and warming spices like cinnamon and cloves. It is essential to note that the concept of warm and cool foods is rooted in traditional Chinese medicine and may not be universally accepted', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 966413):
+Original:     where are the benefits of cinnamon as a supplement?
+Reformulated: where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supplement? where are the benefits of cinnamon as a supp...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to the given queries based on the provided passages:\n\n1. Query: When was autism identified?\nAnswer: Autism was identified by Leo Kanner in 1943, when he studied 11 children with similar behaviors and used the English word "autism" for the first time.\n\n2. Query: Calories in whiskey by brand\nAnswer: The calories in a 1-oz serving of Jack Daniels whiskey is approximately 69 calories.\n\n3. Query: Aberdeen airport code\nAnswer: The airport code for Aberdeen International Airport is ABZ (IATA) and EGPD (ICAO).\n\n4. Query: When was', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 588587):
+Original:     what causes heavy metal toxins in your body
+Reformulated: what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal toxins in your body what causes heavy metal ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the answers to each query in the form of a passage:\n\n**What is Daikin VRV?**\nDaikin VRV refers to a type of air conditioning system designed for commercial buildings. The Daikin VRV system is a multi-split type air conditioner that uses variable refrigerant flow control, allowing for individual zone control in each room and floor of a building. This system provides customers with the ability to maintain a consistent temperature throughout the building while also reducing energy consumption.\n\n**Name meanings Naoto**\nThe Japanese name Naoto is a boy\'s name that means "one who is honest." It is a name that', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1108939):
+Original:     what slows down the flow of blood
+Reformulated: what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood what slows down the flow of blood Here are the answers to the gi...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the answers to the given queries:\n\n1. How can the community reduce crime?\nThe community can reduce crime by partnering with the police and local government through community policing, which combines efforts and resources to identify problems and find solutions. This collaborative approach helps to reduce fear of crime and enhance the quality of life in the community.\n\n2. Who was Blackbeard?\nBlackbeard, also known as Edward Teach or Edward Thatch, was a notorious English pirate who operated around the West Indies and the eastern coast of Britain's North American colonies in the early 18th century.\n\n3. What is leasehold notice of assignment fee?\n", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 507445):
+Original:     symptoms of different types of brain bleeds
+Reformulated: symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different types of brain bleeds symptoms of different ty...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'To answer the query "how far above a table should a chandelier be," the general guideline is to hang the chandelier 30 to 34 inches above the table if the dining room has an 8-foot ceiling. For ceilings higher than 8 feet, it\'s recommended to shorten the chandelier chain by an additional 3 inches. This is particularly relevant for those designing their dining rooms, such as someone considering hanging two chandeliers over a 120-inch long by 40-inch wide table in a room with 10-foot ceilings. The size of the chandelier, such as 32 inches or 26 inches, should', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

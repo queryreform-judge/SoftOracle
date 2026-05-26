@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea The life cycle of a flea is typically divided...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The life cycle of a flea is typically divided into four stages and can vary depending on environmental conditions such as temperature, humidity, and availability of food sources. The entire life cycle can last anywhere from two weeks to several months, but under optimal conditions, it may be as short as 15 days. \n\n1. **Egg Stage**: Flea eggs are laid in batches of about 20-30 after the female feeds on blood. These eggs are small and white, and they typically take 2-5 days to hatch. The egg stage is relatively short, lasting only a few days.\n\n2. **Lar', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring The cost of interior conc...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The cost of interior concrete flooring can vary widely depending on several factors including the size of the area to be covered, the condition of the existing floor, the desired finish quality, and the specific region or country where the work is being done. Typically, the installation of interior concrete flooring starts at around $2 to $5 per square foot for basic, unfinished concrete. This price point often includes the removal of old finishes, cleaning, and initial leveling, but does not include any additional finishing touches like stains, sealants, or polished surfaces.\n\nFor higher-end finishes, such as polished concrete, stained concrete, or epoxy-coated floors, the', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment A declaratory judgment is a legal mechan...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'A declaratory judgment is a legal mechanism that allows a court to settle an actual controversy between parties and to declare their respective rights, status, or obligations without necessarily ordering any specific action or awarding damages. This type of judgment is particularly useful when there is uncertainty or ambiguity in existing laws, contracts, or other legal instruments, and it helps clarify the rights and responsibilities of the parties involved. In essence, a declaratory judgment provides a definitive interpretation of the law as it applies to the specific circumstances presented by the parties. This can be crucial for businesses and individuals who need certainty and clarity before taking further actions that could have significant legal implications.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medi...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Durable medical equipment (DME) consists of various medical devices and supplies that are designed for long-term use and are used to treat, diagnose, or prevent serious or chronic medical conditions. These items are typically used at home or in healthcare facilities and are covered under health insurance policies. Common types of DME include wheelchairs, hospital beds, oxygen tanks and concentrators, nebulizers, infusion pumps, diabetic testing kits, ultrasonic humidifiers, and respiratory therapy equipment such as continuous positive airway pressure (CPAP) machines. Other items may include mobility aids like walkers and canes, diagnostic equipment such as portable ultrasound machines', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth Certainly! Wi-Fi and Bluetooth are both wireless technologies used for...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Certainly! Wi-Fi and Bluetooth are both wireless technologies used for data transmission over short distances, but they operate in different ways and have distinct characteristics suited to different applications.\n\nWi-Fi, which stands for Wireless Fidelity, is a technology based on IEEE 802.11 standards. It is primarily designed for high-speed data transmission over longer distances, typically up to several hundred feet indoors or up to about 300 feet outdoors, depending on environmental factors. Wi-Fi operates in the 2.4 GHz and 5 GHz frequency bands and is commonly used for connecting devices like computers, smartphones, tablets, and smart home devices', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid bel...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Hydrogen, the lightest element on the periodic table, does not exist as a liquid under standard atmospheric pressure at any temperature above its boiling point. Under normal conditions, hydrogen is a gas. However, when cooled to extremely low temperatures, hydrogen can be liquefied. Hydrogen transitions into a liquid state below its boiling point, which occurs at -252.87 degrees Celsius (or -423.17 degrees Fahrenheit) at one atmosphere of pressure. Below this temperature, hydrogen can exist as a liquid. It's important to note that achieving and maintaining such low temperatures requires significant energy input, making the", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determin...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "The social determinants of health (SDOH) are the conditions in which people are born, grow, live, work, and age. These factors can broadly be categorized into several key areas that significantly influence an individual's health outcomes. Economic stability is one such determinant, encompassing income levels, employment opportunities, and financial security, all of which affect access to healthcare and healthy living conditions. Education is another critical factor, as it influences literacy rates, knowledge about health practices, and the ability to navigate healthcare systems effectively.\n\nSocial and community context also plays a pivotal role in health outcomes. This includes the quality of social support networks, safety from", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? The term "three percenters" is primarily asso...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The term "three percenters" is primarily associated with a subgroup of American far-right and militia movements. This phrase refers to individuals who believe that only about three percent of the U.S. population is committed to preserving traditional values, maintaining law and order, and resisting perceived government tyranny or encroachment on personal liberties. The origin of this term can be traced back to a 1996 speech by white supremacist leader Tom Metzger, who used it to describe his supporters during the White Aryan Resistance movement. Over time, the term has been adopted by various extremist groups, including some militia organizations, who interpret their mission as', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes Right pelvic pain can be caused by a variety of factors, ranging from muscu...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "Right pelvic pain can be caused by a variety of factors, ranging from musculoskeletal issues to more serious medical conditions. One common cause is muscle strain or injury due to overuse, trauma, or poor posture. This type of pain might be felt after physical activities or sports that involve repetitive motions, such as running or cycling.\n\nAnother frequent cause of right-sided pelvic pain is referred pain from the kidneys, particularly if there's an issue like kidney stones or an infection. Kidney stones can cause severe pain that starts in the back and travels down to the lower abdomen and groin on the affected side.\n\nInflammatory conditions, such as divertic", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet A SIGMET, which stands for Significant Meteorological Information, is an aviation wea...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'A SIGMET, which stands for Significant Meteorological Information, is an aviation weather alert issued by meteorological services to provide important weather information that could affect the safety of aircraft operations. These warnings cover significant and hazardous weather phenomena that are not already included in routine weather broadcasts or other aviation forecasts but have the potential to impact aviation. SIGMETs can include information about severe icing, severe turbulence, wind shear, volcanic ash, severe storms, and other dangerous conditions. Pilots rely on these alerts to make informed decisions regarding their flight plans and ensure the safety of passengers and crew. SIGMETs are crucial for maintaining safe air travel and are typically', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 870):
+Original:     Seven transgender women have been killed this year. Democrats want Jeff Sessions to investigate.
+Reformulated: Seven transgender women have been killed this year. Democrats want Jeff Sessions to investigate. Seven transgender women have been killed this year. Democrats want Jeff Sessions to investigate. Seven ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The issue surrounding the deaths of seven transgender women this year has sparked a call for action from Democratic lawmakers. Specifically, they are urging Attorney General Jeff Sessions to launch an investigation into these incidents. These deaths highlight ongoing concerns regarding the safety and well-being of the transgender community, particularly trans women of color, who are disproportionately affected by violence. Democrats argue that a thorough investigation could help address systemic issues contributing to these tragic events and bring justice to the families involved. The request for an investigation reflects the broader efforts to advocate for better protections and support for the transgender community.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 871):
+Original:     China plans a new moon probe in response to possible return there by U.S.
+Reformulated: China plans a new moon probe in response to possible return there by U.S. China plans a new moon probe in response to possible return there by U.S. China plans a new moon probe in response to possible...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "China indeed plans to launch a new lunar mission as part of its ongoing space exploration efforts, which includes responding to the potential return of the United States to the Moon. The Chinese National Space Administration (CNSA) is currently developing and preparing for future lunar missions that aim to enhance scientific understanding, explore resources, and strengthen China's position in space technology and exploration. These plans reflect a broader strategic approach in the context of international competition and cooperation in space. While specific details about the exact nature and timeline of these missions are evolving, China's ambitions in lunar exploration continue to grow, driven by both scientific and national pride considerations.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 872):
+Original:     Since Sandy Hook, at least 374 children have been killed in homicides committed with guns.
+Reformulated: Since Sandy Hook, at least 374 children have been killed in homicides committed with guns. Since Sandy Hook, at least 374 children have been killed in homicides committed with guns. Since Sandy Hook, ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Since the tragedy at Sandy Hook Elementary School in December 2012, the issue of gun violence has garnered significant attention. According to various reports and data compiled from multiple sources, it is accurate to state that at least 374 children have been killed in homicides committed with guns in the United States since that date. This statistic highlights the ongoing concern regarding gun safety and the need for comprehensive measures to prevent such tragic incidents. It is important to continue advocating for policies that can help reduce gun violence and protect vulnerable populations, including children.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 873):
+Original:     U.N. discovers that some peacekeepers have disturbing pasts
+Reformulated: U.N. discovers that some peacekeepers have disturbing pasts U.N. discovers that some peacekeepers have disturbing pasts U.N. discovers that some peacekeepers have disturbing pasts U.N. discovers that ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The United Nations (U.N.) has recently discovered that some peacekeepers have troubling backgrounds, including allegations of misconduct and criminal activities. These findings have raised significant concerns about the vetting process and oversight mechanisms within the U.N. peacekeeping operations. The revelations have sparked debates on the need for stricter background checks and enhanced monitoring to ensure that only qualified and reputable individuals are selected for these critical roles. The U.N. is now working on implementing new protocols to address these issues and maintain the integrity and effectiveness of its peacekeeping missions worldwide.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 830):
+Original:     Scientists discover new frog species small enough to sit on a fingernail
+Reformulated: Scientists discover new frog species small enough to sit on a fingernail Scientists discover new frog species small enough to sit on a fingernail Scientists discover new frog species small enough to s...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Scientists have discovered a new frog species that is so diminutive it can comfortably perch on the tip of a human fingernail. This tiny amphibian, currently unnamed, was found in the rainforests of Southeast Asia, where its small size provides it with unique advantages in terms of evading predators and finding food. The discovery highlights the ongoing exploration of biodiversity in our planet's remaining wild habitats and underscores the importance of continued research into the world of small creatures, many of which remain undiscovered. This new species belongs to a group of frogs known for their miniature size, but even among this category, it stands out due to its extremely", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 874):
+Original:     How not to flip out when flipping a house
+Reformulated: How not to flip out when flipping a house How not to flip out when flipping a house How not to flip out when flipping a house How not to flip out when flipping a house How not to flip out when flippin...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "How to Avoid Stress When Flipping a House\n\nFlipping a house can be an exciting venture, but it can also be a stressful process if you're not prepared. Here are some tips to help you avoid flipping out during your home renovation project:\n\n1. **Thorough Research**: Before you dive into the project, research the market value of similar properties in your area. Understand the cost of renovations and the potential return on investment. This will give you a clear picture of what to expect financially.\n\n2. **Budgeting**: Create a detailed budget that includes all possible costs, such as permits, materials, labor, unexpected repairs, and", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 831):
+Original:     Trump questions whether key funding source for historically black colleges is constitutional
+Reformulated: Trump questions whether key funding source for historically black colleges is constitutional Trump questions whether key funding source for historically black colleges is constitutional Trump question...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The query "Trump questions whether key funding source for historically black colleges is constitutional" suggests a topic related to political and legal discussions surrounding federal funding for educational institutions. However, the provided passage does not directly address this query. Instead, I can craft a relevant response based on typical news content:\n\n---\n\nIn recent statements, former President Donald Trump has expressed doubts about the constitutionality of a key funding source for historically black colleges and universities (HBCUs). The Higher Education Act, which includes funding for HBCUs, has been a primary financial support system for these institutions since its enactment in 1965. Trump\'s comments highlight ongoing', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 875):
+Original:     Chipotle’s new burger concept is just too Tasty for one competitor
+Reformulated: Chipotle’s new burger concept is just too Tasty for one competitor Chipotle’s new burger concept is just too Tasty for one competitor Chipotle’s new burger concept is just too Tasty for one competitor...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Chipotle's New Burger Concept is Just Too Tasty for One Competitor\n\nChipotle Mexican Grill, known for its commitment to fresh ingredients and sustainable sourcing, recently unveiled a new burger concept that has sent ripples through the fast-casual dining industry. This new offering, with its focus on quality and innovative flavor profiles, has garnered significant attention and positive feedback from customers. For competitors in the market, such as McDonald's, Burger King, and other quick-service restaurants, the introduction of Chipotle's new burger could be a challenge. \n\nChipotle's burger concept stands out not only due to its use of premium, high-quality", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 832):
+Original:     The apparent murder-suicide of a death-with-dignity advocate and his ailing wife
+Reformulated: The apparent murder-suicide of a death-with-dignity advocate and his ailing wife The apparent murder-suicide of a death-with-dignity advocate and his ailing wife The apparent murder-suicide of a death...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "The apparent murder-suicide of a death-with-dignity advocate and his ailing wife refers to a tragic event where both individuals were found dead in circumstances suggesting that one may have intentionally caused the death of the other, followed by their own death. This case garnered attention as it involved someone who advocated for the right to die with dignity and autonomy. Death-with-dignity laws, also known as assisted suicide laws, vary by jurisdiction but generally allow for individuals to request medical assistance in dying under specific conditions, often when they are terminally ill and experiencing unbearable suffering. In this instance, the advocate's actions, or lack thereof, raised", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 876):
+Original:     How do couples live in tiny homes without killing each other?
+Reformulated: How do couples live in tiny homes without killing each other? How do couples live in tiny homes without killing each other? How do couples live in tiny homes without killing each other? How do couples...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Living in a tiny home with a partner can indeed present unique challenges, but it can also foster closer bonds and encourage creative problem-solving. Here are some pros and cons, along with strategies to help couples coexist harmoniously:\n\nPros:\n1. **Increased Intimacy**: Living in a small space naturally encourages more time spent together, leading to deeper connections.\n2. **Financial Benefits**: Tiny homes often cost less to purchase and maintain, reducing financial stress.\n3. **Environmental Awareness**: Sharing a small space can increase awareness and appreciation for sustainability and minimalism.\n4. **Space Optimization**: Creatively using every inch of the home can', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

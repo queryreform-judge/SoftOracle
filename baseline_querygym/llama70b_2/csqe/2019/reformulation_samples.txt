@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea the life cycle of a flea, also known as its complete metamorphosis, typically lasts anywhere from several weeks to several months, dependi...
+Metadata:     {'keqe_passages': ["The life cycle of a flea, also known as its complete metamorphosis, typically lasts anywhere from several weeks to several months, depending on various factors such as environment, nutrition, and species. The flea's life cycle consists of four stages: egg, larva, pupa, and adult. The female flea lays her eggs, usually on the host animal, after feeding on its blood, and these eggs hatch into larvae within 2-4 weeks. The larval stage, during which the flea feeds on organic matter and grows, can last around 1-2 weeks. Following the larval stage, the flea enters the pup"], 'csqe_responses': [''], 'csqe_sentences': [''], 'gen_num': 2, 'total_generations': 4, 'used_ctx': 10}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring the cost of interior concrete flooring can vary depending on several factors, including the size of the area, the type of finish, ...
+Metadata:     {'keqe_passages': ['The cost of interior concrete flooring can vary depending on several factors, including the size of the area, the type of finish, and the location. On average, the cost of interior concrete flooring can range from $2 to $15 per square foot, with most homeowners paying between $3 to $10 per square foot. For a basic, unfinished concrete floor, the cost can be as low as $2 to $4 per square foot, while a high-end, polished concrete floor can cost upwards of $10 to $15 per square foot. Additionally, the cost of labor, materials, and any necessary preparation work, such as leveling or'], 'csqe_responses': [' \n"Some sharks, such as the mako, are capable of maintaining a body temperature up to 14°C (25°F) higher than that of the surrounding water." \n\nWait, no. Based on the query "cost of interior concrete flooring", I have examined the initially retrieved documents. Here are the relevant documents and the key sentences extracted from each: \n\nThe relevant documents are: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.\n\nHere are the key sentences extracted from each relevant document:\n\nDocument 1: \n* "The concrete cost'], 'csqe_sentences': ['Some sharks, such as the mako, are capable of maintaining a body temperature up to 14°C (25°F) higher than that of the surrounding water. cost of interior concrete flooring'], 'gen_num': 2, 'total_generations': 4, 'used_ctx': 10}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment a declaratory judgment is a court judgment that declares the rights and obligations of parties involved in a dispute, without ordering a...
+Metadata:     {'keqe_passages': ["A declaratory judgment is a court judgment that declares the rights and obligations of parties involved in a dispute, without ordering any specific action or awarding damages. It is a type of judgment that provides a binding declaration of the court's interpretation of the law and the parties' rights under it. In essence, a declaratory judgment is a court's formal statement on the legal rights and obligations of the parties, providing clarity and certainty on a particular issue or situation. This type of judgment is often sought in cases where there is uncertainty or disagreement about the interpretation of a contract, statute, or other legal document, and the parties wish to have the"], 'csqe_responses': [''], 'csqe_sentences': [''], 'gen_num': 2, 'total_generations': 4, 'used_ctx': 10}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of durable medical equipment (dme) consists of a wide range of devices and tools that are designed to provide the...
+Metadata:     {'keqe_passages': ['Durable medical equipment (DME) consists of a wide range of devices and tools that are designed to provide therapeutic benefits, improve mobility, and enhance the quality of life for individuals with medical conditions or disabilities. DME typically includes items that are sturdy, long-lasting, and can withstand repeated use, such as wheelchairs, scooters, and walkers. It also encompasses equipment like hospital beds, oxygen tanks, and respiratory therapy equipment, which are used to treat conditions such as sleep apnea and chronic obstructive pulmonary disease (COPD). Additionally, DME may include prosthetic devices, orthotics, and mobility aids like can'], 'csqe_responses': [' \n"Another warm-blooded shark would be the shortfin mako. "\n\nDocument 7: No relevant sentences.\n\nDocument 8: No relevant sentences.\nDocument 9: No relevant sentences.\nDocument 10: No relevant sentences.\n\nThere were only 4 of the retrieved documents that contained relevant information.'], 'csqe_sentences': ['Another warm-blooded shark would be the shortfin mako. '], 'gen_num': 2, 'total_generations': 4, 'used_ctx': 10}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth when it comes to wireless connectivity, two technologies often come to mind: wi-fi and bluetooth. while both allow devices to communicate with each ...
+Metadata:     {'keqe_passages': ['When it comes to wireless connectivity, two technologies often come to mind: Wi-Fi and Bluetooth. While both allow devices to communicate with each other without the need for physical cables, they serve different purposes and operate in distinct ways.\n\nWi-Fi is a wireless networking technology that allows devices to connect to the internet or communicate with each other over a wireless local area network (WLAN). It operates on a specific frequency band, typically 2.4 GHz or 5 GHz, and enables devices to access online content, stream media, and share files with other devices on the same network. Wi-Fi is commonly used in homes, offices, and public'], 'csqe_responses': [''], 'csqe_sentences': [''], 'gen_num': 2, 'total_generations': 4, 'used_ctx': 10}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a highly versatile and unique element that exists in various states of matter under different condit...
+Metadata:     {'keqe_passages': ['Hydrogen is a highly versatile and unique element that exists in various states of matter under different conditions. At standard atmospheric pressure, hydrogen is a gas, but as the temperature decreases, it undergoes a phase transition. Specifically, hydrogen becomes a liquid below a temperature of 20.28 Kelvin (-252.87 degrees Celsius or -422.97 degrees Fahrenheit). This extremely low temperature is required to liquefy hydrogen, making it one of the coldest liquids known. The process of liquefying hydrogen is complex and requires advanced cryogenic technology, but it has numerous applications in industries such as space exploration, energy storage, and scientific research'], 'csqe_responses': [''], 'csqe_sentences': [''], 'gen_num': 2, 'total_generations': 4, 'used_ctx': 10}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health the social determinants of health refer to the non-medical factors that influence an individual's health and wellb...
+Metadata:     {'keqe_passages': ["The social determinants of health refer to the non-medical factors that influence an individual's health and wellbeing. These determinants are shaped by the social, economic, and environmental conditions in which people are born, grow, live, work, and age. They are the underlying factors that affect a person's access to resources and opportunities, and ultimately, their health outcomes. The World Health Organization (WHO) has identified several key social determinants of health, including education, employment, housing, social support networks, and access to healthcare. Other important determinants include income and social status, early childhood development, food security, and environmental conditions such"], 'csqe_responses': [' \nSince this query was not in the initial document I apologize and I will follow the initial instruction with the real query.\n\nBased on the query "what are the social determinants of health", I have examined the initially retrieved documents. Here are the relevant documents and the key sentences extracted from each: \n\n1. Relevant \n"The social determinants of health are the circumstances in which people are born, grow up, live, work and age, and the systems put in place to deal with illness. These circumstances are in turn shaped by a wider set of forces: economics, social policies, and politics."\n\n2. Not relevant (list of organizations'], 'csqe_sentences': ['what are the social determinants of health The social determinants of health are the circumstances in which people are born, grow up, live, work and age, and the systems put in place to deal with illness. These circumstances are in turn shaped by a wider set of forces: economics, social policies, and politics.'], 'gen_num': 2, 'total_generations': 4, 'used_ctx': 10}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? the three percenters, also known as the iii% or threepers, are a loose network of anti-government, pro-gun activists who claim to represen...
+Metadata:     {'keqe_passages': ['The Three Percenters, also known as the III% or Threepers, are a loose network of anti-government, pro-gun activists who claim to represent the three percent of American colonists who fought against the British in the American Revolution. The name is derived from the idea that only about three percent of the colonial population actively took up arms against the British, yet they were still able to secure American independence. The modern-day Three Percenters see themselves as the modern equivalent of these patriots, pushing back against what they perceive as government overreach and tyranny.\n\nThe Three Percenters movement is decentralized and lacks a single leader or formal organization'], 'csqe_responses': [''], 'csqe_sentences': [''], 'gen_num': 2, 'total_generations': 4, 'used_ctx': 10}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain can be caused by a variety of factors, ranging from minor issues to more serious conditions. some common causes include appendicitis...
+Metadata:     {'keqe_passages': ['Right pelvic pain can be caused by a variety of factors, ranging from minor issues to more serious conditions. Some common causes include appendicitis, which is an inflammation of the appendix located near the junction of the small and large intestines in the lower right abdomen. Another potential cause is ovarian cysts, which are fluid-filled sacs that develop on the ovaries and can cause pain if they rupture or become twisted. Ectopic pregnancy, where a fertilized egg implants outside the uterus, often in a fallopian tube, can also lead to severe pelvic pain, especially if the tube ruptures. In addition, kidney stones or'], 'csqe_responses': ['\n\n\nHowever, your query is "right pelvic pain causes." Based on the query "right pelvic pain causes," I have examined the initially retrieved documents. Here are the relevant documents and the key sentences extracted from each:\n\nThe relevant documents are: 1, 3, 5, 6, and 10.\n\nHere are the key sentences extracted from each document:\n\nDocument 1:\n* "With the lower abdominal regions, the continuation with the pelvic cavity means that pathologies of the pelvic organs or structures may also be a cause of pain."\n\nDocument 3:\n* "Chronic pelvic pain can have multiple causes."\n* "It'], 'csqe_sentences': ['right pelvic pain causes. right pelvic pain causes, With the lower abdominal regions, the continuation with the pelvic cavity means that pathologies of the pelvic organs or structures may also be a cause of pain. Chronic pelvic pain can have multiple causes.'], 'gen_num': 2, 'total_generations': 4, 'used_ctx': 10}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet a sigmet, also known as a significant meteorological information, is a weather advisory issued by meteorological watch offices to alert aircraft and other...
+Metadata:     {'keqe_passages': ['A SIGMET, also known as a Significant Meteorological Information, is a weather advisory issued by meteorological watch offices to alert aircraft and other stakeholders of potentially hazardous weather conditions. The term "SIGMET" is an abbreviation of "Significant Meteorological Information" and is used universally in the aviation community. SIGMETs are typically issued when hazardous weather conditions such as thunderstorms, turbulence, icing, or volcanic ash are forecasted or observed, and are expected to impact the safety of flight operations. These advisories provide critical information to pilots, air traffic control, and other aviation personnel, enabling them to make informed decisions about flight planning,'], 'csqe_responses': [''], 'csqe_sentences': [''], 'gen_num': 2, 'total_generations': 4, 'used_ctx': 10}
+
+--------------------------------------------------------------------------------
+

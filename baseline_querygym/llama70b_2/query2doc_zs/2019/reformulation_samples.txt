@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea The life cycle of a flea, also known as a com...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The life cycle of a flea, also known as a complete metamorphosis, typically lasts between 2-3 months, but can range from as little as 1 month to as long as 6 months, depending on factors such as temperature, humidity, and availability of hosts. The life cycle of a flea consists of four stages: egg, larva, pupa, and adult. The female flea lays her eggs, usually on the host animal, and these eggs hatch into larvae within 2-4 weeks. The larvae then go through a series of molts, eventually spinning a cocoon and undergoing metamorphosis into an', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring The cost of interior conc...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'The cost of interior concrete flooring can vary depending on several factors, including the size of the area, the type of concrete used, the level of finish, and the location. On average, the cost of interior concrete flooring can range from $2 to $10 per square foot, with polished concrete floors being the most expensive option. For a basic, unfinished concrete floor, the cost can be as low as $2 to $3 per square foot, while a high-gloss, polished concrete floor can cost upwards of $8 to $10 per square foot. Additionally, the cost of installation, labor, and any necessary preparation work, such', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment A declaratory judgment is a legal ruling...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'A declaratory judgment is a legal ruling or judgment made by a court that declares the rights and obligations of parties involved in a dispute, without ordering any specific action to be taken. This type of judgment is typically sought when a party wants to clarify or establish their legal position or rights in a particular situation, often to avoid future litigation or uncertainty. Declaratory judgments are usually used in cases where there is a genuine dispute between parties, but no immediate action is required. They can provide a sense of clarity and finality, allowing parties to plan and act with confidence, knowing their legal rights and obligations. The declaratory judgment is often contrast', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medi...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Durable medical equipment (DME) consists of a wide range of medical devices and tools designed to provide therapeutic benefits, support, or treatment to patients with medical conditions, disabilities, or injuries. It encompasses various items that are durable, meaning they can withstand repeated use and are not disposable. Some common examples of durable medical equipment include wheelchairs, walkers, canes, crutches, and scooters, which are designed to aid mobility and independence. Additionally, DME includes equipment such as hospital beds, mattresses, and overlays, which provide comfort and support for patients who are bedridden or have mobility issues. Other examples of DME', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth WiFi and Bluetooth are two popular wireless technologies used for tran...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'WiFi and Bluetooth are two popular wireless technologies used for transmitting data between devices. The primary difference between them lies in their purpose, range, and usage. WiFi is a wireless networking technology that allows devices to connect to the internet or communicate with each other over a local network. It uses radio waves to transmit data at high speeds, typically up to several hundred feet, and is commonly used for internet browsing, online gaming, and streaming media. WiFi networks can support multiple devices and provide a high-bandwidth connection, making it ideal for applications that require a lot of data transfer.\n\nOn the other hand, Bluetooth is a personal area network technology designed for', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid bel...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Hydrogen is a gas at room temperature and standard pressure, but it can exist in a liquid state under certain conditions. Hydrogen becomes a liquid below a temperature of 20.28 Kelvin (-252.87°C or -422.97°F) at standard pressure. This extremely low temperature is required to overcome the weak intermolecular forces between hydrogen molecules, allowing them to come together and form a liquid. At temperatures below this point, hydrogen can be liquefied and is often used in cryogenic applications, such as in the fueling of rockets and in scientific research.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determin...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "The social determinants of health refer to the non-medical factors that influence an individual's or population's overall health and well-being. These factors are often shaped by the social, economic, and environmental conditions in which people are born, grow, live, work, and age. The World Health Organization (WHO) identifies several key social determinants of health, including poverty and socioeconomic status, education, employment and working conditions, housing and living environment, social support networks, and access to healthcare services. Additionally, factors such as racism, discrimination, and social exclusion can also have a significant impact on health outcomes. For example, individuals living in", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? The Three Percenters, also known as the III% ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': "The Three Percenters, also known as the III% or Threepers, are a right-wing militia movement in the United States. The group's name is derived from the idea that only about 3% of American colonists actively fought against the British during the American Revolution, implying that a small, dedicated group of individuals can effect significant change. Members of the Three Percenters movement typically identify as patriots and often express anti-government sentiments, advocating for limited government intervention and the protection of individual rights, particularly the right to bear arms. They are often associated with extremist ideologies and have been linked to various protests, rallies, and confront", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes Right pelvic pain can be caused by a variety of factors, ranging from mild ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'Right pelvic pain can be caused by a variety of factors, ranging from mild to severe conditions. Some common causes include menstrual cramps, ovulation, and ovarian cysts in women, which can cause sharp, stabbing, or dull aching pain on the right side of the pelvis. Other possible causes include appendicitis, which typically starts near the navel and then moves to the lower right abdomen, and urinary tract infections, which can cause a burning sensation while urinating and pelvic discomfort. In addition, kidney stones, constipation, and hemorrhoids can also lead to right pelvic pain, along with inflammatory bowel diseases like Crohn', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet A SIGMET, also known as a Significant Meteorological Information message, is a high-p...
+Metadata:     {'mode': 'zs', 'prompt_id': 'query2doc.zeroshot.v1', 'pseudo_doc': 'A SIGMET, also known as a Significant Meteorological Information message, is a high-priority weather advisory issued by meteorological watch offices to alert aviation authorities and pilots of significant weather phenomena that may impact the safety of aircraft operations. These messages are typically broadcasted to provide critical information about weather conditions that could potentially affect flight safety, such as severe thunderstorms, turbulence, icing conditions, volcanic ash clouds, and other hazardous weather phenomena. The primary purpose of a SIGMET is to provide timely and accurate information to enable pilots and air traffic controllers to make informed decisions about flight planning, routing, and altitude selection to ensure safe and efficient flight operations', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

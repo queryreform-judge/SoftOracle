@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  dlhard
+Method:   genqr
+Model:    meta-llama/llama-3.3-70b-instruct:floor
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 1m 9.7s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 1m 2.1s
+  retrieval      : 3.8s
+  evaluation     : 3.8s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  map                      : 0.1512
+  ndcg_cut_10              : 0.2199
+  recall_1000              : 0.6851
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/llama70b_2/genqr/dlhard

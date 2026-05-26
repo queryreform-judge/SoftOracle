@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 915593):
+Original:     what types of food can you cook sous vide
+Reformulated: what types of food can you cook sous vide sous vide recipes, cooking methods, egg cooking, meat cooking, fish cooking, vegetable cooking, temperature control, water bath, precision cooking, meal prep ...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['sous vide recipes, cooking methods, egg cooking, meat cooking, fish cooking, vegetable cooking, temperature control, water bath, precision cooking, meal prep', 'sous vide cooking, recipes, meal ideas, egg cooking, steak cooking, chicken cooking, fish cooking, vegetable cooking, sous vide machine, precision cooking, temperature control, food safety', 'sous vide cooking, recipes, food types, temperature control, immersion circulator, Slow cooking, precision cooking, egg cooking, meat cooking, fish cooking, vegetable cooking', 'sous vide, cooking methods, food types, recipes, precision cooking, temperature control, water bath, eggs, meat, fish, vegetables, fruits, desserts', 'sous vide cooking, recipes, food types, temperature control, immersion circulator, Egg, Steak, Chicken, Fish, Vegetables, Meat, Precision cooking']}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 794429):
+Original:     what is sculpture shape space
+Reformulated: what is sculpture shape space sculpture, shape, space, form, geometry, art, three-dimensional, modeling, volume, dimensionality sculpture, shape, space, art, three-dimensional, geometry, form, volume,...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['sculpture, shape, space, form, geometry, art, three-dimensional, modeling, volume, dimensionality', 'sculpture, shape, space, art, three-dimensional, geometry, form, volume, topology', 'sculpture, shape, space, geometry, form, three-dimensional, art, architecture, design, dimensionality', 'sculpture, shape, space, three-dimensional, art, geometry, form, volume, dimension, modeling', 'sculpture, shape, space, three-dimensional, art, form, geometry, dimensionality, visual, architecture']}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 801118):
+Original:     what is supplemental security income used for
+Reformulated: what is supplemental security income used for SSI, disability benefits, financial assistance, social security, low-income support, elderly care, disabled individuals, government aid, welfare programs ...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['SSI, disability benefits, financial assistance, social security, low-income support, elderly care, disabled individuals, government aid, welfare programs', 'supplemental security income, SSI, disability benefits, social security, financial assistance, low-income support, elderly benefits, disability payments, government aid', 'SSI, disability benefits, social security, financial assistance, low-income support, elderly care, disability income, government aid, welfare programs', 'SSI, disability, benefits, financial assistance, low-income, elderly, disabled, Medicaid, social security administration', 'SSI, disability, benefits, financial assistance, low-income, elderly, disabled, blindness, Supplemental Security Income, social security']}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 190044):
+Original:     foods to detox liver naturally
+Reformulated: foods to detox liver naturally liver cleanse, detox diet, natural remedies, liver health, detoxification, herbal remedies, healthy liver, liver support, cleanse liver, natural detox liver cleanse, det...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['liver cleanse, detox diet, natural remedies, liver health, detoxification, herbal remedies, healthy liver, liver support, cleanse liver, natural detox', 'liver cleanse, detox diet, natural remedies, liver health, nutrition, herbal supplements, liver support, cleanse recipes, healthy liver function', 'liver detox, natural remedies, healthy liver, detoxification, liver cleanse, herbal remedies, nutrition, diet, liver health, natural liver cleanse', 'liver cleanse, detox diet, natural liver detox, liver health, liver flush, healthy liver, detox foods, liver support, natural detox, liver purification', 'liver cleanse, detox diet, natural remedies, liver health, cleanse liver, detox foods, liver flush, herbal remedies, liver support, nutrition therapy']}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 451602):
+Original:     medicare's definition of mechanical ventilation
+Reformulated: medicare's definition of mechanical ventilation medicare, mechanical ventilation, respiratory therapy, ventilator, life support, medical equipment, medicare guidelines, ventilation definition, healthc...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['medicare, mechanical ventilation, respiratory therapy, ventilator, life support, medical equipment, medicare guidelines, ventilation definition, healthcare services', 'medicare, mechanical ventilation, ventilator, respiratory support, life sustaining treatment, cms guidelines, medical terminology', 'medicare, mechanical ventilation, definition, respiratory therapy, ventilator, healthcare, medical equipment, ventilatory support', 'medicare, mechanical ventilation, respiratory support, ventilator, life support, medical coverage, healthcare definition, CMS guidelines', 'medicare, mechanical ventilation, respiratory care, ventilator services, medical definition, healthcare terminology, CMS guidelines, life support systems']}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 177604):
+Original:     eating foods that are considered warm
+Reformulated: eating foods that are considered warm Warming foods, yang foods, thermal energy, Chinese medicine diet, Ayurvedic diet, thermogenic foods, heat producing foods, spicy foods Chinese medicine, yin-yang,...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Warming foods, yang foods, thermal energy, Chinese medicine diet, Ayurvedic diet, thermogenic foods, heat producing foods, spicy foods', 'Chinese medicine, yin-yang, warm foods, thermal foods, nourishing foods, digestive health, Ayurvedic diet, thermogenic foods', 'thermal foods, warm cuisine, yang foods, heating foods, energetic eating, digestive heat, warming nutrition, thermogenic diet, Ayurvedic warm foods, Chinese warm foods', 'warm foods, yang foods, thermal foods, Traditional Chinese Medicine, Ayurvedic diet, warming spices, hot energy foods, thermogenic foods', 'Chinese medicine, thermal properties, yang foods, warming foods, nutrition, Ayurvedic diet, thermogenic, spicy, heating, digestive health']}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 966413):
+Original:     where are the benefits of cinnamon as a supplement?
+Reformulated: where are the benefits of cinnamon as a supplement? cinnamon supplements, health benefits, cinnamon extract, nutrition, dietary supplements, herbal remedies, natural health, cinnamon powder, wellness,...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['cinnamon supplements, health benefits, cinnamon extract, nutrition, dietary supplements, herbal remedies, natural health, cinnamon powder, wellness, alternative medicine', 'cinnamon supplements, benefits of cinnamon, cinnamon health benefits, herbal supplements, dietary supplements, natural remedies, cinnamon nutrition, supplement benefits, cinnamon extract', 'cinnamon supplements, health benefits, nutrition, natural remedies, herbal medicine, antioxidant properties, anti-inflammatory effects', 'cinnamon supplements, health benefits, cinnamon extract, nutrition, dietary supplements, herbal remedies, natural health, cinnamon powder, antioxidant properties, vitamins, minerals.', 'cinnamon benefits, health supplements, herbal remedies, nutrition, dietary supplements, spice extracts, natural remedies, cinnamon extract, vitamin supplements.']}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 588587):
+Original:     what causes heavy metal toxins in your body
+Reformulated: what causes heavy metal toxins in your body heavy metals, toxins, poisoning, pollution, contamination, mercury, lead, arsenic, cadmium, exposure, detoxification heavy metals, toxins, poisoning, contam...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['heavy metals, toxins, poisoning, pollution, contamination, mercury, lead, arsenic, cadmium, exposure, detoxification', 'heavy metals, toxins, poisoning, contamination, mercury, lead, arsenic, cadmium, pollution, exposure, health effects', 'heavy metals, toxins, pollution, mercury, lead, cadmium, poisoning, contamination, environment, health risks', 'heavy metals, toxins, poisoning, contamination, exposure, mercury, lead, arsenic, cadmium, pollution, environmental toxins, detoxification.', 'heavy metals, toxins, pollution, contamination, poisoning, mercury, lead, arsenic, cadmium, detoxification']}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1108939):
+Original:     what slows down the flow of blood
+Reformulated: what slows down the flow of blood blood clots, plaque, thrombosis, atherosclerosis, vasospasm, stenosis, hypertension, vasoconstriction, blood viscosity blood clots, plaque, thrombosis, atherosclerosi...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['blood clots, plaque, thrombosis, atherosclerosis, vasospasm, stenosis, hypertension, vasoconstriction, blood viscosity', 'blood clots, plaque, thrombosis, atherosclerosis, stenosis, vasoconstriction, hypertension, obesity, diabetes, inflammation, cardiovascular disease', 'blood viscosity, vasospasm, atherosclerosis, thrombosis, stenosis, plaques, clotting, platelet aggregation, fibrinogen, hypertension', 'clotting, viscosity, narrowing, blockages, stenosis, thrombosis, atherosclerosis, plaques', 'blood clots, plaque, thrombosis, atherosclerosis, vasospasm, stenosis, hypertension, vasoconstriction']}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 507445):
+Original:     symptoms of different types of brain bleeds
+Reformulated: symptoms of different types of brain bleeds Brain hemorrhage, cerebral bleeding, stroke symptoms, intracranial hemorrhage, subarachnoid hemorrhage, intracerebral hemorrhage, epidural hematoma, subdura...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Brain hemorrhage, cerebral bleeding, stroke symptoms, intracranial hemorrhage, subarachnoid hemorrhage, intracerebral hemorrhage, epidural hematoma, subdural hematoma, cerebral vasospasm, neurological symptoms, hemorrhagic stroke, brain injury.', 'brain hemorrhage, cerebral hemorrhage, intracranial hemorrhage, subarachnoid hemorrhage, intracerebral hemorrhage, epidural hematoma, subdural hematoma, cerebral vasospasm, stroke symptoms, neurological symptoms', 'brain hemorrhage, cerebral bleed, stroke, subdural hematoma, epidural hematoma, subarachnoid hemorrhage, intraparenchymal hemorrhage, cerebral vasculature, neurological symptoms, hemorrhagic stroke, traumatic brain injury', 'brain hemorrhage, cerebral hemorrhage, intracranial hemorrhage, subarachnoid hemorrhage, epidural hematoma, subdural hematoma, intraparenchymal hemorrhage, cerebral vasospasm, stroke symptoms, hemorrhagic stroke, brain injury, neurological symptoms', 'Brain hemorrhage, cerebral hemorrhage, subarachnoid hemorrhage, intracerebral hemorrhage, subdural hemorrhage, epidural hemorrhage, stroke, hemorrhagic stroke, cerebral vasospasm, intracranial bleeding.']}
+
+--------------------------------------------------------------------------------
+

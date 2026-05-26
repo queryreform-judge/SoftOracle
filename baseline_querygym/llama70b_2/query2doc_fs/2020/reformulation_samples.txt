@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 23849):
+Original:     are naturalization records public information
+Reformulated: are naturalization records public information are naturalization records public information are naturalization records public information are naturalization records public information are naturalizati...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the answers to the queries in the form of passages:\n\n**Query: What tests do they do for low testosterone?**\n\nIf you're experiencing symptoms of low testosterone, your doctor can perform a simple blood test to determine your testosterone levels. There are two types of tests that may be used: one that measures total testosterone levels and another that measures the amount of testosterone in your bloodstream. These tests can help your doctor diagnose low testosterone, also known as hypogonadism, and determine the best course of treatment.\n\n**Query: What is rice vermicelli?**\n\nRice vermicelli, also known as rice noodles,", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 156498):
+Original:     do google docs auto save
+Reformulated: do google docs auto save do google docs auto save do google docs auto save do google docs auto save do google docs auto save Here are the rewritten passages that answer each query:  **Query: Where is ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Here are the rewritten passages that answer each query:\n\n**Query: Where is Hockenheim in Germany?**\nHockenheim is a town located in northwest Baden-Württemberg, Germany. It is situated about 20 kilometers south of Mannheim and 10 kilometers west of Walldorf, in the Upper Rhine valley.\n\n**Query: How many states must ratify an amendment before it becomes law?**\nTo ratify a proposed constitutional amendment, 38 states must approve it, which is equivalent to a three-fourths legislative majority vote.\n\n**Query: How to remove email account in Lumia 520?**\nTo', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 258062):
+Original:     how long does it take to remove wisdom tooth
+Reformulated: how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it tak...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "The removal of a wisdom tooth, also known as a third molar, is a common dental procedure. The length of time it takes to remove a wisdom tooth can vary depending on several factors, such as the complexity of the procedure, the location of the tooth, and the individual's overall health. On average, a simple wisdom tooth extraction can take around 10-30 minutes per tooth, while a more complex procedure, such as a surgical extraction, can take around 1-2 hours. In some cases, the procedure may require multiple visits to the dentist or oral surgeon, with the entire process taking several weeks or even months to", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1071750):
+Original:     why is pete rose banned from hall of fame
+Reformulated: why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hal...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here are the answers to each query based on the provided passages:\n\n1. What disease makes you feel really tired?\nAnswer: An underactive thyroid gland can make you feel tired, as it affects how your cells use energy, leading to sluggishness and slow reflexes.\n\n2. Who is Gabriel?\nAnswer: Gabriel is the youngest of the four archangels created by God, also known as Loki or The Trickster, and is very powerful and compassionate towards his family.\n\n3. What is the law's definition of harassment?\nAnswer: The passage does not provide a direct definition of harassment, but mentions that harassment has been taken seriously in", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 67316):
+Original:     can fever cause miscarriage early pregnancy
+Reformulated: can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarri...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "It looks like you've provided a series of queries and passages that answer each query. Here are the answers to each query based on the provided passages:\n\n1. **How long do you grill corn on the grill in foil**: According to the passage, the provided answer doesn't exactly match the query because it doesn't mention using foil. However, the passage describes grilling corn in their husks for about 15 to 20 minutes, turning occasionally, until the husks are completely blackened and charred on all sides.\n\n2. **What is the current stamp price**: As of the information given in the passage, the current stamp", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 169208):
+Original:     does mississippi have an income tax
+Reformulated: does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax It appears that the ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'It appears that the last query was not completed. Here is the rewritten passage for each query:\n\n1. Query: what year was the first barbie doll produced\nPassage: The first Barbie doll was produced in 1959. Barbie is a fashion doll manufactured by the American toy company Mattel, Inc. and launched in March 1959.\n\n2. Query: when is fall foliage\nPassage: Fall foliage typically occurs in the autumn season, around late September to mid-November, with peak colors usually happening in October. The exact timing of fall foliage can vary depending on the location and weather conditions.\n\n3. Query:', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 938400):
+Original:     when did family feud come out?
+Reformulated: when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? It seems like you forgot to include the passa...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'It seems like you forgot to include the passage for the last query! Please provide the passage for "when did family feud come out?" and I\'ll be happy to help.\n\nHowever, I can still answer the other queries:\n\n1. The difference between beef and pork ribs: Beef ribs are basically of two types â\x80\x93 back ribs and short ribs. In back ribs, the meat lies between the bones, while in short ribs, the meat lies on top of the bones. Beef ribs are usually less expensive than pork ribs.\n\n2. Is limestone a good aquifer: Yes, limestone is a good aquifer. The sediments that', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1108651):
+Original:     what the best way to get clothes white
+Reformulated: what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white It se...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "It seems like you've provided multiple queries and passages. I'll answer each one separately:\n\n1. Query: how far is orlando to houston flying\nThe distance from Orlando, FL to Houston, TX is 849 miles, equivalent to 1,366 kilometers or 738 nautical miles. The flight direction from Orlando, FL to Houston, TX is West (278 degrees from North).\n\n2. Query: what is gelatinisation in cooking\nGelatinisation is a process in cooking where starch grains, such as rice, flour, or pasta, are mixed with a liquid and heated. The starch then absorbs the moisture", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1037496):
+Original:     who is rep scalise?
+Reformulated: who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? It seems like you provided a series of queries with corresponding passages that answer each question...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "It seems like you provided a series of queries with corresponding passages that answer each question. Here are the answers based on the provided passages:\n\n1. **What language do they speak in Shenzhen?**\nPeople in Shenzhen communicate in Mandarin, but it depends on the district. Local people near Guangzhou speak Cantonese, while most newcomers speak Mandarin.\n\n2. **How long does it take to get your money back from Apple?**\nThe passage doesn't directly answer this question. It talks about the warranty period for MacBook Pro service, which is 90 days from the date of service, but it doesn't provide information on the refund process", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 1064670):
+Original:     why do hunters pattern their shotguns?
+Reformulated: why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? Here ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Here is a passage answering the query:\n\nHunters pattern their shotguns to determine the spread and density of the shotgun's pellets at different distances. This process involves shooting the shotgun at a target, typically a large piece of paper or cardboard, and measuring the distribution of the pellets. By doing so, hunters can understand how the shotgun will perform in the field and make adjustments to the choke, ammunition, or sighting system to optimize its performance for their specific hunting needs. The goal of patterning a shotgun is to achieve a consistent and predictable shot pattern, which is essential for effective and humane hunting. By knowing the shotgun's pattern, hunters", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

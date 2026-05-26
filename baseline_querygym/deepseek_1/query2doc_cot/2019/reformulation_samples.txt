@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea The life cycle of a flea consists of four sta...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'The life cycle of a flea consists of four stages: egg, larva, pupa, and adult. The complete duration of the flea life cycle can vary depending on environmental conditions such as temperature, humidity, and food availability. \n\n**Rationale:**  \n- Fleas thrive in warm and humid environments, with optimal conditions being around 70-85°F (21-30°C) and 70% humidity.  \n- Under ideal conditions, the life cycle can be completed in as little as **2 to 3 weeks**.  \n- In less favorable conditions, the cycle may extend to **several months**, especially when in', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring The cost of interior conc...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'The cost of interior concrete flooring can vary depending on several factors such as the type of concrete finish, labor costs, location, and additional treatments (e.g., polishing, staining, or sealing). Below is a rationale followed by a cost estimate.\n\n### **Rationale:**\n1. **Type of Concrete Finish** –  \n   - Basic concrete slab: Least expensive but may require additional finishes for aesthetics.  \n   - Polished concrete: Higher cost due to labor-intensive polishing.  \n   - Stained or decorative concrete: Adds artistic value but increases cost.  \n\n2. **Labor Costs** –  \n   - Depends on local rates', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment ### Rationale: To provide a clear and ac...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': '### Rationale:\nTo provide a clear and accurate definition of "declaratory judgment," it is essential to understand its legal context. A declaratory judgment is a legal concept used in civil law, and its definition hinges on its purpose and function within the judicial system. It is distinct from other types of judgments because it does not involve enforcement or monetary damages but rather clarifies the legal rights or obligations of parties involved in a dispute. \n\n### Definition:\nA **declaratory judgment** is a court ruling that legally establishes the rights, duties, or obligations of parties in a dispute without ordering any specific action or awarding damages. It is a', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medi...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': '**Rationale:**  \nDurable Medical Equipment (DME) refers to equipment designed for medical use, intended to withstand repeated use over time (typically for at least 3 years), and primarily serves a medical purpose for people with illnesses or impairments. To determine what DME consists of, we consider criteria set by healthcare authorities (e.g., Medicare, FDA), which classify items as DME based on durability, medical necessity, and non-disposability.  \n\n**Answer:**  \nDurable Medical Equipment (DME) consists of medically necessary devices or tools prescribed by a healthcare provider for use in a patient’s home or care setting', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth ### Rationale: To answer the question "What is WiFi vs Bluetooth?", it...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': '### Rationale:\nTo answer the question "What is WiFi vs Bluetooth?", it\'s important to understand the key differences and similarities between these two wireless communication technologies. Both are widely used for connecting devices, but they serve different purposes and operate under different technical specifications. Here’s a breakdown of their primary distinctions:\n\n1. **Purpose and Use Cases**:\n   - WiFi is designed for high-speed internet and network connectivity over larger areas (e.g., homes, offices, public hotspots).\n   - Bluetooth is designed for short-range, low-power communication between devices (e.g., headphones, keyboards, smartwatches).\n\n2. **Range**', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid bel...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "To determine the temperature below which hydrogen becomes a liquid, we need to consider its **boiling point** under standard atmospheric pressure (1 atm or 101.325 kPa). \n\n### Rationale:\n1. **Hydrogen's Phase Transition**: Hydrogen (H₂) exists as a gas at room temperature and pressure. It transitions to a liquid state when cooled below its boiling point.\n2. **Boiling Point of Hydrogen**: The boiling point of hydrogen is **-252.87°C (20.28 K)** at standard pressure. Below this temperature, hydrogen condenses into a liquid.\n3. **Critical Temperature**: Hydrogen cannot", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determin...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': '### Rationale:\nThe **social determinants of health (SDOH)** are the non-medical factors that significantly influence health outcomes. These determinants are shaped by the distribution of money, power, and resources at global, national, and local levels. Understanding SDOH is critical for addressing health inequities and improving population health. Research shows that social and economic conditions often have a stronger impact on health than medical care or individual lifestyle choices.\n\n### Answer:\nThe **social determinants of health (SDOH)** are the conditions in which people are born, grow, live, work, and age. These factors are influenced by economic, social, and political', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? The **Three Percenters** (also written as **3...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': 'The **Three Percenters** (also written as **3%ers**) are a far-right, anti-government extremist movement that originated in the United States. The group is part of the broader militia movement and is rooted in libertarian, gun-rights, and anti-government ideologies.\n\n### **Rationale for the Answer:**\n1. **Historical Inspiration** – The name "Three Percenters" refers to the loosely based historical claim that only about 3% of the American population actively fought against British rule during the American Revolution. The group uses this narrative to position themselves as modern-day patriots resisting government "tyranny."\n  \n2', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes ### **Rationale:**   Right-sided pelvic pain can arise from various structu...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': "### **Rationale:**  \nRight-sided pelvic pain can arise from various structures in the pelvis, including the reproductive, urinary, gastrointestinal, musculoskeletal, or vascular systems. Identifying the cause requires considering the patient's age, sex, associated symptoms (e.g., fever, nausea, urinary changes), and medical history. Below are the most common causes categorized by system.\n\n---\n\n### **Common Causes of Right Pelvic Pain:**\n\n#### **1. Gynecological Causes (Females)**  \n   - **Ovarian cysts** (ruptured or torsioned) – Sudden, sharp pain, often mid-cycle.  \n   - **E", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet ### Rationale: To answer the query "definition of a sigmet," it's important to unders...
+Metadata:     {'mode': 'cot', 'prompt_id': 'query2doc.cot.v1', 'pseudo_doc': '### Rationale:\nTo answer the query "definition of a sigmet," it\'s important to understand the context in which this term is used. SIGMET is an acronym commonly used in aviation, specifically in weather reporting and flight safety. It stands for "Significant Meteorological Information" and is a type of advisory issued to alert pilots of hazardous weather conditions that could affect flight safety. \n\n### Answer:\nA **SIGMET** (Significant Meteorological Information) is an advisory issued by meteorological authorities to warn pilots of potentially hazardous weather conditions that may impact flight safety. These conditions include severe turbulence, volcanic ash, tropical cyclones, heavy', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 23849):
+Original:     are naturalization records public information
+Reformulated: are naturalization records public information naturalization records, public information, citizenship documents, genealogical research, immigration records, U.S. citizenship, National Archives, Freedo...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['naturalization records, public information, citizenship documents, genealogical research, immigration records, U.S. citizenship, National Archives, Freedom of Information Act, privacy laws, historical records', 'naturalization records, public records, citizenship documents, immigration records, genealogical research, USCIS records, NARA archives, Freedom of Information Act, FOIA, historical documents, public access, privacy laws, U.S. citizenship, archival research', 'naturalization records, public information, U.S. citizenship, immigration documents, genealogy research, public access, USCIS records, NARA archives, Freedom of Information Act, privacy exemptions', 'naturalization records, public information, citizenship records, U.S. immigration, genealogical research, NARA, USCIS, Freedom of Information Act, FOIA, historical documents, immigration history, public access, government records', 'naturalization records, public information, citizenship records, immigration documents, U.S. naturalization, public access, genealogical research, FOIA, privacy laws, historical records, USCIS, National Archives']}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 156498):
+Original:     do google docs auto save
+Reformulated: do google docs auto save google docs, auto save, automatic saving, cloud saving, document recovery, real-time save, backup, version history, edit tracking, collaboration features google docs   auto sa...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['google docs, auto save, automatic saving, cloud saving, document recovery, real-time save, backup, version history, edit tracking, collaboration features', 'google docs   auto save   automatic saving   cloud backup   real-time save   document recovery   version history   edit tracking   collaboration features   Google Drive sync', 'google docs, auto save, automatic saving, cloud backup, real-time saving, document recovery, version history, manual save, online editing, collaboration features', 'google docs, auto save, automatic saving, cloud backup, real-time save, document recovery, version history, online editing, collaboration features, sync changes', 'google docs, auto save, automatic saving, cloud backup, real-time save, document recovery, edit history, collaboration features, Google Drive, sync settings']}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 258062):
+Original:     how long does it take to remove wisdom tooth
+Reformulated: how long does it take to remove wisdom tooth wisdom tooth removal, extraction time, recovery duration, procedure length, post-op healing, dental surgery duration, anesthesia effects, pain management, ...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['wisdom tooth removal, extraction time, recovery duration, procedure length, post-op healing, dental surgery duration, anesthesia effects, pain management, swelling timeline, stitches removal', 'wisdom tooth removal, extraction time, duration, recovery period, post-operative care, healing process, dental surgery, anesthesia, pain management, swelling, stitches, dry socket, complications', 'wisdom tooth removal, extraction time, recovery duration, healing process, post-op care, pain management, swelling duration, dental surgery, anesthesia types, recovery tips', 'wisdom tooth removal, extraction time, recovery duration, healing process, post-op care, pain management, swelling reduction, dental surgery, anesthesia options, aftercare tips', 'wisdom tooth removal, recovery time, extraction duration, healing process, post-surgery timeline, pain management, swelling duration, wisdom teeth recovery, dental surgery time, tooth extraction aftercare']}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1071750):
+Original:     why is pete rose banned from hall of fame
+Reformulated: why is pete rose banned from hall of fame Pete Rose, banned, Hall of Fame, MLB, gambling, betting, lifetime ban, baseball, ineligible, Charlie Hustle, rule violations, commissioner, reinstatement, con...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Pete Rose, banned, Hall of Fame, MLB, gambling, betting, lifetime ban, baseball, ineligible, Charlie Hustle, rule violations, commissioner, reinstatement, controversy, eligibility, investigation, ban reasons, baseball scandal, 1989 agreement, Bart Giamatti', 'Pete Rose, banned, Hall of Fame, MLB, gambling, betting, lifetime ban, baseball, ineligible, Charlie Hustle, rule violation, commissioner, reinstatement, controversy, ethics, investigation, records, eligibility, Cooperstown', 'pete rose, banned, hall of fame, baseball, gambling, mlb, lifetime ban, ineligible, betting, controversy, charlie hustle, rule 21, commissioner, reinstatement, controversy, baseball legend, records, ban reason, ethics, sports scandal', 'Pete Rose, banned, Hall of Fame, MLB, gambling, betting, lifetime ban, baseball, ineligible, Charlie Hustle, controversy, rule violation, commissioner, reinstatement, investigation, ban reasons, baseball history, eligibility, scandal, punishment', 'pete rose, banned, hall of fame, baseball, mlb, gambling, betting, lifetime ban, charlie hustle, ineligible, commissioner, rule 21, controversy, reinstatement, eligibility, cooperstown, ban reason, baseball legend, scandal, investigation']}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 67316):
+Original:     can fever cause miscarriage early pregnancy
+Reformulated: can fever cause miscarriage early pregnancy fever, miscarriage, early pregnancy, pregnancy complications, infection, hyperthermia, first trimester, maternal health, fetal development, risk factors fev...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['fever, miscarriage, early pregnancy, pregnancy complications, infection, hyperthermia, first trimester, maternal health, fetal development, risk factors', 'fever, miscarriage, early pregnancy, pregnancy complications, high temperature, infection, first trimester, pregnancy risks, fever effects, fetal health', 'fever, miscarriage, early pregnancy, pregnancy complications, infection, high temperature, first trimester, maternal health, fever risks, fetal development', 'fever, miscarriage, early pregnancy, pregnancy complications, high temperature, first trimester, infection, pregnancy risks, fever effects, maternal health', 'fever, miscarriage, early pregnancy, pregnancy complications, high temperature, first trimester, infection, pregnancy risks, fever effects, fetal health']}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 169208):
+Original:     does mississippi have an income tax
+Reformulated: does mississippi have an income tax mississippi, income tax, state tax, taxation, tax laws, tax policy Mississippi, income tax, state tax, taxation, tax laws, tax rates, tax exemptions, tax filing, ta...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['mississippi, income tax, state tax, taxation, tax laws, tax policy', 'Mississippi, income tax, state tax, taxation, tax laws, tax rates, tax exemptions, tax filing, tax brackets, tax policy', 'mississippi, income tax, state tax, taxation, tax laws, tax rates, tax exemptions, tax filing, tax brackets, tax policy', 'mississippi, income tax, state tax, taxation, tax laws, tax information', 'mississippi, income tax, state tax, taxation, tax laws, tax information']}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 938400):
+Original:     when did family feud come out?
+Reformulated: when did family feud come out? Family Feud, premiere date, debut, first aired, original release, TV show history, game show, Steve Harvey, Richard Dawson, television debut Family Feud premiere date"  ...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Family Feud, premiere date, debut, first aired, original release, TV show history, game show, Steve Harvey, Richard Dawson, television debut', 'Family Feud premiere date"   "Family Feud first episode"   "Family Feud original release"   "Family Feud debut year"   "Family Feud TV show start date"   "Family Feud original air date"   "Family Feud first season"   "Family Feud show history"   "Family Feud series launch"   "Family Feud initial broadcast', 'family feud, release date, premiere date, debut year, game show history, Steve Harvey, original air date, television debut', 'family feud, release date, premiere date, debut, tv show, game show, steve harvey, original air date, first episode, television history', 'Family Feud release date, Family Feud premiere year, Family Feud first episode, Family Feud original air date, Family Feud debut year']}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1108651):
+Original:     what the best way to get clothes white
+Reformulated: what the best way to get clothes white whitening clothes, laundry tips, remove stains, bleach alternatives, white clothing care, brighten whites, fabric whitening, stain removal, laundry hacks, natura...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['whitening clothes, laundry tips, remove stains, bleach alternatives, white clothing care, brighten whites, fabric whitening, stain removal, laundry hacks, natural whitening', 'whitening clothes, laundry tips, white garments, stain removal, bleach alternatives, brightening clothes, fabric care, washing whites, removing stains, laundry hacks', 'whitening clothes, laundry tips, white garments, stain removal, bleach alternatives, fabric brighteners, washing whites, laundry hacks, whitening detergents, natural whitening, clothing care, laundry best practices', 'whitening clothes, laundry tips, remove stains, bleach alternatives, white fabric care, brightening clothes, laundry hacks, stain removal, fabric whitening, washing whites', 'whitening clothes, best laundry whitening, remove stains, white clothing tips, bleach alternatives, laundry brighteners, whitening detergents, natural whitening methods, stain removal, fabric whitening']}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1037496):
+Original:     who is rep scalise?
+Reformulated: who is rep scalise? rep scalise, steve scalise, congressman scalise, louisiana representative, house majority leader, republican leader, us congress, political biography, scalise background, scalise c...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['rep scalise, steve scalise, congressman scalise, louisiana representative, house majority leader, republican leader, us congress, political biography, scalise background, scalise career', 'rep scalise, steve scalise, louisiana representative, house majority leader, republican leader, congressman scalise, us representative scalise, scalise biography, scalise political career, scalise leadership', 'rep scalise, steve scalise, louisiana representative, house majority leader, republican leader, congressman scalise, political biography, scalise background, us representative, house leadership', 'rep scalise, steve scalise, congressman scalise, house majority leader, louisiana representative, republican leader, us congress, political career, scalise biography, scalise leadership', 'rep scalise, steve scalise, congressman scalise, louisiana representative, house majority leader, republican leader, us congress, political biography, scalise background, scalise career']}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 1064670):
+Original:     why do hunters pattern their shotguns?
+Reformulated: why do hunters pattern their shotguns? shotgun patterning, hunting accuracy, shotgun spread, choke selection, ammunition testing, shooting consistency, range effectiveness, pellet distribution, firear...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['shotgun patterning, hunting accuracy, shotgun spread, choke selection, ammunition testing, shooting consistency, range effectiveness, pellet distribution, firearm performance, hunting success', 'shotgun patterning, hunting accuracy, shotgun spread, choke selection, shooting distance, pellet distribution, firearm testing, hunting preparation, ballistic performance, shotgun effectiveness', 'shotgun patterning, shotgun accuracy, hunting accuracy, shotgun choke, pellet spread, shooting distance, firearm testing, hunting preparation, ballistic performance, shotgun shells, aiming technique, hunting efficiency, firearm maintenance, hunting safety, shot placement', 'shotgun patterning, hunting accuracy, shotgun choke, shot spread, ballistic performance, firearm testing, hunting preparation, shotgun range, pellet distribution, shooting consistency, hunter training, firearm optimization, hunting efficiency, shotgun performance, patterning targets', 'shotgun patterning, shotgun accuracy, hunting accuracy, shotgun choke, shot spread, pellet distribution, hunting techniques, firearm testing, shooting range, ballistic performance, hunting preparation, shotgun performance, patterning board, hunting effectiveness, firearm optimization']}
+
+--------------------------------------------------------------------------------
+

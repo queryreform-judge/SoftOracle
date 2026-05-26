@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 23849):
+Original:     are naturalization records public information
+Reformulated: are naturalization records public information are naturalization records public information are naturalization records public information are naturalization records public information are naturalizati...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Naturalization records in the United States are generally considered public information. These records document the process by which an immigrant becomes a U.S. citizen and may include details such as the individual's name, country of origin, date of arrival, and oath of allegiance. Many historical naturalization records (typically those over 50 years old) are available to the public through the National Archives, local courthouses, or online genealogy databases. However, more recent records may have restricted access due to privacy laws, and certain personal information may be redacted. To obtain copies of naturalization records, individuals can submit requests through U.S. Citizenship and Immigration", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 156498):
+Original:     do google docs auto save
+Reformulated: do google docs auto save do google docs auto save do google docs auto save do google docs auto save do google docs auto save Google Docs automatically saves your work as you type. The platform uses an...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Google Docs automatically saves your work as you type. The platform uses an auto-save feature that continuously updates your document in real-time, ensuring that your changes are stored securely in Google Drive without manual intervention. You can see the "All changes saved in Drive" status indicator at the top of the screen, confirming that your latest edits have been saved. This feature helps prevent data loss if your internet connection drops or the browser accidentally closes.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 258062):
+Original:     how long does it take to remove wisdom tooth
+Reformulated: how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it take to remove wisdom tooth how long does it tak...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "The time it takes to remove a wisdom tooth varies depending on factors such as the tooth's position, complexity, and whether it is impacted. A simple extraction of an erupted wisdom tooth may take only a few minutes, while a surgical removal of an impacted tooth can take **20 to 45 minutes** or longer. Recovery typically takes **a few days to a week**, though complete healing of the gums may take several weeks. Your dentist or oral surgeon will provide specific aftercare instructions to ensure proper healing.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1071750):
+Original:     why is pete rose banned from hall of fame
+Reformulated: why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hall of fame why is pete rose banned from hal...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Pete Rose, one of baseball's all-time greatest players, is banned from the Hall of Fame due to his lifetime ban from Major League Baseball (MLB) for betting on games while he was a player and manager. In 1989, an MLB investigation concluded that Rose had placed bets on baseball, including on games involving his own team, the Cincinnati Reds, while he was managing them. This violated MLB's strict rules against gambling, which are in place to maintain the integrity of the sport. Despite his outstanding career achievements, including holding the record for most career hits (4,256), Rose remains ineligible for Hall of Fame", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 67316):
+Original:     can fever cause miscarriage early pregnancy
+Reformulated: can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarriage early pregnancy can fever cause miscarri...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "High fever during early pregnancy can potentially increase the risk of miscarriage. A persistent fever over 102°F (38.9°C) may be concerning, as it can disrupt fetal development. Some infections that cause high fevers, such as influenza or bacterial infections, have been linked to pregnancy complications. If you develop a fever while pregnant, it's important to consult a healthcare provider for safe treatment options, including fever-reducing medications like acetaminophen (Tylenol), and to address the underlying cause. Staying hydrated and resting can also help manage symptoms. Always seek medical advice to ensure the health of both you and your baby", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 169208):
+Original:     does mississippi have an income tax
+Reformulated: does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax does mississippi have an income tax Yes, Mississippi has...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Yes, Mississippi has a state income tax. The tax rates vary based on income levels, with a progressive structure ranging from 3% to 5%. Additionally, Mississippi taxes dividends and interest income at a flat rate. However, Social Security benefits and some retirement income are exempt from state taxes. For the most up-to-date rates and details, check the Mississippi Department of Revenue website.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 938400):
+Original:     when did family feud come out?
+Reformulated: when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? when did family feud come out? "Family Feud" first premiered on July 12, 197...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': '"Family Feud" first premiered on July 12, 1976, on ABC in the United States. The original version was hosted by Richard Dawson and became a popular game show where families competed to guess the most common survey answers. Over the years, the show has had multiple revivals and hosts, including Steve Harvey, who has been hosting the current version since 2010. The show\'s format and success have made it a long-running staple in American television.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1108651):
+Original:     what the best way to get clothes white
+Reformulated: what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white what the best way to get clothes white The b...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The best way to get clothes white depends on the fabric and the type of stains. Here are some effective methods:  \n\n1. **Use bleach** – For white cotton or linen, chlorine or oxygen bleach can brighten fabrics by removing discoloration. Always follow care labels.  \n2. **Baking soda and vinegar** – Soak clothes in a mixture of baking soda and water before washing, then add white vinegar during the rinse cycle for extra whitening.  \n3. **Lemon juice and sunlight** – Soak stained whites in a solution of lemon juice and water, then dry them in direct sunlight for a natural bleaching effect', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 1037496):
+Original:     who is rep scalise?
+Reformulated: who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? who is rep scalise? Steve Scalise is the U.S. Representative for Louisiana's 1st congressional district. A member of the...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Steve Scalise is the U.S. Representative for Louisiana's 1st congressional district. A member of the Republican Party, he has served in Congress since 2008. Scalise has held leadership positions, including House Majority Whip and House Minority Whip. Known for his conservative views, he has been a prominent figure in Republican politics, advocating for policies such as tax cuts and deregulation. Scalise survived a shooting in 2017 during a congressional baseball practice but has since continued his role in government.", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 1064670):
+Original:     why do hunters pattern their shotguns?
+Reformulated: why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? why do hunters pattern their shotguns? Hunte...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Hunters pattern their shotguns to ensure accuracy and effectiveness when shooting at game. Patterning involves firing at a target to see how the shot pellets spread at a given distance. This helps hunters determine the best choke and ammunition combination for their specific needs, ensuring a clean and ethical kill. By understanding the spread pattern, hunters can adjust their aim and equipment to maximize their chances of hitting the target effectively while minimizing unnecessary suffering for the animal.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

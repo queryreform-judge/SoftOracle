@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 44):
+Original:     How much impact do masks have on preventing the spread of the COVID-19?
+Reformulated: How much impact do masks have on preventing the spread of the COVID-19? How much impact do masks have on preventing the spread of the COVID-19? How much impact do masks have on preventing the spread o...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Impact of Masks on Preventing the Spread of COVID-19\n\nMasks play a significant role in reducing the spread of the COVID-19 virus. Wearing masks can help prevent respiratory droplets from traveling into the air and onto other people when the wearer talks, coughs, or sneezes. This is particularly important as it helps to minimize the transmission of SARS-CoV-2, the virus that causes COVID-19. Studies have shown that masks, especially when worn correctly and consistently, can reduce the risk of infection by anywhere from 40% to over 80%. Masks work most effectively when', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 45):
+Original:     How has the COVID-19 pandemic impacted mental health?
+Reformulated: How has the COVID-19 pandemic impacted mental health? How has the COVID-19 pandemic impacted mental health? How has the COVID-19 pandemic impacted mental health? How has the COVID-19 pandemic impacted...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The COVID-19 pandemic has significantly impacted mental health globally. Lockdowns, social distancing measures, and economic uncertainties have contributed to increased levels of stress, anxiety, and depression. The isolation and reduced social interaction have exacerbated feelings of loneliness and disconnection, particularly among vulnerable populations such as the elderly and those with pre-existing mental health conditions. Additionally, the uncertainty surrounding the virus and its effects have led to heightened worry and fear, further straining mental well-being. Mental health professionals report a rise in demand for services, with many individuals seeking support for symptoms related to anxiety, depression, and other mental health disorders. The pandemic has also', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 46):
+Original:     what evidence is there for dexamethasone as a treatment for COVID-19?
+Reformulated: what evidence is there for dexamethasone as a treatment for COVID-19? what evidence is there for dexamethasone as a treatment for COVID-19? what evidence is there for dexamethasone as a treatment for ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Passage: Clinical Evidence. Dexamethasone has shown significant potential as a treatment for COVID-19 based on clinical trial results. The RECOVERY (Randomised Evaluation of COVid-19 theraPy) trial, a large-scale randomized controlled trial involving multiple hospitals in the United Kingdom, provided substantial evidence. The study found that dexamethasone reduced the risk of death by one-third among hospitalized patients who were receiving mechanical ventilation and by one-fifth among those receiving oxygen alone. This evidence suggests that dexamethasone can improve outcomes for severely ill patients with COVID-19, making it a', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 47):
+Original:     what are the health outcomes for children who contract COVID-19?
+Reformulated: what are the health outcomes for children who contract COVID-19? what are the health outcomes for children who contract COVID-19? what are the health outcomes for children who contract COVID-19? what ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The health outcomes for children who contract COVID-19 generally tend to be less severe compared to adults, although the virus can still pose significant risks. Most children infected with SARS-CoV-2 experience mild symptoms or no symptoms at all, similar to the common cold. However, a small percentage of children may develop severe complications, including:\n\n1. **Multisystem Inflammatory Syndrome in Children (MIS-C)**: This is a rare but serious condition where different parts of the body become inflamed, often weeks after the initial infection. Symptoms can include fever, rash, abdominal pain, vomiting, diarrhea, neck pain, blood', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 48):
+Original:     what are the benefits and risks of re-opening schools in the midst of the COVID-19 pandemic?
+Reformulated: what are the benefits and risks of re-opening schools in the midst of the COVID-19 pandemic? what are the benefits and risks of re-opening schools in the midst of the COVID-19 pandemic? what are the b...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'The decision to reopen schools during the COVID-19 pandemic comes with both benefits and risks. Benefits include the continuation of education for students, socialization opportunities, and reduced academic and psychological stress due to a structured environment. Reopening also allows students to engage in extracurricular activities and supports the mental well-being of children by providing a sense of normalcy.\n\nHowever, risks include the potential for increased transmission of the virus among students, staff, and their families. This could lead to higher rates of infection and the need for school closures or partial reopenings, disrupting learning schedules. Additionally, reopening schools may place a strain on healthcare resources', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 49):
+Original:     do individuals who recover from COVID-19 show sufficient immune response, including antibody levels and T-cell mediated immunity, to prevent re-infection?
+Reformulated: do individuals who recover from COVID-19 show sufficient immune response, including antibody levels and T-cell mediated immunity, to prevent re-infection? do individuals who recover from COVID-19 show...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Recent studies indicate that individuals who have recovered from COVID-19 typically develop a robust immune response, which includes both antibodies and T-cell mediated immunity. This immune response can help prevent re-infection with the virus. However, the duration and strength of this protection can vary among individuals. Some research suggests that the level of antibodies and T-cells may wane over time, leading to a decrease in protective immunity. Nonetheless, even after the levels of detectable antibodies decrease, T-cells remain present and can provide lasting protection. Therefore, while vaccinated individuals still receive the most reliable protection against reinfection, natural immunity following recovery from COVID-', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 50):
+Original:     what is known about an mRNA vaccine for the SARS-CoV-2 virus?
+Reformulated: what is known about an mRNA vaccine for the SARS-CoV-2 virus? what is known about an mRNA vaccine for the SARS-CoV-2 virus? what is known about an mRNA vaccine for the SARS-CoV-2 virus? what is known ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "The mRNA vaccine for the SARS-CoV-2 virus, also known as the coronavirus that causes COVID-19, utilizes messenger RNA (mRNA) to teach cells in the body how to make a protein that triggers an immune response. This type of vaccine does not contain the live virus, making it safe for individuals who may have weakened immune systems. Here are some key points about mRNA vaccines for SARS-CoV-2:\n\n1. **Mechanism of Action**: The vaccine introduces a small piece of the SARS-CoV-2's genetic material (mRNA) into human cells. This mRNA contains instructions for making a", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 10):
+Original:     has social distancing had an impact on slowing the spread of COVID-19?
+Reformulated: has social distancing had an impact on slowing the spread of COVID-19? has social distancing had an impact on slowing the spread of COVID-19? has social distancing had an impact on slowing the spread ...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Social Distancing and Its Impact on Slowing the Spread of COVID-19. Evidence strongly supports that social distancing measures have played a crucial role in slowing the spread of COVID-19. By maintaining physical distance from others, individuals reduce the likelihood of transmitting or contracting the virus through respiratory droplets. Studies and epidemiological data show that these measures, including staying at home, avoiding large gatherings, and maintaining a safe distance from others when outside, significantly lower the infection rate and hospitalization numbers. This has been particularly effective in regions where such measures were implemented early and consistently. However, it's important to note that while social distancing helps", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 11):
+Original:     what are the guidelines for triaging patients infected with coronavirus?
+Reformulated: what are the guidelines for triaging patients infected with coronavirus? what are the guidelines for triaging patients infected with coronavirus? what are the guidelines for triaging patients infected...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': "Guidelines for Triage of Patients Infected with Coronavirus:\n\nEffective triage of patients infected with the coronavirus is crucial for managing healthcare resources and ensuring the best possible outcomes for all patients. The following guidelines provide a structured approach to triage based on current knowledge and practices. These guidelines may evolve as new information becomes available and should be followed in conjunction with local and national health authority recommendations.\n\n1. **Initial Assessment**: Quickly assess the patient's clinical status, including respiratory rate, oxygen saturation, temperature, and level of consciousness. Use validated screening tools if available.\n\n2. **Symptom Evaluation**: Evaluate the severity of symptoms such as cough,", 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 12):
+Original:     what are best practices in hospitals and at home in maintaining quarantine?
+Reformulated: what are best practices in hospitals and at home in maintaining quarantine? what are best practices in hospitals and at home in maintaining quarantine? what are best practices in hospitals and at home...
+Metadata:     {'mode': 'fs', 'prompt_id': 'query2doc.fewshot.v1', 'num_examples': 4, 'pseudo_doc': 'Maintaining effective quarantine is crucial for preventing the spread of infectious diseases, whether in hospitals or at home. Here are some best practices to consider:\n\nIn Hospitals:\n1. **Isolation Protocols**: Follow strict isolation procedures based on the nature of the infection, such as contact, droplet, or airborne precautions.\n2. **Personal Protective Equipment (PPE)**: Ensure healthcare workers use appropriate PPE, including masks, gloves, gowns, and goggles, when caring for quarantined patients.\n3. **Hand Hygiene**: Regularly perform hand hygiene, using either soap and water or an alcohol-based hand sanitizer.\n4.', 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: QALD2_te-67):
+Original:     Who are the parents of the wife of Juan Carlos I?
+Reformulated: Who are the parents of the wife of Juan Carlos I? Juan Carlos I, wife, parents Juan Carlos I, wife, parents Juan Carlos I, wife, parents Juan Carlos I, wife, parents, royal family, Spain Juan Carlos I...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Juan Carlos I, wife, parents', 'Juan Carlos I, wife, parents', 'Juan Carlos I, wife, parents', 'Juan Carlos I, wife, parents, royal family, Spain', 'Juan Carlos I, wife, parents, monarch, Spain']}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: QALD2_te-60):
+Original:     Give me a list of all lakes in Denmark.
+Reformulated: Give me a list of all lakes in Denmark. lakes,Denmark,geography,water bodies,hydrology lakes, Denmark, list lakes, Denmark, geographical, locations, water bodies lakes,Denmark,geography,water bodies,p...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['lakes,Denmark,geography,water bodies,hydrology', 'lakes, Denmark, list', 'lakes, Denmark, geographical, locations, water bodies', 'lakes,Denmark,geography,water bodies,political region,natural features', 'lakes, Denmark, geographical, locations, water bodies']}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: QALD2_te-63):
+Original:     Give me all Argentine films.
+Reformulated: Give me all Argentine films. Argentine,movies,films,cinema,cinematography,peliculas,spanish Argentine, films, movies, cinema, Spanish, South America Argentine, films, movies, cinema, Spanish, South Am...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Argentine,movies,films,cinema,cinematography,peliculas,spanish', 'Argentine, films, movies, cinema, Spanish, South America', 'Argentine, films, movies, cinema, Spanish, South America', 'Argentine, films, movies, cinema, Spanish, South America', 'Argentine, films, movies, cinema, Spanish, South America']}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: QALD2_te-64):
+Original:     Give me all launch pads operated by NASA.
+Reformulated: Give me all launch pads operated by NASA. NASA, launch pads, space center, Kennedy, Vandenberg, SpaceX, Falcon, Saturn V NASA, launch pads, space center, Kennedy, Vandenberg, SpaceX, Falcon, Atlas NAS...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['NASA, launch pads, space center, Kennedy, Vandenberg, SpaceX, Falcon, Saturn V', 'NASA, launch pads, space center, Kennedy, Vandenberg, SpaceX, Falcon, Atlas', 'NASA, launch pads, space center, Kennedy Space Center, Cape Canaveral, SpaceX, commercial launches', 'NASA, launch pads, space centers, rocket sites, Kennedy Space Center, Vandenberg Space Launch Complex, SpaceX, commercial launches, historical launches', 'NASA, launch pads, spaceflight, Kennedy Space Center, SpaceX, Falcon, Saturn V, Shuttle']}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: QALD2_te-65):
+Original:     Which instruments did John Lennon play?
+Reformulated: Which instruments did John Lennon play? John Lennon, instruments, Beatles, music, guitar, piano John Lennon, instruments, Beatles, music, guitar, piano John Lennon, instruments, Beatles, music, guitar...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['John Lennon, instruments, Beatles, music, guitar, piano', 'John Lennon, instruments, Beatles, music, guitar, piano', 'John Lennon, instruments, Beatles, music, guitar, piano', 'John Lennon, instruments, music, Beatles', 'John Lennon, instruments, Beatles, music, guitar, bass, piano']}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: QALD2_te-66):
+Original:     Which ships were called after Benjamin Franklin?
+Reformulated: Which ships were called after Benjamin Franklin? Benjamin Franklin, ships, history, naval, naming, American Benjamin Franklin, ships, names, historical, naval, voyages Benjamin Franklin, ships, names,...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Benjamin Franklin, ships, history, naval, naming, American', 'Benjamin Franklin, ships, names, historical, naval, voyages', 'Benjamin Franklin, ships, names, history, American Revolution, scientist', 'Benjamin Franklin, ships, history,命名, 美国船只', 'Benjamin Franklin, ships, history, navy, naming, American Revolution, inventions']}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: SemSearch_LS-1):
+Original:     Apollo astronauts who walked on the Moon
+Reformulated: Apollo astronauts who walked on the Moon Apollo program,Moon landing,Astronaut,space exploration,1960s Apollo program,Moon landing,Astronauts,moonwalk,NASA Apollo, astronauts, Moon, walking, lunar Apo...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Apollo program,Moon landing,Astronaut,space exploration,1960s', 'Apollo program,Moon landing,Astronauts,moonwalk,NASA', 'Apollo, astronauts, Moon, walking, lunar', 'Apollo program,Moon landing,Astronaut,space exploration,1960s,nasa', 'Apollo program, Moon landing, astronauts, NASA']}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: SemSearch_ES-97):
+Original:     PINK PANTHER 2
+Reformulated: PINK PANTHER 2 PINK,PANTHER,2,FILM,MOTION,PICTURE,CINEMA,ANIMATED,ACTION,COMEDY,ROGER,MACGOWAN PINK,PANTHER,TWO,MOTION,P picture,ANIMATED,CARTOON,CLUE,FILM,ROGER,RUSSELL,MOVIENIGHT PINK,PANTHER,MOVIE,...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['PINK,PANTHER,2,FILM,MOTION,PICTURE,CINEMA,ANIMATED,ACTION,COMEDY,ROGER,MACGOWAN', 'PINK,PANTHER,TWO,MOTION,P picture,ANIMATED,CARTOON,CLUE,FILM,ROGER,RUSSELL,MOVIENIGHT', 'PINK,PANTHER,MOVIE,2,THEME,SONG,CRIMINAL,GARRY,MILLER', 'PINK,PANTHER,MOVIE,2,FILM,CINEMA,MOTION,PICS,PICTURES', 'PINK,PANTHER,TWO,FILM,MOVIE,COMEDY,ANIMATED,CARTOON,STEAL,GEM,CAROLYN,CHARACTERS,LION,ROGER,SOLVING,MYSTERY']}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: SemSearch_LS-2):
+Original:     Arab states of the Persian Gulf
+Reformulated: Arab states of the Persian Gulf Arabian Peninsula, Gulf Cooperation Council, Middle East, Oman, Qatar, Bahrain, United Arab Emirates, Saudi Arabia, Kuwait, Iran, Strait of Hormuz, oil, culture, econom...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['Arabian Peninsula, Gulf Cooperation Council, Middle East, Oman, Qatar, Bahrain, United Arab Emirates, Saudi Arabia, Kuwait, Iran, Strait of Hormuz, oil, culture, economy, geography', 'Arabian Peninsula, Gulf Cooperation Council, Qatar, Saudi Arabia, United Arab Emirates, Oman, Bahrain, Kuwait, Middle East, Persian Gulf region, Islam, oil, culture, economy', 'Arabian Peninsula, Persian Gulf, Gulf states, Middle East, Qatar, Bahrain, Saudi Arabia, United Arab Emirates, Oman, Kuwait', 'Arabian Peninsula, Gulf Cooperation Council, Middle East, Qatar, Saudi Arabia, United Arab Emirates, Bahrain, Kuwait, Oman, Persian Gulf, Islamic countries, oil-rich nations', 'Arabian Peninsula, Persian Gulf countries, Gulf Cooperation Council, Oman, Qatar, Bahrain, Kuwait, United Arab Emirates, Saudi Arabia, Yemen, Middle East, Islam, Economy, Geography, Oil, Culture, History']}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: SemSearch_ES-96):
+Original:     New England Coffee
+Reformulated: New England Coffee New England, coffee, roast, bean, local, specialty, blend, brew, artisan, farmer new England, coffee, roast, beans, brewing, shops, region, flavors NewEngland,Coffee,Espresso,Bean,D...
+Metadata:     {'mode': 'keywords', 'prompt_id': 'genqr.keywords.v1', 'n_generations': 5, 'reformulations': ['New England, coffee, roast, bean, local, specialty, blend, brew, artisan, farmer', 'new England, coffee, roast, beans, brewing, shops, region, flavors', 'NewEngland,Coffee,Espresso,Bean,Drip,Brew,Blends, roast, Sip, Mugs, Savor, Flavor, Drinks, Brewed', 'new,england,coffee,roasted,beans,local,brewing,tasting,shops,specialty,blend', 'NewEngland,Coffee,roastedbeans,espresso,dark roast,blend,bean,specialty,local,brewing,taste,origin,焙烤,咖啡豆,美式咖啡,浓咖啡']}
+
+--------------------------------------------------------------------------------
+

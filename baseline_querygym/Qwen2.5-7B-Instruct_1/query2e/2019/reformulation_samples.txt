@@ -1,0 +1,73 @@
+Sample Reformulations
+================================================================================
+
+Query 1 (QID: 264014):
+Original:     how long is life cycle of flea
+Reformulated: how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea how long is life cycle of flea Certainly! Here is a list of keywords related...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the query "how long is the life cycle of a flea"', 'Flea lifecycle', 'Flea life stages', 'Flea development', 'Flea egg', 'Flea larva', 'Flea pupa', 'Flea adult', 'Flea lifespan', 'Flea generations', 'Flea reproduction', 'Flea duration', 'Flea metamorphosis', 'Flea biology', 'Flea survival', 'Flea habitat', 'Fle'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 2 (QID: 104861):
+Original:     cost of interior concrete flooring
+Reformulated: cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring cost of interior concrete flooring Certainly! Here is a list...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the cost of interior concrete flooring', 'Concrete flooring cost', 'Interior concrete slab installation', 'Concrete floor pricing', 'Commercial concrete flooring cost', 'Residential concrete flooring costs', 'Concrete floor finish cost', 'Epoxy concrete flooring price', 'Concrete polished floor cost', 'Self-leveling concrete flooring cost', 'Concrete overlay pricing', 'Sealant application cost for concrete floors', 'Concrete flooring labor cost', 'Concrete slab preparation cost', 'Concrete crack repair cost', 'Concrete'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 3 (QID: 130510):
+Original:     definition declaratory judgment
+Reformulated: definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment definition declaratory judgment Here is a list of keywords related to th...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the query "definition declaratory judgment"', 'Declaratory Judgment', 'Legal Definition', 'Jurisdiction', 'Rights and Obligations', 'Court Ruling', 'Judicial Interpretation', 'Dispute Resolution', 'Civil Law', 'Legal Doctrine', 'Rights Confirmation', 'Statutory Interpretation', 'Legal Precedent', 'Legal Doctrine', 'Public Policy', 'Private Rights', 'Judicial Review', 'Certainty in Law', 'Legal Cert'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 4 (QID: 1114819):
+Original:     what is durable medical equipment consist of
+Reformulated: what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medical equipment consist of what is durable medi...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Sure! Here\'s a list of keywords related to "what is durable medical equipment consist of"', 'Medical equipment', 'Durable goods', 'Healthcare supplies', 'Hospitally used items', 'Long-term use', 'Patient care', 'Oxygen concentrators', 'Hospital beds', 'Walker canes', 'Wheelchairs', 'Nebulizers', 'Infusion pumps', 'Diagnostic machines', 'Ultrasound devices', 'X-ray machines', 'Respiratory therapy equipment', 'Surgical instruments'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 5 (QID: 1110199):
+Original:     what is wifi vs bluetooth
+Reformulated: what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth what is wifi vs bluetooth Sure here's a list of keywords related to the query "what is WiFi vs B...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Sure', 'here\'s a list of keywords related to the query "what is WiFi vs Bluetooth"', 'Wireless technology', 'WiFi', 'Bluetooth', 'Connectivity', 'Internet connection', 'Short-range communication', 'Device pairing', 'Range', 'Speed', 'Power consumption', 'Interference', 'Security', 'Compatibility', 'Applications', 'Transmission protocols', 'Bandwidth', 'Frequency', 'Mobile devices'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 6 (QID: 1129237):
+Original:     hydrogen is a liquid below what temperature
+Reformulated: hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid below what temperature hydrogen is a liquid bel...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here\'s a list of keywords related to the query "hydrogen is a liquid below what temperature"', 'Hydrogen', 'Liquid state', 'Temperature', 'Phase transition', 'Boiling point', 'Cryogenic', 'Condensation', 'Critical temperature', 'Gas-to-liquid', 'Refrigeration', 'Absolute zero', 'Vapor pressure', 'Thermodynamics', 'Cryogenics', 'Liquid hydrogen storage', 'Temperature threshold', 'Physical properties', 'Phase diagram'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 7 (QID: 573724):
+Original:     what are the social determinants of health
+Reformulated: what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determinants of health what are the social determin...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here is a list of keywords related to the social determinants of health', 'Socioeconomic status', 'Education', 'Employment', 'Housing', 'Healthcare access', 'Food security', 'Environmental conditions', 'Social support networks', 'Community safety', 'Transportation', 'Discrimination', 'Social isolation', 'Income inequality', 'Poverty', 'Racism', 'Violence', 'Urbanization', 'Migration', 'Cultural factors'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 8 (QID: 1121709):
+Original:     what are the three percenters?
+Reformulated: what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? what are the three percenters? Sure here are some keywords related to the te...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Sure', 'here are some keywords related to the term "three percenters"', 'Three Percenters', 'Militia movement', 'Self-defense groups', 'Second Amendment', 'Armed citizens', 'Sovereign citizens', 'Constitutional Carry', 'Gun rights', 'Local law enforcement', 'Federal government', 'Anti-federalist views', 'Rural America', 'Survivalism', 'Preparedness', 'Independence movements', 'Right-wing extremism', 'Informal organizations', 'Political activism'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 9 (QID: 489204):
+Original:     right pelvic pain causes
+Reformulated: right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes right pelvic pain causes Certainly! Here's a list of keywords related to "right pelvic pain causes" ...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Certainly! Here\'s a list of keywords related to "right pelvic pain causes"', 'Appendicitis', 'Ovarian cysts', 'Ectopic pregnancy', 'Urinary tract infection (UTI)', 'Kidney stones', 'Diverticulitis', 'Constipation', 'Pelvic inflammatory disease (PID)', 'Endometriosis', 'Muscle strain', 'Hip issues', 'Ovarian cancer', 'Inguinal hernia', 'Nerve compression', 'Bladder inflammation'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+
+Query 10 (QID: 131843):
+Original:     definition of a sigmet
+Reformulated: definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet definition of a sigmet Here is a list of keywords related to the definition of a SIGMET SIGMET Meteorologica...
+Metadata:     {'mode': 'zs', 'prompt_id': 'q2e.zs.v1', 'keywords': ['Here is a list of keywords related to the definition of a SIGMET', 'SIGMET', 'Meteorological warning', 'Aviation weather', 'Severe weather', 'Significant meteorological information', 'Aircraft safety', 'Thunderstorms', 'Tornadoes', 'Volcanic ash', 'Wind shear', 'Turbulence', 'Icing conditions', 'Visibility reduction', 'Weather forecast', 'Meteorology', 'Aeronautical weather service', 'Flight safety', 'Weather advisory'], 'temperature': 1.0, 'max_tokens': 128}
+
+--------------------------------------------------------------------------------
+

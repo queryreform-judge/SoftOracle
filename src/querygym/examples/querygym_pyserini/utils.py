@@ -1,0 +1,403 @@
+#!/usr/bin/env python3
+"""
+Shared utilities for QueryGym + Pyserini pipeline.
+
+This module provides common functions for:
+- Loading dataset registry
+- Loading Pyserini topics and qrels
+- Setting up logging
+- Creating output directories
+"""
+
+import yaml
+import logging
+from pathlib import Path
+from typing import Dict, List, Any, Optional
+from datetime import datetime
+
+
+def load_dataset_registry(registry_path: str = "dataset_registry.yaml") -> Dict[str, Any]:
+    """
+    Load the dataset registry YAML file.
+    
+    Args:
+        registry_path: Path to dataset_registry.yaml (default: project root)
+        
+    Returns:
+        Dictionary containing the registry configuration
+        
+    Example:
+        >>> registry = load_dataset_registry()
+        >>> datasets = registry['datasets']
+    """
+    registry_file = Path(registry_path)
+    
+    if not registry_file.exists():
+        raise FileNotFoundError(
+            f"Dataset registry not found: {registry_path}\n"
+            f"Expected location: {registry_file.absolute()}"
+        )
+    
+    with open(registry_file, 'r') as f:
+        registry = yaml.safe_load(f)
+    
+    return registry
+
+
+def get_dataset_config(dataset_name: str, registry_path: str = "dataset_registry.yaml") -> Dict[str, Any]:
+    """
+    Get configuration for a specific dataset.
+    
+    Args:
+        dataset_name: Name of the dataset (e.g., "msmarco-v1-passage.trecdl2019")
+        registry_path: Path to dataset_registry.yaml
+        
+    Returns:
+        Dictionary containing dataset configuration
+        
+    Raises:
+        ValueError: If dataset not found in registry
+        
+    Example:
+        >>> config = get_dataset_config("msmarco-v1-passage.trecdl2019")
+        >>> print(config['index']['name'])  # "msmarco-v1-passage"
+    """
+    registry = load_dataset_registry(registry_path)
+    datasets = registry.get('datasets', {})
+    
+    if dataset_name not in datasets:
+        available = list(datasets.keys())
+        raise ValueError(
+            f"Dataset '{dataset_name}' not found in registry.\n"
+            f"Available datasets: {available[:5]}... ({len(available)} total)"
+        )
+    
+    return datasets[dataset_name]
+
+
+def load_pyserini_topics(topic_name_or_path: str) -> Dict[str, Dict[str, str]]:
+    """
+    Load topics using Pyserini's get_topics function or from a TSV file.
+    
+    Args:
+        topic_name_or_path: Pyserini topic name (e.g., "dl19-passage") or path to TSV file (qid\\tquery_text)
+        
+    Returns:
+        Dictionary mapping topic IDs to topic dicts with 'title' key
+        
+    Example:
+        >>> topics = load_pyserini_topics("dl19-passage")
+        >>> print(topics[264014]['title'])  # "how long is life cycle of flea"
+        >>> topics = load_pyserini_topics("/path/to/queries.tsv")
+    """
+    topic_path = Path(topic_name_or_path)
+    
+    # Check if it's a file path
+    if topic_path.exists() and topic_path.is_file():
+        logging.info(f"Loading topics from file: {topic_path}")
+        topics = {}
+        try:
+            with open(topic_path, 'r', encoding='utf-8') as f:
+                for line in f:
+                    line = line.strip()
+                    if not line:
+                        continue
+                    parts = line.split('\t')
+                    if len(parts) >= 2:
+                        qid = str(parts[0].strip())
+                        query_text = parts[1].strip()
+                        if qid and query_text:
+                            topics[qid] = {'title': query_text}
+                    elif len(parts) == 1:
+                        # Handle case where there's only one column (just qid)
+                        qid = str(parts[0].strip())
+                        if qid:
+                            topics[qid] = {'title': ''}
+            logging.info(f"Loaded {len(topics)} topics from file")
+        except Exception as e:
+            raise ValueError(f"Error loading topics from file {topic_path}: {e}")
+        return topics
+    
+    # Otherwise, try Pyserini
+    try:
+        from pyserini.search import get_topics
+    except ImportError:
+        raise ImportError(
+            "Pyserini is required for loading topics. Install with: pip install pyserini"
+        )
+    
+    logging.info(f"Loading Pyserini topics: {topic_name_or_path}")
+    topics = get_topics(topic_name_or_path)
+    logging.info(f"Loaded {len(topics)} topics")
+    
+    return topics
+
+
+def load_pyserini_qrels(qrels_name_or_path: str) -> Dict[str, Dict[str, int]]:
+    """
+    Load qrels using Pyserini's get_qrels function or from a TREC qrels file.
+    
+    Args:
+        qrels_name_or_path: Pyserini qrels name (e.g., "dl19-passage") or path to TREC qrels file
+        
+    Returns:
+        Dictionary mapping qid -> {docid -> relevance}
+        
+    Example:
+        >>> qrels = load_pyserini_qrels("dl19-passage")
+        >>> print(qrels['264014']['7067032'])  # relevance score
+        >>> qrels = load_pyserini_qrels("/path/to/qrels.trec")
+    """
+    qrels_path = Path(qrels_name_or_path)
+    
+    # Check if it's a file path
+    if qrels_path.exists() and qrels_path.is_file():
+        logging.info(f"Loading qrels from file: {qrels_path}")
+        qrels = {}
+        try:
+            with open(qrels_path, 'r', encoding='utf-8') as f:
+                for line in f:
+                    line = line.strip()
+                    if not line:
+                        continue
+                    # TREC format: qid Q0 docid rank score run_name
+                    # or: qid 0 docid relevance
+                    parts = line.split()
+                    if len(parts) >= 4:
+                        qid = str(parts[0].strip())
+                        docid = str(parts[2].strip())
+                        # Relevance is typically the 3rd or 4th field
+                        # Try to parse as int, fallback to last field
+                        relevance = 0
+                        for part in parts[3:]:
+                            try:
+                                relevance = int(part)
+                                break
+                            except ValueError:
+                                continue
+                        
+                        if qid not in qrels:
+                            qrels[qid] = {}
+                        qrels[qid][docid] = relevance
+            
+            # Count total relevance judgments
+            total_judgments = sum(len(docs) for docs in qrels.values())
+            logging.info(f"Loaded qrels for {len(qrels)} queries ({total_judgments} judgments) from file")
+        except Exception as e:
+            raise ValueError(f"Error loading qrels from file {qrels_path}: {e}")
+        return qrels
+    
+    # Otherwise, try Pyserini
+    try:
+        from pyserini.search import get_qrels
+    except ImportError:
+        raise ImportError(
+            "Pyserini is required for loading qrels. Install with: pip install pyserini"
+        )
+    
+    logging.info(f"Loading Pyserini qrels: {qrels_name_or_path}")
+    qrels = get_qrels(qrels_name_or_path)
+    
+    # Count total relevance judgments
+    total_judgments = sum(len(docs) for docs in qrels.values())
+    logging.info(f"Loaded qrels for {len(qrels)} queries ({total_judgments} judgments)")
+    
+    return qrels
+
+
+def setup_logging(
+    log_dir: Optional[Path] = None,
+    log_level: str = "INFO",
+    log_to_file: bool = True
+) -> None:
+    """
+    Configure logging for the pipeline.
+    
+    Args:
+        log_dir: Directory for log files (if None, only logs to console)
+        log_level: Logging level (DEBUG, INFO, WARNING, ERROR, CRITICAL)
+        log_to_file: Whether to write logs to file
+        
+    Example:
+        >>> setup_logging(log_dir=Path("outputs/logs"))
+    """
+    # Create logger
+    logger = logging.getLogger()
+    logger.setLevel(getattr(logging, log_level.upper()))
+    
+    # Clear existing handlers
+    logger.handlers.clear()
+    
+    # Create formatter
+    formatter = logging.Formatter(
+        '%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+        datefmt='%Y-%m-%d %H:%M:%S'
+    )
+    
+    # Console handler
+    console_handler = logging.StreamHandler()
+    console_handler.setLevel(getattr(logging, log_level.upper()))
+    console_handler.setFormatter(formatter)
+    logger.addHandler(console_handler)
+    
+    # File handler (if requested)
+    if log_to_file and log_dir is not None:
+        log_dir.mkdir(parents=True, exist_ok=True)
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        log_file = log_dir / f"pipeline_{timestamp}.log"
+        
+        file_handler = logging.FileHandler(log_file)
+        file_handler.setLevel(logging.DEBUG)  # Always log DEBUG to file
+        file_handler.setFormatter(formatter)
+        logger.addHandler(file_handler)
+        
+        logging.info(f"Logging to file: {log_file}")
+
+
+def create_output_dirs(output_base: Path) -> Dict[str, Path]:
+    """
+    Create standard output directory structure.
+    
+    Args:
+        output_base: Base output directory
+        
+    Returns:
+        Dictionary mapping directory names to Path objects
+        
+    Example:
+        >>> dirs = create_output_dirs(Path("outputs/dl19_genqr"))
+        >>> print(dirs['logs'])  # Path("outputs/dl19_genqr/logs")
+    """
+    output_base = Path(output_base)
+    
+    dirs = {
+        'base': output_base,
+        'logs': output_base / 'logs',
+        'queries': output_base / 'queries',
+        'runs': output_base / 'runs',
+        'eval': output_base / 'eval',
+    }
+    
+    # Create all directories
+    for dir_path in dirs.values():
+        dir_path.mkdir(parents=True, exist_ok=True)
+    
+    logging.info(f"Created output directories in: {output_base}")
+    
+    return dirs
+
+
+def save_config(config: Dict[str, Any], output_path: Path) -> None:
+    """
+    Save configuration to JSON file.
+    
+    Args:
+        config: Configuration dictionary
+        output_path: Path to save JSON file
+        
+    Example:
+        >>> save_config({"method": "genqr", "model": "qwen2.5:7b"}, Path("config.json"))
+    """
+    import json
+    
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    
+    with open(output_path, 'w') as f:
+        json.dump(config, f, indent=2, default=str)
+    
+    logging.info(f"Saved configuration to: {output_path}")
+
+
+def load_config(config_path: Path) -> Dict[str, Any]:
+    """
+    Load configuration from JSON file.
+    
+    Args:
+        config_path: Path to JSON configuration file
+        
+    Returns:
+        Configuration dictionary
+    """
+    import json
+    
+    with open(config_path, 'r') as f:
+        config = json.load(f)
+    
+    return config
+
+
+def format_time(seconds: float) -> str:
+    """
+    Format seconds into human-readable time string.
+    
+    Args:
+        seconds: Time in seconds
+        
+    Returns:
+        Formatted time string
+        
+    Example:
+        >>> format_time(125.5)
+        "2m 5.5s"
+    """
+    if seconds < 60:
+        return f"{seconds:.1f}s"
+    elif seconds < 3600:
+        minutes = int(seconds // 60)
+        secs = seconds % 60
+        return f"{minutes}m {secs:.1f}s"
+    else:
+        hours = int(seconds // 3600)
+        minutes = int((seconds % 3600) // 60)
+        return f"{hours}h {minutes}m"
+
+
+def list_available_datasets(registry_path: str = "dataset_registry.yaml") -> List[str]:
+    """
+    List all available datasets in the registry.
+    
+    Args:
+        registry_path: Path to dataset_registry.yaml
+        
+    Returns:
+        List of dataset names
+    """
+    registry = load_dataset_registry(registry_path)
+    datasets = registry.get('datasets', {})
+    return sorted(datasets.keys())
+
+
+def print_dataset_info(dataset_name: str, registry_path: str = "dataset_registry.yaml") -> None:
+    """
+    Print information about a dataset.
+    
+    Args:
+        dataset_name: Name of the dataset
+        registry_path: Path to dataset_registry.yaml
+    """
+    config = get_dataset_config(dataset_name, registry_path)
+    
+    print(f"\n{'='*60}")
+    print(f"Dataset: {dataset_name}")
+    print(f"{'='*60}")
+    print(f"Name: {config.get('name', 'N/A')}")
+    print(f"Index: {config['index']['name']}")
+    
+    # Handle both 'name' and 'path' for topics
+    if 'path' in config['topics']:
+        print(f"Topics: {config['topics']['path']} (file)")
+    else:
+        print(f"Topics: {config['topics']['name']} (Pyserini)")
+    
+    # Handle both 'name' and 'path' for qrels
+    if 'path' in config['qrels']:
+        print(f"Qrels: {config['qrels']['path']} (file)")
+    else:
+        print(f"Qrels: {config['qrels']['name']} (Pyserini)")
+    
+    print(f"BM25 Parameters:")
+    print(f"  k1: {config['bm25_weights']['k1']}")
+    print(f"  b: {config['bm25_weights']['b']}")
+    print(f"Eval Metrics: {', '.join(config['output']['eval_metrics'])}")
+    print(f"{'='*60}\n")
+

@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  beir-v1.0.0-scifact
+Method:   genqr_ensemble
+Model:    Qwen/Qwen2.5-7B-Instruct
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 39m 29.2s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 39m 14.5s
+  retrieval      : 7.0s
+  evaluation     : 7.8s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  ndcg_cut_10              : 0.7035
+  recall_100               : 0.0000
+  recall_1000              : 0.0000
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/genqr_ensemble/scifact

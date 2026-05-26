@@ -1,0 +1,24 @@
+QueryGym + Pyserini Pipeline Summary
+================================================================================
+
+Dataset:  beir-v1.0.0-trec-covid
+Method:   genqr_ensemble
+Model:    Qwen/Qwen2.5-7B-Instruct
+Steps:    reformulate, retrieve, evaluate
+
+Total Pipeline Time: 7m 5.8s
+
+Step Timings:
+--------------------------------------------------------------------------------
+  reformulation  : 6m 55.6s
+  retrieval      : 2.8s
+  evaluation     : 7.4s
+
+Evaluation Metrics:
+--------------------------------------------------------------------------------
+  ndcg_cut_10              : 0.6780
+  recall_100               : 0.1745
+  recall_1000              : 0.5557
+
+================================================================================
+Output directory: /mnt/data/son/Thesis/t5/baseline_querygym/genqr_ensemble/trec-covid
